@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Monitor - Top Sources</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #e2e8f0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border-radius: 20px;
+            margin-bottom: 40px;
+            border: 1px solid #334155;
+            box-shadow: 0 0 40px rgba(6, 182, 212, 0.1);
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #22d3ee 0%, #3b82f6 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 15px;
+            text-shadow: 0 0 30px rgba(34, 211, 238, 0.3);
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            color: #cbd5e1;
+            margin-top: 10px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            background: rgba(6, 182, 212, 0.1);
+            border: 1px solid #06b6d4;
+            border-radius: 12px;
+            padding: 15px 30px;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #22d3ee;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            color: #94a3b8;
+            margin-top: 5px;
+        }
+
+        .sources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 25px;
+            margin-bottom: 40px;
+        }
+
+        .source-card {
+            background: linear-gradient(135deg, #1e293b 0%, #334155 100%);
+            border: 2px solid #334155;
+            border-radius: 16px;
+            padding: 25px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .source-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #22d3ee, #3b82f6);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+
+        .source-card:hover {
+            transform: translateY(-5px);
+            border-color: #06b6d4;
+            box-shadow: 0 10px 40px rgba(6, 182, 212, 0.3);
+        }
+
+        .source-card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .source-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 20px;
+        }
+
+        .source-info h3 {
+            font-size: 1.4rem;
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+
+        .source-category {
+            display: inline-block;
+            background: rgba(59, 130, 246, 0.2);
+            color: #60a5fa;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            text-transform: capitalize;
+        }
+
+        .rating-badge {
+            font-size: 2rem;
+            font-weight: bold;
+            padding: 12px 20px;
+            border-radius: 50px;
+            min-width: 85px;
+            text-align: center;
+        }
+
+        .rating-high {
+            background: linear-gradient(135deg, #10b981, #059669);
+            color: white;
+            box-shadow: 0 0 20px rgba(16, 185, 129, 0.5);
+        }
+
+        .rating-good {
+            background: linear-gradient(135deg, #06b6d4, #0284c7);
+            color: white;
+            box-shadow: 0 0 20px rgba(6, 182, 212, 0.5);
+        }
+
+        .rating-medium {
+            background: linear-gradient(135deg, #f59e0b, #d97706);
+            color: white;
+            box-shadow: 0 0 20px rgba(245, 158, 11, 0.5);
+        }
+
+        .source-description {
+            color: #cbd5e1;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        .criteria-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .criterion {
+            background: rgba(15, 23, 42, 0.6);
+            border-radius: 8px;
+            padding: 12px;
+        }
+
+        .criterion-label {
+            font-size: 0.8rem;
+            color: #94a3b8;
+            margin-bottom: 6px;
+        }
+
+        .criterion-value {
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #22d3ee;
+        }
+
+        .progress-bar {
+            height: 4px;
+            background: rgba(6, 182, 212, 0.2);
+            border-radius: 2px;
+            overflow: hidden;
+            margin-top: 6px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #22d3ee, #3b82f6);
+            transition: width 0.6s ease;
+        }
+
+        .visit-button {
+            display: block;
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #06b6d4, #0284c7);
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .visit-button:hover {
+            background: linear-gradient(135deg, #22d3ee, #06b6d4);
+            transform: scale(1.02);
+            box-shadow: 0 5px 20px rgba(6, 182, 212, 0.4);
+        }
+
+        .criteria-explanation {
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border: 1px solid #334155;
+            border-radius: 16px;
+            padding: 30px;
+            margin-top: 40px;
+        }
+
+        .criteria-explanation h2 {
+            color: #22d3ee;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+        }
+
+        .criteria-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .criteria-item {
+            background: rgba(6, 182, 212, 0.05);
+            border-left: 3px solid #06b6d4;
+            padding: 15px 20px;
+            border-radius: 8px;
+        }
+
+        .criteria-item h4 {
+            color: #60a5fa;
+            margin-bottom: 8px;
+        }
+
+        .criteria-item p {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        .weight {
+            color: #22d3ee;
+            font-weight: bold;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .sources-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .criteria-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 AI News Monitor</h1>
+            <p class="subtitle">Топ-10 источников новостей искусственного интеллекта</p>
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-value">10</div>
+                    <div class="stat-label">Источников</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">5</div>
+                    <div class="stat-label">Критериев</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">24ч</div>
+                    <div class="stat-label">Мониторинг</div>
+                </div>
+            </div>
+        </header>
+
+        <div class="sources-grid" id="sourcesGrid"></div>
+
+        <div class="criteria-explanation">
+            <h2>📊 Критерии отбора источников</h2>
+            <div class="criteria-list">
+                <div class="criteria-item">
+                    <h4>🏆 Authority Score <span class="weight">(35%)</span></h4>
+                    <p>Репутация издания в индустрии, наличие экспертов и исследователей, цитирование в академических работах</p>
+                </div>
+                <div class="criteria-item">
+                    <h4>⚡ Update Frequency <span class="weight">(20%)</span></h4>
+                    <p>Количество публикаций в неделю, регулярность выхода материалов</p>
+                </div>
+                <div class="criteria-item">
+                    <h4>✨ Content Quality <span class="weight">(25%)</span></h4>
+                    <p>Глубина и техническая точность материалов, наличие первоисточников</p>
+                </div>
+                <div class="criteria-item">
+                    <h4>🎯 Significance <span class="weight">(15%)</span></h4>
+                    <p>Влияние на индустрию, эксклюзивность материалов</p>
+                </div>
+                <div class="criteria-item">
+                    <h4>📡 RSS Availability <span class="weight">(5%)</span></h4>
+                    <p>Наличие RSS feed, полнота данных в feed</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const sources = [
+            {
+                id: 1,
+                name: "MIT Technology Review",
+                url: "https://www.technologyreview.com/topic/artificial-intelligence/",
+                category: "Academic",
+                description: "Ведущее технологическое издание от MIT с глубокими аналитическими материалами",
+                authority: 95,
+                frequency: 80,
+                quality: 95,
+                significance: 90,
+                rss: 100
+            },
+            {
+                id: 2,
+                name: "OpenAI Blog",
+                url: "https://openai.com/blog",
+                category: "Blog",
+                description: "Официальный блог OpenAI - первоисточник информации от лидера индустрии",
+                authority: 95,
+                frequency: 60,
+                quality: 95,
+                significance: 95,
+                rss: 100
+            },
+            {
+                id: 3,
+                name: "Google AI Blog",
+                url: "https://blog.research.google/",
+                category: "Blog",
+                description: "Исследования Google в области искусственного интеллекта",
+                authority: 90,
+                frequency: 70,
+                quality: 90,
+                significance: 85,
+                rss: 100
+            },
+            {
+                id: 4,
+                name: "MIT News AI",
+                url: "https://news.mit.edu/topic/artificial-intelligence2",
+                category: "Academic",
+                description: "Академические исследования и новости из MIT",
+                authority: 90,
+                frequency: 75,
+                quality: 90,
+                significance: 90,
+                rss: 100
+            },
+            {
+                id: 5,
+                name: "DeepMind Blog",
+                url: "https://www.deepmind.com/blog",
+                category: "Blog",
+                description: "Передовые исследования в области искусственного интеллекта от DeepMind",
+                authority: 90,
+                frequency: 50,
+                quality: 90,
+                significance: 85,
+                rss: 0
+            },
+            {
+                id: 6,
+                name: "VentureBeat AI",
+                url: "https://venturebeat.com/category/ai/",
+                category: "News",
+                description: "Новости AI с бизнес-перспективой и анализом рынка",
+                authority: 80,
+                frequency: 90,
+                quality: 75,
+                significance: 70,
+                rss: 100
+            },
+            {
+                id: 7,
+                name: "TechCrunch AI",
+                url: "https://techcrunch.com/category/artificial-intelligence/",
+                category: "News",
+                description: "Покрытие стартапов и новых технологий в AI",
+                authority: 85,
+                frequency: 95,
+                quality: 80,
+                significance: 75,
+                rss: 100
+            },
+            {
+                id: 8,
+                name: "The Verge AI",
+                url: "https://www.theverge.com/ai-artificial-intelligence",
+                category: "News",
+                description: "Качественная технологическая журналистика об AI",
+                authority: 80,
+                frequency: 85,
+                quality: 85,
+                significance: 75,
+                rss: 100
+            },
+            {
+                id: 9,
+                name: "AI News",
+                url: "https://www.artificialintelligence-news.com/",
+                category: "News",
+                description: "Регулярные обновления о событиях в мире AI",
+                authority: 70,
+                frequency: 85,
+                quality: 75,
+                significance: 65,
+                rss: 100
+            },
+            {
+                id: 10,
+                name: "AI Magazine",
+                url: "https://aimagazine.com/",
+                category: "Industry",
+                description: "Индустриальный фокус на AI технологиях и бизнесе",
+                authority: 75,
+                frequency: 80,
+                quality: 75,
+                significance: 70,
+                rss: 0
+            }
+        ];
+
+        function calculateRating(source) {
+            return (
+                source.authority * 0.35 +
+                source.frequency * 0.20 +
+                source.quality * 0.25 +
+                source.significance * 0.15 +
+                source.rss * 0.05
+            ).toFixed(1);
+        }
+
+        function getRatingClass(rating) {
+            if (rating >= 80) return 'rating-high';
+            if (rating >= 60) return 'rating-good';
+            return 'rating-medium';
+        }
+
+        function renderSources() {
+            const grid = document.getElementById('sourcesGrid');
+
+            // Sort by rating
+            const sortedSources = sources
+                .map(s => ({ ...s, rating: calculateRating(s) }))
+                .sort((a, b) => b.rating - a.rating);
+
+            sortedSources.forEach((source, index) => {
+                const card = document.createElement('div');
+                card.className = 'source-card';
+                card.style.animationDelay = `${index * 0.1}s`;
+
+                card.innerHTML = `
+                    <div class="source-header">
+                        <div class="source-info">
+                            <h3>${source.name}</h3>
+                            <span class="source-category">${source.category}</span>
+                        </div>
+                        <div class="rating-badge ${getRatingClass(source.rating)}">
+                            ${source.rating}
+                        </div>
+                    </div>
+
+                    <p class="source-description">${source.description}</p>
+
+                    <div class="criteria-grid">
+                        <div class="criterion">
+                            <div class="criterion-label">Authority</div>
+                            <div class="criterion-value">${source.authority}/100</div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${source.authority}%"></div>
+                            </div>
+                        </div>
+                        <div class="criterion">
+                            <div class="criterion-label">Quality</div>
+                            <div class="criterion-value">${source.quality}/100</div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${source.quality}%"></div>
+                            </div>
+                        </div>
+                        <div class="criterion">
+                            <div class="criterion-label">Updates</div>
+                            <div class="criterion-value">${source.frequency}/100</div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${source.frequency}%"></div>
+                            </div>
+                        </div>
+                        <div class="criterion">
+                            <div class="criterion-label">Impact</div>
+                            <div class="criterion-value">${source.significance}/100</div>
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${source.significance}%"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <a href="${source.url}" target="_blank" class="visit-button">
+                        🔗 Посетить источник
+                    </a>
+                `;
+
+                grid.appendChild(card);
+            });
+        }
+
+        // Render on load
+        renderSources();
+    </script>
+</body>
+</html>
