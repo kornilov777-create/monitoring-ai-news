@@ -39,5 +39,6 @@ tmp/
 *.csv
 *.json
 !config.json
+!data/ai_products.json
 *.db
 *.sqlite
