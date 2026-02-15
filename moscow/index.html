@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOSCOW GUIDE - Лучшие рестораны и события Москвы</title>
+    <meta name="description" content="Топ 100 ресторанов Москвы с рейтингами, категориями и бронированием. Moscow Restaurant Guide by Sprut AI.">
+    <link rel="stylesheet" href="css/moscow.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Rajdhani:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Particle Background -->
+    <canvas id="particleCanvas"></canvas>
+
+    <!-- Header / Navigation -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="#" class="logo" onclick="scrollToTop()">
+                <span class="logo-icon">M</span>
+                <span class="logo-text">Moscow Guide</span>
+            </a>
+            <nav class="main-nav">
+                <a href="#restaurants-section" class="nav-link active" data-section="restaurants">Рестораны</a>
+                <a href="#events-section" class="nav-link" data-section="events">События</a>
+                <a href="#bookings-section" class="nav-link" data-section="bookings">Мои брони</a>
+            </nav>
+            <div class="header-actions">
+                <button class="btn-search-toggle" onclick="toggleSearch()" title="Поиск (/)">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                </button>
+            </div>
+        </div>
+        <div class="search-bar" id="searchBar">
+            <div class="search-bar-inner">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+                <input type="text" id="searchInput" placeholder="Поиск ресторанов, кухни, метро..." oninput="handleSearch(this.value)">
+                <button class="btn-search-clear" onclick="clearSearch()">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-grid"></div>
+        <div class="hero-scanlines"></div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="pulse-dot"></span>
+                Live data
+            </div>
+            <h1 class="hero-title">
+                <span class="gradient-text">Moscow Guide</span>
+                <span class="line2">Рестораны и события будущего</span>
+            </h1>
+            <p class="hero-subtitle">100 отобранных ресторанов с умной категоризацией, рейтингами и мгновенным бронированием</p>
+            <div class="hero-stats">
+                <div class="hero-stat">
+                    <span class="hero-stat-number" id="statRestaurants">100</span>
+                    <span class="hero-stat-label">Ресторанов</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="hero-stat-number" id="statCategories">12</span>
+                    <span class="hero-stat-label">Категорий</span>
+                </div>
+                <div class="hero-stat">
+                    <span class="hero-stat-number" id="statEvents">0</span>
+                    <span class="hero-stat-label">Событий</span>
+                </div>
+            </div>
+            <a href="#restaurants-section" class="hero-cta">
+                Выбрать ресторан
+                <span class="arrow">&rarr;</span>
+            </a>
+        </div>
+    </section>
+
+    <!-- Restaurants Section -->
+    <section id="restaurants-section" class="section">
+        <div class="section-header">
+            <h2 class="section-title">Рестораны</h2>
+            <p class="section-subtitle">Откройте для себя лучшие заведения Москвы</p>
+        </div>
+
+        <div class="filter-bar">
+            <div class="filter-scroll">
+                <button class="filter-chip active" data-category="all" onclick="filterByCategory('all', this)">Все</button>
+                <button class="filter-chip" data-category="romantic" onclick="filterByCategory('romantic', this)">Свидание</button>
+                <button class="filter-chip" data-category="celebration" onclick="filterByCategory('celebration', this)">Праздник</button>
+                <button class="filter-chip" data-category="business" onclick="filterByCategory('business', this)">Бизнес</button>
+                <button class="filter-chip" data-category="family" onclick="filterByCategory('family', this)">Семейный</button>
+                <button class="filter-chip" data-category="rooftop" onclick="filterByCategory('rooftop', this)">Панорама</button>
+                <button class="filter-chip" data-category="author_cuisine" onclick="filterByCategory('author_cuisine', this)">Авторская</button>
+                <button class="filter-chip" data-category="asian" onclick="filterByCategory('asian', this)">Азиатская</button>
+                <button class="filter-chip" data-category="italian" onclick="filterByCategory('italian', this)">Итальянская</button>
+                <button class="filter-chip" data-category="georgian" onclick="filterByCategory('georgian', this)">Грузинская</button>
+                <button class="filter-chip" data-category="seafood" onclick="filterByCategory('seafood', this)">Морепродукты</button>
+                <button class="filter-chip" data-category="bar" onclick="filterByCategory('bar', this)">Бары</button>
+                <button class="filter-chip" data-category="budget" onclick="filterByCategory('budget', this)">Бюджетный</button>
+            </div>
+        </div>
+
+        <div class="price-filter">
+            <button class="price-chip active" data-price="0" onclick="filterByPrice(0, this)">Любой бюджет</button>
+            <button class="price-chip" data-price="1" onclick="filterByPrice(1, this)">$ до 1500</button>
+            <button class="price-chip" data-price="2" onclick="filterByPrice(2, this)">$$ 1500-3000</button>
+            <button class="price-chip" data-price="3" onclick="filterByPrice(3, this)">$$$ 3000-6000</button>
+            <button class="price-chip" data-price="4" onclick="filterByPrice(4, this)">$$$$ 6000+</button>
+        </div>
+
+        <div class="featured-section" id="featuredSection">
+            <h3 class="subsection-title">TOP выбор</h3>
+            <div class="featured-carousel" id="featuredCarousel"></div>
+        </div>
+
+        <div class="restaurant-grid" id="restaurantGrid"></div>
+
+        <div class="loading" id="restaurantsLoading">
+            <div class="spinner"></div>
+            <p>Загружаем рестораны...</p>
+        </div>
+
+        <div class="empty-state" id="restaurantsEmpty" style="display:none;">
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+            <h3>Ничего не найдено</h3>
+            <p>Попробуйте изменить фильтры или поисковый запрос</p>
+        </div>
+    </section>
+
+    <!-- Events Section -->
+    <section id="events-section" class="section" style="display:none;">
+        <div class="section-header">
+            <h2 class="section-title">События Москвы</h2>
+            <p class="section-subtitle">Развлечения, концерты, выставки и фестивали</p>
+        </div>
+        <div class="filter-bar">
+            <div class="filter-scroll">
+                <button class="filter-chip active" data-event-type="all" onclick="filterByEventType('all', this)">Все</button>
+                <button class="filter-chip" data-event-type="concert" onclick="filterByEventType('concert', this)">Концерты</button>
+                <button class="filter-chip" data-event-type="theatre" onclick="filterByEventType('theatre', this)">Театр</button>
+                <button class="filter-chip" data-event-type="exhibition" onclick="filterByEventType('exhibition', this)">Выставки</button>
+                <button class="filter-chip" data-event-type="festival" onclick="filterByEventType('festival', this)">Фестивали</button>
+                <button class="filter-chip" data-event-type="standup" onclick="filterByEventType('standup', this)">Стендап</button>
+                <button class="filter-chip" data-event-type="party" onclick="filterByEventType('party', this)">Вечеринки</button>
+                <button class="filter-chip" data-event-type="sport" onclick="filterByEventType('sport', this)">Спорт</button>
+            </div>
+        </div>
+        <div class="events-grid" id="eventsGrid"></div>
+        <div class="loading" id="eventsLoading">
+            <div class="spinner"></div>
+            <p>Загружаем события...</p>
+        </div>
+        <div class="empty-state" id="eventsEmpty" style="display:none;">
+            <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg>
+            <h3>Событий пока нет</h3>
+            <p>Скоро здесь появятся актуальные события Москвы</p>
+        </div>
+    </section>
+
+    <!-- Bookings Section -->
+    <section id="bookings-section" class="section" style="display:none;">
+        <div class="section-header">
+            <h2 class="section-title">Мои бронирования</h2>
+            <p class="section-subtitle">История ваших бронирований</p>
+        </div>
+        <div class="bookings-list" id="bookingsList">
+            <div class="empty-state">
+                <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg>
+                <h3>Пока нет бронирований</h3>
+                <p>Выберите ресторан и забронируйте столик</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Restaurant Detail Modal -->
+    <div class="modal-overlay" id="restaurantModal" onclick="closeModal(event)">
+        <div class="modal" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeRestaurantModal()">&times;</button>
+            <div class="modal-photo" id="modalPhoto">
+                <div class="modal-rating-badge" id="modalRating"></div>
+            </div>
+            <div class="modal-body">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="modalTitle"></h2>
+                    <div class="modal-meta">
+                        <span class="modal-category" id="modalCategory"></span>
+                        <span class="modal-price" id="modalPrice"></span>
+                        <span class="modal-check" id="modalCheck"></span>
+                    </div>
+                </div>
+                <p class="modal-description" id="modalDescription"></p>
+                <div class="modal-tags" id="modalTags"></div>
+                <div class="modal-info-grid">
+                    <div class="modal-info-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                        <div>
+                            <span class="info-label">Адрес</span>
+                            <span class="info-value" id="modalAddress"></span>
+                        </div>
+                    </div>
+                    <div class="modal-info-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M8 12 A4 4 0 0 0 16 12"/></svg>
+                        <div>
+                            <span class="info-label">Метро</span>
+                            <span class="info-value" id="modalMetro"></span>
+                        </div>
+                    </div>
+                    <div class="modal-info-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                        <div>
+                            <span class="info-label">Телефон</span>
+                            <span class="info-value" id="modalPhone"></span>
+                        </div>
+                    </div>
+                    <div class="modal-info-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                        <div>
+                            <span class="info-label">Время работы</span>
+                            <span class="info-value" id="modalHours"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-features" id="modalFeatures"></div>
+                <div class="modal-cuisine" id="modalCuisine"></div>
+                <div class="modal-actions">
+                    <a href="#" class="btn-action btn-website" id="modalWebsite" target="_blank">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                        Сайт
+                    </a>
+                    <a href="#" class="btn-action btn-call" id="modalCall">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                        Позвонить
+                    </a>
+                    <button class="btn-action btn-book-primary" onclick="showBookingForm()">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg>
+                        Забронировать
+                    </button>
+                </div>
+
+                <div class="booking-form-container" id="bookingFormContainer" style="display:none;">
+                    <h3 class="booking-title">Забронировать столик</h3>
+                    <form id="bookingForm" onsubmit="submitBooking(event)">
+                        <input type="hidden" id="bookingRestaurantId">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>Имя</label>
+                                <input type="text" id="bookingName" placeholder="Ваше имя" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Телефон</label>
+                                <input type="tel" id="bookingPhone" placeholder="+7 (___) ___-__-__" required>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label>Дата</label>
+                                <input type="date" id="bookingDate" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Время</label>
+                                <input type="time" id="bookingTime" value="19:00" required>
+                            </div>
+                            <div class="form-group">
+                                <label>Гости</label>
+                                <select id="bookingGuests">
+                                    <option value="1">1</option>
+                                    <option value="2" selected>2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8+</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label>Email (необязательно)</label>
+                            <input type="email" id="bookingEmail" placeholder="email@example.com">
+                        </div>
+                        <div class="form-group">
+                            <label>Пожелания</label>
+                            <textarea id="bookingRequests" placeholder="Особые пожелания, аллергии, повод..." rows="3"></textarea>
+                        </div>
+                        <button type="submit" class="btn-submit" id="bookingSubmitBtn">Отправить бронь</button>
+                    </form>
+                </div>
+
+                <div class="booking-success" id="bookingSuccess" style="display:none;">
+                    <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="#00ff88" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+                    <h3>Бронирование сохранено!</h3>
+                    <p>Заявка сохранена в ваших бронированиях</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Event Detail Modal -->
+    <div class="modal-overlay" id="eventModal" onclick="closeModal(event)">
+        <div class="modal" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeEventModal()">&times;</button>
+            <div class="modal-photo" id="eventModalPhoto"></div>
+            <div class="modal-body">
+                <h2 class="modal-title" id="eventModalTitle"></h2>
+                <div class="modal-meta">
+                    <span class="modal-category" id="eventModalType"></span>
+                    <span class="modal-price" id="eventModalPrice"></span>
+                </div>
+                <p class="modal-description" id="eventModalDescription"></p>
+                <div class="modal-info-grid">
+                    <div class="modal-info-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/></svg>
+                        <div>
+                            <span class="info-label">Дата</span>
+                            <span class="info-value" id="eventModalDate"></span>
+                        </div>
+                    </div>
+                    <div class="modal-info-item">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                        <div>
+                            <span class="info-label">Место</span>
+                            <span class="info-value" id="eventModalVenue"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-actions">
+                    <a href="#" class="btn-action btn-book-primary" id="eventModalTicket" target="_blank">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 5l-1 1"/><path d="M2 12h6"/><path d="M22 12h-6"/><rect x="6" y="5" width="4" height="14" rx="1"/><rect x="14" y="5" width="4" height="14" rx="1"/></svg>
+                        Купить билет
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button class="back-to-top" id="backToTop" onclick="scrollToTop()">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"/></svg>
+    </button>
+
+    <div class="toast-container" id="toastContainer"></div>
+
+    <footer class="footer">
+        <div class="footer-inner">
+            <p>&copy; 2026 Moscow Guide by Sprut AI. Обновляется еженедельно.</p>
+            <p class="footer-update" id="footerUpdate"></p>
+        </div>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/moscow.js"></script>
+</body>
+</html>
