@@ -1,3 +1,4 @@
+import asyncio
 import feedparser
 from typing import List, Dict
 from datetime import datetime
@@ -19,7 +20,7 @@ class RSSParser(BaseParser):
         articles = []
 
         try:
-            feed = feedparser.parse(self.feed_url)
+            feed = await asyncio.to_thread(feedparser.parse, self.feed_url)
 
             for entry in feed.entries:
                 article = {
