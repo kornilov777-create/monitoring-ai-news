@@ -40,5 +40,8 @@ tmp/
 *.json
 !config.json
 !data/ai_products.json
+!data/news.json
+!data/sources.json
+!data/meta.json
 *.db
 *.sqlite

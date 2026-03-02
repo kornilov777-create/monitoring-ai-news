@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top 100 AI Products — Лучшие разработки искусственного интеллекта</title>
+    <meta name="description" content="Каталог 100 лучших AI-продуктов мира: чат-боты, генерация изображений, видео, код, музыка, дизайн, робототехника">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: #0a0e1a;
+            color: #e2e8f0;
+            min-height: 100vh;
+        }
+
+        .container { max-width: 1440px; margin: 0 auto; padding: 20px; }
+
+        /* ===== HEADER ===== */
+        header {
+            text-align: center;
+            padding: 50px 20px 40px;
+            background: linear-gradient(135deg, #0f172a 0%, #1a1040 50%, #0f172a 100%);
+            border-bottom: 1px solid #1e293b;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #22d3ee 0%, #a855f7 50%, #ec4899 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 10px;
+        }
+
+        .subtitle { font-size: 1.15rem; color: #94a3b8; margin-bottom: 30px; }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            background: rgba(139, 92, 246, 0.1);
+            border: 1px solid rgba(139, 92, 246, 0.3);
+            border-radius: 12px;
+            padding: 12px 24px;
+            text-align: center;
+        }
+
+        .stat-value { font-size: 1.8rem; font-weight: bold; color: #a78bfa; }
+        .stat-label { font-size: 0.8rem; color: #94a3b8; margin-top: 2px; }
+
+        /* ===== TRANSLATE TOGGLE ===== */
+        .translate-toggle {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            background: rgba(6, 182, 212, 0.1);
+            border: 1px solid rgba(6, 182, 212, 0.3);
+            border-radius: 30px;
+            padding: 8px 20px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.3s;
+        }
+
+        .translate-toggle:hover { border-color: #06b6d4; background: rgba(6, 182, 212, 0.2); }
+        .translate-toggle.active { border-color: #22d3ee; background: rgba(34, 211, 238, 0.2); }
+
+        .toggle-switch {
+            width: 40px; height: 22px;
+            background: #334155;
+            border-radius: 11px;
+            position: relative;
+            transition: background 0.3s;
+        }
+
+        .toggle-switch::after {
+            content: '';
+            position: absolute;
+            top: 3px; left: 3px;
+            width: 16px; height: 16px;
+            background: #e2e8f0;
+            border-radius: 50%;
+            transition: transform 0.3s;
+        }
+
+        .translate-toggle.active .toggle-switch { background: #06b6d4; }
+        .translate-toggle.active .toggle-switch::after { transform: translateX(18px); }
+
+        .translate-label { font-size: 0.9rem; color: #94a3b8; }
+        .translate-toggle.active .translate-label { color: #22d3ee; }
+
+        /* ===== SEARCH & FILTERS ===== */
+        .controls {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 30px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: #0a0e1a;
+            padding: 15px 0;
+        }
+
+        .search-box {
+            position: relative;
+            max-width: 500px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 14px 20px 14px 48px;
+            background: #1e293b;
+            border: 2px solid #334155;
+            border-radius: 14px;
+            color: #e2e8f0;
+            font-size: 1rem;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .search-box input:focus { border-color: #8b5cf6; }
+        .search-box input::placeholder { color: #64748b; }
+
+        .search-icon {
+            position: absolute;
+            left: 16px; top: 50%;
+            transform: translateY(-50%);
+            color: #64748b;
+            font-size: 1.2rem;
+        }
+
+        .search-count {
+            position: absolute;
+            right: 16px; top: 50%;
+            transform: translateY(-50%);
+            color: #64748b;
+            font-size: 0.85rem;
+        }
+
+        .filters {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 20px;
+            color: #94a3b8;
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all 0.3s;
+            white-space: nowrap;
+        }
+
+        .filter-btn:hover { border-color: #8b5cf6; color: #e2e8f0; }
+
+        .filter-btn.active {
+            background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+            border-color: #8b5cf6;
+            color: white;
+        }
+
+        .sort-btns {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .sort-btn {
+            padding: 6px 14px;
+            background: transparent;
+            border: 1px solid #334155;
+            border-radius: 8px;
+            color: #64748b;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .sort-btn:hover { color: #e2e8f0; border-color: #64748b; }
+        .sort-btn.active { color: #a78bfa; border-color: #8b5cf6; }
+
+        /* ===== PRODUCT GRID ===== */
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .product-card {
+            background: linear-gradient(145deg, #111827, #1e293b);
+            border: 1px solid #1e293b;
+            border-radius: 16px;
+            padding: 24px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #8b5cf6, #ec4899);
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: transform 0.4s ease;
+        }
+
+        .product-card:hover {
+            transform: translateY(-4px);
+            border-color: #8b5cf6;
+            box-shadow: 0 12px 40px rgba(139, 92, 246, 0.15);
+        }
+
+        .product-card:hover::before { transform: scaleX(1); }
+
+        .card-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+
+        .card-icon { font-size: 2.5rem; line-height: 1; }
+
+        .card-rank {
+            font-size: 0.75rem;
+            color: #64748b;
+            background: rgba(100, 116, 139, 0.15);
+            padding: 3px 10px;
+            border-radius: 10px;
+        }
+
+        .card-name {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #f1f5f9;
+            margin-bottom: 6px;
+        }
+
+        .card-category {
+            display: inline-block;
+            font-size: 0.78rem;
+            color: #a78bfa;
+            background: rgba(139, 92, 246, 0.15);
+            padding: 3px 10px;
+            border-radius: 10px;
+            margin-bottom: 12px;
+        }
+
+        .card-desc {
+            color: #94a3b8;
+            font-size: 0.9rem;
+            line-height: 1.55;
+            margin-bottom: 16px;
+            flex-grow: 1;
+        }
+
+        .card-bottom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .card-rating {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .rating-bar {
+            width: 80px; height: 6px;
+            background: #1e293b;
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .rating-fill {
+            height: 100%;
+            border-radius: 3px;
+            transition: width 0.6s ease;
+        }
+
+        .rating-fill.high { background: linear-gradient(90deg, #10b981, #22d3ee); }
+        .rating-fill.good { background: linear-gradient(90deg, #06b6d4, #3b82f6); }
+        .rating-fill.medium { background: linear-gradient(90deg, #f59e0b, #ef4444); }
+
+        .rating-num { font-size: 0.85rem; font-weight: 700; color: #e2e8f0; }
+
+        .visit-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 16px;
+            background: linear-gradient(135deg, #8b5cf6, #6d28d9);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            transition: all 0.3s;
+            white-space: nowrap;
+        }
+
+        .visit-btn:hover {
+            background: linear-gradient(135deg, #a78bfa, #8b5cf6);
+            transform: scale(1.05);
+            box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+        }
+
+        /* ===== TRENDS SECTION ===== */
+        .trends-section {
+            background: linear-gradient(135deg, #111827, #1a1040);
+            border: 1px solid #1e293b;
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 40px;
+        }
+
+        .trends-section h2 {
+            font-size: 2rem;
+            background: linear-gradient(135deg, #22d3ee, #a855f7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 25px;
+            text-align: center;
+        }
+
+        .trends-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 16px;
+        }
+
+        .trend-card {
+            background: rgba(139, 92, 246, 0.05);
+            border-left: 3px solid #8b5cf6;
+            padding: 16px 20px;
+            border-radius: 10px;
+            transition: background 0.3s;
+        }
+
+        .trend-card:hover { background: rgba(139, 92, 246, 0.1); }
+        .trend-card h4 { color: #a78bfa; margin-bottom: 8px; font-size: 1rem; }
+        .trend-card p { color: #94a3b8; font-size: 0.88rem; line-height: 1.6; }
+
+        /* ===== FOOTER ===== */
+        footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #475569;
+            font-size: 0.85rem;
+            border-top: 1px solid #1e293b;
+        }
+
+        footer a { color: #8b5cf6; text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+
+        /* ===== NO RESULTS ===== */
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #64748b;
+        }
+
+        .no-results-icon { font-size: 4rem; margin-bottom: 15px; }
+        .no-results-text { font-size: 1.1rem; }
+
+        /* ===== ANIMATIONS ===== */
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .product-card { animation: fadeInUp 0.4s ease backwards; }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            .subtitle { font-size: 1rem; }
+            .products-grid { grid-template-columns: 1fr; }
+            .trends-grid { grid-template-columns: 1fr; }
+            .trends-section { padding: 25px 20px; }
+            .controls { padding: 10px 0; }
+            .card-bottom { flex-direction: column; align-items: stretch; }
+            .visit-btn { text-align: center; justify-content: center; }
+        }
+
+        @media (max-width: 480px) {
+            h1 { font-size: 1.6rem; }
+            .stats { gap: 10px; }
+            .stat-card { padding: 10px 16px; }
+            .stat-value { font-size: 1.4rem; }
+            .filter-btn { padding: 6px 12px; font-size: 0.8rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav style="background:#0f172a;padding:10px 20px;border-bottom:1px solid #1e293b;text-align:center">
+        <a href="index.html" style="color:#22d3ee;text-decoration:none;font-weight:600">← AI News Monitor</a>
+        <span style="color:#475569;margin:0 15px">|</span>
+        <span style="color:#a855f7;font-weight:600">AI Products</span>
+    </nav>
+    <header>
+        <div class="container">
+            <h1>Top 100 AI Products</h1>
+            <p class="subtitle">Каталог лучших разработок искусственного интеллекта в мире — 2026</p>
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-value" id="totalCount">100</div>
+                    <div class="stat-label">Продуктов</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value" id="categoryCount">10</div>
+                    <div class="stat-label">Категорий</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">2026</div>
+                    <div class="stat-label">Актуальность</div>
+                </div>
+            </div>
+            <div style="margin-bottom: 20px;">
+                <a href="moscow/" style="display: inline-flex; align-items: center; gap: 8px; padding: 12px 24px; background: linear-gradient(135deg, #f59e0b, #ef4444); color: white; text-decoration: none; border-radius: 12px; font-weight: 600; font-size: 1.05rem; transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(245,158,11,0.3)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">🍽️ Moscow Restaurant Guide — 100 лучших ресторанов</a>
+            </div>
+            <div class="translate-toggle active" id="translateToggle" onclick="toggleTranslate()">
+                <div class="toggle-switch"></div>
+                <span class="translate-label">Автоперевод сайтов на русский</span>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="controls">
+            <div class="search-box">
+                <span class="search-icon">&#128269;</span>
+                <input type="text" id="searchInput" placeholder="Поиск по названию или описанию..." oninput="renderProducts()">
+                <span class="search-count" id="searchCount"></span>
+            </div>
+            <div class="filters" id="filtersContainer"></div>
+            <div class="sort-btns">
+                <button class="sort-btn active" data-sort="rating" onclick="setSort('rating', this)">По рейтингу</button>
+                <button class="sort-btn" data-sort="name" onclick="setSort('name', this)">По имени</button>
+                <button class="sort-btn" data-sort="category" onclick="setSort('category', this)">По категории</button>
+            </div>
+        </div>
+
+        <div class="products-grid" id="productsGrid"></div>
+
+        <div class="no-results" id="noResults" style="display:none">
+            <div class="no-results-icon">&#128270;</div>
+            <div class="no-results-text">Ничего не найдено. Попробуйте другой запрос.</div>
+        </div>
+
+        <!-- TRENDS -->
+        <div class="trends-section">
+            <h2>Тренды AI — 2026</h2>
+            <div class="trends-grid">
+                <div class="trend-card">
+                    <h4>&#129504; Контекстные окна &gt;1М токенов</h4>
+                    <p>Модели стали обрабатывать целые книги и кодовые базы за один запрос. LLaMA 4 поддерживает 10М токенов.</p>
+                </div>
+                <div class="trend-card">
+                    <h4>&#127916; Видео AI взрывной рост</h4>
+                    <p>Sora, Runway Gen-4 и Veo генерируют фотореалистичные видео со звуком. Революция в контенте.</p>
+                </div>
+                <div class="trend-card">
+                    <h4>&#128187; AI-агенты вместо инструментов</h4>
+                    <p>Devin, Claude Code и Copilot выполняют сложные задачи автономно от начала до конца.</p>
+                </div>
+                <div class="trend-card">
+                    <h4>&#127911; Музыка и голос AI</h4>
+                    <p>Suno и Udio генерируют полные песни. ElevenLabs клонирует голос. 70+ языков студийного качества.</p>
+                </div>
+                <div class="trend-card">
+                    <h4>&#129302; Гуманоиды на производстве</h4>
+                    <p>Boston Dynamics Atlas, Tesla Optimus и Figure AI пилотируются на заводах и складах.</p>
+                </div>
+                <div class="trend-card">
+                    <h4>&#127760; Open Source конкурирует</h4>
+                    <p>DeepSeek, LLaMA, Mistral и Qwen показывают 90%+ производительности закрытых моделей. Доступность AI растёт.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Top 100 AI Products &copy; 2026 | Обновлено: Февраль 2026</p>
+        <p style="margin-top: 8px">
+            <a href="https://github.com/kornilov777-create/monitoring-ai-news">GitHub</a>
+        </p>
+    </footer>
+
+    <script>
+    let products = [];
+    let currentFilter = 'all';
+    let currentSort = 'rating';
+    let translateEnabled = true;
+
+    // Load data
+    fetch('data/ai_products.json')
+        .then(r => r.json())
+        .then(data => {
+            products = data;
+            buildFilters();
+            renderProducts();
+        })
+        .catch(() => {
+            document.getElementById('productsGrid').innerHTML =
+                '<div class="no-results"><div class="no-results-icon">&#9888;&#65039;</div><div class="no-results-text">Ошибка загрузки данных</div></div>';
+        });
+
+    function buildFilters() {
+        const categories = ['all', ...new Set(products.map(p => p.category))];
+        const container = document.getElementById('filtersContainer');
+        const labels = { 'all': 'Все' };
+
+        container.innerHTML = categories.map(cat => {
+            const label = labels[cat] || cat;
+            const count = cat === 'all' ? products.length : products.filter(p => p.category === cat).length;
+            return `<button class="filter-btn ${cat === 'all' ? 'active' : ''}" data-cat="${cat}" onclick="setFilter('${cat}', this)">${label} (${count})</button>`;
+        }).join('');
+
+        document.getElementById('categoryCount').textContent = categories.length - 1;
+    }
+
+    function setFilter(cat, btn) {
+        currentFilter = cat;
+        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderProducts();
+    }
+
+    function setSort(sort, btn) {
+        currentSort = sort;
+        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        renderProducts();
+    }
+
+    function toggleTranslate() {
+        translateEnabled = !translateEnabled;
+        const toggle = document.getElementById('translateToggle');
+        toggle.classList.toggle('active', translateEnabled);
+        localStorage.setItem('translateEnabled', translateEnabled);
+    }
+
+    // Restore preference
+    if (localStorage.getItem('translateEnabled') === 'false') {
+        translateEnabled = false;
+        document.getElementById('translateToggle').classList.remove('active');
+    }
+
+    function getTranslatedUrl(url) {
+        if (!translateEnabled) return url;
+        return 'https://translate.google.com/translate?sl=auto&tl=ru&u=' + encodeURIComponent(url);
+    }
+
+    function getRatingClass(rating) {
+        if (rating >= 90) return 'high';
+        if (rating >= 80) return 'good';
+        return 'medium';
+    }
+
+    function renderProducts() {
+        const query = document.getElementById('searchInput').value.toLowerCase().trim();
+        const grid = document.getElementById('productsGrid');
+        const noResults = document.getElementById('noResults');
+
+        let filtered = products.filter(p => {
+            const matchCategory = currentFilter === 'all' || p.category === currentFilter;
+            const matchSearch = !query ||
+                p.name.toLowerCase().includes(query) ||
+                p.description.toLowerCase().includes(query) ||
+                p.category.toLowerCase().includes(query);
+            return matchCategory && matchSearch;
+        });
+
+        // Sort
+        filtered.sort((a, b) => {
+            if (currentSort === 'rating') return b.rating - a.rating;
+            if (currentSort === 'name') return a.name.localeCompare(b.name);
+            if (currentSort === 'category') return a.category.localeCompare(b.category) || b.rating - a.rating;
+            return 0;
+        });
+
+        document.getElementById('searchCount').textContent = filtered.length + ' / ' + products.length;
+
+        if (filtered.length === 0) {
+            grid.innerHTML = '';
+            noResults.style.display = 'block';
+            return;
+        }
+
+        noResults.style.display = 'none';
+
+        grid.innerHTML = filtered.map((p, i) => {
+            const ratingClass = getRatingClass(p.rating);
+            const rank = products.slice().sort((a, b) => b.rating - a.rating).findIndex(x => x.id === p.id) + 1;
+
+            return `
+            <div class="product-card" style="animation-delay: ${Math.min(i * 0.03, 0.5)}s">
+                <div class="card-top">
+                    <span class="card-icon">${p.icon}</span>
+                    <span class="card-rank">#${rank}</span>
+                </div>
+                <div class="card-name">${highlightMatch(p.name, query)}</div>
+                <span class="card-category">${p.category}</span>
+                <p class="card-desc">${highlightMatch(p.description, query)}</p>
+                <div class="card-bottom">
+                    <div class="card-rating">
+                        <div class="rating-bar">
+                            <div class="rating-fill ${ratingClass}" style="width: ${p.rating}%"></div>
+                        </div>
+                        <span class="rating-num">${p.rating}</span>
+                    </div>
+                    <a href="${getTranslatedUrl(p.url)}" target="_blank" rel="noopener noreferrer" class="visit-btn">
+                        &#127760; Открыть сайт
+                    </a>
+                </div>
+            </div>`;
+        }).join('');
+    }
+
+    function highlightMatch(text, query) {
+        if (!query) return text;
+        const regex = new RegExp('(' + query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+        return text.replace(regex, '<mark style="background:#8b5cf640;color:#e2e8f0;border-radius:2px;padding:0 2px">$1</mark>');
+    }
+    </script>
+</body>
+</html>
