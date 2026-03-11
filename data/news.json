@@ -1,15 +1,33 @@
 [
   {
     "id": 136,
+    "title": "Replit snags $9B valuation 6 months after hitting $3B",
+    "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+    "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-11T18:52:52"
+  },
+  {
+    "id": 163,
+    "title": "Ai2: Building physical AI with virtual simulation data",
+    "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+    "summary": "<p>Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers bui",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-03-11T16:50:56"
+  },
+  {
+    "id": 137,
     "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
     "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-    "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signup, turning the platform into a personal workspace for writing, research, and AI tools.",
+    "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-03-11T16:43:59"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
     "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
     "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
@@ -27,16 +45,16 @@
     "published_at": "2026-03-11T16:10:00"
   },
   {
-    "id": 138,
-    "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
-    "url": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
+    "id": 139,
+    "title": "Meta’s Moltbook deal points to a future built around AI agents",
+    "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
     "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-03-11T15:11:31"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
     "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
     "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
@@ -45,13 +63,22 @@
     "published_at": "2026-03-11T14:48:30"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Canopii looks to succeed where past indoor farms have not",
     "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
     "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
     "author": "Rebecca Szkutak",
     "source": "TechCrunch AI",
     "published_at": "2026-03-11T14:00:00"
+  },
+  {
+    "id": 1,
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "url": "https://openai.com/index/rakuten",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-11T13:00:00"
   },
   {
     "id": 126,
@@ -63,7 +90,7 @@
     "published_at": "2026-03-11T12:46:21"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "New partnership to offer smart robots for dangerous environments",
     "url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
     "summary": "<p>ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines. The two firms will combine ADLINK’s edge AI platforms with Noble Machines’ autonomy software to create a new generation of general",
@@ -72,7 +99,34 @@
     "published_at": "2026-03-11T11:42:00"
   },
   {
-    "id": 164,
+    "id": 2,
+    "title": "Designing AI agents to resist prompt injection",
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-11T11:30:00"
+  },
+  {
+    "id": 3,
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-11T11:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "url": "https://openai.com/index/wayfair",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-11T11:00:00"
+  },
+  {
+    "id": 165,
     "title": "Manulife moves AI agents into core financial workflows",
     "url": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
     "summary": "<p>Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows. Canadian insurer Manulife is moving",
@@ -81,7 +135,7 @@
     "published_at": "2026-03-11T10:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "How physical AI integration accelerates vehicle innovation",
     "url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
     "summary": "<p>The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation. A technical collaboration between Qualcomm and Wayve offers a framework for how hardware and software providers can consolidate their efforts to supply production-ready advanc",
@@ -99,7 +153,7 @@
     "published_at": "2026-03-11T04:00:00"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Google brings Gemini in Chrome to India",
     "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
     "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
@@ -126,7 +180,7 @@
     "published_at": "2026-03-10T20:25:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Amazon launches its healthcare AI assistant on its website and app",
     "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
     "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
@@ -135,7 +189,7 @@
     "published_at": "2026-03-10T20:10:06"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "AI-powered apps struggle with long-term retention, new report shows",
     "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
     "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
@@ -144,7 +198,7 @@
     "published_at": "2026-03-10T18:42:33"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
     "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
     "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
@@ -153,7 +207,7 @@
     "published_at": "2026-03-10T17:51:25"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "ABB: Physical AI simulation boosts ROI for factory automation",
     "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
     "summary": "<p>A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital tr",
@@ -162,7 +216,7 @@
     "published_at": "2026-03-10T17:22:41"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "AgentMail raises $6M to build an email service for AI agents",
     "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
     "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
@@ -171,7 +225,7 @@
     "published_at": "2026-03-10T16:00:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
     "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
     "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
@@ -180,7 +234,7 @@
     "published_at": "2026-03-10T15:08:39"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
     "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
     "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
@@ -189,7 +243,7 @@
     "published_at": "2026-03-10T14:58:29"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
     "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
     "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
@@ -198,7 +252,7 @@
     "published_at": "2026-03-10T14:34:24"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
     "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
     "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
@@ -207,7 +261,7 @@
     "published_at": "2026-03-10T14:32:05"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
     "url": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
     "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
@@ -225,7 +279,7 @@
     "published_at": "2026-03-10T13:47:26"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Adobe is debuting an AI assistant for Photoshop",
     "url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
     "summary": "Adobe is also adding new AI-powered image-editing features to Firefly.",
@@ -234,7 +288,7 @@
     "published_at": "2026-03-10T13:06:51"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
     "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
     "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
@@ -243,7 +297,7 @@
     "published_at": "2026-03-10T13:00:00"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
     "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
     "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
@@ -252,7 +306,7 @@
     "published_at": "2026-03-10T13:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Agentic AI in finance speeds up operational automation",
     "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
     "summary": "<p>In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation. The joint initiative focuses on process redesign and tar",
@@ -261,7 +315,7 @@
     "published_at": "2026-03-10T12:55:37"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Sandbar secures $23M Series A for its AI note-taking ring",
     "url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
     "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
@@ -270,7 +324,7 @@
     "published_at": "2026-03-10T12:40:37"
   },
   {
-    "id": 1,
+    "id": 5,
     "title": "Improving instruction hierarchy in frontier LLMs",
     "url": "https://openai.com/index/instruction-hierarchy-challenge",
     "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
@@ -279,7 +333,7 @@
     "published_at": "2026-03-10T11:00:00"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "New ways to learn math and science in ChatGPT",
     "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
     "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
@@ -288,22 +342,13 @@
     "published_at": "2026-03-10T10:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
     "url": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
     "summary": "<p>Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use. Announced on March 4, 2026, the transaction was carried out in partnership with DBS and UOB, two of Southeas",
     "author": "Dashveenjit Kaur",
     "source": "AI News",
     "published_at": "2026-03-10T07:00:00"
-  },
-  {
-    "id": 155,
-    "title": "Yann LeCun’s AMI Labs raises $1.03B to build world models",
-    "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-    "summary": "“My prediction is that ‘world models’ will be the next buzzword,” AMI Labs CEO Alexandre LeBrun told TechCrunch. “In six months, every company will call itself a world model to raise funding.”",
-    "author": "Anna Heim",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T05:00:00"
   },
   {
     "id": 128,
@@ -315,7 +360,7 @@
     "published_at": "2026-03-09T15:11:01"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
     "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
     "summary": "<p>AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lende",
@@ -324,7 +369,7 @@
     "published_at": "2026-03-09T12:51:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "UK sovereign AI fund to build up domestic computing infrastructure",
     "url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
     "summary": "<p>The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at B",
@@ -333,7 +378,7 @@
     "published_at": "2026-03-09T12:46:13"
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "OpenAI to acquire Promptfoo",
     "url": "https://openai.com/index/openai-to-acquire-promptfoo",
     "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
@@ -342,7 +387,7 @@
     "published_at": "2026-03-09T10:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "City Union Bank launches AI centre to support banking operations",
     "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
     "summary": "<p>Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to creat",
@@ -369,7 +414,7 @@
     "published_at": "2026-03-06T19:21:22"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Scaling intelligent automation without breaking live workflows",
     "url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
     "summary": "<p>Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives ",
@@ -378,16 +423,7 @@
     "published_at": "2026-03-06T13:15:41"
   },
   {
-    "id": 4,
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "url": "https://openai.com/index/descript",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-06T10:00:00"
-  },
-  {
-    "id": 5,
+    "id": 8,
     "title": "Codex Security: now in research preview",
     "url": "https://openai.com/index/codex-security-now-in-research-preview",
     "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
@@ -396,7 +432,16 @@
     "published_at": "2026-03-06T10:00:00"
   },
   {
-    "id": 173,
+    "id": 9,
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-06T10:00:00"
+  },
+  {
+    "id": 174,
     "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
     "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
     "summary": "<p>Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other. Every time a new deal crosses a firm’s ",
@@ -405,7 +450,7 @@
     "published_at": "2026-03-06T10:00:00"
   },
   {
-    "id": 6,
+    "id": 10,
     "title": "How Balyasny Asset Management built an AI research engine for investing",
     "url": "https://openai.com/index/balyasny-asset-management",
     "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
@@ -414,7 +459,16 @@
     "published_at": "2026-03-06T07:00:00"
   },
   {
-    "id": 7,
+    "id": 11,
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00"
+  },
+  {
+    "id": 12,
     "title": "GPT-5.4 Thinking System Card",
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "summary": "",
@@ -423,19 +477,10 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 8,
+    "id": 13,
     "title": "Introducing GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4",
     "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 9,
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -450,16 +495,7 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 174,
-    "title": "JPMorgan expands AI investment as tech spending nears $20B",
-    "url": "https://www.artificialintelligence-news.com/news/jpmorgan-expands-ai-investment/",
-    "summary": "<p>Artificial intelligence is moving from pilot projects to core business systems inside large companies. One example comes from JPMorgan Chase, where rising AI investment is helping push the bank’s technology budget toward about US$19.8 billion in 2026. The spending plan reflects a broader shift am",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 10,
+    "id": 14,
     "title": "Ensuring AI use in education leads to opportunity",
     "url": "https://openai.com/index/ai-education-opportunity",
     "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
@@ -468,16 +504,7 @@
     "published_at": "2026-03-05T09:00:00"
   },
   {
-    "id": 11,
-    "title": "Introducing the Adoption news channel",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 12,
+    "id": 15,
     "title": "Introducing ChatGPT for Excel and new financial data integrations",
     "url": "https://openai.com/index/chatgpt-for-excel",
     "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
@@ -486,7 +513,16 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 13,
+    "id": 16,
+    "title": "Introducing the Adoption news channel",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 17,
     "title": "The five AI value models driving business reinvention",
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
@@ -504,7 +540,7 @@
     "published_at": "2026-03-04T14:00:00"
   },
   {
-    "id": 14,
+    "id": 18,
     "title": "Extending single-minus amplitudes to gravitons",
     "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
     "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
@@ -522,7 +558,7 @@
     "published_at": "2026-03-04T05:00:00"
   },
   {
-    "id": 15,
+    "id": 19,
     "title": "Understanding AI and learning outcomes",
     "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
@@ -531,7 +567,7 @@
     "published_at": "2026-03-04T00:00:00"
   },
   {
-    "id": 16,
+    "id": 20,
     "title": "How Axios uses AI to help deliver high-impact local journalism",
     "url": "https://openai.com/index/axios-allison-murphy",
     "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
@@ -540,7 +576,7 @@
     "published_at": "2026-03-04T00:00:00"
   },
   {
-    "id": 17,
+    "id": 21,
     "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
     "url": "https://openai.com/index/gpt-5-3-instant",
     "summary": "",
@@ -549,7 +585,7 @@
     "published_at": "2026-03-03T10:00:00"
   },
   {
-    "id": 18,
+    "id": 22,
     "title": "GPT-5.3 Instant System Card",
     "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
@@ -576,7 +612,7 @@
     "published_at": "2026-03-02T12:55:20"
   },
   {
-    "id": 19,
+    "id": 23,
     "title": "Our agreement with the Department of War",
     "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
     "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
@@ -603,7 +639,7 @@
     "published_at": "2026-02-27T10:00:00"
   },
   {
-    "id": 20,
+    "id": 24,
     "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
     "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
     "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
@@ -612,7 +648,7 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 21,
+    "id": 25,
     "title": "Joint Statement from OpenAI and Microsoft",
     "url": "https://openai.com/index/continuing-microsoft-partnership",
     "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
@@ -621,16 +657,7 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 22,
-    "title": "Scaling AI for everyone",
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 23,
+    "id": 26,
     "title": "OpenAI and Amazon announce strategic partnership",
     "url": "https://openai.com/index/amazon-partnership",
     "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
@@ -639,7 +666,16 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 24,
+    "id": 27,
+    "title": "Scaling AI for everyone",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
+    "id": 28,
     "title": "An update on our mental health-related work",
     "url": "https://openai.com/index/update-on-mental-health-related-work",
     "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
@@ -657,7 +693,7 @@
     "published_at": "2026-02-26T15:00:59"
   },
   {
-    "id": 25,
+    "id": 29,
     "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
     "url": "https://openai.com/index/pacific-northwest-national-laboratory",
     "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
@@ -666,7 +702,7 @@
     "published_at": "2026-02-26T10:00:00"
   },
   {
-    "id": 26,
+    "id": 30,
     "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
     "url": "https://openai.com/index/figma-partnership",
     "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
@@ -711,7 +747,7 @@
     "published_at": "2026-02-25T05:00:00"
   },
   {
-    "id": 27,
+    "id": 31,
     "title": "Disrupting malicious uses of AI | February 2026",
     "url": "https://openai.com/index/disrupting-malicious-ai-uses",
     "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
@@ -720,7 +756,7 @@
     "published_at": "2026-02-25T00:00:00"
   },
   {
-    "id": 28,
+    "id": 32,
     "title": "Arvind KC appointed Chief People Officer",
     "url": "https://openai.com/index/arvind-kc-chief-people-officer",
     "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
@@ -729,7 +765,7 @@
     "published_at": "2026-02-24T13:40:00"
   },
   {
-    "id": 29,
+    "id": 33,
     "title": "Why we no longer evaluate SWE-bench Verified",
     "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
     "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
@@ -738,7 +774,7 @@
     "published_at": "2026-02-23T11:00:00"
   },
   {
-    "id": 30,
+    "id": 34,
     "title": "OpenAI announces Frontier Alliance Partners",
     "url": "https://openai.com/index/frontier-alliance-partners",
     "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
@@ -747,7 +783,7 @@
     "published_at": "2026-02-23T05:30:00"
   },
   {
-    "id": 31,
+    "id": 35,
     "title": "Our First Proof submissions",
     "url": "https://openai.com/index/first-proof-submissions",
     "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
@@ -774,7 +810,7 @@
     "published_at": "2026-02-19T19:00:00"
   },
   {
-    "id": 32,
+    "id": 36,
     "title": "Advancing independent research on AI alignment",
     "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
     "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
@@ -792,7 +828,7 @@
     "published_at": "2026-02-19T05:00:00"
   },
   {
-    "id": 33,
+    "id": 37,
     "title": "Introducing OpenAI for India",
     "url": "https://openai.com/index/openai-for-india",
     "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -810,7 +846,7 @@
     "published_at": "2026-02-18T05:00:00"
   },
   {
-    "id": 34,
+    "id": 38,
     "title": "Introducing EVMbench",
     "url": "https://openai.com/index/introducing-evmbench",
     "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
@@ -819,7 +855,7 @@
     "published_at": "2026-02-18T00:00:00"
   },
   {
-    "id": 35,
+    "id": 39,
     "title": "GPT-5.2 derives a new result in theoretical physics",
     "url": "https://openai.com/index/new-result-theoretical-physics",
     "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
@@ -828,7 +864,7 @@
     "published_at": "2026-02-13T11:00:00"
   },
   {
-    "id": 36,
+    "id": 40,
     "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
     "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
     "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
@@ -837,7 +873,7 @@
     "published_at": "2026-02-13T10:00:00"
   },
   {
-    "id": 37,
+    "id": 41,
     "title": "Beyond rate limits: scaling access to Codex and Sora",
     "url": "https://openai.com/index/beyond-rate-limits",
     "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
@@ -846,7 +882,7 @@
     "published_at": "2026-02-13T09:00:00"
   },
   {
-    "id": 38,
+    "id": 42,
     "title": "Scaling social science research",
     "url": "https://openai.com/index/scaling-social-science-research",
     "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
@@ -864,7 +900,7 @@
     "published_at": "2026-02-12T23:50:00"
   },
   {
-    "id": 39,
+    "id": 43,
     "title": "Introducing GPT-5.3-Codex-Spark",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
     "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
@@ -891,7 +927,7 @@
     "published_at": "2026-02-11T13:00:00"
   },
   {
-    "id": 40,
+    "id": 44,
     "title": "Harness engineering: leveraging Codex in an agent-first world",
     "url": "https://openai.com/index/harness-engineering",
     "summary": "By Ryan Lopopolo, Member of the Technical Staff",
@@ -918,7 +954,7 @@
     "published_at": "2026-02-10T05:00:00"
   },
   {
-    "id": 41,
+    "id": 45,
     "title": "Bringing ChatGPT to GenAI.mil",
     "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
     "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
@@ -927,7 +963,7 @@
     "published_at": "2026-02-09T11:00:00"
   },
   {
-    "id": 42,
+    "id": 46,
     "title": "Testing ads in ChatGPT",
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
@@ -954,7 +990,7 @@
     "published_at": "2026-02-06T17:38:22"
   },
   {
-    "id": 43,
+    "id": 47,
     "title": "Making AI work for everyone, everywhere: our approach to localization",
     "url": "https://openai.com/index/our-approach-to-localization",
     "summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
@@ -972,7 +1008,7 @@
     "published_at": "2026-02-05T21:30:00"
   },
   {
-    "id": 44,
+    "id": 48,
     "title": "GPT-5 lowers the cost of cell-free protein synthesis",
     "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
     "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
@@ -981,7 +1017,7 @@
     "published_at": "2026-02-05T11:00:00"
   },
   {
-    "id": 45,
+    "id": 49,
     "title": "Introducing Trusted Access for Cyber",
     "url": "https://openai.com/index/trusted-access-for-cyber",
     "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
@@ -990,40 +1026,13 @@
     "published_at": "2026-02-05T10:00:00"
   },
   {
-    "id": 46,
+    "id": 50,
     "title": "Introducing OpenAI Frontier",
     "url": "https://openai.com/index/introducing-openai-frontier",
     "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-05T06:00:00"
-  },
-  {
-    "id": 47,
-    "title": "GPT-5.3-Codex System Card",
-    "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-05T00:00:00"
-  },
-  {
-    "id": 48,
-    "title": "Introducing GPT-5.3-Codex",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-    "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-05T00:00:00"
-  },
-  {
-    "id": 49,
-    "title": "Navigating health questions with ChatGPT",
-    "url": "https://openai.com/index/navigating-health-questions",
-    "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-05T00:00:00"
   },
   {
     "id": 99,
@@ -1051,15 +1060,6 @@
     "author": "Mindy Blodgett | Institute for Medical Engineering and Science",
     "source": "MIT News AI",
     "published_at": "2026-02-04T18:00:00"
-  },
-  {
-    "id": 50,
-    "title": "Unlocking the Codex harness: how we built the App Server",
-    "url": "https://openai.com/index/unlocking-the-codex-harness",
-    "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-04T13:00:00"
   },
   {
     "id": 102,
