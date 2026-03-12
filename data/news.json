@@ -1,6 +1,78 @@
 [
   {
     "id": 136,
+    "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+    "url": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+    "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-12T16:52:17"
+  },
+  {
+    "id": 137,
+    "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+    "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+    "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-12T16:42:40"
+  },
+  {
+    "id": 138,
+    "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+    "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+    "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-12T15:30:00"
+  },
+  {
+    "id": 139,
+    "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content",
+    "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
+    "summary": "The new Sassy style can curse and roast you, but the fun ends there.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-12T15:16:16"
+  },
+  {
+    "id": 140,
+    "title": "Wonderful raises $150M Series B at $2B valuation",
+    "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+    "summary": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
+    "author": "Ram Iyer",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-12T15:12:35"
+  },
+  {
+    "id": 163,
+    "title": "How multi-agent AI economics influence business automation",
+    "url": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
+    "summary": "<p>Managing the economics of multi-agent AI now dictates the financial viability of modern business automation workflows. Organisations progressing past standard chat interfaces into multi-agent applications face two primary constraints. The first issue is the thinking tax; complex autonomous agents",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-03-12T15:01:20"
+  },
+  {
+    "id": 126,
+    "title": "Pragmatic by design: Engineering AI for the real world",
+    "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+    "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the desig",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-03-12T13:00:00"
+  },
+  {
+    "id": 141,
+    "title": "Google is using old news reports and AI to predict flash floods",
+    "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+    "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-12T13:00:00"
+  },
+  {
+    "id": 142,
     "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
     "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
     "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
@@ -9,7 +81,7 @@
     "published_at": "2026-03-12T12:30:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
     "url": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
     "summary": "<p>When Romy Gai, FIFA&#8217;s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity. Previous World Cups relied on local organising committees to ab",
@@ -18,7 +90,7 @@
     "published_at": "2026-03-12T08:00:00"
   },
   {
-    "id": 137,
+    "id": 143,
     "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
     "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
     "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
@@ -27,7 +99,7 @@
     "published_at": "2026-03-11T23:35:03"
   },
   {
-    "id": 138,
+    "id": 144,
     "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
     "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
     "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
@@ -36,7 +108,7 @@
     "published_at": "2026-03-11T22:51:39"
   },
   {
-    "id": 139,
+    "id": 145,
     "title": "Zendesk acquires agentic customer service startup Forethought",
     "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
     "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
@@ -54,7 +126,7 @@
     "published_at": "2026-03-11T22:30:00"
   },
   {
-    "id": 140,
+    "id": 146,
     "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
     "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
     "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
@@ -63,7 +135,7 @@
     "published_at": "2026-03-11T22:00:05"
   },
   {
-    "id": 141,
+    "id": 147,
     "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
     "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
     "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
@@ -72,7 +144,7 @@
     "published_at": "2026-03-11T21:40:49"
   },
   {
-    "id": 142,
+    "id": 148,
     "title": "Replit snags $9B valuation 6 months after hitting $3B",
     "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
     "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
@@ -81,7 +153,7 @@
     "published_at": "2026-03-11T18:52:52"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Ai2: Building physical AI with virtual simulation data",
     "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
     "summary": "<p>Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers bui",
@@ -90,7 +162,7 @@
     "published_at": "2026-03-11T16:50:56"
   },
   {
-    "id": 143,
+    "id": 149,
     "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
     "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
     "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
@@ -99,7 +171,7 @@
     "published_at": "2026-03-11T16:43:59"
   },
   {
-    "id": 144,
+    "id": 150,
     "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
     "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
     "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
@@ -117,7 +189,7 @@
     "published_at": "2026-03-11T16:10:00"
   },
   {
-    "id": 145,
+    "id": 151,
     "title": "Meta’s Moltbook deal points to a future built around AI agents",
     "url": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
     "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
@@ -126,7 +198,7 @@
     "published_at": "2026-03-11T15:11:31"
   },
   {
-    "id": 146,
+    "id": 152,
     "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
     "url": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
     "summary": "The changes allow more merchants to participate in Amazon's Shop Direct program, which sends Amazon customers to other retailers' websites.",
@@ -135,7 +207,7 @@
     "published_at": "2026-03-11T14:48:30"
   },
   {
-    "id": 147,
+    "id": 153,
     "title": "Canopii looks to succeed where past indoor farms have not",
     "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
     "summary": "Canopii's robotic farms can autonomously grow 40,000 pounds of herbs and leafy greens a year while being the size of a basketball court.",
@@ -153,7 +225,7 @@
     "published_at": "2026-03-11T13:00:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
     "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
     "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and auto",
@@ -162,7 +234,7 @@
     "published_at": "2026-03-11T12:46:21"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "New partnership to offer smart robots for dangerous environments",
     "url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
     "summary": "<p>ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines. The two firms will combine ADLINK’s edge AI platforms with Noble Machines’ autonomy software to create a new generation of general",
@@ -198,7 +270,7 @@
     "published_at": "2026-03-11T11:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Manulife moves AI agents into core financial workflows",
     "url": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
     "summary": "<p>Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows. Canadian insurer Manulife is moving",
@@ -207,7 +279,7 @@
     "published_at": "2026-03-11T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "How physical AI integration accelerates vehicle innovation",
     "url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
     "summary": "<p>The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation. A technical collaboration between Qualcomm and Wayve offers a framework for how hardware and software providers can consolidate their efforts to supply production-ready advanc",
@@ -225,7 +297,7 @@
     "published_at": "2026-03-11T04:00:00"
   },
   {
-    "id": 148,
+    "id": 154,
     "title": "Google brings Gemini in Chrome to India",
     "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
     "summary": "The rollout will let users access Gemini in Chrome through a sidebar on desktop, enabling them to ask Google's AI chatbot questions about the content on the screen; get information from their Gmail, Keep, Drive, and YouTube; and compare tab contents.",
@@ -252,7 +324,7 @@
     "published_at": "2026-03-10T20:25:00"
   },
   {
-    "id": 149,
+    "id": 155,
     "title": "Amazon launches its healthcare AI assistant on its website and app",
     "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
     "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
@@ -261,25 +333,7 @@
     "published_at": "2026-03-10T20:10:06"
   },
   {
-    "id": 150,
-    "title": "AI-powered apps struggle with long-term retention, new report shows",
-    "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-    "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T18:42:33"
-  },
-  {
-    "id": 151,
-    "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-    "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-    "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T17:51:25"
-  },
-  {
-    "id": 168,
+    "id": 169,
     "title": "ABB: Physical AI simulation boosts ROI for factory automation",
     "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
     "summary": "<p>A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital tr",
@@ -288,43 +342,16 @@
     "published_at": "2026-03-10T17:22:41"
   },
   {
-    "id": 152,
-    "title": "AgentMail raises $6M to build an email service for AI agents",
-    "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-    "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
-    "author": "Ram Iyer",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T16:00:00"
+    "id": 128,
+    "title": "Building a strong data infrastructure for AI agent success",
+    "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+    "summary": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-03-10T14:00:00"
   },
   {
-    "id": 153,
-    "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-    "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-    "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
-    "author": "Rebecca Szkutak",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T15:08:39"
-  },
-  {
-    "id": 154,
-    "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-    "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-    "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T14:58:29"
-  },
-  {
-    "id": 155,
-    "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-    "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-    "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-    "author": "Anna Heim",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-10T14:34:24"
-  },
-  {
-    "id": 127,
+    "id": 129,
     "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
     "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
     "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squ",
@@ -333,7 +360,7 @@
     "published_at": "2026-03-10T13:47:26"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Agentic AI in finance speeds up operational automation",
     "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
     "summary": "<p>In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation. The joint initiative focuses on process redesign and tar",
@@ -360,7 +387,7 @@
     "published_at": "2026-03-10T10:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
     "url": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
     "summary": "<p>Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use. Announced on March 4, 2026, the transaction was carried out in partnership with DBS and UOB, two of Southeas",
@@ -369,7 +396,7 @@
     "published_at": "2026-03-10T07:00:00"
   },
   {
-    "id": 128,
+    "id": 130,
     "title": "How AI is turning the Iran conflict into theater",
     "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”&#160; The author of that post on X was referring to an online intelligence dashboard f",
@@ -378,7 +405,7 @@
     "published_at": "2026-03-09T15:11:01"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
     "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
     "summary": "<p>AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lende",
@@ -387,7 +414,7 @@
     "published_at": "2026-03-09T12:51:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "UK sovereign AI fund to build up domestic computing infrastructure",
     "url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
     "summary": "<p>The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at B",
@@ -405,7 +432,7 @@
     "published_at": "2026-03-09T10:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "City Union Bank launches AI centre to support banking operations",
     "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
     "summary": "<p>Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to creat",
@@ -423,22 +450,13 @@
     "published_at": "2026-03-09T04:00:00"
   },
   {
-    "id": 129,
+    "id": 131,
     "title": "Is the Pentagon allowed to surveil Americans with AI?",
     "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
     "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after E",
     "author": "Michelle Kim",
     "source": "MIT Technology Review",
     "published_at": "2026-03-06T19:21:22"
-  },
-  {
-    "id": 174,
-    "title": "Scaling intelligent automation without breaking live workflows",
-    "url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
-    "summary": "<p>Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-03-06T13:15:41"
   },
   {
     "id": 8,
@@ -469,15 +487,6 @@
   },
   {
     "id": 11,
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 12,
     "title": "GPT-5.4 Thinking System Card",
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "summary": "",
@@ -486,7 +495,7 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Introducing GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4",
     "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
@@ -495,7 +504,16 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 130,
+    "id": 13,
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00"
+  },
+  {
+    "id": 132,
     "title": "Online harassment is entering its AI era",
     "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
     "summary": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have institute",
@@ -523,15 +541,6 @@
   },
   {
     "id": 16,
-    "title": "The five AI value models driving business reinvention",
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 17,
     "title": "Introducing ChatGPT for Excel and new financial data integrations",
     "url": "https://openai.com/index/chatgpt-for-excel",
     "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
@@ -540,7 +549,16 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 131,
+    "id": 17,
+    "title": "The five AI value models driving business reinvention",
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 133,
     "title": "Bridging the operational AI gap",
     "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
     "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many ",
@@ -586,15 +604,6 @@
   },
   {
     "id": 21,
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "url": "https://openai.com/index/gpt-5-3-instant",
-    "summary": "",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-03T10:00:00"
-  },
-  {
-    "id": 22,
     "title": "GPT-5.3 Instant System Card",
     "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
@@ -603,7 +612,16 @@
     "published_at": "2026-03-03T10:00:00"
   },
   {
-    "id": 132,
+    "id": 22,
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
+    "summary": "",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-03T10:00:00"
+  },
+  {
+    "id": 134,
     "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
     "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
     "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its anno",
@@ -612,7 +630,7 @@
     "published_at": "2026-03-02T17:29:42"
   },
   {
-    "id": 133,
+    "id": 135,
     "title": "I checked out one of the biggest anti-AI protests yet",
     "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
     "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving si",
@@ -639,34 +657,16 @@
     "published_at": "2026-02-27T22:15:00"
   },
   {
-    "id": 134,
-    "title": "AI is rewiring how the world’s best Go players think",
-    "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-    "summary": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms o",
-    "author": "Michelle Kim",
-    "source": "MIT Technology Review",
-    "published_at": "2026-02-27T10:00:00"
-  },
-  {
     "id": 24,
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
   },
   {
     "id": 25,
-    "title": "OpenAI and Amazon announce strategic partnership",
-    "url": "https://openai.com/index/amazon-partnership",
-    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 26,
     "title": "Scaling AI for everyone",
     "url": "https://openai.com/index/scaling-ai-for-everyone",
     "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -675,10 +675,19 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
+    "id": 26,
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
     "id": 27,
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "url": "https://openai.com/index/amazon-partnership",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
@@ -691,15 +700,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T00:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Finding value with AI and Industry 5.0 transformation",
-    "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-    "summary": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the pur",
-    "author": "MIT Technology Review Insights",
-    "source": "MIT Technology Review",
-    "published_at": "2026-02-26T15:00:59"
   },
   {
     "id": 29,
@@ -964,18 +964,18 @@
   },
   {
     "id": 45,
-    "title": "Bringing ChatGPT to GenAI.mil",
-    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-09T11:00:00"
   },
   {
     "id": 46,
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-09T11:00:00"
