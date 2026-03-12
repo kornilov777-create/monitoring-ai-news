@@ -1,5 +1,14 @@
 [
   {
+    "id": 163,
+    "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+    "url": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+    "summary": "<p>When Romy Gai, FIFA&#8217;s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity. Previous World Cups relied on local organising committees to ab",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-03-12T08:00:00"
+  },
+  {
     "id": 136,
     "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
     "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
@@ -63,7 +72,7 @@
     "published_at": "2026-03-11T18:52:52"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Ai2: Building physical AI with virtual simulation data",
     "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
     "summary": "<p>Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers bui",
@@ -144,7 +153,7 @@
     "published_at": "2026-03-11T12:46:21"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "New partnership to offer smart robots for dangerous environments",
     "url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
     "summary": "<p>ADLINK Technology has signed a strategic alliance and joint development agreement with Under Control Robotics, the company behind the robotics startup Noble Machines. The two firms will combine ADLINK’s edge AI platforms with Noble Machines’ autonomy software to create a new generation of general",
@@ -163,15 +172,6 @@
   },
   {
     "id": 3,
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "url": "https://openai.com/index/equip-responses-api-computer-environment",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-11T11:00:00"
-  },
-  {
-    "id": 4,
     "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
     "url": "https://openai.com/index/wayfair",
     "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
@@ -180,7 +180,16 @@
     "published_at": "2026-03-11T11:00:00"
   },
   {
-    "id": 165,
+    "id": 4,
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-11T11:00:00"
+  },
+  {
+    "id": 166,
     "title": "Manulife moves AI agents into core financial workflows",
     "url": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
     "summary": "<p>Large financial firms have spent years testing artificial intelligence in small projects, often limited to data analysis or customer support tools. The next phase appears to involve something more operational: systems that can take action in business workflows. Canadian insurer Manulife is moving",
@@ -189,7 +198,7 @@
     "published_at": "2026-03-11T10:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "How physical AI integration accelerates vehicle innovation",
     "url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
     "summary": "<p>The integration of physical AI into vehicles remains a primary objective for automakers looking to accelerate innovation. A technical collaboration between Qualcomm and Wayve offers a framework for how hardware and software providers can consolidate their efforts to supply production-ready advanc",
@@ -261,7 +270,7 @@
     "published_at": "2026-03-10T17:51:25"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "ABB: Physical AI simulation boosts ROI for factory automation",
     "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
     "summary": "<p>A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intelligent robotics work reliably outside testing environments. The core issue is the gap between digital tr",
@@ -324,7 +333,7 @@
     "published_at": "2026-03-10T13:47:26"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Agentic AI in finance speeds up operational automation",
     "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-finance-speeds-up-operational-automation/",
     "summary": "<p>In finance, achieving operational automation by integrating agentic AI requires a data-centric foundation to drive real value. Financial infrastructure provider SEI has engaged IBM to modernise its internal operations via AI and automation. The joint initiative focuses on process redesign and tar",
@@ -351,7 +360,7 @@
     "published_at": "2026-03-10T10:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Mastercard brings agentic payments to life in Singapore with DBS and UOB",
     "url": "https://www.artificialintelligence-news.com/news/mastercard-agentic-payments-singapore-dbs-uob/",
     "summary": "<p>Mastercard has completed its first live, authenticated agent-based payment transaction in Singapore, a milestone that advances autonomous AI commerce from proof of concept to everyday use. Announced on March 4, 2026, the transaction was carried out in partnership with DBS and UOB, two of Southeas",
@@ -369,7 +378,7 @@
     "published_at": "2026-03-09T15:11:01"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
     "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
     "summary": "<p>AI insurance underwriting has been called the next frontier of insurtech for years. The difference now is that the money backing it has moved from venture bets into institutional conviction. On March 3, Boston-based Gradient AI securedgrowth capital financing from CIBC Innovation Banking, a lende",
@@ -378,7 +387,7 @@
     "published_at": "2026-03-09T12:51:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "UK sovereign AI fund to build up domestic computing infrastructure",
     "url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
     "summary": "<p>The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovation and Technology, the unit formally launches on April 16th at 6pm GMT. James Wise, Partner at B",
@@ -396,7 +405,7 @@
     "published_at": "2026-03-09T10:00:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "City Union Bank launches AI centre to support banking operations",
     "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
     "summary": "<p>Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One example emerged in India this month. City Union Bank recently entered a four-party agreement to creat",
@@ -423,7 +432,7 @@
     "published_at": "2026-03-06T19:21:22"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Scaling intelligent automation without breaking live workflows",
     "url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
     "summary": "<p>Scaling intelligent automation without disruption demands a focus on architectural elasticity, not just deploying more bots. At the Intelligent Automation Conference, industry leaders gathered to dissect why many automation initiatives stall after pilot phases. Speaking alongside representatives ",
@@ -433,15 +442,6 @@
   },
   {
     "id": 8,
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "url": "https://openai.com/index/descript",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-06T10:00:00"
-  },
-  {
-    "id": 9,
     "title": "Codex Security: now in research preview",
     "url": "https://openai.com/index/codex-security-now-in-research-preview",
     "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
@@ -450,12 +450,12 @@
     "published_at": "2026-03-06T10:00:00"
   },
   {
-    "id": 174,
-    "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
-    "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
-    "summary": "<p>Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems that were never designed to communicate with each other. Every time a new deal crosses a firm’s ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
+    "id": 9,
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "author": "",
+    "source": "OpenAI Blog",
     "published_at": "2026-03-06T10:00:00"
   },
   {
@@ -469,15 +469,6 @@
   },
   {
     "id": 11,
-    "title": "GPT-5.4 Thinking System Card",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "summary": "",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 12,
     "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
@@ -486,10 +477,19 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Introducing GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4",
     "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00"
+  },
+  {
+    "id": 13,
+    "title": "GPT-5.4 Thinking System Card",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary": "",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -514,15 +514,6 @@
   },
   {
     "id": 15,
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "url": "https://openai.com/index/chatgpt-for-excel",
-    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 16,
     "title": "The five AI value models driving business reinvention",
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
@@ -531,10 +522,19 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "Introducing the Adoption news channel",
     "url": "https://openai.com/index/introducing-the-adoption-news-channel",
     "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 17,
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -649,15 +649,6 @@
   },
   {
     "id": 24,
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 25,
     "title": "OpenAI and Amazon announce strategic partnership",
     "url": "https://openai.com/index/amazon-partnership",
     "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
@@ -666,10 +657,19 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 26,
+    "id": 25,
     "title": "Scaling AI for everyone",
     "url": "https://openai.com/index/scaling-ai-for-everyone",
     "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
+    "id": 26,
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
@@ -964,18 +964,18 @@
   },
   {
     "id": 45,
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "title": "Bringing ChatGPT to GenAI.mil",
+    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-09T11:00:00"
   },
   {
     "id": 46,
-    "title": "Bringing ChatGPT to GenAI.mil",
-    "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-    "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-09T11:00:00"
