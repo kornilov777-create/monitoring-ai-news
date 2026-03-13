@@ -1,6 +1,42 @@
 [
   {
     "id": 136,
+    "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+    "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+    "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-13T19:47:58"
+  },
+  {
+    "id": 137,
+    "title": "The biggest AI stories of the year (so far)",
+    "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+    "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-13T19:38:11"
+  },
+  {
+    "id": 138,
+    "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+    "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+    "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-13T17:09:59"
+  },
+  {
+    "id": 139,
+    "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+    "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
+    "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-13T17:04:12"
+  },
+  {
+    "id": 140,
     "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
     "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
     "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits “at the center of three tailwinds: AI, cloud, and security spend.” Those tailwinds powered what just became the largest venture-backed acquisition in history — Google&#8217;s $32 billion deal, finalized after a declined",
@@ -13,12 +49,12 @@
     "title": "Why physical AI is becoming manufacturing’s next advantage",
     "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
     "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and i",
-    "author": "Microsoft and NVIDIA",
+    "author": "Dayan Rodriguez",
     "source": "MIT Technology Review",
     "published_at": "2026-03-13T15:16:55"
   },
   {
-    "id": 137,
+    "id": 141,
     "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
     "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
     "summary": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.",
@@ -45,7 +81,7 @@
     "published_at": "2026-03-13T09:00:00"
   },
   {
-    "id": 138,
+    "id": 142,
     "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
     "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
     "summary": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with Qutwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives.",
@@ -54,7 +90,7 @@
     "published_at": "2026-03-13T05:00:00"
   },
   {
-    "id": 139,
+    "id": 143,
     "title": "Truecaller now lets you hang up on scammers — on behalf of your family",
     "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
     "summary": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed.",
@@ -63,7 +99,7 @@
     "published_at": "2026-03-13T04:30:00"
   },
   {
-    "id": 140,
+    "id": 144,
     "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
     "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
     "summary": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of com",
@@ -72,7 +108,7 @@
     "published_at": "2026-03-12T23:25:39"
   },
   {
-    "id": 141,
+    "id": 145,
     "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
     "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
     "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
@@ -99,7 +135,7 @@
     "published_at": "2026-03-12T21:30:00"
   },
   {
-    "id": 142,
+    "id": 146,
     "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
     "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
     "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
@@ -108,7 +144,7 @@
     "published_at": "2026-03-12T18:20:33"
   },
   {
-    "id": 143,
+    "id": 147,
     "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
     "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
     "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
@@ -117,7 +153,7 @@
     "published_at": "2026-03-12T18:00:00"
   },
   {
-    "id": 144,
+    "id": 148,
     "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
     "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
     "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
@@ -126,7 +162,7 @@
     "published_at": "2026-03-12T17:20:19"
   },
   {
-    "id": 145,
+    "id": 149,
     "title": "Bumble introduces an AI dating assistant, ‘Bee’",
     "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
     "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
@@ -135,7 +171,7 @@
     "published_at": "2026-03-12T16:52:17"
   },
   {
-    "id": 146,
+    "id": 150,
     "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
     "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
     "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
@@ -144,7 +180,7 @@
     "published_at": "2026-03-12T16:42:40"
   },
   {
-    "id": 147,
+    "id": 151,
     "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
     "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
     "summary": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
@@ -153,7 +189,7 @@
     "published_at": "2026-03-12T15:30:00"
   },
   {
-    "id": 148,
+    "id": 152,
     "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
     "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
     "summary": "The new Sassy style can curse and roast you, but the fun ends there.",
@@ -162,7 +198,7 @@
     "published_at": "2026-03-12T15:16:16"
   },
   {
-    "id": 149,
+    "id": 153,
     "title": "Wonderful raises $150M Series B at $2B valuation",
     "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
     "summary": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
@@ -189,7 +225,7 @@
     "published_at": "2026-03-12T13:00:00"
   },
   {
-    "id": 150,
+    "id": 154,
     "title": "Google is using old news reports and AI to predict flash floods",
     "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
     "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
@@ -198,7 +234,7 @@
     "published_at": "2026-03-12T13:00:00"
   },
   {
-    "id": 151,
+    "id": 155,
     "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
     "url": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
     "summary": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
@@ -216,33 +252,6 @@
     "published_at": "2026-03-12T08:00:00"
   },
   {
-    "id": 152,
-    "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-    "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-11T23:35:03"
-  },
-  {
-    "id": 153,
-    "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-    "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-    "author": "Kirsten Korosec",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-11T22:51:39"
-  },
-  {
-    "id": 154,
-    "title": "Zendesk acquires agentic customer service startup Forethought",
-    "url": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-    "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-11T22:41:27"
-  },
-  {
     "id": 77,
     "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
     "url": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
@@ -250,15 +259,6 @@
     "author": "Laboratory for Nuclear Science",
     "source": "MIT News AI",
     "published_at": "2026-03-11T22:30:00"
-  },
-  {
-    "id": 155,
-    "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-    "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-    "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-11T22:00:05"
   },
   {
     "id": 167,
@@ -316,18 +316,18 @@
   },
   {
     "id": 3,
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "url": "https://openai.com/index/equip-responses-api-computer-environment",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "url": "https://openai.com/index/wayfair",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-11T11:00:00"
   },
   {
     "id": 4,
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "url": "https://openai.com/index/wayfair",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-11T11:00:00"
@@ -487,18 +487,18 @@
   },
   {
     "id": 8,
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "url": "https://openai.com/index/descript",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "title": "Codex Security: now in research preview",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-06T10:00:00"
   },
   {
     "id": 9,
-    "title": "Codex Security: now in research preview",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-06T10:00:00"
@@ -523,18 +523,18 @@
   },
   {
     "id": 12,
-    "title": "GPT-5.4 Thinking System Card",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "summary": "",
+    "title": "Introducing GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
   },
   {
     "id": 13,
-    "title": "Introducing GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "title": "GPT-5.4 Thinking System Card",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary": "",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -559,9 +559,9 @@
   },
   {
     "id": 15,
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "url": "https://openai.com/index/chatgpt-for-excel",
-    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+    "title": "The five AI value models driving business reinvention",
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -577,9 +577,9 @@
   },
   {
     "id": 17,
-    "title": "The five AI value models driving business reinvention",
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -667,6 +667,15 @@
   },
   {
     "id": 24,
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
+    "id": 25,
     "title": "Scaling AI for everyone",
     "url": "https://openai.com/index/scaling-ai-for-everyone",
     "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -675,19 +684,10 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 25,
+    "id": 26,
     "title": "Joint Statement from OpenAI and Microsoft",
     "url": "https://openai.com/index/continuing-microsoft-partnership",
     "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 26,
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
