@@ -487,18 +487,18 @@
   },
   {
     "id": 8,
-    "title": "Codex Security: now in research preview",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+    "title": "How Descript enables multilingual video dubbing at scale",
+    "url": "https://openai.com/index/descript",
+    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-06T10:00:00"
   },
   {
     "id": 9,
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "url": "https://openai.com/index/descript",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+    "title": "Codex Security: now in research preview",
+    "url": "https://openai.com/index/codex-security-now-in-research-preview",
+    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-06T10:00:00"
@@ -514,18 +514,18 @@
   },
   {
     "id": 11,
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "title": "Introducing GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
   },
   {
     "id": 12,
-    "title": "Introducing GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -631,8 +631,8 @@
   },
   {
     "id": 21,
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "url": "https://openai.com/index/gpt-5-3-instant",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -640,8 +640,8 @@
   },
   {
     "id": 22,
-    "title": "GPT-5.3 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -676,18 +676,18 @@
   },
   {
     "id": 25,
-    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "url": "https://openai.com/index/amazon-partnership",
+    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
   },
   {
     "id": 26,
-    "title": "OpenAI and Amazon announce strategic partnership",
-    "url": "https://openai.com/index/amazon-partnership",
-    "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+    "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+    "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+    "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
@@ -892,18 +892,18 @@
   },
   {
     "id": 41,
-    "title": "Beyond rate limits: scaling access to Codex and Sora",
-    "url": "https://openai.com/index/beyond-rate-limits",
-    "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+    "title": "Scaling social science research",
+    "url": "https://openai.com/index/scaling-social-science-research",
+    "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-13T09:00:00"
   },
   {
     "id": 42,
-    "title": "Scaling social science research",
-    "url": "https://openai.com/index/scaling-social-science-research",
-    "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "url": "https://openai.com/index/beyond-rate-limits",
+    "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-13T09:00:00"
