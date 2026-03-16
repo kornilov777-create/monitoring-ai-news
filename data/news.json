@@ -316,18 +316,18 @@
   },
   {
     "id": 3,
-    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "url": "https://openai.com/index/wayfair",
-    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-11T11:00:00"
   },
   {
     "id": 4,
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "url": "https://openai.com/index/equip-responses-api-computer-environment",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "url": "https://openai.com/index/wayfair",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-11T11:00:00"
@@ -523,18 +523,18 @@
   },
   {
     "id": 12,
-    "title": "GPT-5.4 Thinking System Card",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "summary": "",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
   },
   {
     "id": 13,
-    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-    "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-    "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "title": "GPT-5.4 Thinking System Card",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary": "",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -559,15 +559,6 @@
   },
   {
     "id": 15,
-    "title": "Introducing the Adoption news channel",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 16,
     "title": "Introducing ChatGPT for Excel and new financial data integrations",
     "url": "https://openai.com/index/chatgpt-for-excel",
     "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
@@ -576,10 +567,19 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "The five AI value models driving business reinvention",
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 17,
+    "title": "Introducing the Adoption news channel",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -613,15 +613,6 @@
   },
   {
     "id": 19,
-    "title": "Understanding AI and learning outcomes",
-    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-    "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-04T00:00:00"
-  },
-  {
-    "id": 20,
     "title": "How Axios uses AI to help deliver high-impact local journalism",
     "url": "https://openai.com/index/axios-allison-murphy",
     "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
@@ -630,9 +621,18 @@
     "published_at": "2026-03-04T00:00:00"
   },
   {
+    "id": 20,
+    "title": "Understanding AI and learning outcomes",
+    "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+    "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-04T00:00:00"
+  },
+  {
     "id": 21,
-    "title": "GPT-5.3 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -640,8 +640,8 @@
   },
   {
     "id": 22,
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "url": "https://openai.com/index/gpt-5-3-instant",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -667,15 +667,6 @@
   },
   {
     "id": 24,
-    "title": "Scaling AI for everyone",
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 25,
     "title": "OpenAI and Amazon announce strategic partnership",
     "url": "https://openai.com/index/amazon-partnership",
     "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
@@ -684,10 +675,19 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 26,
+    "id": 25,
     "title": "Joint Statement from OpenAI and Microsoft",
     "url": "https://openai.com/index/continuing-microsoft-partnership",
     "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
+    "id": 26,
+    "title": "Scaling AI for everyone",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
