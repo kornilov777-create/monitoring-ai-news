@@ -1,5 +1,23 @@
 [
   {
+    "id": 136,
+    "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+    "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+    "summary": "After compressing models from major AI labs including OpenAI, Meta, DeepSeek and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+    "author": "Anna Heim",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-19T08:00:00"
+  },
+  {
+    "id": 163,
+    "title": "NVIDIA wants to make enterprise AI agents safe enough to actually deploy",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
+    "summary": "<p>The NVIDIA Agent Toolkit is Jensen Huang&#8217;s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data, our systems, and our liability? Announced&#160;at GTC 2026 in San Jose on March 16, the NVIDIA Agent Toolkit is an open source softw",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-03-19T08:00:00"
+  },
+  {
     "id": 76,
     "title": "Generative AI improves a wireless vision system that sees through obstructions",
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
@@ -18,7 +36,7 @@
     "published_at": "2026-03-19T04:00:00"
   },
   {
-    "id": 136,
+    "id": 137,
     "title": "Meta is having trouble with rogue AI agents",
     "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
     "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
@@ -27,7 +45,7 @@
     "published_at": "2026-03-18T23:42:46"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Sam Altman’s thank-you to coders draws the memes",
     "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
     "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
@@ -36,7 +54,7 @@
     "published_at": "2026-03-18T23:12:58"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
     "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
     "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
@@ -45,7 +63,7 @@
     "published_at": "2026-03-18T20:30:52"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
     "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
     "summary": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
@@ -54,7 +72,7 @@
     "published_at": "2026-03-18T20:01:19"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
     "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
     "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
@@ -63,7 +81,7 @@
     "published_at": "2026-03-18T17:54:31"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
     "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
     "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
@@ -72,7 +90,7 @@
     "published_at": "2026-03-18T17:15:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "The Gemini-powered features in Google Workspace that are worth using",
     "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
     "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
@@ -81,7 +99,7 @@
     "published_at": "2026-03-18T16:43:18"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
     "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
     "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing ",
@@ -90,7 +108,7 @@
     "published_at": "2026-03-18T16:30:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "This startup wants to make enterprise software look more like a prompt",
     "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
     "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
@@ -99,7 +117,7 @@
     "published_at": "2026-03-18T16:00:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
     "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
     "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
@@ -108,7 +126,7 @@
     "published_at": "2026-03-18T15:58:50"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
     "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
     "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
@@ -117,7 +135,7 @@
     "published_at": "2026-03-18T15:33:49"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Mastercard keeps tabs on fraud with new foundation model",
     "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
     "summary": "<p>Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that&#8217;s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, wi",
@@ -126,7 +144,7 @@
     "published_at": "2026-03-18T15:31:00"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "The PhD students who became the judges of the AI industry",
     "url": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
     "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing ",
@@ -135,7 +153,7 @@
     "published_at": "2026-03-18T15:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "For effective AI, insurance needs to get its data house in order",
     "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
     "summary": "<p>A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies&#8217; internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance concerns. Ins",
@@ -144,7 +162,7 @@
     "published_at": "2026-03-18T14:37:00"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
     "url": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
     "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk.",
@@ -171,7 +189,7 @@
     "published_at": "2026-03-17T22:30:46"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
     "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
     "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
@@ -180,7 +198,7 @@
     "published_at": "2026-03-17T21:00:00"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
     "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
     "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
@@ -198,7 +216,7 @@
     "published_at": "2026-03-17T20:35:44"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "The Pentagon is developing alternatives to Anthropic, report says",
     "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
     "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
@@ -207,7 +225,7 @@
     "published_at": "2026-03-17T18:20:15"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
     "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
     "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
@@ -216,7 +234,7 @@
     "published_at": "2026-03-17T17:17:15"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Google’s Personal Intelligence feature is expanding to all US users",
     "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
     "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
@@ -225,7 +243,7 @@
     "published_at": "2026-03-17T16:00:00"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "OpenAI expands government footprint with AWS deal, report says",
     "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
     "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
@@ -234,16 +252,7 @@
     "published_at": "2026-03-17T15:37:03"
   },
   {
-    "id": 155,
-    "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-    "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-    "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-17T15:16:21"
-  },
-  {
-    "id": 165,
+    "id": 166,
     "title": "Trustpilot partners with AI companies as traditional search declines",
     "url": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
     "summary": "<p>Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair said that AI agents acting on behalf of consumers require lots of information about the businesses th",
@@ -270,7 +279,7 @@
     "published_at": "2026-03-17T10:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Goldman Sachs sees AI investment shift to data centres",
     "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
     "summary": "<p>Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as ",
@@ -297,7 +306,7 @@
     "published_at": "2026-03-16T17:06:21"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "US Treasury publishes AI risk Guidebook for financial institutions",
     "url": "https://www.artificialintelligence-news.com/news/us-treasury-publishes-ai-risk-governance-guidebook-for-financial-institutions/",
     "summary": "<p>The US Treasury has published several documents designed for the US financial services sector that suggest a structured approach to managing AI risks in operations and policy (see subheading &#8216;Resources and Downloads&#8217; towards the bottom of the link). The CRI Financial Services AI Risk ",
@@ -315,7 +324,7 @@
     "published_at": "2026-03-16T13:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "NTT DATA and NVIDIA bring enterprise AI factories to production scale",
     "url": "https://www.artificialintelligence-news.com/news/ntt-data-nvidia-enterprise-ai-factories-production/",
     "summary": "<p>NTT DATA has announced an initiative to deliver NVIDIA-powered platforms designed to give organisations a repeatable, production-ready model for scaling AI. The offering integrates NVIDIA&#8217;s GPU-accelerated computing and high-performance networking with NVIDIA AI Enterprise software, includi",
@@ -333,7 +342,7 @@
     "published_at": "2026-03-16T11:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "OpenAI’s Frontier puts AI agents in a fight SaaS can’t afford to lose",
     "url": "https://www.artificialintelligence-news.com/news/openai-frontier-enterprise-ai-agents-saas/",
     "summary": "<p>When OpenAI launched Frontier in February, the announcement was described as a platform for enterprise AI agents. What it actually signalled was a challenge to the revenue architecture underpinning the software industry. Frontier is designed to act as a semantic layer in an organisation&#8217;s e",
@@ -360,7 +369,7 @@
     "published_at": "2026-03-13T15:16:55"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "E.SUN Bank and IBM build AI governance framework for banking",
     "url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
     "summary": "<p>E.SUN Bank is working with IBM to build clearer AI governance rules for how artificial intelligence can be used inside a bank. The effort reflects a wider shift in finance. Many firms already use AI for fraud checks and credit scoring, and some also use it to handle customer service queries. The ",
@@ -369,7 +378,7 @@
     "published_at": "2026-03-13T10:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "BMW puts humanoid robots to work in Germany–and Europe’s factories are watching",
     "url": "https://www.artificialintelligence-news.com/news/bmw-humanoid-robots-manufacturing-europe-leipzig/",
     "summary": "<p>Europe&#8217;s factory floors have a new kind of colleague. BMW Group has deployed humanoid robots in manufacturing in Germany for the first time, launching a pilot project at its Leipzig plant with AEON–a wheeled humanoid built by Hexagon Robotics.&#160; It is the&#160;first automotive deploymen",
@@ -396,7 +405,7 @@
     "published_at": "2026-03-12T21:30:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "How multi-agent AI economics influence business automation",
     "url": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
     "summary": "<p>Managing the economics of multi-agent AI now dictates the financial viability of modern business automation workflows. Organisations progressing past standard chat interfaces into multi-agent applications face two primary constraints. The first issue is the thinking tax; complex autonomous agents",
@@ -414,7 +423,7 @@
     "published_at": "2026-03-12T13:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
     "url": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
     "summary": "<p>When Romy Gai, FIFA&#8217;s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technology. He was talking about complexity. Previous World Cups relied on local organising committees to ab",
@@ -430,15 +439,6 @@
     "author": "Laboratory for Nuclear Science",
     "source": "MIT News AI",
     "published_at": "2026-03-11T22:30:00"
-  },
-  {
-    "id": 174,
-    "title": "Ai2: Building physical AI with virtual simulation data",
-    "url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
-    "summary": "<p>Virtual simulation data is driving the development of physical AI across corporate environments, led by initiatives like Ai2’s MolmoBot. Instructing hardware to interact with the real world has historically relied on highly expensive and manually-collected demonstrations. Technology providers bui",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-03-11T16:50:56"
   },
   {
     "id": 82,
