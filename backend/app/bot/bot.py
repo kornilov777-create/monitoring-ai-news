@@ -34,7 +34,7 @@ async def start_bot():
 
 async def send_digest_to_owner():
     """Отправить дайджест владельцу."""
-    from datetime import datetime, timedelta
+    from datetime import datetime, timedelta, UTC
     from sqlalchemy.orm import joinedload
     from app.database import SessionLocal
     from app.models.article import Article
@@ -45,7 +45,7 @@ async def send_digest_to_owner():
 
     db = SessionLocal()
     try:
-        since = datetime.utcnow() - timedelta(hours=24)
+        since = datetime.now(UTC) - timedelta(hours=24)
         articles = (
             db.query(Article)
             .options(joinedload(Article.source))

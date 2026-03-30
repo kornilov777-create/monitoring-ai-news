@@ -14,8 +14,12 @@ class Settings(BaseSettings):
         return f"sqlite:///{db_path}"
 
     # API
-    API_HOST: str = "0.0.0.0"
+    API_HOST: str = "127.0.0.1"
     API_PORT: int = 8000
+
+    # Security
+    API_SECRET_KEY: str = ""
+    CORS_ORIGINS: list[str] = ["http://localhost:3000"]
 
     # Monitoring
     COLLECT_INTERVAL_HOURS: int = 4

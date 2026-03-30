@@ -30,6 +30,19 @@ jobs:
         working-directory: backend
         run: python export_news.py
 
+      - name: Validate data size
+        run: |
+          MAX_SIZE=5000000
+          for f in data/news.json data/sources.json data/meta.json; do
+            if [ -f "$f" ]; then
+              size=$(stat -c%s "$f" 2>/dev/null || stat -f%z "$f")
+              if [ "$size" -gt "$MAX_SIZE" ]; then
+                echo "ERROR: $f is too large ($size bytes, max $MAX_SIZE)"
+                exit 1
+              fi
+            fi
+          done
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"

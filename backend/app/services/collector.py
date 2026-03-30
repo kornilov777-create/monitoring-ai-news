@@ -1,6 +1,7 @@
 import logging
-from datetime import datetime
+from datetime import datetime, UTC
 from typing import List
+from urllib.parse import urlparse
 
 from sqlalchemy.orm import Session
 
@@ -78,7 +79,7 @@ async def collect_all() -> dict:
                 new_count = _save_articles(db, source, articles)
                 total_new += new_count
 
-                source.last_checked = datetime.utcnow()
+                source.last_checked = datetime.now(UTC)
                 source.articles_count = (
                     db.query(Article).filter(Article.source_id == source.id).count()
                 )
@@ -113,6 +114,10 @@ def _save_articles(db: Session, source: Source, articles: List[dict]) -> int:
         if not url:
             continue
 
+        parsed_url = urlparse(url)
+        if parsed_url.scheme not in ("http", "https"):
+            continue
+
         existing = db.query(Article).filter(Article.url == url).first()
         if existing:
             continue
@@ -125,7 +130,7 @@ def _save_articles(db: Session, source: Source, articles: List[dict]) -> int:
             summary=(data.get("summary", "") or "")[:2000],
             content=content,
             author=data.get("author", ""),
-            published_at=data.get("published_at", datetime.utcnow()),
+            published_at=data.get("published_at", datetime.now(UTC)),
             content_hash=_hash(content),
         )
         db.add(article)

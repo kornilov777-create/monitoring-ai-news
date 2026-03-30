@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String, Float, Boolean, DateTime, Text
 from sqlalchemy.orm import relationship
-from datetime import datetime
+from datetime import datetime, UTC
 from app.database import Base
 
 class Source(Base):
@@ -26,7 +26,7 @@ class Source(Base):
     last_checked = Column(DateTime)
     articles_count = Column(Integer, default=0)
 
-    created_at = Column(DateTime, default=datetime.utcnow)
-    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+    created_at = Column(DateTime, default=lambda: datetime.now(UTC))
+    updated_at = Column(DateTime, default=lambda: datetime.now(UTC), onupdate=lambda: datetime.now(UTC))
 
     articles = relationship("Article", back_populates="source")

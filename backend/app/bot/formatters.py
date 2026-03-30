@@ -1,4 +1,4 @@
-from datetime import datetime
+from datetime import datetime, UTC
 from typing import List
 
 from app.models.article import Article
@@ -46,7 +46,7 @@ def format_digest(articles: List[Article]) -> str:
     if not articles:
         return "За последнее время новых AI-новостей не найдено."
 
-    now = datetime.utcnow()
+    now = datetime.now(UTC)
     header = f"<b>AI Дайджест</b> | {now.strftime('%d.%m.%Y')}\n"
     header += f"Найдено новостей: {len(articles)}\n"
 

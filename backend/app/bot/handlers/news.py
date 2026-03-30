@@ -1,5 +1,6 @@
+import logging
 import math
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 
 from aiogram import F, Router
 from aiogram.filters import Command
@@ -12,6 +13,8 @@ from app.models.source import Source
 from app.bot.formatters import format_article_list, format_digest, format_sources
 from app.bot.keyboards import get_main_keyboard, get_pagination_kb, get_refresh_kb
 from app.services.collector import collect_all
+
+logger = logging.getLogger(__name__)
 
 router = Router()
 
@@ -41,7 +44,7 @@ def _get_articles(limit: int = 10, offset: int = 0):
 def _get_articles_since(hours: int = 24, limit: int = 20):
     db = SessionLocal()
     try:
-        since = datetime.utcnow() - timedelta(hours=hours)
+        since = datetime.now(UTC) - timedelta(hours=hours)
         articles = (
             db.query(Article)
             .options(joinedload(Article.source))
@@ -130,7 +133,8 @@ async def cmd_collect(message: Message):
             f"Ошибок: {len(result['errors'])}"
         )
     except Exception as e:
-        await msg.edit_text(f"Ошибка сбора: {e}")
+        logger.error(f"Ошибка сбора: {e}", exc_info=True)
+        await msg.edit_text("Произошла ошибка при сборе новостей. Попробуйте позже.")
 
 
 # --- Callbacks ---
@@ -139,7 +143,12 @@ async def cmd_collect(message: Message):
 @router.callback_query(F.data.startswith("latest:"))
 async def cb_latest_page(callback: CallbackQuery):
     await callback.answer()
-    page = int(callback.data.split(":")[1])
+    try:
+        page = int(callback.data.split(":")[1])
+        if page < 0 or page > 10000:
+            return
+    except (ValueError, IndexError):
+        return
     offset = page * ARTICLES_PER_PAGE
 
     articles, total = _get_articles(limit=ARTICLES_PER_PAGE, offset=offset)

@@ -1,6 +1,6 @@
 from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
 from sqlalchemy.orm import relationship
-from datetime import datetime
+from datetime import datetime, UTC
 from app.database import Base
 
 class Article(Base):
@@ -16,7 +16,7 @@ class Article(Base):
     author = Column(String(200))
 
     published_at = Column(DateTime, nullable=False)
-    fetched_at = Column(DateTime, default=datetime.utcnow)
+    fetched_at = Column(DateTime, default=lambda: datetime.now(UTC))
 
     tags = Column(Text)  # JSON
     image_url = Column(String(1000))

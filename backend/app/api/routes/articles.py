@@ -1,15 +1,25 @@
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 from typing import Optional
 
-from fastapi import APIRouter, Depends, Query
+from fastapi import APIRouter, Depends, Header, HTTPException, Query
 from sqlalchemy.orm import Session, joinedload
 
+from app.config import settings
 from app.database import get_db
 from app.models.article import Article
 from app.models.source import Source
 from app.services.collector import collect_all
 
 router = APIRouter(prefix="/api", tags=["articles"])
+
+
+def _verify_api_key(x_api_key: str = Header(alias="X-API-Key")) -> str:
+    """Verify API key for protected endpoints."""
+    if not settings.API_SECRET_KEY:
+        raise HTTPException(status_code=503, detail="API key not configured")
+    if x_api_key != settings.API_SECRET_KEY:
+        raise HTTPException(status_code=403, detail="Invalid API key")
+    return x_api_key
 
 
 @router.get("/articles")
@@ -53,7 +63,7 @@ def top_articles(
     db: Session = Depends(get_db),
 ):
     """Топ статей за последние N часов (по дате публикации)."""
-    since = datetime.utcnow() - timedelta(hours=hours)
+    since = datetime.now(UTC) - timedelta(hours=hours)
     articles = (
         db.query(Article)
         .options(joinedload(Article.source))
@@ -85,8 +95,8 @@ def list_sources(db: Session = Depends(get_db)):
 
 
 @router.post("/collect")
-async def trigger_collect():
-    """Ручной запуск сбора новостей."""
+async def trigger_collect(_key: str = Depends(_verify_api_key)):
+    """Ручной запуск сбора новостей (requires X-API-Key header)."""
     result = await collect_all()
     return result
 

@@ -1,7 +1,7 @@
 import asyncio
 import feedparser
 from typing import List, Dict
-from datetime import datetime
+from datetime import datetime, UTC
 from .base_parser import BaseParser
 import logging
 
@@ -46,7 +46,7 @@ class RSSParser(BaseParser):
             return datetime(*entry.published_parsed[:6])
         elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
             return datetime(*entry.updated_parsed[:6])
-        return datetime.utcnow()
+        return datetime.now(UTC)
 
     def _extract_content(self, entry) -> str:
         """Extract full content from entry"""

@@ -6,7 +6,7 @@ import asyncio
 import json
 import logging
 import sys
-from datetime import datetime
+from datetime import datetime, UTC
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -68,7 +68,7 @@ def export_news():
 
         # Метаданные
         meta = {
-            "updated_at": datetime.utcnow().isoformat() + "Z",
+            "updated_at": datetime.now(UTC).isoformat(),
             "total_articles": total_articles,
             "exported_articles": len(news),
             "sources_count": len(sources),

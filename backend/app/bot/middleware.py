@@ -16,7 +16,8 @@ class OwnerMiddleware(BaseMiddleware):
         data: Dict[str, Any],
     ) -> Any:
         if not settings.TELEGRAM_OWNER_ID:
-            return await handler(event, data)
+            await event.answer("Бот не настроен: TELEGRAM_OWNER_ID не задан.")
+            return
 
         if event.from_user and event.from_user.id == settings.TELEGRAM_OWNER_ID:
             return await handler(event, data)
