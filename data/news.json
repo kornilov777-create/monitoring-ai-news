@@ -1,6 +1,69 @@
 [
   {
     "id": 136,
+    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+    "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+    "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-30T12:49:51"
+  },
+  {
+    "id": 137,
+    "title": "Qodo raises $70M for code verification as AI coding scales",
+    "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+    "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
+    "author": "Kate Park",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-30T12:30:00"
+  },
+  {
+    "id": 163,
+    "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
+    "url": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
+    "summary": "<p>When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn&#8217;t see a summary clicked nearly twice as often, at 15%. A quarter of users who saw ",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-03-30T11:57:11"
+  },
+  {
+    "id": 164,
+    "title": "Assessing AI powered price forecasting tools in currency markets",
+    "url": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
+    "summary": "<p>As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy translate into consistent results under live market conditions. Understanding how these AI systems ",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-03-30T11:49:38"
+  },
+  {
+    "id": 165,
+    "title": "Kong names Bruce Felt as chief financial officer",
+    "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
+    "summary": "<p>A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO. Felt is a seasoned finance leader who brings experience guiding enterprise software companies through their growth phases, including several IPOs, acquisitions, and global expansions. Mr",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-03-30T11:02:00"
+  },
+  {
+    "id": 138,
+    "title": "Starcloud raises $170 million Series Ato build data centers in space",
+    "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+    "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-30T11:00:00"
+  },
+  {
+    "id": 166,
+    "title": "JPMorgan begins tracking how employees use AI at work",
+    "url": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/",
+    "summary": "<p>Banking house JPMorgan Chase is asking its roughly 65,000 engineers and technologists to use AI tools as part of their regular workflow. Business Insider reported that managers are tracking how often staff use these tools. That use may also influence performance reviews. The report states employe",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-03-30T10:00:00"
+  },
+  {
+    "id": 139,
     "title": "Why OpenAI really shut down Sora",
     "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
     "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
@@ -18,7 +81,7 @@
     "published_at": "2026-03-29T22:15:00"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "Sora’s shutdown could be a reality check moment for AI video",
     "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
     "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
@@ -27,7 +90,7 @@
     "published_at": "2026-03-29T16:30:00"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
@@ -36,7 +99,7 @@
     "published_at": "2026-03-28T23:00:00"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
@@ -45,7 +108,7 @@
     "published_at": "2026-03-28T20:45:54"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
     "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
@@ -54,7 +117,7 @@
     "published_at": "2026-03-28T16:11:16"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
     "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
     "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
@@ -72,7 +135,7 @@
     "published_at": "2026-03-27T22:00:00"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
     "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
@@ -81,7 +144,7 @@
     "published_at": "2026-03-27T21:44:45"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
     "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
     "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
@@ -90,7 +153,7 @@
     "published_at": "2026-03-27T19:11:28"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
     "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
     "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
@@ -99,7 +162,7 @@
     "published_at": "2026-03-27T15:40:19"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "OpenAI shuts down Sora while Meta gets shut out in court",
     "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
     "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
@@ -108,7 +171,7 @@
     "published_at": "2026-03-27T13:30:00"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
     "url": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
     "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
@@ -117,7 +180,7 @@
     "published_at": "2026-03-27T01:26:40"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
     "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
     "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
@@ -126,7 +189,7 @@
     "published_at": "2026-03-27T01:18:38"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
     "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
     "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
@@ -135,7 +198,7 @@
     "published_at": "2026-03-26T23:47:56"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "Wikipedia cracks down on the use of AI in article writing",
     "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
     "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
@@ -162,7 +225,7 @@
     "published_at": "2026-03-26T20:20:00"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
     "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
     "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
@@ -171,7 +234,7 @@
     "published_at": "2026-03-26T18:34:02"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Data centers get ready — the Senate wants to see your power bills",
     "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
     "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
@@ -180,7 +243,7 @@
     "published_at": "2026-03-26T18:23:31"
   },
   {
-    "id": 152,
+    "id": 155,
     "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
     "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
     "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
@@ -189,34 +252,7 @@
     "published_at": "2026-03-26T15:25:13"
   },
   {
-    "id": 153,
-    "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-    "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-    "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
-    "author": "Ram Iyer",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-26T13:41:00"
-  },
-  {
-    "id": 154,
-    "title": "Cohere launches an open source voice model specifically for transcription",
-    "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-    "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-26T13:30:00"
-  },
-  {
-    "id": 155,
-    "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-    "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-    "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
-    "author": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-26T12:00:00"
-  },
-  {
-    "id": 163,
+    "id": 167,
     "title": "RPA matters, but AI changes how automation works",
     "url": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
     "summary": "<p>RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems. By using software bots to follow fixed rules, companies can automate repetitive tasks like data entry and invoice processing, and to a certain extent, report generation. ",
@@ -243,7 +279,7 @@
     "published_at": "2026-03-25T21:00:00"
   },
   {
-    "id": 164,
+    "id": 168,
     "title": "Ocorian: Family offices turn to AI for financial data insights",
     "url": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
     "summary": "<p>To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis. Representing a combined wealth of $119.3",
@@ -288,7 +324,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 165,
+    "id": 169,
     "title": "AI agents enter banking roles at Bank of America",
     "url": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
     "summary": "<p>AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 fin",
@@ -315,7 +351,7 @@
     "published_at": "2026-03-25T00:00:00"
   },
   {
-    "id": 166,
+    "id": 170,
     "title": "Automating complex finance workflows with multimodal AI",
     "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
     "summary": "<p>Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise co",
@@ -324,7 +360,7 @@
     "published_at": "2026-03-24T17:03:48"
   },
   {
-    "id": 167,
+    "id": 171,
     "title": "Securing AI systems under today’s and tomorrow’s conditions",
     "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
     "summary": "<p>Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI&#8217;s value depends on data amassed by an organisation. However, there a",
@@ -396,7 +432,7 @@
     "published_at": "2026-03-23T16:31:20"
   },
   {
-    "id": 168,
+    "id": 172,
     "title": "Palantir AI to support UK finance operations",
     "url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
     "summary": "<p>UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country&#8217;s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities. The FCA is currently testing the Foundr",
@@ -459,7 +495,7 @@
     "published_at": "2026-03-19T10:00:00"
   },
   {
-    "id": 169,
+    "id": 173,
     "title": "Visa prepares payment systems for AI agent-initiated transactions",
     "url": "https://www.artificialintelligence-news.com/news/visa-prepares-payment-systems-for-ai-agent-initiated-transactions/",
     "summary": "<p>Payments rely on a simple model: a person decides to buy something, and a bank or card network processes the transaction. That model is starting to change as Visa tests how AI agents can initiate payments. New work in the banking sector suggests that, in some cases, software agents may soon take ",
@@ -468,7 +504,7 @@
     "published_at": "2026-03-19T10:00:00"
   },
   {
-    "id": 170,
+    "id": 174,
     "title": "NVIDIA wants enterprise AI agents safer to deploy",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-agent-toolkit-enterprise-ai-agents/",
     "summary": "<p>The NVIDIA Agent Toolkit is Jensen Huang&#8217;s answer to the question enterprises keep asking: how do we put AI agents to work without losing control of our data and our liability? Announced at GTC 2026 in San Jose on March 16, the NVIDIA Agent Toolkit is an open-source software stack designed ",
@@ -504,24 +540,6 @@
     "published_at": "2026-03-19T00:00:00"
   },
   {
-    "id": 171,
-    "title": "Mastercard keeps tabs on fraud with new foundation model",
-    "url": "https://www.artificialintelligence-news.com/news/mastercards-ltm-keeps-tabs-on-fraud-with-a-new-foundation-model/",
-    "summary": "<p>Mastercard has developed a large tabular model (an LTM as opposed to an LLM) that&#8217;s trained on transaction data rather than text or images to help it address security and authenticity issues in digital payments. The company has trained a foundation model on billions of card transactions, wi",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-03-18T15:31:00"
-  },
-  {
-    "id": 172,
-    "title": "For effective AI, insurance needs to get its data house in order",
-    "url": "https://www.artificialintelligence-news.com/news/for-effective-ai-insurance-needs-a-better-data-layer-and-integration/",
-    "summary": "<p>A report from Autorek, a provider of AI solutions to the insurance industry has produced a report that describes operational drag in companies&#8217; internal processes that not only affect overall efficiency but cause an impediment to the effective implementation of AI in insurance concerns. Ins",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-03-18T14:37:00"
-  },
-  {
     "id": 88,
     "title": "Sustaining diplomacy amid competition in US-China relations",
     "url": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
@@ -549,15 +567,6 @@
     "published_at": "2026-03-17T20:35:44"
   },
   {
-    "id": 173,
-    "title": "Trustpilot partners with AI companies as traditional search declines",
-    "url": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-    "summary": "<p>Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair said that AI agents acting on behalf of consumers require lots of information about the businesses th",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-03-17T12:26:00"
-  },
-  {
     "id": 11,
     "title": "Introducing GPT-5.4 mini and nano",
     "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
@@ -573,15 +582,6 @@
     "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-03-17T10:00:00"
-  },
-  {
-    "id": 174,
-    "title": "Goldman Sachs sees AI investment shift to data centres",
-    "url": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-    "summary": "<p>Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems. Recent analysis from Goldman Sachs suggests the market is moving toward what the firm describes as ",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
     "published_at": "2026-03-17T10:00:00"
   },
   {
