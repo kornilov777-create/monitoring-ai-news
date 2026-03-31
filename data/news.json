@@ -1,6 +1,42 @@
 [
   {
+    "id": 163,
+    "title": "SAP and ANYbotics drive industrial adoption of physical AI",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+    "summary": "<p>Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straig",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-03-31T15:20:53"
+  },
+  {
     "id": 136,
+    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-31T15:00:00"
+  },
+  {
+    "id": 126,
+    "title": "Shifting to AI model customization is an architectural imperative",
+    "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+    "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improveme",
+    "author": "Barry Conklin",
+    "source": "MIT Technology Review",
+    "published_at": "2026-03-31T14:12:50"
+  },
+  {
+    "id": 137,
+    "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+    "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+    "author": "Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-03-31T14:00:00"
+  },
+  {
+    "id": 138,
     "title": "With its new app store, Ring bets on AI to go beyond home security",
     "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
     "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
@@ -9,7 +45,16 @@
     "published_at": "2026-03-31T13:00:00"
   },
   {
-    "id": 137,
+    "id": 127,
+    "title": "AI benchmarks are broken. Here’s what we need instead.",
+    "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+    "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&#160; This framin",
+    "author": "Angela Aristidou",
+    "source": "MIT Technology Review",
+    "published_at": "2026-03-31T12:01:08"
+  },
+  {
+    "id": 139,
     "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
     "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
     "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
@@ -18,7 +63,7 @@
     "published_at": "2026-03-30T23:41:48"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
     "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
     "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
@@ -27,7 +72,7 @@
     "published_at": "2026-03-30T23:08:12"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "As more Americans adopt AI tools, fewer say they can trust the results",
     "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
     "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
@@ -36,7 +81,7 @@
     "published_at": "2026-03-30T20:24:53"
   },
   {
-    "id": 126,
+    "id": 128,
     "title": "There are more AI health tools than ever—but how well do they work?",
     "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
     "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to",
@@ -45,7 +90,7 @@
     "published_at": "2026-03-30T16:00:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Secure governance accelerates financial AI revenue growth",
     "url": "https://www.artificialintelligence-news.com/news/secure-governance-accelerates-financial-ai-revenue-growth/",
     "summary": "<p>Financial institutions are learning to deploy compliant AI solutions for greater revenue growth and market advantage. For the better part of ten years, financial institutions viewed AI primarily as a mechanism for pure efficiency gains. During that era, quantitative teams programmed systems desig",
@@ -54,7 +99,7 @@
     "published_at": "2026-03-30T15:54:58"
   },
   {
-    "id": 127,
+    "id": 129,
     "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
     "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its ",
@@ -72,7 +117,7 @@
     "published_at": "2026-03-30T15:00:00"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
     "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
     "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
@@ -81,7 +126,7 @@
     "published_at": "2026-03-30T14:30:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Glia wins Excellence Award for safer AI in banking",
     "url": "https://www.artificialintelligence-news.com/news/glia-wins-excellence-award-for-safer-ai-in-banking/",
     "summary": "<p>Glia, a customer service platform providing AI-powered interactions for the banking sector, has been named a winner in the Banking and Financial Services Category at the 2026 Artificial Intelligence Excellence Awards. The awards recognises achievements in a range of industries and use cases, spot",
@@ -90,7 +135,7 @@
     "published_at": "2026-03-30T14:12:59"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
     "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
     "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
@@ -99,7 +144,7 @@
     "published_at": "2026-03-30T13:52:02"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
     "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
     "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
@@ -108,7 +153,7 @@
     "published_at": "2026-03-30T13:00:00"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
     "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
     "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
@@ -117,7 +162,7 @@
     "published_at": "2026-03-30T12:49:51"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Qodo raises $70M for code verification as AI coding scales",
     "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
     "summary": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works.",
@@ -126,7 +171,7 @@
     "published_at": "2026-03-30T12:30:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "How AEO vs GEO reshapes AI-driven brand discovery in 2026",
     "url": "https://www.artificialintelligence-news.com/news/how-aeo-vs-geo-reshapes-ai-driven-brand-discovery-in-2026/",
     "summary": "<p>When Pew Research Centre analysed 68,879 Google searches in March 2025, one finding stood out: users who encountered an AI-generated summary clicked on a traditional result just 8% of the time. Those who didn&#8217;t see a summary clicked nearly twice as often, at 15%. A quarter of users who saw ",
@@ -135,7 +180,7 @@
     "published_at": "2026-03-30T11:57:11"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Assessing AI powered price forecasting tools in currency markets",
     "url": "https://www.artificialintelligence-news.com/news/assessing-ai-powered-price-forecasting-tools-in-currency-markets/",
     "summary": "<p>As artificial intelligence becomes a driving force in financial prediction, the reliability of its forecasting tools faces increasing scrutiny. Many traders question whether claims of high accuracy translate into consistent results under live market conditions. Understanding how these AI systems ",
@@ -144,7 +189,7 @@
     "published_at": "2026-03-30T11:49:38"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Kong names Bruce Felt as chief financial officer",
     "url": "https://www.artificialintelligence-news.com/news/kong-names-bruce-felt-as-chief-financial-officer/",
     "summary": "<p>A developer of API and AI connectivity technologies, Kong, has announced that Bruce Felt has joined it as CFO. Felt is a seasoned finance leader who brings experience guiding enterprise software companies through their growth phases, including several IPOs, acquisitions, and global expansions. Mr",
@@ -153,7 +198,7 @@
     "published_at": "2026-03-30T11:02:00"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Starcloud raises $170 million Series A to build data centers in space",
     "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
     "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
@@ -162,7 +207,7 @@
     "published_at": "2026-03-30T11:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "JPMorgan begins tracking how employees use AI at work",
     "url": "https://www.artificialintelligence-news.com/news/jpmorgan-begins-tracking-how-employees-use-ai-at-work/",
     "summary": "<p>Banking house JPMorgan Chase is asking its roughly 65,000 engineers and technologists to use AI tools as part of their regular workflow. Business Insider reported that managers are tracking how often staff use these tools. That use may also influence performance reviews. The report states employe",
@@ -171,7 +216,7 @@
     "published_at": "2026-03-30T10:00:00"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Why OpenAI really shut down Sora",
     "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
     "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public, raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
@@ -189,7 +234,7 @@
     "published_at": "2026-03-29T22:15:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Sora’s shutdown could be a reality check moment for AI video",
     "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
     "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
@@ -198,7 +243,7 @@
     "published_at": "2026-03-29T16:30:00"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
@@ -207,7 +252,7 @@
     "published_at": "2026-03-28T23:00:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
@@ -216,7 +261,7 @@
     "published_at": "2026-03-28T20:45:54"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
     "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
@@ -225,7 +270,7 @@
     "published_at": "2026-03-28T16:11:16"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
     "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
     "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
@@ -243,7 +288,7 @@
     "published_at": "2026-03-27T22:00:00"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
     "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
@@ -252,31 +297,13 @@
     "published_at": "2026-03-27T21:44:45"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
     "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
     "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
     "author": "Kate Park",
     "source": "TechCrunch AI",
     "published_at": "2026-03-27T19:11:28"
-  },
-  {
-    "id": 154,
-    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-    "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
-    "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-27T15:40:19"
-  },
-  {
-    "id": 155,
-    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
-    "author": "Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-03-27T13:30:00"
   },
   {
     "id": 77,
@@ -297,7 +324,7 @@
     "published_at": "2026-03-26T20:20:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "RPA matters, but AI changes how automation works",
     "url": "https://www.artificialintelligence-news.com/news/rpa-still-matters-but-ai-is-changing-how-automation-works/",
     "summary": "<p>RPA (robotic process automation) is a practical and proven way to reduce manual work in business processes without AI systems. By using software bots to follow fixed rules, companies can automate repetitive tasks like data entry and invoice processing, and to a certain extent, report generation. ",
@@ -324,7 +351,7 @@
     "published_at": "2026-03-25T21:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Ocorian: Family offices turn to AI for financial data insights",
     "url": "https://www.artificialintelligence-news.com/news/ocorian-family-offices-ai-for-financial-data-insights/",
     "summary": "<p>To gain financial data insights, the majority of family offices now turn to AI, according to new research from Ocorian. The global study reveals 86 percent of these private wealth groups are utilising AI to improve their daily operations and data analysis. Representing a combined wealth of $119.3",
@@ -333,7 +360,7 @@
     "published_at": "2026-03-25T14:58:29"
   },
   {
-    "id": 128,
+    "id": 130,
     "title": "This startup wants to change how mathematicians do math",
     "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
     "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch",
@@ -342,7 +369,7 @@
     "published_at": "2026-03-25T13:59:17"
   },
   {
-    "id": 129,
+    "id": 131,
     "title": "Agentic commerce runs on truth and context",
     "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
     "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,",
@@ -369,7 +396,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "AI agents enter banking roles at Bank of America",
     "url": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
     "summary": "<p>AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an internal AI-powered advisory platform to a subset of financial advisers, rolled out to around 1,000 fin",
@@ -378,7 +405,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 130,
+    "id": 132,
     "title": "The AI Hype Index: AI goes to war",
     "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
     "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee",
@@ -396,7 +423,7 @@
     "published_at": "2026-03-25T00:00:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Automating complex finance workflows with multimodal AI",
     "url": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
     "summary": "<p>Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for developers. Historically, standard optical character recognition systems failed to accurately digitise co",
@@ -405,7 +432,7 @@
     "published_at": "2026-03-24T17:03:48"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Securing AI systems under today’s and tomorrow’s conditions",
     "url": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
     "summary": "<p>Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of AI on data they hold. AI&#8217;s value depends on data amassed by an organisation. However, there a",
@@ -468,7 +495,7 @@
     "published_at": "2026-03-23T17:45:00"
   },
   {
-    "id": 131,
+    "id": 133,
     "title": "The hardest question to answer about AI-fueled delusions",
     "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI com",
@@ -477,16 +504,7 @@
     "published_at": "2026-03-23T16:31:20"
   },
   {
-    "id": 174,
-    "title": "Palantir AI to support UK finance operations",
-    "url": "https://www.artificialintelligence-news.com/news/palantir-ai-to-support-uk-finance-operations/",
-    "summary": "<p>UK authorities believe improving efficiency across national finance operations requires applying AI platforms from vendors like Palantir. The country&#8217;s financial regulator, the FCA, has initiated a project leveraging AI to identify illicit activities. The FCA is currently testing the Foundr",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-03-23T13:14:23"
-  },
-  {
-    "id": 132,
+    "id": 134,
     "title": "The Bay Area’s animal welfare movement wants to recruit AI",
     "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
     "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.&#160; In the common area",
@@ -522,7 +540,7 @@
     "published_at": "2026-03-20T12:45:00"
   },
   {
-    "id": 133,
+    "id": 135,
     "title": "OpenAI is throwing everything into building a fully automated researcher",
     "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
     "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​Open",
@@ -576,15 +594,6 @@
     "published_at": "2026-03-18T04:00:00"
   },
   {
-    "id": 134,
-    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-    "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.&#160; AI models like Anthropic’s Claude are already used to answer questions in classified settings; a",
-    "author": "James O'Donnell",
-    "source": "MIT Technology Review",
-    "published_at": "2026-03-17T22:30:46"
-  },
-  {
     "id": 90,
     "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
     "url": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
@@ -619,15 +628,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-17T00:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Where OpenAI’s technology could show up in Iran",
-    "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It&#8217;s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still",
-    "author": "James O'Donnell",
-    "source": "MIT Technology Review",
-    "published_at": "2026-03-16T17:06:21"
   },
   {
     "id": 14,
