@@ -667,18 +667,18 @@
   },
   {
     "id": 15,
-    "title": "Introducing GPT-5.4 mini and nano",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-17T10:00:00"
   },
   {
     "id": 16,
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "title": "Introducing GPT-5.4 mini and nano",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-17T10:00:00"
@@ -856,15 +856,6 @@
   },
   {
     "id": 29,
-    "title": "Introducing GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 30,
     "title": "GPT-5.4 Thinking System Card",
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "summary": "",
@@ -873,10 +864,19 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 31,
+    "id": 30,
     "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00"
+  },
+  {
+    "id": 31,
+    "title": "Introducing GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -892,15 +892,6 @@
   },
   {
     "id": 33,
-    "title": "Introducing the Adoption news channel",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 34,
     "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
     "url": "https://openai.com/index/vfl-wolfsburg",
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
@@ -909,7 +900,7 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 35,
+    "id": 34,
     "title": "Introducing ChatGPT for Excel and new financial data integrations",
     "url": "https://openai.com/index/chatgpt-for-excel",
     "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
@@ -918,10 +909,19 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 36,
+    "id": 35,
     "title": "The five AI value models driving business reinvention",
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 36,
+    "title": "Introducing the Adoption news channel",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -946,15 +946,6 @@
   },
   {
     "id": 38,
-    "title": "How Axios uses AI to help deliver high-impact local journalism",
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-04T00:00:00"
-  },
-  {
-    "id": 39,
     "title": "Understanding AI and learning outcomes",
     "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
@@ -963,9 +954,18 @@
     "published_at": "2026-03-04T00:00:00"
   },
   {
+    "id": 39,
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-04T00:00:00"
+  },
+  {
     "id": 40,
-    "title": "GPT-5.3 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -973,8 +973,8 @@
   },
   {
     "id": 41,
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "url": "https://openai.com/index/gpt-5-3-instant",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -1000,6 +1000,15 @@
   },
   {
     "id": 43,
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
+    "id": 44,
     "title": "Scaling AI for everyone",
     "url": "https://openai.com/index/scaling-ai-for-everyone",
     "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -1008,19 +1017,10 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "OpenAI and Amazon announce strategic partnership",
     "url": "https://openai.com/index/amazon-partnership",
     "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 45,
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
