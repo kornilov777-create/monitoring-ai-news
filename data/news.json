@@ -1,6 +1,60 @@
 [
   {
     "id": 136,
+    "title": "Uber is the latest to be won over by Amazon’s AI chips",
+    "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+    "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-07T16:46:59"
+  },
+  {
+    "id": 137,
+    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+    "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+    "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
+    "author": "Rebecca Szkutak",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-07T16:05:56"
+  },
+  {
+    "id": 138,
+    "title": "Google Maps can now write captions for your photos using AI",
+    "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+    "summary": "Gemini can now create captions when users are looking to share a photo or video.",
+    "author": "Aisha Malik",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-07T15:30:00"
+  },
+  {
+    "id": 163,
+    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+    "summary": "<p>Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edg",
+    "author": "David Thomas",
+    "source": "AI News",
+    "published_at": "2026-04-07T14:40:42"
+  },
+  {
+    "id": 126,
+    "title": "Enabling agent-first process redesign",
+    "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
+    "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they interact with data, systems, people, and other agents in real time, AI agents can execute entire workflows autonomously. But unlocking their potential requires redesigning processes around age",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-04-07T14:00:00"
+  },
+  {
+    "id": 139,
+    "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
+    "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
+    "summary": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-07T14:00:00"
+  },
+  {
+    "id": 140,
     "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
     "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
     "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
@@ -9,7 +63,7 @@
     "published_at": "2026-04-07T13:00:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
     "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
     "summary": "<p>The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across do",
@@ -18,7 +72,7 @@
     "published_at": "2026-04-07T12:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
     "url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
     "summary": "<p>The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude fr",
@@ -27,7 +81,7 @@
     "published_at": "2026-04-07T10:00:00"
   },
   {
-    "id": 137,
+    "id": 141,
     "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
     "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
     "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
@@ -45,7 +99,7 @@
     "published_at": "2026-04-07T04:00:00"
   },
   {
-    "id": 138,
+    "id": 142,
     "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
     "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
     "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
@@ -54,7 +108,7 @@
     "published_at": "2026-04-06T21:54:26"
   },
   {
-    "id": 139,
+    "id": 143,
     "title": "Google quietly launched an AI dictation app that works offline",
     "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
     "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
@@ -63,7 +117,7 @@
     "published_at": "2026-04-06T18:54:33"
   },
   {
-    "id": 140,
+    "id": 144,
     "title": "Iran threatens ‘Stargate’ AI data centers",
     "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
     "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
@@ -72,7 +126,7 @@
     "published_at": "2026-04-06T18:06:28"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "The one piece of data that could actually shed light on your job and AI",
     "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, respo",
@@ -81,7 +135,7 @@
     "published_at": "2026-04-06T16:33:35"
   },
   {
-    "id": 141,
+    "id": 145,
     "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
     "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
     "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
@@ -90,7 +144,7 @@
     "published_at": "2026-04-06T15:55:55"
   },
   {
-    "id": 142,
+    "id": 146,
     "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
     "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
     "summary": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield 200. Applications close on May 27.",
@@ -99,7 +153,7 @@
     "published_at": "2026-04-06T14:30:00"
   },
   {
-    "id": 143,
+    "id": 147,
     "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
     "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
     "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
@@ -108,7 +162,7 @@
     "published_at": "2026-04-06T14:11:42"
   },
   {
-    "id": 144,
+    "id": 148,
     "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
     "summary": "Starting today, you have 5 days to save nearly $500 on your ticket to TechCrunch Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates.",
@@ -117,7 +171,7 @@
     "published_at": "2026-04-06T14:00:00"
   },
   {
-    "id": 145,
+    "id": 149,
     "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
     "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
     "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
@@ -126,7 +180,7 @@
     "published_at": "2026-04-06T13:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "AI is changing how small online sellers decide what to make",
     "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
     "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails ",
@@ -144,7 +198,7 @@
     "published_at": "2026-04-06T10:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "As AI agents take on more tasks, governance becomes a priority",
     "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
     "summary": "<p>AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model",
@@ -162,7 +216,7 @@
     "published_at": "2026-04-06T02:30:00"
   },
   {
-    "id": 146,
+    "id": 150,
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
     "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
     "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
@@ -171,7 +225,7 @@
     "published_at": "2026-04-05T18:51:37"
   },
   {
-    "id": 147,
+    "id": 151,
     "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
     "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
     "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
@@ -180,7 +234,7 @@
     "published_at": "2026-04-05T15:40:58"
   },
   {
-    "id": 148,
+    "id": 152,
     "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
     "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
     "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
@@ -189,7 +243,7 @@
     "published_at": "2026-04-05T14:00:00"
   },
   {
-    "id": 149,
+    "id": 153,
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
     "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
     "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
@@ -198,7 +252,7 @@
     "published_at": "2026-04-04T16:32:22"
   },
   {
-    "id": 150,
+    "id": 154,
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
     "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
@@ -216,7 +270,7 @@
     "published_at": "2026-04-03T20:55:00"
   },
   {
-    "id": 151,
+    "id": 155,
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
     "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
     "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
@@ -225,43 +279,7 @@
     "published_at": "2026-04-03T20:35:34"
   },
   {
-    "id": 152,
-    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-    "author": "Dominic-Madori Davis",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-03T20:28:40"
-  },
-  {
-    "id": 153,
-    "title": "Anthropic ramps up its political activities with a new PAC",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-03T20:22:18"
-  },
-  {
-    "id": 154,
-    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-    "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-    "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-    "author": "Tim De Chant",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-03T19:48:22"
-  },
-  {
-    "id": 155,
-    "title": "People would rather have an Amazon warehouse in their backyard than a data center",
-    "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
-    "summary": "A new poll shows that the debate over data centers is far from settled.",
-    "author": "Tim De Chant",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-03T19:20:36"
-  },
-  {
-    "id": 166,
+    "id": 167,
     "title": "KiloClaw targets shadow AI with autonomous agent governance",
     "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
     "summary": "<p>With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employee",
@@ -270,7 +288,7 @@
     "published_at": "2026-04-02T16:30:53"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "5 best practices to secure AI systems",
     "url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
     "summary": "<p>A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations",
@@ -279,7 +297,7 @@
     "published_at": "2026-04-02T14:45:03"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "China’s Five-Year Plan details the targets for AI deployment",
     "url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
     "summary": "<p>China has approved its 15th Five-Year Plan [PDF] setting out the country&#8217;s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongs",
@@ -306,7 +324,7 @@
     "published_at": "2026-04-02T10:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Autonomous AI systems depend on data governance",
     "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
     "summary": "<p>Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system&#8217;s",
@@ -315,7 +333,7 @@
     "published_at": "2026-04-02T10:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
     "url": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
     "summary": "<p>The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian&#8217;s 2026 Future of Fraud Forecast, and it&#8217;s a tension the company is in a position to name because it sits on both sides of it. According to FTC ",
@@ -333,7 +351,7 @@
     "published_at": "2026-04-02T04:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
     "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
     "summary": "<p>Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG&#8217;s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of",
@@ -342,7 +360,7 @@
     "published_at": "2026-04-01T15:24:01"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
     "url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
     "summary": "<p>AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL&#8217;s 2026 Language AI&#160;report, &#8220;Borderless Business: Transforming Translation in the Age of AI,&#8221; published on March 10. Despite broad AI investment across business funct",
@@ -351,7 +369,7 @@
     "published_at": "2026-04-01T12:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "The gig workers who are training humanoid robots at home",
     "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
     "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a&#8",
@@ -360,7 +378,7 @@
     "published_at": "2026-04-01T11:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Hershey applies AI across its supply chain operations",
     "url": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
     "summary": "<p>Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company&#8217;s latest strat",
@@ -387,16 +405,7 @@
     "published_at": "2026-04-01T02:00:00"
   },
   {
-    "id": 174,
-    "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-    "url": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
-    "summary": "<p>Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software company SAP are trying to change that. ANYbotics’ four-legged autonomous robots will be connected straig",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-03-31T15:20:53"
-  },
-  {
-    "id": 129,
+    "id": 130,
     "title": "Shifting to AI model customization is an architectural imperative",
     "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
     "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improveme",
@@ -414,7 +423,7 @@
     "published_at": "2026-03-31T13:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "AI benchmarks are broken. Here’s what we need instead.",
     "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
     "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.&#160; This framin",
@@ -423,7 +432,7 @@
     "published_at": "2026-03-31T12:01:08"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "There are more AI health tools than ever—but how well do they work?",
     "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
     "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to",
@@ -432,7 +441,7 @@
     "published_at": "2026-03-30T16:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
     "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its ",
@@ -504,7 +513,7 @@
     "published_at": "2026-03-25T21:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "This startup wants to change how mathematicians do math",
     "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
     "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Ch",
@@ -513,7 +522,7 @@
     "published_at": "2026-03-25T13:59:17"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Agentic commerce runs on truth and context",
     "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
     "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution,",
@@ -538,15 +547,6 @@
     "author": "Jennifer Chu | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-03-25T10:00:00"
-  },
-  {
-    "id": 135,
-    "title": "The AI Hype Index: AI goes to war",
-    "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-    "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re kee",
-    "author": "Michelle Kim",
-    "source": "MIT Technology Review",
-    "published_at": "2026-03-25T09:00:00"
   },
   {
     "id": 10,
