@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-08T05:40:19"
+  },
+  {
+    "id": 137,
     "title": "I can’t help rooting for tiny open source AI model maker Arcee",
     "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
     "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
@@ -18,7 +27,7 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
     "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
     "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
@@ -27,7 +36,7 @@
     "published_at": "2026-04-07T18:46:55"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Intel signs on to Elon Musk’s Terafab chips project",
     "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
     "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
@@ -36,7 +45,7 @@
     "published_at": "2026-04-07T18:10:01"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
     "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
     "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
@@ -45,7 +54,7 @@
     "published_at": "2026-04-07T18:00:00"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Uber is the latest to be won over by Amazon’s AI chips",
     "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
     "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
@@ -54,7 +63,7 @@
     "published_at": "2026-04-07T16:46:59"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
     "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
     "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
@@ -63,22 +72,13 @@
     "published_at": "2026-04-07T16:05:56"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Google Maps can now write captions for your photos using AI",
     "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
     "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
     "author": "Aisha Malik",
     "source": "TechCrunch AI",
     "published_at": "2026-04-07T15:30:00"
-  },
-  {
-    "id": 163,
-    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
-    "url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
-    "summary": "<p>Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edg",
-    "author": "David Thomas",
-    "source": "AI News",
-    "published_at": "2026-04-07T14:40:42"
   },
   {
     "id": 126,
@@ -90,7 +90,7 @@
     "published_at": "2026-04-07T14:00:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
     "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
     "summary": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
@@ -99,7 +99,7 @@
     "published_at": "2026-04-07T14:00:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
     "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
     "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
@@ -108,25 +108,7 @@
     "published_at": "2026-04-07T13:00:00"
   },
   {
-    "id": 164,
-    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
-    "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
-    "summary": "<p>The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across do",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-04-07T12:00:00"
-  },
-  {
-    "id": 165,
-    "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
-    "summary": "<p>The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude fr",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-04-07T10:00:00"
-  },
-  {
-    "id": 145,
+    "id": 146,
     "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
     "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
     "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
@@ -144,22 +126,13 @@
     "published_at": "2026-04-07T04:00:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
     "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
     "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
     "author": "Julie Bort",
     "source": "TechCrunch AI",
     "published_at": "2026-04-06T21:54:26"
-  },
-  {
-    "id": 147,
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-06T18:54:33"
   },
   {
     "id": 148,
@@ -243,15 +216,6 @@
     "published_at": "2026-04-06T10:00:00"
   },
   {
-    "id": 166,
-    "title": "As AI agents take on more tasks, governance becomes a priority",
-    "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
-    "summary": "<p>AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-04-06T10:00:00"
-  },
-  {
     "id": 2,
     "title": "Industrial policy for the Intelligence Age",
     "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
@@ -288,33 +252,6 @@
     "published_at": "2026-04-03T20:55:00"
   },
   {
-    "id": 167,
-    "title": "KiloClaw targets shadow AI with autonomous agent governance",
-    "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
-    "summary": "<p>With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employee",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-02T16:30:53"
-  },
-  {
-    "id": 168,
-    "title": "5 best practices to secure AI systems",
-    "url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
-    "summary": "<p>A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations",
-    "author": "WebFX",
-    "source": "AI News",
-    "published_at": "2026-04-02T14:45:03"
-  },
-  {
-    "id": 169,
-    "title": "China’s Five-Year Plan details the targets for AI deployment",
-    "url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
-    "summary": "<p>China has approved its 15th Five-Year Plan [PDF] setting out the country&#8217;s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongs",
-    "author": "Joe Green",
-    "source": "AI News",
-    "published_at": "2026-04-02T13:23:00"
-  },
-  {
     "id": 3,
     "title": "OpenAI acquires TBPN",
     "url": "https://openai.com/index/openai-acquires-tbpn",
@@ -333,24 +270,6 @@
     "published_at": "2026-04-02T10:00:00"
   },
   {
-    "id": 170,
-    "title": "Autonomous AI systems depend on data governance",
-    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
-    "summary": "<p>Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system&#8217;s",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-04-02T10:00:00"
-  },
-  {
-    "id": 171,
-    "title": "Experian uncovers fraud paradox in financial services’ AI adoption",
-    "url": "https://www.artificialintelligence-news.com/news/experian-ai-fraud-detection-financial-services-2026/",
-    "summary": "<p>The same technology that financial institutions deploying is being weaponised against them. That is the core tension running through Experian&#8217;s 2026 Future of Fraud Forecast, and it&#8217;s a tension the company is in a position to name because it sits on both sides of it. According to FTC ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-04-02T10:00:00"
-  },
-  {
     "id": 79,
     "title": "Evaluating the ethics of autonomous systems",
     "url": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
@@ -360,24 +279,6 @@
     "published_at": "2026-04-02T04:00:00"
   },
   {
-    "id": 172,
-    "title": "KPMG: Inside the AI agent playbook driving enterprise margin gains",
-    "url": "https://www.artificialintelligence-news.com/news/kpmg-inside-ai-agent-playbook-enterprise-margin-gains/",
-    "summary": "<p>Global AI investment is accelerating, yet KPMG data shows the gap between enterprise AI spend and measurable business value is widening fast. The headline figure from KPMG&#8217;s first quarterly Global AI Pulse survey is blunt: despite global organisations planning to spend a weighted average of",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-01T15:24:01"
-  },
-  {
-    "id": 173,
-    "title": "DeepL’s Borderless Business report reveals 83% of enterprises are still behind on language AI",
-    "url": "https://www.artificialintelligence-news.com/news/deepls-borderless-business-report-reveals-83-of-enterprises-are-still-behind-on-language-ai/",
-    "summary": "<p>AI is everywhere in the enterprise. The translation workflow often is not. That is the core finding of DeepL&#8217;s 2026 Language AI&#160;report, &#8220;Borderless Business: Transforming Translation in the Age of AI,&#8221; published on March 10. Despite broad AI investment across business funct",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-04-01T12:00:00"
-  },
-  {
     "id": 129,
     "title": "The gig workers who are training humanoid robots at home",
     "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
@@ -385,15 +286,6 @@
     "author": "Michelle Kim",
     "source": "MIT Technology Review",
     "published_at": "2026-04-01T11:00:00"
-  },
-  {
-    "id": 174,
-    "title": "Hershey applies AI across its supply chain operations",
-    "url": "https://www.artificialintelligence-news.com/news/hershey-applies-ai-across-its-supply-chain-operations/",
-    "summary": "<p>Artificial intelligence is moving beyond software and further into the physical side of business. Companies in food production and logistics are starting to use data systems to support day-to-day decisions, not long-term planning. That change is visible in The Hershey Company&#8217;s latest strat",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-04-01T10:00:00"
   },
   {
     "id": 80,
@@ -577,18 +469,18 @@
   },
   {
     "id": 12,
-    "title": "Update on the OpenAI Foundation",
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "title": "Powering product discovery in ChatGPT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-24T09:00:00"
   },
   {
     "id": 13,
-    "title": "Powering product discovery in ChatGPT",
-    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "title": "Update on the OpenAI Foundation",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-24T09:00:00"
@@ -703,18 +595,18 @@
   },
   {
     "id": 17,
-    "title": "Introducing GPT-5.4 mini and nano",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-17T10:00:00"
   },
   {
     "id": 18,
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "title": "Introducing GPT-5.4 mini and nano",
+    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-17T10:00:00"
@@ -892,15 +784,6 @@
   },
   {
     "id": 31,
-    "title": "GPT-5.4 Thinking System Card",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "summary": "",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 32,
     "title": "Introducing GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4",
     "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
@@ -909,10 +792,19 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 33,
+    "id": 32,
     "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00"
+  },
+  {
+    "id": 33,
+    "title": "GPT-5.4 Thinking System Card",
+    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+    "summary": "",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -928,24 +820,6 @@
   },
   {
     "id": 35,
-    "title": "Introducing ChatGPT for Excel and new financial data integrations",
-    "url": "https://openai.com/index/chatgpt-for-excel",
-    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 36,
-    "title": "Introducing the Adoption news channel",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T00:00:00"
-  },
-  {
-    "id": 37,
     "title": "The five AI value models driving business reinvention",
     "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
     "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
@@ -954,10 +828,28 @@
     "published_at": "2026-03-05T00:00:00"
   },
   {
-    "id": 38,
+    "id": 36,
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 37,
     "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
     "url": "https://openai.com/index/vfl-wolfsburg",
     "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T00:00:00"
+  },
+  {
+    "id": 38,
+    "title": "Introducing the Adoption news channel",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -982,15 +874,6 @@
   },
   {
     "id": 40,
-    "title": "How Axios uses AI to help deliver high-impact local journalism",
-    "url": "https://openai.com/index/axios-allison-murphy",
-    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-04T00:00:00"
-  },
-  {
-    "id": 41,
     "title": "Understanding AI and learning outcomes",
     "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
     "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
@@ -999,9 +882,18 @@
     "published_at": "2026-03-04T00:00:00"
   },
   {
+    "id": 41,
+    "title": "How Axios uses AI to help deliver high-impact local journalism",
+    "url": "https://openai.com/index/axios-allison-murphy",
+    "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-04T00:00:00"
+  },
+  {
     "id": 42,
-    "title": "GPT-5.3 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -1009,8 +901,8 @@
   },
   {
     "id": 43,
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "url": "https://openai.com/index/gpt-5-3-instant",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -1036,15 +928,6 @@
   },
   {
     "id": 45,
-    "title": "Scaling AI for everyone",
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-02-27T05:30:00"
-  },
-  {
-    "id": 46,
     "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
     "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
     "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
@@ -1053,7 +936,7 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 47,
+    "id": 46,
     "title": "OpenAI and Amazon announce strategic partnership",
     "url": "https://openai.com/index/amazon-partnership",
     "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
@@ -1062,10 +945,19 @@
     "published_at": "2026-02-27T05:30:00"
   },
   {
-    "id": 48,
+    "id": 47,
     "title": "Joint Statement from OpenAI and Microsoft",
     "url": "https://openai.com/index/continuing-microsoft-partnership",
     "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-02-27T05:30:00"
+  },
+  {
+    "id": 48,
+    "title": "Scaling AI for everyone",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
