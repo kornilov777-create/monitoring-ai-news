@@ -1,6 +1,24 @@
 [
   {
     "id": 136,
+    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "summary": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-08T20:09:14"
+  },
+  {
+    "id": 137,
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-08T18:23:06"
+  },
+  {
+    "id": 138,
     "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
     "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
     "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
@@ -9,7 +27,7 @@
     "published_at": "2026-04-08T16:01:09"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
     "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
     "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
@@ -18,7 +36,7 @@
     "published_at": "2026-04-08T15:23:44"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
     "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
     "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
@@ -36,7 +54,7 @@
     "published_at": "2026-04-08T14:00:00"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
     "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
     "summary": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
@@ -45,7 +63,7 @@
     "published_at": "2026-04-08T14:00:00"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
     "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
     "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
@@ -72,7 +90,7 @@
     "published_at": "2026-04-08T10:23:53"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Google quietly launched an AI dictation app that works offline",
     "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
     "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
@@ -90,7 +108,7 @@
     "published_at": "2026-04-08T05:00:00"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "I can’t help rooting for tiny open source AI model maker Arcee",
     "url": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
     "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
@@ -108,7 +126,7 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
     "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
     "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
@@ -117,7 +135,7 @@
     "published_at": "2026-04-07T18:46:55"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Intel signs on to Elon Musk’s Terafab chips project",
     "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
     "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
@@ -126,7 +144,7 @@
     "published_at": "2026-04-07T18:10:01"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
     "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
     "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
@@ -135,7 +153,7 @@
     "published_at": "2026-04-07T18:00:00"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Uber is the latest to be won over by Amazon’s AI chips",
     "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
     "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
@@ -144,7 +162,7 @@
     "published_at": "2026-04-07T16:46:59"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
     "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
     "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion.",
@@ -153,7 +171,7 @@
     "published_at": "2026-04-07T16:05:56"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Google Maps can now write captions for your photos using AI",
     "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
     "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
@@ -180,7 +198,7 @@
     "published_at": "2026-04-07T14:00:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
     "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
     "summary": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
@@ -189,7 +207,7 @@
     "published_at": "2026-04-07T14:00:00"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
     "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
     "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
@@ -216,7 +234,7 @@
     "published_at": "2026-04-07T10:00:00"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
     "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
     "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
@@ -232,24 +250,6 @@
     "author": "Adam Zewe | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-04-07T04:00:00"
-  },
-  {
-    "id": 152,
-    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-    "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-    "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-06T21:54:26"
-  },
-  {
-    "id": 153,
-    "title": "Iran threatens ‘Stargate’ AI data centers",
-    "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-    "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
-    "author": "Rebecca Szkutak",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-06T18:06:28"
   },
   {
     "id": 128,
@@ -568,18 +568,18 @@
   },
   {
     "id": 13,
-    "title": "Update on the OpenAI Foundation",
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "title": "Powering product discovery in ChatGPT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-24T09:00:00"
   },
   {
     "id": 14,
-    "title": "Powering product discovery in ChatGPT",
-    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "title": "Update on the OpenAI Foundation",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-24T09:00:00"
@@ -883,6 +883,15 @@
   },
   {
     "id": 32,
+    "title": "Introducing GPT-5.4",
+    "url": "https://openai.com/index/introducing-gpt-5-4",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-03-05T10:00:00"
+  },
+  {
+    "id": 33,
     "title": "GPT-5.4 Thinking System Card",
     "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
     "summary": "",
@@ -891,19 +900,10 @@
     "published_at": "2026-03-05T10:00:00"
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-05T10:00:00"
-  },
-  {
-    "id": 34,
-    "title": "Introducing GPT-5.4",
-    "url": "https://openai.com/index/introducing-gpt-5-4",
-    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T10:00:00"
@@ -919,18 +919,18 @@
   },
   {
     "id": 36,
-    "title": "Introducing the Adoption news channel",
-    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "url": "https://openai.com/index/vfl-wolfsburg",
+    "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
   },
   {
     "id": 37,
-    "title": "The five AI value models driving business reinvention",
-    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+    "title": "Introducing the Adoption news channel",
+    "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+    "summary": "Practical insights and frameworks to turn AI progress into business advantage",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -946,9 +946,9 @@
   },
   {
     "id": 39,
-    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-    "url": "https://openai.com/index/vfl-wolfsburg",
-    "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+    "title": "The five AI value models driving business reinvention",
+    "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+    "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-05T00:00:00"
@@ -991,8 +991,8 @@
   },
   {
     "id": 43,
-    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-    "url": "https://openai.com/index/gpt-5-3-instant",
+    "title": "GPT-5.3 Instant System Card",
+    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -1000,8 +1000,8 @@
   },
   {
     "id": 44,
-    "title": "GPT-5.3 Instant System Card",
-    "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+    "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+    "url": "https://openai.com/index/gpt-5-3-instant",
     "summary": "",
     "author": "",
     "source": "OpenAI Blog",
@@ -1027,9 +1027,9 @@
   },
   {
     "id": 46,
-    "title": "Joint Statement from OpenAI and Microsoft",
-    "url": "https://openai.com/index/continuing-microsoft-partnership",
-    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+    "title": "Scaling AI for everyone",
+    "url": "https://openai.com/index/scaling-ai-for-everyone",
+    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
@@ -1045,9 +1045,9 @@
   },
   {
     "id": 48,
-    "title": "Scaling AI for everyone",
-    "url": "https://openai.com/index/scaling-ai-for-everyone",
-    "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+    "title": "Joint Statement from OpenAI and Microsoft",
+    "url": "https://openai.com/index/continuing-microsoft-partnership",
+    "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-02-27T05:30:00"
