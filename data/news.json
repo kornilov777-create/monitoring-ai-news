@@ -1,5 +1,14 @@
 [
   {
+    "id": 161,
+    "title": "Meta has a competitive AI model but loses its open-source identity",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+    "summary": "<p>The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind Llama, something shifted. A company with three billion users, vast compute resources, and the cre",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-10T08:00:00"
+  },
+  {
     "id": 136,
     "title": "ChatGPT finally offers $100/month Pro plan",
     "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
@@ -72,7 +81,7 @@
     "published_at": "2026-04-09T17:20:50"
   },
   {
-    "id": 161,
+    "id": 162,
     "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
     "url": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
     "summary": "<p>AI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks. That has the potential to create a governance problem, for which IT leaders are ultimately re",
@@ -108,7 +117,7 @@
     "published_at": "2026-04-09T13:00:00"
   },
   {
-    "id": 162,
+    "id": 163,
     "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
     "url": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
     "summary": "<p>Anthropic&#8217;s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser. The company&#8217;s response was not to release it, but to quietly hand it to the organisations responsible for keeping the internet running",
@@ -225,7 +234,7 @@
     "published_at": "2026-04-08T13:00:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "AI’s software development success and central management needs",
     "url": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
     "summary": "<p>A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The survey was based on the responses of 1,879 IT leaders, and warns that adoption of AI is in danger of ",
@@ -234,7 +243,7 @@
     "published_at": "2026-04-08T10:43:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Microsoft open-source toolkit secures AI agents at runtime",
     "url": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
     "summary": "<p>A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now executing code and hitting corporate networks way faster than traditional policy controls can keep u",
@@ -270,7 +279,7 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
     "url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
     "summary": "<p>Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edg",
@@ -288,7 +297,7 @@
     "published_at": "2026-04-07T14:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
     "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
     "summary": "<p>The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across do",
@@ -297,7 +306,7 @@
     "published_at": "2026-04-07T12:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
     "url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
     "summary": "<p>The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude fr",
@@ -342,7 +351,7 @@
     "published_at": "2026-04-06T10:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "As AI agents take on more tasks, governance becomes a priority",
     "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
     "summary": "<p>AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model",
@@ -369,7 +378,7 @@
     "published_at": "2026-04-03T20:55:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "KiloClaw targets shadow AI with autonomous agent governance",
     "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
     "summary": "<p>With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employee",
@@ -378,7 +387,7 @@
     "published_at": "2026-04-02T16:30:53"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "5 best practices to secure AI systems",
     "url": "https://www.artificialintelligence-news.com/news/5-best-practices-to-secure-ai-systems/",
     "summary": "<p>A decade ago, it would have been hard to believe that artificial intelligence could do what it can do now. However, it is this same power that introduces a new attack surface that traditional security frameworks were not built to address. As this technology becomes embedded in critical operations",
@@ -387,7 +396,7 @@
     "published_at": "2026-04-02T14:45:03"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "China’s Five-Year Plan details the targets for AI deployment",
     "url": "https://www.artificialintelligence-news.com/news/chinas-five-year-plan-details-the-targets-for-ai-deployment/",
     "summary": "<p>China has approved its 15th Five-Year Plan [PDF] setting out the country&#8217;s economic, education, social, and industrial priorities through to 2030. As might be expected, there is a significant number of references to AI, with the technology mentioned in several contexts. AI is grouped alongs",
@@ -411,15 +420,6 @@
     "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-04-02T10:00:00"
-  },
-  {
-    "id": 172,
-    "title": "Autonomous AI systems depend on data governance",
-    "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-depend-on-data-governance/",
-    "summary": "<p>Much of the current focus on AI safety has centred on models – how they are trained and monitored. But as systems become more autonomous, attention is changing toward the data those systems depend on. If the data feeding an AI system is fragmented, outdated, or lacks oversight, the system&#8217;s",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
     "published_at": "2026-04-02T10:00:00"
   },
   {
