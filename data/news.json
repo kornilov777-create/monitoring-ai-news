@@ -36,6 +36,33 @@
     "published_at": "2026-04-10T14:00:00"
   },
   {
+    "id": 161,
+    "title": "IBM: How robust AI governance protects enterprise margins",
+    "url": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "summary": "<p>To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, soft",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-10T13:57:15"
+  },
+  {
+    "id": 162,
+    "title": "Why companies like Apple are building AI agents with limits",
+    "url": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+    "summary": "<p>Next-generation AI assistants being developed in the Apple ecosystem and by chipmakers like Qualcomm, but early reports suggest they are being designed with limits in place. Tom&#8217;s Guide has described early versions of these assistants as capable of navigating apps, carrying out bookings, an",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-10T10:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Meta has a competitive AI model but loses its open-source identity",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+    "summary": "<p>The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind Llama, something shifted. A company with three billion users, vast compute resources, and the cre",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-10T08:00:00"
+  },
+  {
     "id": 1,
     "title": "Using custom GPTs",
     "url": "https://openai.com/academy/custom-gpts",
@@ -333,6 +360,15 @@
     "published_at": "2026-04-09T17:20:50"
   },
   {
+    "id": 164,
+    "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+    "summary": "<p>AI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks. That has the potential to create a governance problem, for which IT leaders are ultimately re",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-09T15:02:00"
+  },
+  {
     "id": 147,
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
     "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
@@ -358,6 +394,15 @@
     "author": "Rachel Gordon | MIT CSAIL",
     "source": "MIT News AI",
     "published_at": "2026-04-09T13:00:00"
+  },
+  {
+    "id": 165,
+    "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+    "summary": "<p>Anthropic&#8217;s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser. The company&#8217;s response was not to release it, but to quietly hand it to the organisations responsible for keeping the internet running",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-09T12:00:00"
   },
   {
     "id": 26,
@@ -441,6 +486,24 @@
     "published_at": "2026-04-08T14:00:00"
   },
   {
+    "id": 166,
+    "title": "AI’s software development success and central management needs",
+    "url": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+    "summary": "<p>A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The survey was based on the responses of 1,879 IT leaders, and warns that adoption of AI is in danger of ",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-08T10:43:00"
+  },
+  {
+    "id": 167,
+    "title": "Microsoft open-source toolkit secures AI agents at runtime",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+    "summary": "<p>A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now executing code and hitting corporate networks way faster than traditional policy controls can keep u",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-08T10:23:53"
+  },
+  {
     "id": 29,
     "title": "Introducing the Child Safety Blueprint",
     "url": "https://openai.com/index/introducing-child-safety-blueprint",
@@ -459,6 +522,15 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
+    "id": 168,
+    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+    "summary": "<p>Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edg",
+    "author": "David Thomas",
+    "source": "AI News",
+    "published_at": "2026-04-07T14:40:42"
+  },
+  {
     "id": 127,
     "title": "Enabling agent-first process redesign",
     "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
@@ -466,6 +538,24 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-04-07T14:00:00"
+  },
+  {
+    "id": 169,
+    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+    "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+    "summary": "<p>The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across do",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-07T12:00:00"
+  },
+  {
+    "id": 170,
+    "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+    "summary": "<p>The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude fr",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-07T10:00:00"
   },
   {
     "id": 79,
@@ -504,6 +594,15 @@
     "published_at": "2026-04-06T10:00:00"
   },
   {
+    "id": 171,
+    "title": "As AI agents take on more tasks, governance becomes a priority",
+    "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+    "summary": "<p>AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-06T10:00:00"
+  },
+  {
     "id": 31,
     "title": "Industrial policy for the Intelligence Age",
     "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
@@ -520,6 +619,15 @@
     "author": "Steve Nadis | Department of Nuclear Science and Engineering",
     "source": "MIT News AI",
     "published_at": "2026-04-03T20:55:00"
+  },
+  {
+    "id": 172,
+    "title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "summary": "<p>With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employee",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-02T16:30:53"
   },
   {
     "id": 32,
