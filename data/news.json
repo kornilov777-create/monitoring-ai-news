@@ -36,34 +36,70 @@
     "published_at": "2026-04-10T14:00:00"
   },
   {
+    "id": 161,
+    "title": "IBM: How robust AI governance protects enterprise margins",
+    "url": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "summary": "<p>To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, soft",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-10T13:57:15"
+  },
+  {
+    "id": 162,
+    "title": "Why companies like Apple are building AI agents with limits",
+    "url": "https://www.artificialintelligence-news.com/news/why-companies-like-apple-are-building-ai-agents-with-limits/",
+    "summary": "<p>Next-generation AI assistants being developed in the Apple ecosystem and by chipmakers like Qualcomm, but early reports suggest they are being designed with limits in place. Tom&#8217;s Guide has described early versions of these assistants as capable of navigating apps, carrying out bookings, an",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-10T10:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Meta has a competitive AI model but loses its open-source identity",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-spark-ai-model-open-source/",
+    "summary": "<p>The open-source AI movement has never lacked for options. Mistral, Falcon, and a growing field of open-weight models have been available to developers for years. But when Meta threw its weight behind Llama, something shifted. A company with three billion users, vast compute resources, and the cre",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-10T08:00:00"
+  },
+  {
     "id": 1,
-    "title": "Using projects in ChatGPT",
-    "url": "https://openai.com/academy/projects",
-    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "title": "Using custom GPTs",
+    "url": "https://openai.com/academy/custom-gpts",
+    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
     "id": 2,
-    "title": "Prompting fundamentals",
-    "url": "https://openai.com/academy/prompting",
-    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "title": "ChatGPT for customer success teams",
+    "url": "https://openai.com/academy/customer-success",
+    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
     "id": 3,
-    "title": "Using skills",
-    "url": "https://openai.com/academy/skills",
-    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+    "title": "Applications of AI at OpenAI",
+    "url": "https://openai.com/academy/applications-of-ai",
+    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
     "id": 4,
+    "title": "Research with ChatGPT",
+    "url": "https://openai.com/academy/search-and-deep-research",
+    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 5,
     "title": "Analyzing data with ChatGPT",
     "url": "https://openai.com/academy/data-analysis",
     "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
@@ -72,28 +108,19 @@
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 5,
-    "title": "Creating images with ChatGPT",
-    "url": "https://openai.com/academy/image-generation",
-    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
     "id": 6,
-    "title": "ChatGPT for marketing teams",
-    "url": "https://openai.com/academy/marketing",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "title": "Financial services",
+    "url": "https://openai.com/academy/financial-services",
+    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
     "id": 7,
-    "title": "AI fundamentals",
-    "url": "https://openai.com/academy/what-is-ai",
-    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "title": "Responsible and safe use of AI",
+    "url": "https://openai.com/academy/responsible-and-safe-use",
+    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
@@ -109,123 +136,6 @@
   },
   {
     "id": 9,
-    "title": "ChatGPT for customer success teams",
-    "url": "https://openai.com/academy/customer-success",
-    "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 10,
-    "title": "Healthcare",
-    "url": "https://openai.com/academy/healthcare",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 11,
-    "title": "Financial services",
-    "url": "https://openai.com/academy/financial-services",
-    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 12,
-    "title": "Brainstorming with ChatGPT",
-    "url": "https://openai.com/academy/brainstorming",
-    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 13,
-    "title": "ChatGPT for operations teams",
-    "url": "https://openai.com/academy/operations",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 14,
-    "title": "ChatGPT for managers",
-    "url": "https://openai.com/academy/managers",
-    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 15,
-    "title": "Personalizing ChatGPT",
-    "url": "https://openai.com/academy/personalization",
-    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 16,
-    "title": "Responsible and safe use of AI",
-    "url": "https://openai.com/academy/responsible-and-safe-use",
-    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 17,
-    "title": "Working with files in ChatGPT",
-    "url": "https://openai.com/academy/working-with-files",
-    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 18,
-    "title": "Getting started with ChatGPT",
-    "url": "https://openai.com/academy/getting-started",
-    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 19,
-    "title": "Research with ChatGPT",
-    "url": "https://openai.com/academy/search-and-deep-research",
-    "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 20,
-    "title": "ChatGPT for sales teams",
-    "url": "https://openai.com/academy/sales",
-    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 21,
-    "title": "Using custom GPTs",
-    "url": "https://openai.com/academy/custom-gpts",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 22,
     "title": "ChatGPT for research",
     "url": "https://openai.com/academy/research",
     "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
@@ -234,19 +144,145 @@
     "published_at": "2026-04-10T00:00:00"
   },
   {
+    "id": 10,
+    "title": "Creating images with ChatGPT",
+    "url": "https://openai.com/academy/image-generation",
+    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 11,
+    "title": "Personalizing ChatGPT",
+    "url": "https://openai.com/academy/personalization",
+    "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 12,
+    "title": "ChatGPT for finance teams",
+    "url": "https://openai.com/academy/finance",
+    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 13,
+    "title": "Getting started with ChatGPT",
+    "url": "https://openai.com/academy/getting-started",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 14,
+    "title": "Working with files in ChatGPT",
+    "url": "https://openai.com/academy/working-with-files",
+    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 15,
+    "title": "ChatGPT for sales teams",
+    "url": "https://openai.com/academy/sales",
+    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 16,
+    "title": "Prompting fundamentals",
+    "url": "https://openai.com/academy/prompting",
+    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 17,
+    "title": "ChatGPT for managers",
+    "url": "https://openai.com/academy/managers",
+    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 18,
+    "title": "Using projects in ChatGPT",
+    "url": "https://openai.com/academy/projects",
+    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 19,
+    "title": "ChatGPT for marketing teams",
+    "url": "https://openai.com/academy/marketing",
+    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 20,
+    "title": "Brainstorming with ChatGPT",
+    "url": "https://openai.com/academy/brainstorming",
+    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 21,
+    "title": "AI fundamentals",
+    "url": "https://openai.com/academy/what-is-ai",
+    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 22,
+    "title": "ChatGPT for operations teams",
+    "url": "https://openai.com/academy/operations",
+    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
     "id": 23,
-    "title": "Applications of AI at OpenAI",
-    "url": "https://openai.com/academy/applications-of-ai",
-    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "title": "Healthcare",
+    "url": "https://openai.com/academy/healthcare",
+    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
     "id": 24,
-    "title": "ChatGPT for finance teams",
-    "url": "https://openai.com/academy/finance",
-    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "title": "Our response to the Axios developer tool compromise",
+    "url": "https://openai.com/index/axios-developer-tool-compromise",
+    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 25,
+    "title": "Using skills",
+    "url": "https://openai.com/academy/skills",
+    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
@@ -324,6 +360,15 @@
     "published_at": "2026-04-09T17:20:50"
   },
   {
+    "id": 164,
+    "title": "Agentic AI’s governance challenges under the EU AI Act in 2026",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ais-governance-challenges-under-the-eu-ai-act-in-2026/",
+    "summary": "<p>AI agents hold the promise of automatically moving data between systems and triggering decisions, but in some cases, they can act without a clear record of what, when, and why they undertook their tasks. That has the potential to create a governance problem, for which IT leaders are ultimately re",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-09T15:02:00"
+  },
+  {
     "id": 147,
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
     "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
@@ -351,19 +396,28 @@
     "published_at": "2026-04-09T13:00:00"
   },
   {
-    "id": 25,
-    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-    "url": "https://openai.com/index/cyberagent",
-    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-09T00:00:00"
+    "id": 165,
+    "title": "Anthropic keeps new AI model private after it finds thousands of external vulnerabilities",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-keeps-new-ai-model-private-after-it-finds-thousands-of-external-vulnerabilities/",
+    "summary": "<p>Anthropic&#8217;s most capable AI model has already found thousands of AI cybersecurity vulnerabilities across every major operating system and web browser. The company&#8217;s response was not to release it, but to quietly hand it to the organisations responsible for keeping the internet running",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-09T12:00:00"
   },
   {
     "id": 26,
     "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
     "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
     "summary": "Explore the official terms and conditions for the OpenAI Full Fan Mode Contest, including eligibility, entry steps, judging criteria, and prize details. Learn how to participate, submit your entry on Instagram, and win IPL match tickets.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-09T00:00:00"
+  },
+  {
+    "id": 27,
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "url": "https://openai.com/index/cyberagent",
+    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-09T00:00:00"
@@ -414,7 +468,7 @@
     "published_at": "2026-04-08T15:23:44"
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "The next phase of enterprise AI",
     "url": "https://openai.com/index/next-phase-of-enterprise-ai",
     "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
@@ -432,7 +486,25 @@
     "published_at": "2026-04-08T14:00:00"
   },
   {
-    "id": 28,
+    "id": 166,
+    "title": "AI’s software development success and central management needs",
+    "url": "https://www.artificialintelligence-news.com/news/ai-workflows-developer-success-and-central-project-management-needs/",
+    "summary": "<p>A survey carried out by OutSystems, The State of AI Development 2026 [email wall], argues that AI has moved into early production phase for many enterprises, primarily inside the IT function. The survey was based on the responses of 1,879 IT leaders, and warns that adoption of AI is in danger of ",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-08T10:43:00"
+  },
+  {
+    "id": 167,
+    "title": "Microsoft open-source toolkit secures AI agents at runtime",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-open-source-toolkit-secures-ai-agents-at-runtime/",
+    "summary": "<p>A new open-source toolkit from Microsoft focuses on runtime security to force strict governance onto enterprise AI agents. The release tackles a growing anxiety: autonomous language models are now executing code and hitting corporate networks way faster than traditional policy controls can keep u",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-08T10:23:53"
+  },
+  {
+    "id": 29,
     "title": "Introducing the Child Safety Blueprint",
     "url": "https://openai.com/index/introducing-child-safety-blueprint",
     "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
@@ -450,6 +522,15 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
+    "id": 168,
+    "title": "Asylon and Thrive Logic bring physical AI to enterprise perimeter security",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-security-at-the-enterprise-perimeter-takes-a-step-closer/",
+    "summary": "<p>Exciting times are ahead in the world of enterprise perimeter security with a new partnership between Thrive Logic, an AI agent-driven security and operational intelligence platform, and Asylon, a security robotics company. Together, the companies are to introduce physical AI into the network edg",
+    "author": "David Thomas",
+    "source": "AI News",
+    "published_at": "2026-04-07T14:40:42"
+  },
+  {
     "id": 127,
     "title": "Enabling agent-first process redesign",
     "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/",
@@ -457,6 +538,24 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-04-07T14:00:00"
+  },
+  {
+    "id": 169,
+    "title": "Boomi calls it “data activation” and says it’s the missing step in every AI deployment",
+    "url": "https://www.artificialintelligence-news.com/news/boomi-agentic-ai-data-activation-missing-step/",
+    "summary": "<p>The failure mode for enterprise AI in 2026 is not what most people expected. It is not that the models are wrong, or that agents cannot reason, or that the technology is overhyped. The failure mode is that the data feeding those systems is fragmented, inconsistently labelled, and spread across do",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-07T12:00:00"
+  },
+  {
+    "id": 170,
+    "title": "Anthropic’s refusal to arm AI is exactly why the UK wants it",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-uk-expansion-london-pentagon/",
+    "summary": "<p>The Anthropic UK expansion story is less about diplomatic courtship and more about what happens when a government punishes a company for having principles. In late February, US Defence Secretary Pete Hegseth gave Anthropic CEO Dario Amodei a stark ultimatum: remove guardrails preventing Claude fr",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-07T10:00:00"
   },
   {
     "id": 79,
@@ -486,7 +585,7 @@
     "published_at": "2026-04-06T11:00:00"
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "Announcing the OpenAI Safety Fellowship",
     "url": "https://openai.com/index/introducing-openai-safety-fellowship",
     "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
@@ -495,7 +594,16 @@
     "published_at": "2026-04-06T10:00:00"
   },
   {
-    "id": 30,
+    "id": 171,
+    "title": "As AI agents take on more tasks, governance becomes a priority",
+    "url": "https://www.artificialintelligence-news.com/news/as-ai-agents-take-on-more-tasks-governance-becomes-a-priority/",
+    "summary": "<p>AI systems are starting to move beyond simple responses. In many organisations, AI agents are now being tested to plan tasks, make decisions, and carry out actions with limited human input. It is no longer just about whether a model gives the right answer. It is about what happens when that model",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-06T10:00:00"
+  },
+  {
+    "id": 31,
     "title": "Industrial policy for the Intelligence Age",
     "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
     "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
@@ -513,7 +621,16 @@
     "published_at": "2026-04-03T20:55:00"
   },
   {
-    "id": 31,
+    "id": 172,
+    "title": "KiloClaw targets shadow AI with autonomous agent governance",
+    "url": "https://www.artificialintelligence-news.com/news/kiloclaw-targets-shadow-ai-autonomous-agent-governance/",
+    "summary": "<p>With the launch of KiloClaw, enterprises now have a tool to enforce governance over autonomous agents and manage shadow AI. While businesses spent the last year securing large language models and formalising vendor agreements, developers and knowledge workers started moving on their own. Employee",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-02T16:30:53"
+  },
+  {
+    "id": 32,
     "title": "OpenAI acquires TBPN",
     "url": "https://openai.com/index/openai-acquires-tbpn",
     "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
@@ -522,7 +639,7 @@
     "published_at": "2026-04-02T10:30:00"
   },
   {
-    "id": 32,
+    "id": 33,
     "title": "Codex now offers more flexible pricing for teams",
     "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
     "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
@@ -558,7 +675,7 @@
     "published_at": "2026-04-01T04:00:00"
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "Gradient Labs gives every bank customer an AI account manager",
     "url": "https://openai.com/index/gradient-labs",
     "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
@@ -576,7 +693,7 @@
     "published_at": "2026-03-31T14:12:50"
   },
   {
-    "id": 34,
+    "id": 35,
     "title": "Accelerating the next phase of AI",
     "url": "https://openai.com/index/accelerating-the-next-phase-ai",
     "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
@@ -621,7 +738,7 @@
     "published_at": "2026-03-30T15:00:00"
   },
   {
-    "id": 35,
+    "id": 36,
     "title": "Helping disaster response teams turn AI into action across Asia",
     "url": "https://openai.com/index/helping-disaster-response-teams-asia",
     "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
@@ -630,7 +747,7 @@
     "published_at": "2026-03-29T22:15:00"
   },
   {
-    "id": 36,
+    "id": 37,
     "title": "STADLER reshapes knowledge work at a 230-year-old company",
     "url": "https://openai.com/index/stadler",
     "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
@@ -684,7 +801,7 @@
     "published_at": "2026-03-25T13:59:17"
   },
   {
-    "id": 37,
+    "id": 38,
     "title": "Inside our approach to the Model Spec",
     "url": "https://openai.com/index/our-approach-to-the-model-spec",
     "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
@@ -702,7 +819,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 38,
+    "id": 39,
     "title": "Introducing the OpenAI Safety Bug Bounty program",
     "url": "https://openai.com/index/safety-bug-bounty",
     "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
@@ -711,7 +828,7 @@
     "published_at": "2026-03-25T00:00:00"
   },
   {
-    "id": 39,
+    "id": 40,
     "title": "Helping developers build safer AI experiences for teens",
     "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
     "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
@@ -720,19 +837,19 @@
     "published_at": "2026-03-24T11:00:00"
   },
   {
-    "id": 40,
-    "title": "Powering product discovery in ChatGPT",
-    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
-    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "id": 41,
+    "title": "Update on the OpenAI Foundation",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-24T09:00:00"
   },
   {
-    "id": 41,
-    "title": "Update on the OpenAI Foundation",
-    "url": "https://openai.com/index/update-on-the-openai-foundation",
-    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "id": 42,
+    "title": "Powering product discovery in ChatGPT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-24T09:00:00"
@@ -765,7 +882,7 @@
     "published_at": "2026-03-23T17:45:00"
   },
   {
-    "id": 42,
+    "id": 43,
     "title": "Creating with Sora Safely",
     "url": "https://openai.com/index/creating-with-sora-safely",
     "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
@@ -792,7 +909,7 @@
     "published_at": "2026-03-20T12:45:00"
   },
   {
-    "id": 43,
+    "id": 44,
     "title": "How we monitor internal coding agents for misalignment",
     "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
     "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
@@ -819,7 +936,7 @@
     "published_at": "2026-03-19T04:00:00"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "OpenAI to acquire Astral",
     "url": "https://openai.com/index/openai-to-acquire-astral",
     "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
@@ -846,7 +963,7 @@
     "published_at": "2026-03-17T20:35:44"
   },
   {
-    "id": 45,
+    "id": 46,
     "title": "Introducing GPT-5.4 mini and nano",
     "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
     "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
@@ -855,7 +972,7 @@
     "published_at": "2026-03-17T10:00:00"
   },
   {
-    "id": 46,
+    "id": 47,
     "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
     "url": "https://openai.com/index/japan-teen-safety-blueprint",
     "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
@@ -864,7 +981,7 @@
     "published_at": "2026-03-17T10:00:00"
   },
   {
-    "id": 47,
+    "id": 48,
     "title": "Equipping workers with insights about compensation",
     "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
     "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
@@ -873,7 +990,7 @@
     "published_at": "2026-03-17T00:00:00"
   },
   {
-    "id": 48,
+    "id": 49,
     "title": "Why Codex Security Doesn’t Include a SAST Report",
     "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
     "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
@@ -909,22 +1026,13 @@
     "published_at": "2026-03-11T16:10:00"
   },
   {
-    "id": 49,
+    "id": 50,
     "title": "Designing AI agents to resist prompt injection",
     "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
     "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-03-11T11:30:00"
-  },
-  {
-    "id": 50,
-    "title": "From model to agent: Equipping the Responses API with a computer environment",
-    "url": "https://openai.com/index/equip-responses-api-computer-environment",
-    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-03-11T11:00:00"
   },
   {
     "id": 101,
