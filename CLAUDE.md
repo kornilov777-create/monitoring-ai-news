@@ -114,3 +114,10 @@ Documentation is part of the product. Each version must be understandable withou
 
 **Current Version:** 1.0.0
 **Last Updated:** 2026-03-26
+
+## Obsidian Integration
+- Dashboard: AI_BRAIN/01_Projects/Monitoring-ai-news/Dashboard.md
+- Events to log: deploys, incidents, schema changes, milestones, decisions
+- API: http://localhost:27124 (Obsidian Local REST API, HTTPS on 27124)
+- Templates: use Event Contract format (see global CLAUDE.md)
+- Date format: YYYY-MM-DD (mandatory)
