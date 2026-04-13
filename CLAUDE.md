@@ -108,16 +108,59 @@ Documentation is part of the product. Each version must be understandable withou
 **Tier 1 (Critical):** Correctness, Immutability, Audit trail
 **Tier 2 (Operational):** Performance, Maintainability, Documentation
 
-## FINAL PRINCIPLE
+## VIII. OBSIDIAN INTEGRATION
+
+**Dashboard:** `AI_BRAIN/01_Projects/Monitoring-AI-News/Dashboard.md`
+
+Events this project MUST emit to AI_BRAIN via `obsidian_event_client`:
+
+| When | event_type | Emitter |
+|---|---|---|
+| GitHub Actions `collect.yml` finishes successfully | `metric` (article counts) | `.github/workflows/collect.yml` post-step |
+| A parser fails (8 parsers total) | `incident` | same workflow, on failure |
+| New version tag | `deploy` | release workflow |
+
+### Wiring (не ломает текущий сбор)
+
+Добавляется в `.github/workflows/collect.yml` **в самом конце** как
+отдельный step с `if: always()`. Ничего существующего не трогается.
+
+```yaml
+- name: Report to AI_BRAIN
+  if: always()
+  env:
+    OBSIDIAN_GATEWAY_URL: http://10.10.20.192:7010  # or via Cloudflare Tunnel once published
+  run: |
+    pip install -q 'obsidian-event-client @ git+ssh://git@github.com/kornilov777-create/sprut.git#subdirectory=libs/obsidian_event_client'
+    python - <<'PY'
+    import asyncio, os
+    from obsidian_event_client import ObsidianClient, EventType
+    async def main():
+        c = ObsidianClient(source_project="monitoring-ai-news", machine="github-actions")
+        status = "${{ job.status }}"
+        if status == "success":
+            await c.write_event(EventType.METRIC, f"collect.yml ok — run {os.environ['GITHUB_RUN_ID']}",
+                                content="8 parsers, see run logs for article counts.",
+                                tags=["collect", "github-actions"])
+        else:
+            await c.write_event(EventType.INCIDENT, f"collect.yml FAILED — run {os.environ['GITHUB_RUN_ID']}",
+                                content=f"Status: {status}",
+                                tags=["collect", "failure"])
+    asyncio.run(main())
+    PY
+```
+
+GitHub Actions runner НЕ имеет прямого сетевого доступа к
+`10.10.20.192` (это home LAN). Чтобы step реально работал, gateway
+должен быть опубликован через Cloudflare Tunnel
+(`gateway.stk777-infra.<domain>`). До настройки туннеля step остаётся
+задизейбленным через `if: false && always()` — и автоматически
+заработает как только `OBSIDIAN_GATEWAY_URL` станет внешне доступным.
+**Ни один существующий step не изменяется и не ломается.**
+
+## IX. FINAL PRINCIPLE
 
 **Code is not merely an output. It is frozen engineering reasoning over time. History outweighs cleanliness. Explainability outweighs speed.**
 
-**Current Version:** 1.0.0
-**Last Updated:** 2026-03-26
-
-## Obsidian Integration
-- Dashboard: AI_BRAIN/01_Projects/Monitoring-ai-news/Dashboard.md
-- Events to log: deploys, incidents, schema changes, milestones, decisions
-- API: http://localhost:27124 (Obsidian Local REST API, HTTPS on 27124)
-- Templates: use Event Contract format (see global CLAUDE.md)
-- Date format: YYYY-MM-DD (mandatory)
+**Current Version:** 1.0.1
+**Last Updated:** 2026-04-14
