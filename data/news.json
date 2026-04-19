@@ -3,7 +3,7 @@
     "id": 136,
     "title": "Tesla brings its robotaxi service to Dallas and Houston",
     "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas &#38; Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the f",
+    "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
     "author": "Anthony Ha",
     "source": "TechCrunch AI",
     "published_at": "2026-04-18T21:37:15"
@@ -234,12 +234,30 @@
     "published_at": "2026-04-16T12:00:00"
   },
   {
+    "id": 163,
+    "title": "OpenAI Agents SDK improves governance with sandbox execution",
+    "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+    "summary": "<p>OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic fram",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-16T11:20:00"
+  },
+  {
     "id": 1,
     "title": "Codex for (almost) everything",
     "url": "https://openai.com/index/codex-for-almost-everything",
     "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-04-16T10:00:00"
+  },
+  {
+    "id": 164,
+    "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+    "url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+    "summary": "<p>Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partnership focuses on combining AI with physics-based simulation and accelerated computing for robotic ",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
     "published_at": "2026-04-16T10:00:00"
   },
   {
@@ -261,12 +279,48 @@
     "published_at": "2026-04-16T00:00:00"
   },
   {
+    "id": 165,
+    "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+    "url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+    "summary": "<p>Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Com",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-15T16:28:19"
+  },
+  {
+    "id": 166,
+    "title": "Citizen developers now have their own Wingman",
+    "url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+    "summary": "<p>A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company&#8217;s press release states: &#8220;The best technology should be accessible to everyone&#8221;, and cites",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-15T14:42:00"
+  },
+  {
+    "id": 167,
+    "title": "Drones get smarter for large farm holdings",
+    "url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+    "summary": "<p>Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated b",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-15T11:03:00"
+  },
+  {
     "id": 4,
     "title": "The next evolution of the Agents SDK",
     "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
     "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-04-15T10:00:00"
+  },
+  {
+    "id": 168,
+    "title": "The US-China AI gap closes amid responsible AI concerns",
+    "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+    "summary": "<p>The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University&#8217;s 2026 AI Index Report, published this week. The report, produced by Stanford&#8217;s Institute for Human-Cent",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
     "published_at": "2026-04-15T10:00:00"
   },
   {
@@ -306,6 +360,24 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
+    "id": 169,
+    "title": "SAP brings agentic AI to human capital management",
+    "url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+    "summary": "<p>According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents acro",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-14T12:55:09"
+  },
+  {
+    "id": 170,
+    "title": "Canada’s Scotiabank preps for its AI future",
+    "url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
+    "summary": "<p>Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially ",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-04-14T11:20:00"
+  },
+  {
     "id": 132,
     "title": "Coming soon: 10 Things That Matter in AI Right Now",
     "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
@@ -313,6 +385,15 @@
     "author": "Niall Firth, Amy Nordrum",
     "source": "MIT Technology Review",
     "published_at": "2026-04-14T11:00:00"
+  },
+  {
+    "id": 171,
+    "title": "Hyundai expands into robotics and physical AI systems",
+    "url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
+    "summary": "<p>Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyund",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-14T10:00:00"
   },
   {
     "id": 5,
@@ -333,6 +414,15 @@
     "published_at": "2026-04-13T15:48:28"
   },
   {
+    "id": 172,
+    "title": "Strengthening enterprise governance for rising edge AI workloads",
+    "url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
+    "summary": "<p>Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to exte",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-13T13:02:01"
+  },
+  {
     "id": 134,
     "title": "Want to understand the current state of AI? Check out these charts.",
     "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
@@ -342,6 +432,15 @@
     "published_at": "2026-04-13T13:00:00"
   },
   {
+    "id": 173,
+    "title": "Companies expand AI adoption while keeping control",
+    "url": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
+    "summary": "<p>Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs. This approach is especially clear in sectors wh",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-13T10:00:00"
+  },
+  {
     "id": 6,
     "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
     "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
@@ -349,6 +448,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-13T06:00:00"
+  },
+  {
+    "id": 174,
+    "title": "IBM: How robust AI governance protects enterprise margins",
+    "url": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
+    "summary": "<p>To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, soft",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-10T13:57:15"
   },
   {
     "id": 7,
