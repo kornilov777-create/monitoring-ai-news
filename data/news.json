@@ -1,5 +1,23 @@
 [
   {
+    "id": 126,
+    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+    "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” the",
+    "author": "Caiwei Chen",
+    "source": "MIT Technology Review",
+    "published_at": "2026-04-20T09:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+    "summary": "<p>When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-20T08:00:00"
+  },
+  {
     "id": 136,
     "title": "OpenAI’s existential questions",
     "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
@@ -144,7 +162,7 @@
     "published_at": "2026-04-17T13:00:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "How robots learn: A brief, contemporary history",
     "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
     "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.&#160; The real ambition for many of these researchers was the",
@@ -207,7 +225,7 @@
     "published_at": "2026-04-16T19:18:41"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Making AI operational in constrained public sector environments",
     "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
     "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, pu",
@@ -216,7 +234,7 @@
     "published_at": "2026-04-16T13:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Treating enterprise AI as an operating layer",
     "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
     "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: wh",
@@ -225,7 +243,7 @@
     "published_at": "2026-04-16T13:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "Why having “humans in the loop” in an AI war is an illusion",
     "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
     "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intellige",
@@ -234,7 +252,7 @@
     "published_at": "2026-04-16T12:00:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "OpenAI Agents SDK improves governance with sandbox execution",
     "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
     "summary": "<p>OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic fram",
@@ -252,7 +270,7 @@
     "published_at": "2026-04-16T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
     "url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
     "summary": "<p>Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partnership focuses on combining AI with physics-based simulation and accelerated computing for robotic ",
@@ -279,7 +297,7 @@
     "published_at": "2026-04-16T00:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
     "url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
     "summary": "<p>Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Com",
@@ -288,7 +306,7 @@
     "published_at": "2026-04-15T16:28:19"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Citizen developers now have their own Wingman",
     "url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
     "summary": "<p>A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company&#8217;s press release states: &#8220;The best technology should be accessible to everyone&#8221;, and cites",
@@ -297,7 +315,7 @@
     "published_at": "2026-04-15T14:42:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Drones get smarter for large farm holdings",
     "url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
     "summary": "<p>Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated b",
@@ -315,7 +333,7 @@
     "published_at": "2026-04-15T10:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "The US-China AI gap closes amid responsible AI concerns",
     "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
     "summary": "<p>The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University&#8217;s 2026 AI Index Report, published this week. The report, produced by Stanford&#8217;s Institute for Human-Cent",
@@ -324,7 +342,7 @@
     "published_at": "2026-04-15T10:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Building trust in the AI era with privacy-led UX",
     "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
     "summary": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exercis",
@@ -333,7 +351,7 @@
     "published_at": "2026-04-15T06:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Redefining the future of software engineering",
     "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
     "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed",
@@ -360,7 +378,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "SAP brings agentic AI to human capital management",
     "url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
     "summary": "<p>According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents acro",
@@ -369,7 +387,7 @@
     "published_at": "2026-04-14T12:55:09"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Canada’s Scotiabank preps for its AI future",
     "url": "https://www.artificialintelligence-news.com/news/canadas-scotiabank-preps-for-its-ai-future/",
     "summary": "<p>Scotiabank has launched an AI framework, Scotia Intelligence, for data and AI operations that joins various platforms, data oversight, and software tools into a single instance. According to a press release from the bank, the stated purpose of Scotia Intelligence is to give employees, especially ",
@@ -378,7 +396,7 @@
     "published_at": "2026-04-14T11:20:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Coming soon: 10 Things That Matter in AI Right Now",
     "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
     "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus",
@@ -387,7 +405,7 @@
     "published_at": "2026-04-14T11:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "Hyundai expands into robotics and physical AI systems",
     "url": "https://www.artificialintelligence-news.com/news/hyundai-expands-into-robotics-and-physical-ai-systems/",
     "summary": "<p>Hyundai Motor Group is starting to look like a company building machines that act in the real world. The change centres on physical AI: Where AI is placed into robots and systems that move and respond in physical spaces. Current efforts are mainly focused on factory and industrial settings. Hyund",
@@ -405,7 +423,7 @@
     "published_at": "2026-04-14T00:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Why opinion on AI is so divided",
     "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a s",
@@ -414,7 +432,7 @@
     "published_at": "2026-04-13T15:48:28"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Strengthening enterprise governance for rising edge AI workloads",
     "url": "https://www.artificialintelligence-news.com/news/strengthening-enterprise-governance-for-rising-edge-ai-workloads/",
     "summary": "<p>Models like Google Gemma 4 are increasing enterprise AI governance challenges for CISOs as they scramble to secure edge workloads. Security chiefs have built massive digital walls around the cloud; deploying advanced cloud access security brokers and routing every piece of traffic heading to exte",
@@ -423,7 +441,7 @@
     "published_at": "2026-04-13T13:02:01"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Want to understand the current state of AI? Check out these charts.",
     "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
     "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts th",
@@ -432,7 +450,7 @@
     "published_at": "2026-04-13T13:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Companies expand AI adoption while keeping control",
     "url": "https://www.artificialintelligence-news.com/news/companies-expand-ai-adoption-while-keeping-control/",
     "summary": "<p>Many companies are taking a slower, more controlled approach to autonomous systems as AI adoption grows. Rather than deploying systems that act on their own, they are focusing on tools that assist human decision-making and keep control over outputs. This approach is especially clear in sectors wh",
@@ -448,15 +466,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-13T06:00:00"
-  },
-  {
-    "id": 174,
-    "title": "IBM: How robust AI governance protects enterprise margins",
-    "url": "https://www.artificialintelligence-news.com/news/ibm-how-robust-ai-governance-protects-enterprise-margins/",
-    "summary": "<p>To protect enterprise margins, business leaders must invest in robust AI governance to securely manage AI infrastructure. When evaluating enterprise software adoption, a recurring pattern dictates how technology matures across industries. As Rob Thomas, SVP and CCO at IBM, recently outlined, soft",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-10T13:57:15"
   },
   {
     "id": 7,
@@ -726,15 +735,6 @@
     "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-04-08T14:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-    "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-    "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time I ",
-    "author": "Mustafa Suleyman",
-    "source": "MIT Technology Review",
     "published_at": "2026-04-08T14:00:00"
   },
   {
