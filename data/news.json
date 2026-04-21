@@ -1,15 +1,69 @@
 [
   {
+    "id": 136,
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-21T16:00:00"
+  },
+  {
+    "id": 137,
+    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+    "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+    "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-21T15:24:29"
+  },
+  {
+    "id": 138,
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-21T15:02:06"
+  },
+  {
+    "id": 163,
+    "title": "Snowflake expands its technical and mainstream AI platforms",
+    "url": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
+    "summary": "<p>Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for d",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-04-21T14:29:00"
+  },
+  {
+    "id": 139,
+    "title": "GRAI believes AI can make music more social, not replace artists",
+    "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+    "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-21T13:00:00"
+  },
+  {
+    "id": 164,
+    "title": "Siemens introduces AI system for automation engineering",
+    "url": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
+    "summary": "<p>Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, let",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-21T10:00:00"
+  },
+  {
     "id": 1,
     "title": "Scaling Codex to enterprises worldwide",
     "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "summary": "OpenAI launches Codex Transformation Partners, a program with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle.",
+    "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-21T00:00:00"
   },
   {
-    "id": 136,
+    "id": 140,
     "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
     "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
     "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
@@ -18,8 +72,8 @@
     "published_at": "2026-04-20T23:10:27"
   },
   {
-    "id": 137,
-    "title": "Google rolls out Gemini in Chrome in 7 new countries",
+    "id": 141,
+    "title": "Google rolls out Gemini in Chrome in APAC countries",
     "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
     "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
     "author": "Ivan Mehta",
@@ -27,7 +81,7 @@
     "published_at": "2026-04-20T22:00:00"
   },
   {
-    "id": 138,
+    "id": 142,
     "title": "It’s not just one thing — it’s another thing",
     "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
     "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
@@ -36,7 +90,7 @@
     "published_at": "2026-04-20T19:37:07"
   },
   {
-    "id": 139,
+    "id": 143,
     "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
     "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
     "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
@@ -45,7 +99,7 @@
     "published_at": "2026-04-20T16:06:21"
   },
   {
-    "id": 140,
+    "id": 144,
     "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
     "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
     "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
@@ -54,13 +108,40 @@
     "published_at": "2026-04-20T15:30:19"
   },
   {
+    "id": 165,
+    "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
+    "url": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
+    "summary": "<p>AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landsc",
+    "author": "David Thomas",
+    "source": "AI News",
+    "published_at": "2026-04-20T13:15:51"
+  },
+  {
+    "id": 166,
+    "title": "How to prepare for and remediate an AI system incident",
+    "url": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
+    "summary": "<p>For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised. In the event of an AI system crisis, new research from ISACA has found that the majority of organisations surveyed couldn&#8217;t explain how quickly they could stop an AI sys",
+    "author": "David Thomas",
+    "source": "AI News",
+    "published_at": "2026-04-20T11:39:41"
+  },
+  {
     "id": 126,
-    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "title": "Chinese tech workers are starting to train their AI doubles—and pushing back",
     "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
     "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.&#160; Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” the",
     "author": "Caiwei Chen",
     "source": "MIT Technology Review",
     "published_at": "2026-04-20T09:00:00"
+  },
+  {
+    "id": 167,
+    "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
+    "summary": "<p>When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-20T08:00:00"
   },
   {
     "id": 2,
@@ -72,7 +153,7 @@
     "published_at": "2026-04-20T00:00:00"
   },
   {
-    "id": 141,
+    "id": 145,
     "title": "OpenAI’s existential questions",
     "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
@@ -81,7 +162,7 @@
     "published_at": "2026-04-19T21:24:06"
   },
   {
-    "id": 142,
+    "id": 146,
     "title": "The 12-month window",
     "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
     "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
@@ -90,7 +171,7 @@
     "published_at": "2026-04-19T19:30:00"
   },
   {
-    "id": 143,
+    "id": 147,
     "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
     "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
     "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
@@ -99,7 +180,7 @@
     "published_at": "2026-04-19T16:30:00"
   },
   {
-    "id": 144,
+    "id": 148,
     "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
     "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
@@ -108,7 +189,7 @@
     "published_at": "2026-04-19T16:01:00"
   },
   {
-    "id": 145,
+    "id": 149,
     "title": "Tesla brings its robotaxi service to Dallas and Houston",
     "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
     "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026.",
@@ -117,7 +198,7 @@
     "published_at": "2026-04-18T21:37:15"
   },
   {
-    "id": 146,
+    "id": 150,
     "title": "AI chip startup Cerebras files for IPO",
     "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
@@ -126,7 +207,7 @@
     "published_at": "2026-04-18T19:19:11"
   },
   {
-    "id": 147,
+    "id": 151,
     "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
     "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
     "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
@@ -135,7 +216,7 @@
     "published_at": "2026-04-18T14:56:48"
   },
   {
-    "id": 148,
+    "id": 152,
     "title": "The App Store is booming again, and AI may be why",
     "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
@@ -144,7 +225,7 @@
     "published_at": "2026-04-18T13:00:00"
   },
   {
-    "id": 149,
+    "id": 153,
     "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
     "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
     "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
@@ -153,7 +234,7 @@
     "published_at": "2026-04-17T22:34:02"
   },
   {
-    "id": 150,
+    "id": 154,
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
     "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
@@ -162,40 +243,13 @@
     "published_at": "2026-04-17T20:38:17"
   },
   {
-    "id": 151,
+    "id": 155,
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
     "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "summary": "Returning backers a16z and Thrive are expected to lead the round.",
     "author": "Marina Temkin",
     "source": "TechCrunch AI",
     "published_at": "2026-04-17T19:17:26"
-  },
-  {
-    "id": 152,
-    "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-    "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-    "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-17T18:42:45"
-  },
-  {
-    "id": 153,
-    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-    "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p",
-    "author": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-17T15:57:40"
-  },
-  {
-    "id": 154,
-    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-    "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-    "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily.",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-17T15:00:00"
   },
   {
     "id": 76,
@@ -205,15 +259,6 @@
     "author": "Danielle Randall Doughty | Jane Halpern | Department of Chemistry | Department of Electrical Engineering and Computer Science",
     "source": "MIT News AI",
     "published_at": "2026-04-17T13:40:00"
-  },
-  {
-    "id": 155,
-    "title": "Are we tokenmaxxing our way to nowhere?",
-    "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-    "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p",
-    "author": "Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-17T13:00:00"
   },
   {
     "id": 127,
@@ -261,12 +306,30 @@
     "published_at": "2026-04-16T12:00:00"
   },
   {
+    "id": 168,
+    "title": "OpenAI Agents SDK improves governance with sandbox execution",
+    "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+    "summary": "<p>OpenAI is introducing sandbox execution that allows enterprise governance teams to deploy automated workflows with controlled risk. Teams taking systems from prototype to production have faced difficult architectural compromises regarding where their operations occurred. Using model-agnostic fram",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-16T11:20:00"
+  },
+  {
     "id": 3,
     "title": "Codex for (almost) everything",
     "url": "https://openai.com/index/codex-for-almost-everything",
     "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-04-16T10:00:00"
+  },
+  {
+    "id": 169,
+    "title": "Cadence expands AI and robotic partnerships with Nvidia, Google Cloud",
+    "url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+    "summary": "<p>Cadence Design Systems announced two AI-related collaborations at its CadenceLIVE event this week, expanding its work with Nvidia and introducing new integrations with Google Cloud. The Nvidia partnership focuses on combining AI with physics-based simulation and accelerated computing for robotic ",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
     "published_at": "2026-04-16T10:00:00"
   },
   {
@@ -288,12 +351,48 @@
     "published_at": "2026-04-16T00:00:00"
   },
   {
+    "id": 170,
+    "title": "Commvault launches a ‘Ctrl-Z’ for cloud AI workloads",
+    "url": "https://www.artificialintelligence-news.com/news/commvault-launches-ctrl-z-for-cloud-ai-workloads/",
+    "summary": "<p>Enterprise cloud environments now have access to an undo feature for AI agents following the deployment of Commvault AI Protect. Autonomous software now roams across infrastructure, potentially deleting files, reading databases, spinning up server clusters, and even rewriting access policies. Com",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-15T16:28:19"
+  },
+  {
+    "id": 171,
+    "title": "Citizen developers now have their own Wingman",
+    "url": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
+    "summary": "<p>A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company&#8217;s press release states: &#8220;The best technology should be accessible to everyone&#8221;, and cites",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-15T14:42:00"
+  },
+  {
+    "id": 172,
+    "title": "Drones get smarter for large farm holdings",
+    "url": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
+    "summary": "<p>Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies say the near-production drone technology is designed to remove the need to map a field to be treated b",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-04-15T11:03:00"
+  },
+  {
     "id": 6,
     "title": "The next evolution of the Agents SDK",
     "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
     "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-04-15T10:00:00"
+  },
+  {
+    "id": 173,
+    "title": "The US-China AI gap closes amid responsible AI concerns",
+    "url": "https://www.artificialintelligence-news.com/news/ai-safety-benchmarks-stanford-hai-2026-report/",
+    "summary": "<p>The assumption that the US holds a durable lead in AI model performance is not well-supported by the data, and that is just one of the uncomfortable findings in Stanford University&#8217;s 2026 AI Index Report, published this week. The report, produced by Stanford&#8217;s Institute for Human-Cent",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
     "published_at": "2026-04-15T10:00:00"
   },
   {
@@ -331,6 +430,15 @@
     "author": "School of Humanities, Arts, and Social Sciences",
     "source": "MIT News AI",
     "published_at": "2026-04-14T13:00:00"
+  },
+  {
+    "id": 174,
+    "title": "SAP brings agentic AI to human capital management",
+    "url": "https://www.artificialintelligence-news.com/news/sap-brings-agentic-ai-human-capital-management/",
+    "summary": "<p>According to SAP, integrating agentic AI into core human capital management (HCM) modules helps target operational bloat and reduce costs. SAP’s SuccessFactors 1H 2026 release aims to anticipate administrative bottlenecks before they stall daily operations by embedding a network of AI agents acro",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-14T12:55:09"
   },
   {
     "id": 133,
