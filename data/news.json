@@ -1,6 +1,51 @@
 [
   {
     "id": 136,
+    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+    "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-24T16:42:19"
+  },
+  {
+    "id": 161,
+    "title": "Why AI agents need interaction infrastructure",
+    "url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
+    "summary": "<p>To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt t",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-24T16:24:17"
+  },
+  {
+    "id": 137,
+    "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+    "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+    "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss op",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-24T14:00:00"
+  },
+  {
+    "id": 138,
+    "title": "Nothing introduces an AI-powered dictation tool",
+    "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+    "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-24T13:41:42"
+  },
+  {
+    "id": 139,
+    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+    "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
+    "author": "Ram Iyer",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-24T13:30:59"
+  },
+  {
+    "id": 140,
     "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
     "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
     "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
@@ -9,7 +54,7 @@
     "published_at": "2026-04-24T12:00:00"
   },
   {
-    "id": 161,
+    "id": 162,
     "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
     "summary": "<p>AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that",
@@ -18,7 +63,7 @@
     "published_at": "2026-04-24T07:47:32"
   },
   {
-    "id": 137,
+    "id": 141,
     "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
     "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
@@ -27,7 +72,7 @@
     "published_at": "2026-04-23T21:00:00"
   },
   {
-    "id": 138,
+    "id": 142,
     "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
     "url": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
     "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
@@ -36,7 +81,7 @@
     "published_at": "2026-04-23T19:38:25"
   },
   {
-    "id": 139,
+    "id": 143,
     "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
     "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
     "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
@@ -45,7 +90,7 @@
     "published_at": "2026-04-23T18:29:29"
   },
   {
-    "id": 140,
+    "id": 144,
     "title": "Era raises $11M to build a software platform for AI gadgets",
     "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
     "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
@@ -54,7 +99,7 @@
     "published_at": "2026-04-23T16:00:00"
   },
   {
-    "id": 141,
+    "id": 145,
     "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
     "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
     "summary": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
@@ -63,7 +108,7 @@
     "published_at": "2026-04-23T14:00:00"
   },
   {
-    "id": 142,
+    "id": 146,
     "title": "Another customer of troubled startup Delve suffered a big security incident",
     "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
     "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
@@ -72,7 +117,7 @@
     "published_at": "2026-04-23T14:00:00"
   },
   {
-    "id": 143,
+    "id": 147,
     "title": "AI galaxy hunters are adding to the global GPU crunch",
     "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
     "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
@@ -81,7 +126,7 @@
     "published_at": "2026-04-23T13:00:00"
   },
   {
-    "id": 162,
+    "id": 163,
     "title": "The billion-dollar startup with a different idea for AI",
     "url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
     "summary": "<p>A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs&#8217; Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the",
@@ -90,7 +135,7 @@
     "published_at": "2026-04-23T12:30:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "NVIDIA and Google infrastructure cuts AI inference costs",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
     "summary": "<p>At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, t",
@@ -99,7 +144,7 @@
     "published_at": "2026-04-23T12:19:36"
   },
   {
-    "id": 144,
+    "id": 148,
     "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
     "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
     "summary": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses.",
@@ -189,7 +234,7 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
     "url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
     "summary": "<p>An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as &#8220;physical AI,&#8221; where artificial intelligence is applied to machine",
@@ -198,7 +243,7 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 145,
+    "id": 149,
     "title": "India’s app market is booming — but global platforms are capturing most of the gains",
     "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
     "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
@@ -216,7 +261,7 @@
     "published_at": "2026-04-23T00:00:00"
   },
   {
-    "id": 146,
+    "id": 150,
     "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
     "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
     "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
@@ -225,7 +270,7 @@
     "published_at": "2026-04-22T23:56:52"
   },
   {
-    "id": 147,
+    "id": 151,
     "title": "Google updates Workspace to make AI your new office intern",
     "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
     "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
@@ -234,7 +279,7 @@
     "published_at": "2026-04-22T22:44:26"
   },
   {
-    "id": 148,
+    "id": 152,
     "title": "Hands on with X’s new AI-powered custom feeds",
     "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
     "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
@@ -243,7 +288,7 @@
     "published_at": "2026-04-22T22:25:53"
   },
   {
-    "id": 149,
+    "id": 153,
     "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
     "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
     "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
@@ -261,43 +306,7 @@
     "published_at": "2026-04-22T19:15:00"
   },
   {
-    "id": 150,
-    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-    "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-22T18:39:27"
-  },
-  {
-    "id": 151,
-    "title": "Google turns Chrome into an AI co-worker for the workplace",
-    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-22T17:30:00"
-  },
-  {
-    "id": 152,
-    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-    "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-22T16:58:27"
-  },
-  {
-    "id": 153,
-    "title": "AI Overviews are coming to your Gmail at work",
-    "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-    "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-22T16:46:10"
-  },
-  {
-    "id": 165,
+    "id": 166,
     "title": "Reversing enterprise security costs with AI vulnerability discovery",
     "url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
     "summary": "<p>Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unl",
@@ -315,7 +324,7 @@
     "published_at": "2026-04-22T15:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "AI in law firms entering its closing summaries",
     "url": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
     "summary": "<p>In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work. In the second, organisations bought licences to LLMs to",
@@ -360,7 +369,7 @@
     "published_at": "2026-04-22T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "The role of AI in modern forex bot development",
     "url": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
     "summary": "<p>Artificial intelligence has become a defining force in financial markets. And currency trading is no exception. The rise of the AI-powered forex bot reflects a change toward automated systems capable of processing vast amounts of market data and identifying patterns beyond the reach of manual ana",
@@ -459,7 +468,7 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Snowflake expands its technical and mainstream AI platforms",
     "url": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
     "summary": "<p>Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for d",
@@ -477,7 +486,7 @@
     "published_at": "2026-04-21T12:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Siemens introduces AI system for automation engineering",
     "url": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
     "summary": "<p>Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, let",
@@ -495,7 +504,7 @@
     "published_at": "2026-04-21T00:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
     "url": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
     "summary": "<p>AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landsc",
@@ -504,22 +513,13 @@
     "published_at": "2026-04-20T13:15:51"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "How to prepare for and remediate an AI system incident",
     "url": "https://www.artificialintelligence-news.com/news/how-to-prepare-for-and-remediate-an-ai-system-incident/",
     "summary": "<p>For all the possibilities AI gives us, there is always a chance of the technology malfunctioning or becoming compromised. In the event of an AI system crisis, new research from ISACA has found that the majority of organisations surveyed couldn&#8217;t explain how quickly they could stop an AI sys",
     "author": "David Thomas",
     "source": "AI News",
     "published_at": "2026-04-20T11:39:41"
-  },
-  {
-    "id": 172,
-    "title": "Anthropic walks into the White House and Mythos is the reason Washington let it in",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-mythos-ai-cybersecurity-white-house/",
-    "summary": "<p>When we covered Project Glasswing earlier this month, the story was about a model too dangerous to release publicly and what Anthropic decided to do with it instead. That story has moved. On Friday, Anthropic CEO Dario Amodei walked into the West Wing for a meeting with White House Chief of Staff",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-04-20T08:00:00"
   },
   {
     "id": 18,
