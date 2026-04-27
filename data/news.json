@@ -1,7 +1,25 @@
 [
   {
+    "id": 126,
+    "title": "The missing step between hype and profit",
+    "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B",
+    "author": "Will Douglas Heaven",
+    "source": "MIT Technology Review",
+    "published_at": "2026-04-27T16:13:41"
+  },
+  {
     "id": 136,
-    "title": "China vetoes Meta’s $2B Manus deal after months-long probe",
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-27T16:13:02"
+  },
+  {
+    "id": 137,
+    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
     "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
     "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
     "author": "Kate Park",
@@ -9,25 +27,25 @@
     "published_at": "2026-04-27T13:16:55"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "summary": "The phone could go in mass production in 2028, an analyst says.",
+    "summary": "The phone could go into mass production in 2028, an analyst says.",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-04-27T13:08:59"
   },
   {
-    "id": 163,
-    "title": "Google warns malicious web pages are poisoning AI agents",
-    "url": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
-    "summary": "<p>Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrat",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-27T11:12:52"
+    "id": 127,
+    "title": "Rebuilding the data stack for AI",
+    "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-04-27T13:00:00"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Meta inks deal for solar power at night, beamed from space",
     "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
     "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
@@ -63,7 +81,7 @@
     "published_at": "2026-04-26T16:00:00"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "To buy this Bay Area home, you’ll need Anthropic equity",
     "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
     "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
@@ -72,7 +90,7 @@
     "published_at": "2026-04-26T15:30:00"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Anthropic created a test marketplace for agent-on-agent commerce",
     "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
@@ -81,7 +99,7 @@
     "published_at": "2026-04-25T21:43:37"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Maine’s governor vetoes data center moratorium",
     "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
     "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
@@ -90,7 +108,7 @@
     "published_at": "2026-04-25T20:57:08"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "OpenAI CEO apologizes to Tumbler Ridge community",
     "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
     "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
@@ -99,7 +117,7 @@
     "published_at": "2026-04-25T17:17:56"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Why Cohere is merging with Aleph Alpha",
     "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
     "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
@@ -108,7 +126,7 @@
     "published_at": "2026-04-25T16:00:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Why Tokyo is the most important tech destination of 2026",
     "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
     "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
@@ -117,7 +135,7 @@
     "published_at": "2026-04-25T15:03:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
     "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
     "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
@@ -126,7 +144,7 @@
     "published_at": "2026-04-25T15:00:00"
   },
   {
-    "id": 126,
+    "id": 128,
     "title": "Three reasons why DeepSeek’s new model matters",
     "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
     "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou",
@@ -135,7 +153,7 @@
     "published_at": "2026-04-24T21:40:58"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Meta’s loss is Thinking Machines’ gain",
     "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
     "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
@@ -144,7 +162,7 @@
     "published_at": "2026-04-24T20:52:07"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
     "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
     "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
@@ -153,7 +171,7 @@
     "published_at": "2026-04-24T19:49:35"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Google to invest up to $40B in Anthropic in cash and compute",
     "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
     "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
@@ -162,7 +180,7 @@
     "published_at": "2026-04-24T18:00:03"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
     "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
     "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;eco",
@@ -180,7 +198,7 @@
     "published_at": "2026-04-24T17:00:00"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
     "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
     "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
@@ -189,16 +207,7 @@
     "published_at": "2026-04-24T16:42:19"
   },
   {
-    "id": 164,
-    "title": "Why AI agents need interaction infrastructure",
-    "url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
-    "summary": "<p>To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt t",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-24T16:24:17"
-  },
-  {
-    "id": 151,
+    "id": 152,
     "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
     "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
     "summary": "Surprise! StrictlyVC San Francisco, which will kick off this year’s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stacked lineup of speakers. Uber CTO Praveen Neppalli Naga will join the rest of the lineup to discuss op",
@@ -207,7 +216,7 @@
     "published_at": "2026-04-24T14:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Tim Cook is stepping down. What happens to Apple now?",
     "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
     "summary": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tech, but&#160;he’s&#160;also stepping into&#160;a very different&#160;ecosystemthan the one Cook spent decades shaping. The App",
@@ -216,7 +225,7 @@
     "published_at": "2026-04-24T14:00:00"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Nothing introduces an AI-powered dictation tool",
     "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
     "summary": "Nothing's new on-device dictation tool supports over 100 languages.",
@@ -225,49 +234,13 @@
     "published_at": "2026-04-24T13:41:42"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
     "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
     "summary": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on reasoning benchmarks.",
     "author": "Ram Iyer",
     "source": "TechCrunch AI",
     "published_at": "2026-04-24T13:30:59"
-  },
-  {
-    "id": 155,
-    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-    "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-    "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-24T12:00:00"
-  },
-  {
-    "id": 165,
-    "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
-    "url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
-    "summary": "<p>AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that",
-    "author": "Sadie Smith",
-    "source": "AI News",
-    "published_at": "2026-04-24T07:47:32"
-  },
-  {
-    "id": 166,
-    "title": "The billion-dollar startup with a different idea for AI",
-    "url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
-    "summary": "<p>A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs&#8217; Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the",
-    "author": "Joe Green",
-    "source": "AI News",
-    "published_at": "2026-04-23T12:30:00"
-  },
-  {
-    "id": 167,
-    "title": "NVIDIA and Google infrastructure cuts AI inference costs",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-    "summary": "<p>At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, t",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-23T12:19:36"
   },
   {
     "id": 3,
@@ -351,15 +324,6 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 168,
-    "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
-    "url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
-    "summary": "<p>An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as &#8220;physical AI,&#8221; where artificial intelligence is applied to machine",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-04-23T10:00:00"
-  },
-  {
     "id": 12,
     "title": "GPT-5.5 Bio Bug Bounty",
     "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
@@ -378,15 +342,6 @@
     "published_at": "2026-04-22T19:15:00"
   },
   {
-    "id": 169,
-    "title": "Reversing enterprise security costs with AI vulnerability discovery",
-    "url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-    "summary": "<p>Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unl",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-22T15:45:14"
-  },
-  {
     "id": 13,
     "title": "Making ChatGPT better for clinicians",
     "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
@@ -396,16 +351,7 @@
     "published_at": "2026-04-22T15:00:00"
   },
   {
-    "id": 170,
-    "title": "AI in law firms entering its closing summaries",
-    "url": "https://www.artificialintelligence-news.com/news/ai-in-law-firms-entering-its-closing-summaries/",
-    "summary": "<p>In an interview with Artificial Lawyer, Paris-based AI-native consulting firm owner, Olivier Chaduteau, set out a three-part account of the current state of AI in the legal sector. At first, lawyers dismissed AI as irrelevant to expert work. In the second, organisations bought licences to LLMs to",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-04-22T13:51:00"
-  },
-  {
-    "id": 127,
+    "id": 129,
     "title": "AI needs a strong data fabric to deliver business value",
     "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
     "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
@@ -441,15 +387,6 @@
     "published_at": "2026-04-22T10:00:00"
   },
   {
-    "id": 171,
-    "title": "The role of AI in modern forex bot development",
-    "url": "https://www.artificialintelligence-news.com/news/the-role-of-ai-in-modern-forex-bot-development/",
-    "summary": "<p>Artificial intelligence has become a defining force in financial markets. And currency trading is no exception. The rise of the AI-powered forex bot reflects a change toward automated systems capable of processing vast amounts of market data and identifying patterns beyond the reach of manual ana",
-    "author": "Sadie Smith",
-    "source": "AI News",
-    "published_at": "2026-04-22T07:34:01"
-  },
-  {
     "id": 17,
     "title": "Introducing OpenAI Privacy Filter",
     "url": "https://openai.com/index/introducing-openai-privacy-filter",
@@ -459,7 +396,7 @@
     "published_at": "2026-04-22T00:00:00"
   },
   {
-    "id": 128,
+    "id": 130,
     "title": "10 Things That Matter in AI Right Now",
     "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
     "summary": "",
@@ -468,7 +405,7 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 129,
+    "id": 131,
     "title": "LLMs+",
     "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
     "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The as",
@@ -477,7 +414,7 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 130,
+    "id": 132,
     "title": "Supercharged scams",
     "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
     "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—bot",
@@ -486,7 +423,7 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 131,
+    "id": 133,
     "title": "World models",
     "url": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
     "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier than developing one that can fold laundry or navigate a city street. To get there,",
@@ -495,7 +432,7 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 132,
+    "id": 134,
     "title": "Weaponized deepfakes",
     "url": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
     "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These dangers are now here. Improvements in deepfake technology, and the widespread avail",
@@ -504,40 +441,13 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 133,
+    "id": 135,
     "title": "Agent orchestration",
     "url": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
     "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer product. But to change the world, AI needs to do more than just talk back: It needs&#8",
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-04-21T20:45:00"
-  },
-  {
-    "id": 134,
-    "title": "Humanoid data",
-    "url": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
-    "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in which I&#8217;d remotely control a robotic arm in Shenzhen, China, as it completed pu",
-    "author": "James O'Donnell",
-    "source": "MIT Technology Review",
-    "published_at": "2026-04-21T20:45:00"
-  },
-  {
-    "id": 135,
-    "title": "China’s open-source bet",
-    "url": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
-    "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight” packages. This lets developers adapt the models and run them on their own hardw",
-    "author": "Caiwei Chen",
-    "source": "MIT Technology Review",
-    "published_at": "2026-04-21T20:45:00"
-  },
-  {
-    "id": 172,
-    "title": "Snowflake expands its technical and mainstream AI platforms",
-    "url": "https://www.artificialintelligence-news.com/news/snowflake-expands-its-technical-and-mainstream-ai-platforms/",
-    "summary": "<p>Snowflake is expanding its Snowflake Intelligence and Cortex Code offerings in the hope of bringing users deploying and developing artificial intelligence inside the Snowflake portfolio. Snowflake Intelligence is framed as a tool for generalised business users, while Cortex Code is destined for d",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-04-21T14:29:00"
   },
   {
     "id": 18,
@@ -549,15 +459,6 @@
     "published_at": "2026-04-21T12:00:00"
   },
   {
-    "id": 173,
-    "title": "Siemens introduces AI system for automation engineering",
-    "url": "https://www.artificialintelligence-news.com/news/siemens-ai-automation-engineering-workflows/",
-    "summary": "<p>Siemens has introduced the Eigen Engineering Agent, an AI system designed to plan and validate automation engineering tasks in operational environments. The system uses multi-step reasoning and self-correction to carry out tasks autonomously and operates directly inside engineering platforms, let",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-04-21T10:00:00"
-  },
-  {
     "id": 19,
     "title": "Scaling Codex to enterprises worldwide",
     "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
@@ -565,15 +466,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-21T00:00:00"
-  },
-  {
-    "id": 174,
-    "title": "Bobyard 2.0 offers improved takeoffs and unified AI for estimators",
-    "url": "https://www.artificialintelligence-news.com/news/bobyard-2-0-offers-improved-takeoffs-and-unified-ai-for-estimators/",
-    "summary": "<p>AI platform, Bobyard, has unveiled Bobyard 2.0, its latest platform update delivering accelerated takeoff workflows and a unified AI workbench, designed to keep pace with the estimators (those responsible for calculating project budgets) who use it every day throughout the construction and landsc",
-    "author": "David Thomas",
-    "source": "AI News",
-    "published_at": "2026-04-20T13:15:51"
   },
   {
     "id": 20,
