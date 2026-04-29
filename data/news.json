@@ -1,6 +1,33 @@
 [
   {
     "id": 136,
+    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+    "summary": "Google recreates Cher's closet from \"Clueless\" with AI.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-29T16:42:33"
+  },
+  {
+    "id": 137,
+    "title": "More Gemini features are coming to Google TV",
+    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+    "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-29T16:40:49"
+  },
+  {
+    "id": 163,
+    "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+    "url": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+    "summary": "<p>Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing. Companies poured capital into large language models and machine learning, expect",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-29T14:02:45"
+  },
+  {
+    "id": 138,
     "title": "Firestorm Labs raises $82M to take drone factories into the field",
     "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
     "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
@@ -9,7 +36,7 @@
     "published_at": "2026-04-29T13:10:57"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
     "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
     "summary": "Think Discord chats, but with AI characters in addition to humans.",
@@ -27,8 +54,8 @@
     "published_at": "2026-04-29T10:00:00"
   },
   {
-    "id": 138,
-    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+    "id": 140,
+    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war: We visited its bootcamp",
     "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
     "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
     "author": "Tim Fernholz",
@@ -36,7 +63,7 @@
     "published_at": "2026-04-29T09:45:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
     "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
     "summary": "<p>OpenAI launched GPT-5.5 on April 23 as what it calls &#8220;a new class of intelligence for real work and powering agents,&#8221; and the framing is deliberate. OpenAI says it&#8217;s the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output, and",
@@ -63,7 +90,7 @@
     "published_at": "2026-04-29T04:00:00"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
     "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
@@ -72,7 +99,7 @@
     "published_at": "2026-04-29T00:40:16"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Amazon is already offering new OpenAI products on AWS",
     "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
@@ -81,7 +108,7 @@
     "published_at": "2026-04-28T19:48:02"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
     "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
     "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
@@ -90,7 +117,7 @@
     "published_at": "2026-04-28T18:49:54"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
     "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
     "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
@@ -99,7 +126,7 @@
     "published_at": "2026-04-28T18:15:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "IBM launches AI platform Bob to regulate SDLC costs",
     "url": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
     "summary": "<p>To regulate software delivery costs and SDLC governance, IBM is launching Bob, an AI platform built to anchor enterprise engineering. Accumulated technical debt, hybrid cloud structures, and rigid compliance requirements clash with the raw speed of coding assistants. Without boundaries, they gene",
@@ -108,7 +135,7 @@
     "published_at": "2026-04-28T17:34:21"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Lovable launches its vibe-coding app on iOS and Android",
     "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
     "summary": "The app allows developers to vibe code web apps and websites on the go.",
@@ -117,7 +144,7 @@
     "published_at": "2026-04-28T16:09:30"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "YouTube is testing an AI-powered search feature that shows guided answers",
     "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
     "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
@@ -126,7 +153,7 @@
     "published_at": "2026-04-28T13:54:06"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
     "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
     "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
@@ -135,7 +162,7 @@
     "published_at": "2026-04-28T13:19:34"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "The evolution of encoders: From simple models to multimodal AI",
     "url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
     "summary": "<p>When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place. That understanding begins with encoders. Think of an encoder ",
@@ -144,7 +171,7 @@
     "published_at": "2026-04-28T13:01:51"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
     "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
     "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
@@ -153,7 +180,7 @@
     "published_at": "2026-04-28T13:00:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Otter’s new feature lets users search across their enterprise tools",
     "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
     "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
@@ -162,7 +189,7 @@
     "published_at": "2026-04-28T12:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
     "url": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
     "summary": "<p>Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy. Kim Jin-kyu, vice president and head of Kakao Mobility&#8217;s Physical AI division, presented the roadmap at the 2026 World IT Show conference at COEX in Seoul. His s",
@@ -171,7 +198,7 @@
     "published_at": "2026-04-28T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
     "url": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
     "summary": "<p>When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don&#8217;t show yet? In Lightelligence&#8217;s case, the answer is optical interconnect a",
@@ -207,7 +234,7 @@
     "published_at": "2026-04-27T22:52:57"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
@@ -216,7 +243,7 @@
     "published_at": "2026-04-27T17:40:38"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
     "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
     "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
@@ -234,7 +261,7 @@
     "published_at": "2026-04-27T16:13:41"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
     "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
     "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
@@ -252,7 +279,7 @@
     "published_at": "2026-04-27T14:00:00"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "China blocks Meta’s $2B Manus deal after months-long probe",
     "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
     "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
@@ -261,7 +288,7 @@
     "published_at": "2026-04-27T13:16:55"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
     "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
@@ -279,7 +306,7 @@
     "published_at": "2026-04-27T13:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Google warns malicious web pages are poisoning AI agents",
     "url": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
     "summary": "<p>Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrat",
@@ -288,7 +315,7 @@
     "published_at": "2026-04-27T11:12:52"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Meta inks deal for solar power at night, beamed from space",
     "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
     "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
@@ -342,24 +369,6 @@
     "published_at": "2026-04-26T16:00:00"
   },
   {
-    "id": 154,
-    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-    "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-26T15:30:00"
-  },
-  {
-    "id": 155,
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-25T21:43:37"
-  },
-  {
     "id": 129,
     "title": "Three reasons why DeepSeek’s new model matters",
     "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
@@ -378,7 +387,7 @@
     "published_at": "2026-04-24T17:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Why AI agents need interaction infrastructure",
     "url": "https://www.artificialintelligence-news.com/news/why-ai-agents-need-interaction-infrastructure/",
     "summary": "<p>To stop automation waste, enterprises must deploy interaction infrastructure that physically governs how independent AI agents operate. AI agents now populate corporate networks, reasoning through tasks and executing decisions with increasing autonomy. Yet, when these independent actors attempt t",
@@ -387,7 +396,7 @@
     "published_at": "2026-04-24T16:24:17"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "How AI models use real-time cryptocurrency data to interpret market behaviour",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-models-use-real-time-cryptocurrency-data-to-interpret-market-behaviour/",
     "summary": "<p>AI systems are increasingly built around data that does not really pause. Financial markets are an obvious example, where inputs keep updating, not arriving in fixed batches. In that kind of setup, something like the BNB price stops being a single figure and starts to look more like a stream that",
@@ -396,7 +405,7 @@
     "published_at": "2026-04-24T07:47:32"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "The billion-dollar startup with a different idea for AI",
     "url": "https://www.artificialintelligence-news.com/news/the-billion-dollar-startup-with-a-different-idea-for-ai-ami-labs-yann-lecun/",
     "summary": "<p>A billion dollars in startup funding for a company that employs 12 people is an indication that investors still have faith in AI. But the founder of the startup in question – AMI Labs&#8217; Yann LeCun – believes that the breed of technology we currently term AI (large language models) is not the",
@@ -405,7 +414,7 @@
     "published_at": "2026-04-23T12:30:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "NVIDIA and Google infrastructure cuts AI inference costs",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
     "summary": "<p>At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and software codesign, t",
@@ -495,7 +504,7 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Sony AI robot beats players as humanoid robot wins Beijing race",
     "url": "https://www.artificialintelligence-news.com/news/sony-ai-robot-table-tennis-humanoid-robot-beijing-race/",
     "summary": "<p>An autonomous table tennis robot developed by Sony AI has competed against and defeated high-level human players in regulated matches, according to Reuters. The system is part of a broader category often referred to as &#8220;physical AI,&#8221; where artificial intelligence is applied to machine",
@@ -520,15 +529,6 @@
     "author": "Rachel Gordon | MIT CSAIL",
     "source": "MIT News AI",
     "published_at": "2026-04-22T19:15:00"
-  },
-  {
-    "id": 174,
-    "title": "Reversing enterprise security costs with AI vulnerability discovery",
-    "url": "https://www.artificialintelligence-news.com/news/reversing-enterprise-security-costs-with-ai-vulnerability-discovery/",
-    "summary": "<p>Automated AI vulnerability discovery is reversing the enterprise security costs that traditionally favour attackers. Bringing exploits to zero was once viewed as an unrealistic goal. The prevailing operational doctrine aimed to make attacks so expensive that only adversaries with functionally unl",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-22T15:45:14"
   },
   {
     "id": 19,
