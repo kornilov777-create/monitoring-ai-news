@@ -1,16 +1,43 @@
 [
   {
     "id": 136,
-    "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "author": "Kate Park",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-29T13:10:57"
+  },
+  {
+    "id": 137,
+    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "summary": "Think Discord chats, but with AI characters in addition to humans.",
+    "author": "Aisha Malik",
+    "source": "TechCrunch AI",
+    "published_at": "2026-04-29T13:00:00"
+  },
+  {
+    "id": 76,
+    "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+    "url": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+    "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing.",
+    "author": "MIT Schwarzman College of Computing",
+    "source": "MIT News AI",
+    "published_at": "2026-04-29T10:00:00"
+  },
+  {
+    "id": 138,
+    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
     "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "summary": "We visited Scout AI's training ground where it's working on AI agents that give individual soldiers control of fleets of autonomous vehicles.",
+    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
     "author": "Tim Fernholz",
     "source": "TechCrunch AI",
     "published_at": "2026-04-29T09:45:00"
   },
   {
     "id": 163,
-    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet–at twice the API price",
+    "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
     "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
     "summary": "<p>OpenAI launched GPT-5.5 on April 23 as what it calls &#8220;a new class of intelligence for real work and powering agents,&#8221; and the framing is deliberate. OpenAI says it&#8217;s the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output, and",
     "author": "Dashveenjit Kaur",
@@ -18,7 +45,16 @@
     "published_at": "2026-04-29T09:08:13"
   },
   {
-    "id": 76,
+    "id": 1,
+    "title": "Cybersecurity in the Intelligence Age",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-29T04:00:00"
+  },
+  {
+    "id": 77,
     "title": "Enabling privacy-preserving AI training on everyday devices",
     "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
     "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in under-resourced settings.",
@@ -27,7 +63,7 @@
     "published_at": "2026-04-29T04:00:00"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
     "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
@@ -36,7 +72,7 @@
     "published_at": "2026-04-29T00:40:16"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Amazon is already offering new OpenAI products on AWS",
     "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
@@ -45,7 +81,7 @@
     "published_at": "2026-04-28T19:48:02"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
     "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
     "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
@@ -54,7 +90,7 @@
     "published_at": "2026-04-28T18:49:54"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
     "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
     "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
@@ -72,7 +108,7 @@
     "published_at": "2026-04-28T17:34:21"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Lovable launches its vibe-coding app on iOS and Android",
     "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
     "summary": "The app allows developers to vibe code web apps and websites on the go.",
@@ -81,7 +117,7 @@
     "published_at": "2026-04-28T16:09:30"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "YouTube is testing an AI-powered search feature that shows guided answers",
     "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
     "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
@@ -90,7 +126,7 @@
     "published_at": "2026-04-28T13:54:06"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
     "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
     "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
@@ -108,7 +144,7 @@
     "published_at": "2026-04-28T13:01:51"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
     "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
     "summary": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
@@ -117,7 +153,7 @@
     "published_at": "2026-04-28T13:00:00"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Otter’s new feature lets users search across their enterprise tools",
     "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
     "summary": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
@@ -144,19 +180,19 @@
     "published_at": "2026-04-28T10:00:00"
   },
   {
-    "id": 1,
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "id": 2,
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-28T00:00:00"
   },
   {
-    "id": 2,
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "id": 3,
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-28T00:00:00"
@@ -171,7 +207,7 @@
     "published_at": "2026-04-27T22:52:57"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
@@ -180,7 +216,7 @@
     "published_at": "2026-04-27T17:40:38"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
     "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
     "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
@@ -198,7 +234,7 @@
     "published_at": "2026-04-27T16:13:41"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
     "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
     "summary": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
@@ -207,7 +243,7 @@
     "published_at": "2026-04-27T16:13:02"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "OpenAI available at FedRAMP Moderate",
     "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
     "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
@@ -216,7 +252,7 @@
     "published_at": "2026-04-27T14:00:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "China blocks Meta’s $2B Manus deal after months-long probe",
     "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
     "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
@@ -225,7 +261,7 @@
     "published_at": "2026-04-27T13:16:55"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
     "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
@@ -252,7 +288,7 @@
     "published_at": "2026-04-27T11:12:52"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Meta inks deal for solar power at night, beamed from space",
     "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
     "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
@@ -261,7 +297,7 @@
     "published_at": "2026-04-27T10:00:00"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "The next phase of the Microsoft OpenAI partnership",
     "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
     "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
@@ -270,7 +306,7 @@
     "published_at": "2026-04-27T06:00:00"
   },
   {
-    "id": 77,
+    "id": 78,
     "title": "A faster way to estimate AI power consumption",
     "url": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
     "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources and reduce wasted energy.",
@@ -279,7 +315,7 @@
     "published_at": "2026-04-27T04:00:00"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "An open-source spec for orchestration: Symphony",
     "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
     "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
@@ -288,7 +324,7 @@
     "published_at": "2026-04-27T00:00:00"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Choco automates food distribution with AI agents",
     "url": "https://openai.com/index/choco",
     "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
@@ -297,7 +333,7 @@
     "published_at": "2026-04-27T00:00:00"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Our principles",
     "url": "https://openai.com/index/our-principles",
     "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
@@ -306,7 +342,7 @@
     "published_at": "2026-04-26T16:00:00"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "To buy this Bay Area home, you’ll need Anthropic equity",
     "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
     "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
@@ -315,31 +351,13 @@
     "published_at": "2026-04-26T15:30:00"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Anthropic created a test marketplace for agent-on-agent commerce",
     "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
     "author": "Anthony Ha",
     "source": "TechCrunch AI",
     "published_at": "2026-04-25T21:43:37"
-  },
-  {
-    "id": 154,
-    "title": "Maine’s governor vetoes data center moratorium",
-    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-25T20:57:08"
-  },
-  {
-    "id": 155,
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-25T17:17:56"
   },
   {
     "id": 129,
@@ -351,7 +369,7 @@
     "published_at": "2026-04-24T21:40:58"
   },
   {
-    "id": 78,
+    "id": 79,
     "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone",
     "url": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
     "summary": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
@@ -396,7 +414,7 @@
     "published_at": "2026-04-23T12:19:36"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "GPT-5.5 System Card",
     "url": "https://openai.com/index/gpt-5-5-system-card",
     "summary": "",
@@ -405,7 +423,7 @@
     "published_at": "2026-04-23T11:00:00"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Introducing GPT-5.5",
     "url": "https://openai.com/index/introducing-gpt-5-5",
     "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
@@ -414,7 +432,7 @@
     "published_at": "2026-04-23T11:00:00"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Top 10 uses for Codex at work",
     "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
     "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
@@ -423,43 +441,16 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 11,
-    "title": "Working with Codex",
-    "url": "https://openai.com/academy/working-with-codex",
-    "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00"
-  },
-  {
     "id": 12,
-    "title": "Plugins and skills",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+    "title": "How to get started with Codex",
+    "url": "https://openai.com/academy/codex-how-to-start",
+    "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-23T10:00:00"
   },
   {
     "id": 13,
-    "title": "Automations",
-    "url": "https://openai.com/academy/codex-automations",
-    "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00"
-  },
-  {
-    "id": 14,
-    "title": "Codex settings",
-    "url": "https://openai.com/academy/codex-settings",
-    "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00"
-  },
-  {
-    "id": 15,
     "title": "What is Codex?",
     "url": "https://openai.com/academy/what-is-codex",
     "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
@@ -468,10 +459,37 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
+    "id": 14,
+    "title": "Plugins and skills",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T10:00:00"
+  },
+  {
+    "id": 15,
+    "title": "Working with Codex",
+    "url": "https://openai.com/academy/working-with-codex",
+    "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T10:00:00"
+  },
+  {
     "id": 16,
-    "title": "How to get started with Codex",
-    "url": "https://openai.com/academy/codex-how-to-start",
-    "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+    "title": "Codex settings",
+    "url": "https://openai.com/academy/codex-settings",
+    "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T10:00:00"
+  },
+  {
+    "id": 17,
+    "title": "Automations",
+    "url": "https://openai.com/academy/codex-automations",
+    "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-23T10:00:00"
@@ -486,7 +504,7 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "GPT-5.5 Bio Bug Bounty",
     "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
     "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
@@ -495,7 +513,7 @@
     "published_at": "2026-04-23T00:00:00"
   },
   {
-    "id": 79,
+    "id": 80,
     "title": "Teaching AI models to say “I’m not sure”",
     "url": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
     "summary": "A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hallucination in reasoning models.",
@@ -513,7 +531,7 @@
     "published_at": "2026-04-22T15:45:14"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Making ChatGPT better for clinicians",
     "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
     "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
@@ -531,25 +549,7 @@
     "published_at": "2026-04-22T10:05:06"
   },
   {
-    "id": 19,
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-22T10:00:00"
-  },
-  {
     "id": 20,
-    "title": "Introducing workspace agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-22T10:00:00"
-  },
-  {
-    "id": 21,
     "title": "Speeding up agentic workflows with WebSockets in the Responses API",
     "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
     "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
@@ -558,7 +558,25 @@
     "published_at": "2026-04-22T10:00:00"
   },
   {
+    "id": 21,
+    "title": "Workspace agents",
+    "url": "https://openai.com/academy/workspace-agents",
+    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-22T10:00:00"
+  },
+  {
     "id": 22,
+    "title": "Introducing workspace agents in ChatGPT",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-22T10:00:00"
+  },
+  {
+    "id": 23,
     "title": "Introducing OpenAI Privacy Filter",
     "url": "https://openai.com/index/introducing-openai-privacy-filter",
     "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
@@ -612,7 +630,7 @@
     "published_at": "2026-04-21T20:45:00"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "Introducing ChatGPT Images 2.0",
     "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
     "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
@@ -621,7 +639,7 @@
     "published_at": "2026-04-21T12:00:00"
   },
   {
-    "id": 24,
+    "id": 25,
     "title": "Scaling Codex to enterprises worldwide",
     "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
     "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
@@ -630,7 +648,7 @@
     "published_at": "2026-04-21T00:00:00"
   },
   {
-    "id": 25,
+    "id": 26,
     "title": "OpenAI helps Hyatt advance AI among colleagues",
     "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
     "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
@@ -639,7 +657,7 @@
     "published_at": "2026-04-20T00:00:00"
   },
   {
-    "id": 80,
+    "id": 81,
     "title": "Jacob Andreas and Brett McGuire named Edgerton Award winners",
     "url": "https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417",
     "summary": "The associate professors of EECS and chemistry, respectively, are honored for exceptional contributions to teaching, research, and service at MIT.",
@@ -648,7 +666,7 @@
     "published_at": "2026-04-17T13:40:00"
   },
   {
-    "id": 81,
+    "id": 82,
     "title": "Bringing AI-driven protein-design tools to biologists everywhere",
     "url": "https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417",
     "summary": "Founded by Tristan Bepler PhD ’20 and former MIT professor Tim Lu PhD ’07, OpenProtein.AI offers researchers open-source models and other tools for protein engineering.",
@@ -657,7 +675,7 @@
     "published_at": "2026-04-17T04:00:00"
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "Codex for (almost) everything",
     "url": "https://openai.com/index/codex-for-almost-everything",
     "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
@@ -666,7 +684,7 @@
     "published_at": "2026-04-16T10:00:00"
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "Introducing GPT-Rosalind for life sciences research",
     "url": "https://openai.com/index/introducing-gpt-rosalind",
     "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
@@ -675,7 +693,7 @@
     "published_at": "2026-04-16T01:00:00"
   },
   {
-    "id": 28,
+    "id": 29,
     "title": "Accelerating the cyber defense ecosystem that protects us all",
     "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
     "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
@@ -684,7 +702,7 @@
     "published_at": "2026-04-16T00:00:00"
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "The next evolution of the Agents SDK",
     "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
     "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
@@ -693,7 +711,7 @@
     "published_at": "2026-04-15T10:00:00"
   },
   {
-    "id": 82,
+    "id": 83,
     "title": "Human-machine teaming dives underwater",
     "url": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
     "summary": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles engaged in maritime missions.",
@@ -702,7 +720,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 83,
+    "id": 84,
     "title": "Q&A: MIT SHASS and the future of education in the age of AI",
     "url": "https://news.mit.edu/2026/qa-mit-shass-and-future-of-education-age-ai-0414",
     "summary": "As the School of Humanities, Arts, and Social Sciences marks 75 years, Dean Agustín Rayo reflects on how AI is reshaping higher education and why SHASS disciplines continue to be central to MIT’s mission.",
@@ -711,7 +729,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 30,
+    "id": 31,
     "title": "Trusted access for the next era of cyber defense",
     "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
     "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
@@ -720,7 +738,7 @@
     "published_at": "2026-04-14T00:00:00"
   },
   {
-    "id": 31,
+    "id": 32,
     "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
     "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
     "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
@@ -729,88 +747,7 @@
     "published_at": "2026-04-13T06:00:00"
   },
   {
-    "id": 32,
-    "title": "ChatGPT for operations teams",
-    "url": "https://openai.com/academy/operations",
-    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
     "id": 33,
-    "title": "Applications of AI at OpenAI",
-    "url": "https://openai.com/academy/applications-of-ai",
-    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 34,
-    "title": "ChatGPT for sales teams",
-    "url": "https://openai.com/academy/sales",
-    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 35,
-    "title": "Getting started with ChatGPT",
-    "url": "https://openai.com/academy/getting-started",
-    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 36,
-    "title": "Using skills",
-    "url": "https://openai.com/academy/skills",
-    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 37,
-    "title": "ChatGPT for marketing teams",
-    "url": "https://openai.com/academy/marketing",
-    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 38,
-    "title": "Prompting fundamentals",
-    "url": "https://openai.com/academy/prompting",
-    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 39,
-    "title": "Creating images with ChatGPT",
-    "url": "https://openai.com/academy/image-generation",
-    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 40,
-    "title": "Working with files in ChatGPT",
-    "url": "https://openai.com/academy/working-with-files",
-    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 41,
     "title": "Healthcare",
     "url": "https://openai.com/academy/healthcare",
     "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
@@ -819,79 +756,43 @@
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 42,
-    "title": "Our response to the Axios developer tool compromise",
-    "url": "https://openai.com/index/axios-developer-tool-compromise",
-    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "id": 34,
+    "title": "Responsible and safe use of AI",
+    "url": "https://openai.com/academy/responsible-and-safe-use",
+    "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 43,
-    "title": "ChatGPT for research",
-    "url": "https://openai.com/academy/research",
-    "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+    "id": 35,
+    "title": "ChatGPT for operations teams",
+    "url": "https://openai.com/academy/operations",
+    "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 44,
-    "title": "Using projects in ChatGPT",
-    "url": "https://openai.com/academy/projects",
-    "summary": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+    "id": 36,
+    "title": "Getting started with ChatGPT",
+    "url": "https://openai.com/academy/getting-started",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 45,
-    "title": "ChatGPT for finance teams",
-    "url": "https://openai.com/academy/finance",
-    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "id": 37,
+    "title": "Analyzing data with ChatGPT",
+    "url": "https://openai.com/academy/data-analysis",
+    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 46,
-    "title": "ChatGPT for managers",
-    "url": "https://openai.com/academy/managers",
-    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 47,
-    "title": "Using custom GPTs",
-    "url": "https://openai.com/academy/custom-gpts",
-    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 48,
-    "title": "Financial services",
-    "url": "https://openai.com/academy/financial-services",
-    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 49,
-    "title": "AI fundamentals",
-    "url": "https://openai.com/academy/what-is-ai",
-    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-10T00:00:00"
-  },
-  {
-    "id": 50,
+    "id": 38,
     "title": "Research with ChatGPT",
     "url": "https://openai.com/academy/search-and-deep-research",
     "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
@@ -900,7 +801,115 @@
     "published_at": "2026-04-10T00:00:00"
   },
   {
-    "id": 84,
+    "id": 39,
+    "title": "Writing with ChatGPT",
+    "url": "https://openai.com/academy/writing",
+    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 40,
+    "title": "Creating images with ChatGPT",
+    "url": "https://openai.com/academy/image-generation",
+    "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 41,
+    "title": "AI fundamentals",
+    "url": "https://openai.com/academy/what-is-ai",
+    "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 42,
+    "title": "ChatGPT for sales teams",
+    "url": "https://openai.com/academy/sales",
+    "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 43,
+    "title": "Prompting fundamentals",
+    "url": "https://openai.com/academy/prompting",
+    "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 44,
+    "title": "Brainstorming with ChatGPT",
+    "url": "https://openai.com/academy/brainstorming",
+    "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 45,
+    "title": "Applications of AI at OpenAI",
+    "url": "https://openai.com/academy/applications-of-ai",
+    "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 46,
+    "title": "ChatGPT for finance teams",
+    "url": "https://openai.com/academy/finance",
+    "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 47,
+    "title": "ChatGPT for marketing teams",
+    "url": "https://openai.com/academy/marketing",
+    "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 48,
+    "title": "Working with files in ChatGPT",
+    "url": "https://openai.com/academy/working-with-files",
+    "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 49,
+    "title": "ChatGPT for managers",
+    "url": "https://openai.com/academy/managers",
+    "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 50,
+    "title": "Financial services",
+    "url": "https://openai.com/academy/financial-services",
+    "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-10T00:00:00"
+  },
+  {
+    "id": 85,
     "title": "A philosophy of work",
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.",
@@ -909,7 +918,7 @@
     "published_at": "2026-04-09T18:00:00"
   },
   {
-    "id": 85,
+    "id": 86,
     "title": "New technique makes AI models leaner and faster while they’re still learning",
     "url": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
     "summary": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance.",
@@ -918,7 +927,7 @@
     "published_at": "2026-04-09T13:00:00"
   },
   {
-    "id": 86,
+    "id": 87,
     "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
     "url": "https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407",
     "summary": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees.",
@@ -927,7 +936,7 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
-    "id": 87,
+    "id": 88,
     "title": "Helping data centers deliver higher performance with less hardware",
     "url": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
     "summary": "Researchers developed a system that intelligently balances workloads to improve the efficiency of flash storage hardware in a data center.",
@@ -936,7 +945,7 @@
     "published_at": "2026-04-07T04:00:00"
   },
   {
-    "id": 88,
+    "id": 89,
     "title": "Working to advance the nuclear renaissance",
     "url": "https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403",
     "summary": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
@@ -945,7 +954,7 @@
     "published_at": "2026-04-03T20:55:00"
   },
   {
-    "id": 89,
+    "id": 90,
     "title": "Evaluating the ethics of autonomous systems",
     "url": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
     "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly.",
@@ -954,7 +963,7 @@
     "published_at": "2026-04-02T04:00:00"
   },
   {
-    "id": 90,
+    "id": 91,
     "title": "Preview tool helps makers visualize 3D-printed objects",
     "url": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
     "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
@@ -963,7 +972,7 @@
     "published_at": "2026-04-01T04:00:00"
   },
   {
-    "id": 91,
+    "id": 92,
     "title": "MIT researchers use AI to uncover atomic defects in materials",
     "url": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
     "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion efficiency.",
@@ -972,7 +981,7 @@
     "published_at": "2026-03-30T15:00:00"
   },
   {
-    "id": 92,
+    "id": 93,
     "title": "Seeing sounds",
     "url": "https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326",
     "summary": "Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
@@ -981,7 +990,7 @@
     "published_at": "2026-03-26T20:45:00"
   },
   {
-    "id": 93,
+    "id": 94,
     "title": "MIT engineers design proteins by their motion, not just their shape",
     "url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
     "summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
@@ -990,7 +999,7 @@
     "published_at": "2026-03-26T20:20:00"
   },
   {
-    "id": 94,
+    "id": 95,
     "title": "AI system learns to keep warehouse robot traffic running smoothly",
     "url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
     "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
@@ -999,7 +1008,7 @@
     "published_at": "2026-03-26T04:00:00"
   },
   {
-    "id": 95,
+    "id": 96,
     "title": "Augmenting citizen science with computer vision for fish monitoring",
     "url": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
     "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
@@ -1008,7 +1017,7 @@
     "published_at": "2026-03-25T21:00:00"
   },
   {
-    "id": 96,
+    "id": 97,
     "title": "Wristband enables wearers to control a robotic hand with their own movements",
     "url": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
     "summary": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
@@ -1017,7 +1026,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 97,
+    "id": 98,
     "title": "How to create “humble” AI",
     "url": "https://news.mit.edu/2026/creating-humble-ai-0324",
     "summary": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming about uncertainty.",
@@ -1026,7 +1035,7 @@
     "published_at": "2026-03-24T04:00:00"
   },
   {
-    "id": 98,
+    "id": 99,
     "title": "Advancing international trade research and finding community",
     "url": "https://news.mit.edu/2026/sojun-park-advancing-international-trade-research-finding-community-0323",
     "summary": "Sojun Park, a postdoc at the Center for International Studies, has learned much from his research on intellectual property as well as his interactions with students and mentors at MIT.",
@@ -1035,7 +1044,7 @@
     "published_at": "2026-03-23T21:00:00"
   },
   {
-    "id": 99,
+    "id": 100,
     "title": "On algorithms, life, and learning",
     "url": "https://news.mit.edu/2026/algorithms-life-learning-killian-lecture-dimitris-bertsimas-0323",
     "summary": "Operations research expert Dimitris Bertsimas delivered the annual Killian Lecture, providing a look at the past and future of his work.",
@@ -1044,7 +1053,7 @@
     "published_at": "2026-03-23T17:45:00"
   },
   {
-    "id": 100,
+    "id": 101,
     "title": "What’s the right path for AI?",
     "url": "https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320",
     "summary": "Conference speakers discussed the unfolding trajectory of AI and the benefits of shaping technology to meet people’s needs.",
@@ -1053,7 +1062,7 @@
     "published_at": "2026-03-20T13:30:00"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
     "url": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
     "summary": "Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman College of Computing, and the Hasso Plattner Institute in Potsdam, the hub will foster a dynamic community where computing, creativity, and human-centered innovation meet.",
@@ -1062,7 +1071,7 @@
     "published_at": "2026-03-20T12:45:00"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Generative AI improves a wireless vision system that sees through obstructions",
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "summary": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals.",
@@ -1071,7 +1080,7 @@
     "published_at": "2026-03-19T04:00:00"
   },
   {
-    "id": 103,
+    "id": 104,
     "title": "A better method for identifying overconfident large language models",
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "summary": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model.",
@@ -1080,7 +1089,7 @@
     "published_at": "2026-03-19T04:00:00"
   },
   {
-    "id": 104,
+    "id": 105,
     "title": "Sustaining diplomacy amid competition in US-China relations",
     "url": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
     "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education.",
@@ -1089,7 +1098,7 @@
     "published_at": "2026-03-18T04:00:00"
   },
   {
-    "id": 105,
+    "id": 106,
     "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
     "url": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
     "summary": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
@@ -1098,7 +1107,7 @@
     "published_at": "2026-03-17T20:35:44"
   },
   {
-    "id": 106,
+    "id": 107,
     "title": "Can AI help predict which heart-failure patients will worsen within a year?",
     "url": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
     "summary": "Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.",
@@ -1107,7 +1116,7 @@
     "published_at": "2026-03-12T21:30:00"
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
     "url": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
     "summary": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical sciences — one that promises to advance both.",
@@ -1116,7 +1125,7 @@
     "published_at": "2026-03-11T22:30:00"
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "New MIT class uses anthropology to improve chatbots",
     "url": "https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311",
     "summary": "MIT computer science students design AI chatbots to help young users become more social, and socially confident.",
@@ -1125,7 +1134,7 @@
     "published_at": "2026-03-11T16:10:00"
   },
   {
-    "id": 109,
+    "id": 110,
     "title": "A better method for planning complex visual tasks",
     "url": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
     "summary": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams.",
@@ -1134,7 +1143,7 @@
     "published_at": "2026-03-11T04:00:00"
   },
   {
-    "id": 110,
+    "id": 111,
     "title": "3 Questions: Building predictive models to characterize tumor progression",
     "url": "https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310",
     "summary": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.",
@@ -1143,7 +1152,7 @@
     "published_at": "2026-03-10T20:50:00"
   },
   {
-    "id": 111,
+    "id": 112,
     "title": "How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and ecology",
     "url": "https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310",
     "summary": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.",
@@ -1152,7 +1161,7 @@
     "published_at": "2026-03-10T20:25:00"
   },
   {
-    "id": 112,
+    "id": 113,
     "title": "Improving AI models’ ability to explain their predictions",
     "url": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
     "summary": "A new approach could help users know whether to trust a model’s predictions in safety-critical applications like health care and autonomous driving.",
@@ -1161,7 +1170,7 @@
     "published_at": "2026-03-09T04:00:00"
   },
   {
-    "id": 113,
+    "id": 114,
     "title": "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster",
     "url": "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
     "summary": "The approach could help engineers tackle extremely complex design problems, from power grid optimization to vehicle design.",
@@ -1170,7 +1179,7 @@
     "published_at": "2026-03-04T05:00:00"
   },
   {
-    "id": 114,
+    "id": 115,
     "title": "Featured video: Coding for underwater robotics",
     "url": "https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227",
     "summary": "Lincoln Laboratory intern Ivy Mahncke developed and tested algorithms to help human divers and robots navigate underwater.",
@@ -1179,22 +1188,13 @@
     "published_at": "2026-02-27T22:15:00"
   },
   {
-    "id": 115,
+    "id": 116,
     "title": "New method could increase LLM training efficiency",
     "url": "https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226",
     "summary": "By leveraging idle computing time, researchers can double the speed of model training while preserving accuracy.",
     "author": "Adam Zewe | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-02-26T05:00:00"
-  },
-  {
-    "id": 116,
-    "title": "Mixing generative AI with physics to create personal items that work in the real world",
-    "url": "https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225",
-    "summary": "To help generative AI models create durable, real-world accessories and decor, the PhysiOpt system runs physics simulations and makes subtle tweaks to its 3D blueprints.",
-    "author": "Alex Shipps | MIT CSAIL",
-    "source": "MIT News AI",
-    "published_at": "2026-02-25T19:40:00"
   },
   {
     "id": 117,
