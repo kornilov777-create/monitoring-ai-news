@@ -1,6 +1,42 @@
 [
   {
+    "id": 136,
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "author": "Ram Iyer",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-01T16:02:36"
+  },
+  {
+    "id": 126,
+    "title": "Cyber-Insecurity in the AI Era",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review&#8217;s EmTech AI conference explores why security must be rethoug",
+    "author": "MIT Technology Review Events",
+    "source": "MIT Technology Review",
+    "published_at": "2026-05-01T15:54:01"
+  },
+  {
+    "id": 127,
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review&#8217;s EmTech AI conference examines how AI factori",
+    "author": "MIT Technology Review Events",
+    "source": "MIT Technology Review",
+    "published_at": "2026-05-01T15:31:09"
+  },
+  {
     "id": 161,
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "summary": "<p>According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-05-01T13:05:37"
+  },
+  {
+    "id": 162,
     "title": "Per-token AI charges come to GitHub Copilot",
     "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
     "summary": "<p>As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that&#8217;s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of &#8216;Premium Reque",
@@ -9,7 +45,7 @@
     "published_at": "2026-05-01T11:00:00"
   },
   {
-    "id": 126,
+    "id": 128,
     "title": "A new US phone network for Christians aims to block porn and gender-related content",
     "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
     "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out ",
@@ -36,7 +72,7 @@
     "published_at": "2026-05-01T04:00:00"
   },
   {
-    "id": 136,
+    "id": 137,
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
     "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
@@ -45,7 +81,7 @@
     "published_at": "2026-05-01T02:00:00"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
     "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
     "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
@@ -54,7 +90,7 @@
     "published_at": "2026-04-30T23:07:56"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Apple was surprised by AI-driven demand for Macs",
     "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
     "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
@@ -63,7 +99,7 @@
     "published_at": "2026-04-30T22:12:52"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
     "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
     "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
@@ -72,7 +108,7 @@
     "published_at": "2026-04-30T20:14:47"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
     "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
     "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
@@ -81,7 +117,7 @@
     "published_at": "2026-04-30T19:27:41"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
     "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
     "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
@@ -90,7 +126,7 @@
     "published_at": "2026-04-30T18:20:03"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
     "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
     "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
@@ -99,7 +135,7 @@
     "published_at": "2026-04-30T18:03:57"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
     "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
     "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
@@ -108,7 +144,7 @@
     "published_at": "2026-04-30T17:53:53"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
     "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
     "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
@@ -117,8 +153,8 @@
     "published_at": "2026-04-30T17:46:54"
   },
   {
-    "id": 145,
-    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "id": 146,
+    "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
     "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
     "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
     "author": "Sarah Perez",
@@ -126,7 +162,7 @@
     "published_at": "2026-04-30T17:15:19"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
     "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
     "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
@@ -135,7 +171,7 @@
     "published_at": "2026-04-30T16:06:49"
   },
   {
-    "id": 162,
+    "id": 163,
     "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
     "url": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
     "summary": "<p>LG is currently engaged in exploratory discussions with NVIDIA concerning physical AI, data centres, and mobility. Following a meeting in Seoul between LG CEO Ryu Jae-cheol and Madison Huang, Senior Director of Product Marketing for Omniverse and Robotics at NVIDIA, the core operational dependenc",
@@ -144,7 +180,7 @@
     "published_at": "2026-04-30T15:59:54"
   },
   {
-    "id": 127,
+    "id": 129,
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
     "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this",
@@ -153,7 +189,7 @@
     "published_at": "2026-04-30T15:59:41"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "X announces a rebuilt ad platform powered by AI",
     "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
     "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
@@ -162,7 +198,7 @@
     "published_at": "2026-04-30T15:14:55"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Meta says its business AI now facilitates 10 million conversations a week",
     "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
     "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
@@ -171,7 +207,7 @@
     "published_at": "2026-04-30T12:08:45"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "A guide to APIs, MCPs, and MCP Gateways",
     "url": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
     "summary": "<p>APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is m",
@@ -180,7 +216,7 @@
     "published_at": "2026-04-30T11:18:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "AI agent governance takes focus as regulators flag control gaps",
     "url": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
     "summary": "<p>Australia&#8217;s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations. The Australian Prudential Regulation Authority said i",
@@ -189,7 +225,7 @@
     "published_at": "2026-04-30T10:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
     "url": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
     "summary": "<p>Every cloud beat. Every capex forecast rose. That is the two-sentence summary of the biggest earnings day of 2026, and it tells you almost everything you need to know about where Big Tech&#8217;s AI infrastructure spending actually stands right now. Microsoft, Alphabet, Meta, and Amazon collectiv",
@@ -201,13 +237,13 @@
     "id": 78,
     "title": "Making the case for curiosity-driven science",
     "url": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
-    "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for America’s top research universities becomes increasingly strained",
-    "author": "",
+    "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for America’s top research universities becomes increasingly strained.",
+    "author": "MIT News",
     "source": "MIT News AI",
     "published_at": "2026-04-30T04:00:00"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
     "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
     "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
@@ -216,7 +252,7 @@
     "published_at": "2026-04-30T03:58:22"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Amazon’s cloud business is surging — and so is its capital spending",
     "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
     "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
@@ -225,7 +261,7 @@
     "published_at": "2026-04-30T00:14:23"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
     "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
     "summary": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
@@ -243,22 +279,13 @@
     "published_at": "2026-04-30T00:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "On the stand, Elon Musk can’t escape his own tweets",
     "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
     "summary": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
     "author": "Tim Fernholz",
     "source": "TechCrunch AI",
     "published_at": "2026-04-29T23:58:36"
-  },
-  {
-    "id": 153,
-    "title": "Meta is still burning money on AR/VR",
-    "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
-    "summary": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-04-29T23:58:26"
   },
   {
     "id": 79,
@@ -288,7 +315,7 @@
     "published_at": "2026-04-29T15:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
     "url": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
     "summary": "<p>Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyond initial testing. Companies poured capital into large language models and machine learning, expect",
@@ -306,7 +333,7 @@
     "published_at": "2026-04-29T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
     "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
     "summary": "<p>OpenAI launched GPT-5.5 on April 23 as what it calls &#8220;a new class of intelligence for real work and powering agents,&#8221; and the framing is deliberate. OpenAI says it&#8217;s the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output, and",
@@ -333,7 +360,7 @@
     "published_at": "2026-04-29T04:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "IBM launches AI platform Bob to regulate SDLC costs",
     "url": "https://www.artificialintelligence-news.com/news/ibm-launches-ai-platform-bob-to-regulate-sdlc-costs/",
     "summary": "<p>To regulate software delivery costs and SDLC governance, IBM is launching Bob, an AI platform built to anchor enterprise engineering. Accumulated technical debt, hybrid cloud structures, and rigid compliance requirements clash with the raw speed of coding assistants. Without boundaries, they gene",
@@ -342,7 +369,7 @@
     "published_at": "2026-04-28T17:34:21"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "The evolution of encoders: From simple models to multimodal AI",
     "url": "https://www.artificialintelligence-news.com/news/the-evolution-of-encoders-from-simple-models-to-multimodal-ai/",
     "summary": "<p>When people talk about artificial intelligence, they usually focus on what it produces: Human-like text, stunning images, or eerily accurate recommendations. What rarely gets attention is how AI understands anything in the first place. That understanding begins with encoders. Think of an encoder ",
@@ -351,7 +378,7 @@
     "published_at": "2026-04-28T13:01:51"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Kakao Mobility details Level 4 autonomous driving roadmap for physical AI",
     "url": "https://www.artificialintelligence-news.com/news/kakao-mobility-level-4-autonomous-driving-roadmap/",
     "summary": "<p>Kakao Mobility has set out plans to develop Level 4 autonomous driving technologies in-house as part of its physical AI strategy. Kim Jin-kyu, vice president and head of Kakao Mobility&#8217;s Physical AI division, presented the roadmap at the 2026 World IT Show conference at COEX in Seoul. His s",
@@ -360,7 +387,7 @@
     "published_at": "2026-04-28T10:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "Lightelligence’s 400% debut is a bet that AI’s next bottleneck is the optical interconnect",
     "url": "https://www.artificialintelligence-news.com/news/lightelligence-ipo-optical-interconnect-ai-infrastructure/",
     "summary": "<p>When a company with US$15.5 million in annual revenue debuts on a stock exchange and its market capitalisation briefly hits US$10 billion, the obvious question is: what do investors know that the financials don&#8217;t show yet? In Lightelligence&#8217;s case, the answer is optical interconnect a",
@@ -387,7 +414,7 @@
     "published_at": "2026-04-28T00:00:00"
   },
   {
-    "id": 128,
+    "id": 130,
     "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
     "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
     "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterpris",
@@ -396,7 +423,7 @@
     "published_at": "2026-04-27T22:52:57"
   },
   {
-    "id": 129,
+    "id": 131,
     "title": "The missing step between hype and profit",
     "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes. B",
@@ -414,22 +441,13 @@
     "published_at": "2026-04-27T14:00:00"
   },
   {
-    "id": 130,
+    "id": 132,
     "title": "Rebuilding the data stack for AI",
     "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
     "summary": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying AI a",
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-04-27T13:00:00"
-  },
-  {
-    "id": 172,
-    "title": "Google warns malicious web pages are poisoning AI agents",
-    "url": "https://www.artificialintelligence-news.com/news/google-warns-malicious-web-pages-poisoning-ai-agents/",
-    "summary": "<p>Public web pages are actively hijacking enterprise AI agents via indirect prompt injections, Google researchers warn. Security teams scanning the Common Crawl repository (a massive database of billions of public web pages) have uncovered a growing trend of digital booby traps. Website administrat",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-04-27T11:12:52"
   },
   {
     "id": 8,
@@ -477,7 +495,7 @@
     "published_at": "2026-04-26T16:00:00"
   },
   {
-    "id": 131,
+    "id": 133,
     "title": "Three reasons why DeepSeek’s new model matters",
     "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
     "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open sou",
@@ -603,7 +621,7 @@
     "published_at": "2026-04-22T15:00:00"
   },
   {
-    "id": 132,
+    "id": 134,
     "title": "AI needs a strong data fabric to deliver business value",
     "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
     "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least t",
@@ -648,29 +666,11 @@
     "published_at": "2026-04-22T00:00:00"
   },
   {
-    "id": 133,
+    "id": 135,
     "title": "10 Things That Matter in AI Right Now",
     "url": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
     "summary": "",
     "author": "Amy Nordrum",
-    "source": "MIT Technology Review",
-    "published_at": "2026-04-21T20:45:00"
-  },
-  {
-    "id": 134,
-    "title": "LLMs+",
-    "url": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-    "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was consumed by the inferno, with companies racing to spin up rival products. The as",
-    "author": "Will Douglas Heaven",
-    "source": "MIT Technology Review",
-    "published_at": "2026-04-21T20:45:00"
-  },
-  {
-    "id": 135,
-    "title": "Supercharged scams",
-    "url": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-    "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of criminals, who soon began using large language models to produce malicious emails—bot",
-    "author": "Rhiannon Williams",
     "source": "MIT Technology Review",
     "published_at": "2026-04-21T20:45:00"
   },
