@@ -162,6 +162,15 @@
     "published_at": "2026-05-07T10:00:00"
   },
   {
+    "id": 163,
+    "title": "AI helping ease the UK’s NHS burden",
+    "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+    "summary": "<p>The words &#8220;pressure&#8221; and &#8220;NHS&#8221; go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced ",
+    "author": "David Thomas",
+    "source": "AI News",
+    "published_at": "2026-05-07T09:35:00"
+  },
+  {
     "id": 151,
     "title": "Five architects of the AI economy explain where the wheels are coming off",
     "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
@@ -181,18 +190,18 @@
   },
   {
     "id": 4,
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-07T00:00:00"
   },
   {
     "id": 5,
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "title": "Introducing Trusted Contact in ChatGPT",
+    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-07T00:00:00"
@@ -243,25 +252,34 @@
     "published_at": "2026-05-06T18:23:54"
   },
   {
+    "id": 164,
+    "title": "HP and the art of AI and data for the enterprise",
+    "url": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+    "summary": "<p>Ahead of the AI &#38; Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company&#8217;s AI &#38; Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute. The technology media is fon",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-05-06T15:14:00"
+  },
+  {
+    "id": 165,
+    "title": "US government increases AI suppliers and rethinks Anthropic’s role",
+    "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+    "summary": "<p>The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on classified operations. T",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-05-06T12:23:00"
+  },
+  {
+    "id": 166,
+    "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
+    "url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
+    "summary": "<p>Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two pe",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-05-06T10:00:00"
+  },
+  {
     "id": 7,
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00"
-  },
-  {
-    "id": 8,
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-06T00:00:00"
-  },
-  {
-    "id": 9,
     "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
     "url": "https://openai.com/index/singular-bank",
     "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
@@ -270,10 +288,28 @@
     "published_at": "2026-05-06T00:00:00"
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "Uber uses OpenAI to help people earn smarter and book faster",
     "url": "https://openai.com/index/uber",
     "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-06T00:00:00"
+  },
+  {
+    "id": 9,
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-06T00:00:00"
+  },
+  {
+    "id": 10,
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-06T00:00:00"
@@ -289,15 +325,6 @@
   },
   {
     "id": 11,
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
-    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-05T10:00:00"
-  },
-  {
-    "id": 12,
     "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
     "url": "https://openai.com/index/gpt-5-5-instant",
     "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
@@ -306,10 +333,19 @@
     "published_at": "2026-05-05T10:00:00"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "GPT-5.5 Instant System Card",
     "url": "https://openai.com/index/gpt-5-5-instant-system-card",
     "summary": "",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-05T10:00:00"
+  },
+  {
+    "id": 13,
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-05T10:00:00"
@@ -351,6 +387,24 @@
     "published_at": "2026-05-04T15:51:27"
   },
   {
+    "id": 167,
+    "title": "Physical AI raises governance questions for autonomous systems",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
+    "summary": "<p>Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industr",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-05-04T11:00:00"
+  },
+  {
+    "id": 168,
+    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
+    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
+    "summary": "<p>Two weeks ago at Google Cloud Next &#8217;26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&#160;made&#160;agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini E",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-05-04T10:00:00"
+  },
+  {
     "id": 16,
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
@@ -387,6 +441,24 @@
     "published_at": "2026-05-01T15:31:09"
   },
   {
+    "id": 169,
+    "title": "SAP: How enterprise AI governance secures profit margins",
+    "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+    "summary": "<p>According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of Customer Success Europ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-05-01T13:05:37"
+  },
+  {
+    "id": 170,
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+    "summary": "<p>As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model. The model that&#8217;s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of &#8216;Premium Reque",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-05-01T11:00:00"
+  },
+  {
     "id": 131,
     "title": "A new US phone network for Christians aims to block porn and gender-related content",
     "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
@@ -414,6 +486,15 @@
     "published_at": "2026-05-01T04:00:00"
   },
   {
+    "id": 171,
+    "title": "What LG and NVIDIA’s talks reveal about the future of physical AI",
+    "url": "https://www.artificialintelligence-news.com/news/what-lg-and-nvidia-talks-reveal-future-of-physical-ai/",
+    "summary": "<p>LG is currently engaged in exploratory discussions with NVIDIA concerning physical AI, data centres, and mobility. Following a meeting in Seoul between LG CEO Ryu Jae-cheol and Madison Huang, Senior Director of Product Marketing for Omniverse and Robotics at NVIDIA, the core operational dependenc",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-04-30T15:59:54"
+  },
+  {
     "id": 132,
     "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
     "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
@@ -421,6 +502,33 @@
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-04-30T15:59:41"
+  },
+  {
+    "id": 172,
+    "title": "A guide to APIs, MCPs, and MCP Gateways",
+    "url": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
+    "summary": "<p>APIs and MCPs are often mentioned in the same breath as ways that systems can exchange information, but they are designed differently and have different purposes. This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is m",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-04-30T11:18:00"
+  },
+  {
+    "id": 173,
+    "title": "AI agent governance takes focus as regulators flag control gaps",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
+    "summary": "<p>Australia&#8217;s financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations. The Australian Prudential Regulation Authority said i",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-04-30T10:00:00"
+  },
+  {
+    "id": 174,
+    "title": "Big Tech just proved AI infrastructure spending works. Then it raised the bill anyway",
+    "url": "https://www.artificialintelligence-news.com/news/big-tech-ai-infrastructure-spending-q1-2026-results/",
+    "summary": "<p>Every cloud beat. Every capex forecast rose. That is the two-sentence summary of the biggest earnings day of 2026, and it tells you almost everything you need to know about where Big Tech&#8217;s AI infrastructure spending actually stands right now. Microsoft, Alphabet, Meta, and Amazon collectiv",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-04-30T10:00:00"
   },
   {
     "id": 80,
@@ -604,15 +712,6 @@
   },
   {
     "id": 28,
-    "title": "Introducing GPT-5.5",
-    "url": "https://openai.com/index/introducing-gpt-5-5",
-    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T11:00:00"
-  },
-  {
-    "id": 29,
     "title": "GPT-5.5 System Card",
     "url": "https://openai.com/index/gpt-5-5-system-card",
     "summary": "",
@@ -621,25 +720,16 @@
     "published_at": "2026-04-23T11:00:00"
   },
   {
+    "id": 29,
+    "title": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T11:00:00"
+  },
+  {
     "id": 30,
-    "title": "Plugins and skills",
-    "url": "https://openai.com/academy/codex-plugins-and-skills",
-    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00"
-  },
-  {
-    "id": 31,
-    "title": "Top 10 uses for Codex at work",
-    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-    "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-04-23T10:00:00"
-  },
-  {
-    "id": 32,
     "title": "Codex settings",
     "url": "https://openai.com/academy/codex-settings",
     "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
@@ -648,7 +738,16 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
-    "id": 33,
+    "id": 31,
+    "title": "How to get started with Codex",
+    "url": "https://openai.com/academy/codex-how-to-start",
+    "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T10:00:00"
+  },
+  {
+    "id": 32,
     "title": "Working with Codex",
     "url": "https://openai.com/academy/working-with-codex",
     "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
@@ -657,10 +756,19 @@
     "published_at": "2026-04-23T10:00:00"
   },
   {
+    "id": 33,
+    "title": "Plugins and skills",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-04-23T10:00:00"
+  },
+  {
     "id": 34,
-    "title": "What is Codex?",
-    "url": "https://openai.com/academy/what-is-codex",
-    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "title": "Top 10 uses for Codex at work",
+    "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+    "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-23T10:00:00"
@@ -676,9 +784,9 @@
   },
   {
     "id": 36,
-    "title": "How to get started with Codex",
-    "url": "https://openai.com/academy/codex-how-to-start",
-    "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+    "title": "What is Codex?",
+    "url": "https://openai.com/academy/what-is-codex",
+    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-23T10:00:00"
@@ -712,9 +820,9 @@
   },
   {
     "id": 39,
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+    "title": "Workspace agents",
+    "url": "https://openai.com/academy/workspace-agents",
+    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-22T10:00:00"
@@ -730,9 +838,9 @@
   },
   {
     "id": 41,
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-22T10:00:00"
