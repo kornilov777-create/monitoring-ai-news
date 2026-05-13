@@ -1,6 +1,87 @@
 [
   {
     "id": 136,
+    "title": "Who trusts Sam Altman?",
+    "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "summary": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T16:31:04"
+  },
+  {
+    "id": 137,
+    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+    "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T16:22:01"
+  },
+  {
+    "id": 138,
+    "title": "Anthropic courts a new kind of customer: small business owners",
+    "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+    "summary": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's the 36 million small businesses that make up the backbone of the U.S. economy.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T16:00:00"
+  },
+  {
+    "id": 139,
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "summary": "Alexa for Shopping is a new personalized AI shopping assistant in the Amazon search bar that replaces its Rufus assistant.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T14:59:32"
+  },
+  {
+    "id": 140,
+    "title": "WhatsApp adds an incognito mode in Meta AI chats",
+    "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+    "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T14:00:00"
+  },
+  {
+    "id": 141,
+    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T14:00:00"
+  },
+  {
+    "id": 142,
+    "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+    "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+    "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T14:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+    "summary": "<p>The Physical AI Conference shaping the future of robotics, autonomous&#160;systems&#160;and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.&#160; Physical AI Expo North America&#160;wil",
+    "author": "TechEx",
+    "source": "AI News",
+    "published_at": "2026-05-13T13:43:38"
+  },
+  {
+    "id": 143,
+    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+    "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+    "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-13T13:27:09"
+  },
+  {
+    "id": 144,
     "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
     "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
     "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
@@ -9,7 +90,7 @@
     "published_at": "2026-05-13T12:11:33"
   },
   {
-    "id": 137,
+    "id": 145,
     "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
     "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
     "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
@@ -18,7 +99,7 @@
     "published_at": "2026-05-13T00:26:48"
   },
   {
-    "id": 138,
+    "id": 146,
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
     "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d",
@@ -27,7 +108,7 @@
     "published_at": "2026-05-12T18:05:15"
   },
   {
-    "id": 139,
+    "id": 147,
     "title": "Anthropic warns investors against secondary platforms offering access to its shares",
     "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
@@ -36,7 +117,7 @@
     "published_at": "2026-05-12T17:36:34"
   },
   {
-    "id": 140,
+    "id": 148,
     "title": "Report: Google and SpaceX in talks to put data centers into orbit",
     "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
     "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
@@ -45,7 +126,7 @@
     "published_at": "2026-05-12T17:30:57"
   },
   {
-    "id": 141,
+    "id": 149,
     "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
     "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
     "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
@@ -54,7 +135,7 @@
     "published_at": "2026-05-12T17:01:00"
   },
   {
-    "id": 142,
+    "id": 150,
     "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
     "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
     "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
@@ -63,7 +144,7 @@
     "published_at": "2026-05-12T17:00:00"
   },
   {
-    "id": 143,
+    "id": 151,
     "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
     "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
     "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
@@ -72,7 +153,7 @@
     "published_at": "2026-05-12T17:00:00"
   },
   {
-    "id": 144,
+    "id": 152,
     "title": "Google brings agentic AI and vibe-coded widgets to Android",
     "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
     "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
@@ -81,7 +162,7 @@
     "published_at": "2026-05-12T17:00:00"
   },
   {
-    "id": 145,
+    "id": 153,
     "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
     "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
     "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
@@ -90,7 +171,7 @@
     "published_at": "2026-05-12T17:00:00"
   },
   {
-    "id": 146,
+    "id": 154,
     "title": "Threads tests a Meta AI integration that works similarly to Grok",
     "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
     "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
@@ -99,7 +180,7 @@
     "published_at": "2026-05-12T16:34:36"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
     "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
     "summary": "<p>Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has to be perfect before you do any of these types of workloads,” he explains. As a recent article in ",
@@ -135,7 +216,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
     "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
     "summary": "<p>A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the at",
@@ -144,7 +225,7 @@
     "published_at": "2026-05-12T13:52:00"
   },
   {
-    "id": 147,
+    "id": 155,
     "title": "Dessn raises $6M for its production-focused design tool",
     "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
     "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
@@ -153,40 +234,13 @@
     "published_at": "2026-05-12T13:00:00"
   },
   {
-    "id": 148,
-    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-    "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
-    "author": "Jagmeet Singh",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-12T11:30:00"
-  },
-  {
-    "id": 165,
+    "id": 166,
     "title": "Laserfiche unveils AI agents for natural language workflows",
     "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
     "summary": "<p>Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche&#8217;s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche",
     "author": "David Thomas",
     "source": "AI News",
     "published_at": "2026-05-12T08:57:13"
-  },
-  {
-    "id": 149,
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "author": "Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-12T04:52:35"
-  },
-  {
-    "id": 150,
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "author": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-12T00:09:01"
   },
   {
     "id": 2,
@@ -216,15 +270,6 @@
     "published_at": "2026-05-12T00:00:00"
   },
   {
-    "id": 151,
-    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-    "author": "Kirsten Korosec",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-11T23:04:10"
-  },
-  {
     "id": 126,
     "title": "Three things in AI to watch, according to a Nobel-winning economist",
     "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
@@ -232,15 +277,6 @@
     "author": "James O'Donnell",
     "source": "MIT Technology Review",
     "published_at": "2026-05-11T17:35:12"
-  },
-  {
-    "id": 152,
-    "title": "Digg tries again, this time as an AI news aggregator",
-    "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-    "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-11T17:02:35"
   },
   {
     "id": 5,
@@ -252,7 +288,7 @@
     "published_at": "2026-05-11T15:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "AI automates HR compliance, except for the area tech companies need",
     "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
     "summary": "<p>Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regula",
@@ -279,15 +315,6 @@
     "published_at": "2026-05-11T13:00:00"
   },
   {
-    "id": 153,
-    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-11T13:00:00"
-  },
-  {
     "id": 6,
     "title": "How enterprises are scaling AI",
     "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -306,7 +333,7 @@
     "published_at": "2026-05-11T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
     "url": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
     "summary": "<p>Bain &#38; Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The estimate comes from the second report in Bain&#8217;s five-part series on the software industry in th",
@@ -324,24 +351,6 @@
     "published_at": "2026-05-11T06:00:00"
   },
   {
-    "id": 154,
-    "title": "Get ready for the whisper-filled office of the future",
-    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-    "summary": "How will work setups change if we spend more and more time talking to our computers?",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-10T21:15:30"
-  },
-  {
-    "id": 155,
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-10T20:40:41"
-  },
-  {
     "id": 129,
     "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
     "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
@@ -351,7 +360,7 @@
     "published_at": "2026-05-08T23:59:19"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
     "url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
     "summary": "<p>RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now",
@@ -396,7 +405,7 @@
     "published_at": "2026-05-07T10:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "AI helping ease the UK’s NHS burden",
     "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
     "summary": "<p>The words &#8220;pressure&#8221; and &#8220;NHS&#8221; go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced ",
@@ -441,7 +450,7 @@
     "published_at": "2026-05-07T00:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "HP and the art of AI and data for the enterprise",
     "url": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
     "summary": "<p>Ahead of the AI &#38; Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company&#8217;s AI &#38; Data Science Business Development Manager about AI, processing data for AI ingestion, and local versus cloud compute. The technology media is fon",
@@ -450,7 +459,7 @@
     "published_at": "2026-05-06T15:14:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "US government increases AI suppliers and rethinks Anthropic’s role",
     "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
     "summary": "<p>The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on classified operations. T",
@@ -459,7 +468,7 @@
     "published_at": "2026-05-06T12:23:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Google tests Remy AI agent for Gemini as focus turns to user control",
     "url": "https://www.artificialintelligence-news.com/news/google-remy-ai-agent-gemini-user-control/",
     "summary": "<p>Google is testing Remy, a new AI personal agent for Gemini, according to Business Insider. The tool is designed to take actions for users in work and daily tasks. Remy is being tested in a staff-only version of the Gemini app. The report said it reviewed an internal document and spoke with two pe",
@@ -594,22 +603,13 @@
     "published_at": "2026-05-04T15:51:27"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Physical AI raises governance questions for autonomous systems",
     "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
     "summary": "<p>Governance around Physical AI is becoming harder as autonomous AI systems move into robots, sensors, and industrial equipment. The issue is not only whether AI agents can complete tasks. It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industr",
     "author": "Muhammad Zulhusni",
     "source": "AI News",
     "published_at": "2026-05-04T11:00:00"
-  },
-  {
-    "id": 174,
-    "title": "Google made agentic AI governance a product. Enterprises still have to catch up.",
-    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-governance-enterprise-readiness-google/",
-    "summary": "<p>Two weeks ago at Google Cloud Next &#8217;26 in Las Vegas, Google did something the enterprise AI industry has been dancing around for the better part of two years: it&#160;made&#160;agentic AI governance a native product feature, not an afterthought. The centrepiece announcement was the Gemini E",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-05-04T10:00:00"
   },
   {
     "id": 27,
