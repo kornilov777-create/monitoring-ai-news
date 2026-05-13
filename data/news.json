@@ -937,9 +937,9 @@
   },
   {
     "id": 50,
-    "title": "Introducing workspace agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+    "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-22T10:00:00"
