@@ -1,6 +1,15 @@
 [
   {
     "id": 163,
+    "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+    "summary": "<p>President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that &#8220;something could happen&#8221; on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in December 2025,",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-05-19T10:00:00"
+  },
+  {
+    "id": 164,
     "title": "AI is a matter of power, infrastructure and security: TechEx North America",
     "url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
     "summary": "<p>Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it&#8217;s sometimes the smaller considerations that need to play big – at least, in the mind",
@@ -90,7 +99,7 @@
     "published_at": "2026-05-18T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
     "url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
     "summary": "<p>Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eli",
@@ -207,7 +216,7 @@
     "published_at": "2026-05-15T16:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
     "url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
     "summary": "<p>Enterprise leaders must progress past generative applications and scale &#8220;autonomous intelligence&#8221; to capture real growth. Generating text or summarising internal communications offers localised productivity improvements, yet these abilities rarely alter the core cost or revenue struct",
@@ -244,33 +253,6 @@
   },
   {
     "id": 3,
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
-    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
-    "id": 4,
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
-    "id": 5,
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
-    "id": 6,
     "title": "A new personal finance experience in ChatGPT",
     "url": "https://openai.com/index/personal-finance-chatgpt",
     "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
@@ -279,10 +261,37 @@
     "published_at": "2026-05-15T00:00:00"
   },
   {
-    "id": 7,
+    "id": 4,
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
+    "id": 5,
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
+    "id": 6,
     "title": "How data science teams use Codex",
     "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
+    "id": 7,
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
@@ -360,7 +369,7 @@
     "published_at": "2026-05-14T13:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
     "url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
     "summary": "<p>British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies&#8217; agreement covers an estimated 1,000 to 2,000 robots in Schaeffler&#8217;s global manufacturing sites by 2032, according to a H",
@@ -378,7 +387,7 @@
     "published_at": "2026-05-14T09:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Top real estate app development companies in the US: Abilities and costs",
     "url": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
     "summary": "<p>Real estate products depend on integrations, data flows, and compliance layers that rarely appear in marketing pages. A vendor may look strong on reviews about general software development and struggle once MLS feeds, payment systems, and document workflows enter the build. In short, among top re",
@@ -405,7 +414,7 @@
     "published_at": "2026-05-13T18:09:03"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
     "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
     "summary": "<p>The Physical AI Conference shaping the future of robotics, autonomous&#160;systems&#160;and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.&#160; Physical AI Expo North America&#160;wil",
@@ -432,7 +441,7 @@
     "published_at": "2026-05-13T00:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
     "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
     "summary": "<p>Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has to be perfect before you do any of these types of workloads,” he explains. As a recent article in ",
@@ -468,7 +477,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
     "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
     "summary": "<p>A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the at",
@@ -477,7 +486,7 @@
     "published_at": "2026-05-12T13:52:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "Laserfiche unveils AI agents for natural language workflows",
     "url": "https://www.artificialintelligence-news.com/news/laserfiche-ai-agents-act-autonomously-for-the-platforms-users/",
     "summary": "<p>Laserfiche has announced the release of AI agents that can help perform tasks through natural language prompts. Intelligent assistants follow Laserfiche&#8217;s integrated security rules and compliance requirements, helping ensure all sensitive data remains protected. Karl Chan, CEO of Laserfiche",
@@ -496,18 +505,18 @@
   },
   {
     "id": 15,
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "url": "https://openai.com/index/autoscout24",
+    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-12T00:00:00"
   },
   {
     "id": 16,
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "url": "https://openai.com/index/autoscout24",
-    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-12T00:00:00"
@@ -531,7 +540,7 @@
     "published_at": "2026-05-11T15:00:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "AI automates HR compliance, except for the area tech companies need",
     "url": "https://www.artificialintelligence-news.com/news/ai-automates-hr-compliance-except-for-the-area-tech-companies-need/",
     "summary": "<p>Artificial intelligence is transforming how companies handle compliance. Background checks run in real-time. Payroll monitoring flags discrepancies automatically. Predictive analytics anticipate employee churn before it happens. HR tech stacks now offer automated solutions for nearly every regula",
@@ -541,15 +550,6 @@
   },
   {
     "id": 18,
-    "title": "How enterprises are scaling AI",
-    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00"
-  },
-  {
-    "id": 19,
     "title": "OpenAI Campus Network: Student club interest form",
     "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
@@ -558,7 +558,16 @@
     "published_at": "2026-05-11T10:00:00"
   },
   {
-    "id": 173,
+    "id": 19,
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-11T10:00:00"
+  },
+  {
+    "id": 174,
     "title": "Bain sees US$100 billion SaaS market in agentic AI automation",
     "url": "https://www.artificialintelligence-news.com/news/bain-agentic-ai-saas-market/",
     "summary": "<p>Bain &#38; Company has estimated a US$100 billion market in the US for SaaS companies using agentic AI. The firm said the market is tied to automating coordination work in enterprise systems. The estimate comes from the second report in Bain&#8217;s five-part series on the software industry in th",
@@ -574,15 +583,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-11T06:00:00"
-  },
-  {
-    "id": 174,
-    "title": "RingCentral adds Shopify, Calendly, and WhatsApp to AI Receptionist",
-    "url": "https://www.artificialintelligence-news.com/news/ringcentral-ai-adds-shopify-calendly-and-whatsapp-to-ai-receptionist/",
-    "summary": "<p>RingCentral has expanded its AI Receptionist product with new links to Shopify, Calendly and WhatsApp, as the communications software company tries to push the product beyond basic call answering and into more routine customer service tasks. The company said AI Receptionist, known as AIR, can now",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-05-08T14:54:00"
   },
   {
     "id": 21,
@@ -667,9 +667,9 @@
   },
   {
     "id": 29,
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
+    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-06T00:00:00"
@@ -685,9 +685,9 @@
   },
   {
     "id": 31,
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "title": "How frontier firms are pulling ahead",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-06T00:00:00"
@@ -721,18 +721,18 @@
   },
   {
     "id": 34,
-    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-    "url": "https://openai.com/index/mrc-supercomputer-networking",
-    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-05T10:00:00"
   },
   {
     "id": 35,
-    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-    "url": "https://openai.com/index/gpt-5-5-instant",
-    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-05T10:00:00"
@@ -865,18 +865,18 @@
   },
   {
     "id": 44,
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-28T00:00:00"
   },
   {
     "id": 45,
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-28T00:00:00"
