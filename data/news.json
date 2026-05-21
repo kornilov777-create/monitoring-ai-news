@@ -1,5 +1,77 @@
 [
   {
+    "id": 136,
+    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "summary": "Spotify is releasing new audiobook plans later this year",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T15:27:00"
+  },
+  {
+    "id": 137,
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T15:27:00"
+  },
+  {
+    "id": 138,
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T15:27:00"
+  },
+  {
+    "id": 126,
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+    "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp",
+    "author": "Will Douglas Heaven",
+    "source": "MIT Technology Review",
+    "published_at": "2026-05-21T14:30:45"
+  },
+  {
+    "id": 139,
+    "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T14:00:00"
+  },
+  {
+    "id": 140,
+    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+    "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T14:00:00"
+  },
+  {
+    "id": 141,
+    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "summary": "The AI agents are coming. A lot of them.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T13:52:23"
+  },
+  {
+    "id": 142,
+    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+    "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+    "author": "Tim De Chant",
+    "source": "TechCrunch AI",
+    "published_at": "2026-05-21T13:38:42"
+  },
+  {
     "id": 163,
     "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
@@ -18,7 +90,7 @@
     "published_at": "2026-05-21T04:00:00"
   },
   {
-    "id": 136,
+    "id": 143,
     "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
     "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
     "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
@@ -27,7 +99,7 @@
     "published_at": "2026-05-21T00:28:31"
   },
   {
-    "id": 137,
+    "id": 144,
     "title": "Anthropic says it’s about to have its first profitable quarter",
     "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
     "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
@@ -36,7 +108,7 @@
     "published_at": "2026-05-21T00:21:21"
   },
   {
-    "id": 138,
+    "id": 145,
     "title": "Clouted wants to take the guesswork out of making short videos go viral",
     "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
     "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
@@ -45,7 +117,7 @@
     "published_at": "2026-05-20T22:30:45"
   },
   {
-    "id": 139,
+    "id": 146,
     "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
     "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
     "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
@@ -54,7 +126,7 @@
     "published_at": "2026-05-20T22:26:08"
   },
   {
-    "id": 140,
+    "id": 147,
     "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
     "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
     "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
@@ -63,7 +135,7 @@
     "published_at": "2026-05-20T22:03:51"
   },
   {
-    "id": 141,
+    "id": 148,
     "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
     "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
     "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
@@ -72,7 +144,7 @@
     "published_at": "2026-05-20T21:55:49"
   },
   {
-    "id": 142,
+    "id": 149,
     "title": "Anthropic will pay xAI $1.25B per month for compute",
     "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
     "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
@@ -81,7 +153,7 @@
     "published_at": "2026-05-20T21:29:22"
   },
   {
-    "id": 143,
+    "id": 150,
     "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
     "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
     "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
@@ -90,7 +162,7 @@
     "published_at": "2026-05-20T20:28:27"
   },
   {
-    "id": 144,
+    "id": 151,
     "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
     "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
     "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
@@ -99,7 +171,7 @@
     "published_at": "2026-05-20T19:47:20"
   },
   {
-    "id": 145,
+    "id": 152,
     "title": "OpenAI barrels toward IPO that may happen in September",
     "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
     "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
@@ -108,7 +180,7 @@
     "published_at": "2026-05-20T17:24:24"
   },
   {
-    "id": 146,
+    "id": 153,
     "title": "AI search startups are blowing up",
     "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
     "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
@@ -117,7 +189,7 @@
     "published_at": "2026-05-20T15:04:45"
   },
   {
-    "id": 147,
+    "id": 154,
     "title": "Stability AI releases a new audio model that can create 6-minute songs",
     "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
     "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
@@ -126,31 +198,13 @@
     "published_at": "2026-05-20T15:00:00"
   },
   {
-    "id": 148,
+    "id": 155,
     "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
     "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
     "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
     "author": "TechCrunch Events",
     "source": "TechCrunch AI",
     "published_at": "2026-05-20T14:00:00"
-  },
-  {
-    "id": 149,
-    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-    "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-20T14:00:00"
-  },
-  {
-    "id": 150,
-    "title": "Figma adds an AI assistant to its collaborative canvas",
-    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-    "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-20T13:00:00"
   },
   {
     "id": 164,
@@ -172,15 +226,6 @@
   },
   {
     "id": 1,
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00"
-  },
-  {
-    "id": 2,
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
@@ -189,7 +234,7 @@
     "published_at": "2026-05-20T00:00:00"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "How Ramp engineers accelerate code review with Codex",
     "url": "https://openai.com/index/ramp",
     "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
@@ -198,31 +243,13 @@
     "published_at": "2026-05-20T00:00:00"
   },
   {
-    "id": 151,
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-19T21:33:30"
-  },
-  {
-    "id": 152,
-    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-    "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-19T21:25:31"
-  },
-  {
-    "id": 153,
-    "title": "How to use Google’s new AI agents to go beyond your standard searches",
-    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-    "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-19T21:16:25"
+    "id": 3,
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00"
   },
   {
     "id": 78,
@@ -234,15 +261,6 @@
     "published_at": "2026-05-19T21:10:00"
   },
   {
-    "id": 154,
-    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-    "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
-    "author": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-19T21:08:51"
-  },
-  {
     "id": 4,
     "title": "Introducing OpenAI for Singapore",
     "url": "https://openai.com/index/introducing-openai-for-singapore",
@@ -252,22 +270,13 @@
     "published_at": "2026-05-19T20:30:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Roundtables: Inside the Musk v. Altman Trial",
     "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
     "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in",
     "author": "MIT Technology Review",
     "source": "MIT Technology Review",
     "published_at": "2026-05-19T20:15:18"
-  },
-  {
-    "id": 155,
-    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
-    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-    "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-19T20:11:00"
   },
   {
     "id": 165,
@@ -315,7 +324,7 @@
     "published_at": "2026-05-19T01:36:26"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
     "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
@@ -324,7 +333,7 @@
     "published_at": "2026-05-19T00:53:10"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "What to expect from Google this week",
     "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago,",
@@ -333,7 +342,7 @@
     "published_at": "2026-05-18T17:35:43"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
     "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
     "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c",
@@ -369,7 +378,7 @@
     "published_at": "2026-05-16T00:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
     "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk&#8217;s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon",
@@ -387,7 +396,7 @@
     "published_at": "2026-05-15T15:02:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "How Chinese short dramas became AI content machines",
     "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
     "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei",
@@ -406,15 +415,6 @@
   },
   {
     "id": 9,
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
-    "id": 10,
     "title": "How data science teams use Codex",
     "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
@@ -423,19 +423,28 @@
     "published_at": "2026-05-15T00:00:00"
   },
   {
+    "id": 10,
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
     "id": 11,
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
-    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
   },
   {
     "id": 12,
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
@@ -468,7 +477,7 @@
     "published_at": "2026-05-14T13:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Data readiness for agentic AI in financial services",
     "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
     "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
@@ -477,7 +486,7 @@
     "published_at": "2026-05-14T13:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Establishing AI and data sovereignty in the age of autonomous systems",
     "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
     "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
@@ -495,7 +504,7 @@
     "published_at": "2026-05-14T10:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "The shock of seeing your body used in deepfake porn",
     "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
     "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return&#8230;",
@@ -520,15 +529,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-14T00:00:00"
-  },
-  {
-    "id": 135,
-    "title": "AI chatbots are giving out people’s real phone numbers",
-    "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
-    "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI.&#160; In March, a software d",
-    "author": "Eileen Guo",
-    "source": "MIT Technology Review",
-    "published_at": "2026-05-13T18:09:03"
   },
   {
     "id": 172,
@@ -604,9 +604,9 @@
   },
   {
     "id": 19,
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "title": "AutoScout24 scales engineering with AI-powered workflows",
+    "url": "https://openai.com/index/autoscout24",
+    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-12T00:00:00"
@@ -622,9 +622,9 @@
   },
   {
     "id": 21,
-    "title": "AutoScout24 scales engineering with AI-powered workflows",
-    "url": "https://openai.com/index/autoscout24",
-    "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-12T00:00:00"
@@ -757,18 +757,18 @@
   },
   {
     "id": 35,
-    "title": "Introducing ChatGPT Futures: Class of 2026",
-    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+    "title": "Uber uses OpenAI to help people earn smarter and book faster",
+    "url": "https://openai.com/index/uber",
+    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-06T00:00:00"
   },
   {
     "id": 36,
-    "title": "Uber uses OpenAI to help people earn smarter and book faster",
-    "url": "https://openai.com/index/uber",
-    "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-06T00:00:00"
@@ -820,18 +820,18 @@
   },
   {
     "id": 41,
-    "title": "New ways to buy ChatGPT ads",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "title": "Advancing youth safety and wellbeing in EMEA",
+    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-05T00:00:00"
   },
   {
     "id": 42,
-    "title": "Advancing youth safety and wellbeing in EMEA",
-    "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-    "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+    "title": "New ways to buy ChatGPT ads",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-05T00:00:00"
@@ -946,18 +946,18 @@
   },
   {
     "id": 49,
-    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-    "url": "https://openai.com/index/openai-on-aws",
-    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-28T00:00:00"
   },
   {
     "id": 50,
-    "title": "Our commitment to community safety",
-    "url": "https://openai.com/index/our-commitment-to-community-safety",
-    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-04-28T00:00:00"
