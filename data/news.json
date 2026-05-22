@@ -1,5 +1,14 @@
 [
   {
+    "id": 126,
+    "title": "Roundtables: Can AI Learn to Understand the World?",
+    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+    "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ",
+    "author": "MIT Technology Review",
+    "source": "MIT Technology Review",
+    "published_at": "2026-05-21T20:41:05"
+  },
+  {
     "id": 136,
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -18,7 +27,7 @@
     "published_at": "2026-05-21T19:19:05"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Scaling creativity in the age of AI",
     "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
     "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans&#8217; innovation of natural pigments and charcoals for cave paintings to literal r",
@@ -28,7 +37,7 @@
   },
   {
     "id": 138,
-    "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
     "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
     "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
     "author": "Rebecca Bellan",
@@ -57,13 +66,13 @@
     "id": 141,
     "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
     "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-    "summary": "Spotify is releasing new audiobook plans later this year",
+    "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-05-21T15:27:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
     "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
     "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was comp",
@@ -115,6 +124,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-21T12:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+    "summary": "<p>The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street&#8217;s US$86.84 billion forecast–the ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-05-21T08:00:00"
   },
   {
     "id": 76,
@@ -216,6 +234,15 @@
     "published_at": "2026-05-20T17:24:24"
   },
   {
+    "id": 164,
+    "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
+    "summary": "<p>Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US export controls. The Z",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-05-20T10:00:00"
+  },
+  {
     "id": 77,
     "title": "Building AI models that understand chemical principles",
     "url": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
@@ -270,13 +297,22 @@
     "published_at": "2026-05-19T20:30:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Roundtables: Inside the Musk v. Altman Trial",
     "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
     "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in",
     "author": "MIT Technology Review",
     "source": "MIT Technology Review",
     "published_at": "2026-05-19T20:15:18"
+  },
+  {
+    "id": 165,
+    "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
+    "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
+    "summary": "<p>Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the &#8220;AI graveyard&#8221; – that is, AI projects that seem to perform well in pilot, but",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-05-19T19:18:00"
   },
   {
     "id": 156,
@@ -297,7 +333,25 @@
     "published_at": "2026-05-19T10:45:00"
   },
   {
-    "id": 129,
+    "id": 166,
+    "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
+    "summary": "<p>President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that &#8220;something could happen&#8221; on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump&#160;first authorised&#160;the sales in Dece",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-05-19T10:00:00"
+  },
+  {
+    "id": 167,
+    "title": "AI is a matter of power, infrastructure and security: TechEx North America",
+    "url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
+    "summary": "<p>Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it&#8217;s sometimes the smaller considerations that need to play big – at least, in the mind",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-05-19T01:36:26"
+  },
+  {
+    "id": 130,
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
     "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk an",
@@ -306,7 +360,7 @@
     "published_at": "2026-05-19T00:53:10"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "What to expect from Google this week",
     "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago,",
@@ -315,7 +369,7 @@
     "published_at": "2026-05-18T17:35:43"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
     "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
     "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a c",
@@ -333,6 +387,15 @@
     "published_at": "2026-05-18T10:00:00"
   },
   {
+    "id": 168,
+    "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
+    "url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
+    "summary": "<p>Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eli",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-05-18T10:00:00"
+  },
+  {
     "id": 8,
     "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
@@ -342,7 +405,7 @@
     "published_at": "2026-05-16T00:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
     "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk&#8217;s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon",
@@ -351,7 +414,16 @@
     "published_at": "2026-05-15T23:39:35"
   },
   {
-    "id": 133,
+    "id": 169,
+    "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
+    "url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
+    "summary": "<p>Enterprise leaders must progress past generative applications and scale &#8220;autonomous intelligence&#8221; to capture real growth. Generating text or summarising internal communications offers localised productivity improvements, yet these abilities rarely alter the core cost or revenue struct",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-05-15T15:02:00"
+  },
+  {
+    "id": 134,
     "title": "How Chinese short dramas became AI content machines",
     "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
     "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears across her chest. “Two months,” the man says. “Give me an hei",
@@ -432,7 +504,7 @@
     "published_at": "2026-05-14T13:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Data readiness for agentic AI in financial services",
     "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
     "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of",
@@ -441,13 +513,22 @@
     "published_at": "2026-05-14T13:00:00"
   },
   {
-    "id": 135,
-    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own, u",
-    "author": "MIT Technology Review Insights",
-    "source": "MIT Technology Review",
-    "published_at": "2026-05-14T13:00:00"
+    "id": 170,
+    "title": "Physical AI moves closer to factory floors as companies test humanoid robots",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-humanoid-robots-factories/",
+    "summary": "<p>British technology company Humanoid will deploy humanoid robots at factories operated by German industrial supplier Schaeffler, Reuters reported. The two companies&#8217; agreement covers an estimated 1,000 to 2,000 robots in Schaeffler&#8217;s global manufacturing sites by 2032, according to a H",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-05-14T10:00:00"
+  },
+  {
+    "id": 171,
+    "title": "Top real estate app development companies in the US: Abilities and costs",
+    "url": "https://www.artificialintelligence-news.com/news/top-real-estate-app-development-companies-in-the-us-abilities-and-costs/",
+    "summary": "<p>Real estate products depend on integrations, data flows, and compliance layers that rarely appear in marketing pages. A vendor may look strong on reviews about general software development and struggle once MLS feeds, payment systems, and document workflows enter the build. In short, among top re",
+    "author": "LITSLINK",
+    "source": "AI News",
+    "published_at": "2026-05-14T07:51:58"
   },
   {
     "id": 16,
@@ -457,6 +538,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-14T00:00:00"
+  },
+  {
+    "id": 172,
+    "title": "Physical AI Conference Comes to San Jose as Robotics & Autonomous AI Go Mainstream",
+    "url": "https://www.artificialintelligence-news.com/news/physical-ai-conference-comes-to-san-jose-as-robotics-autonomous-ai-go-mainstream/",
+    "summary": "<p>The Physical AI Conference shaping the future of robotics, autonomous&#160;systems&#160;and real-world AI deployment lands in Silicon Valley this May, bringing together the engineers, builders and AI pioneers turning intelligence into physical action.&#160; Physical AI Expo North America&#160;wil",
+    "author": "TechEx",
+    "source": "AI News",
+    "published_at": "2026-05-13T13:43:38"
   },
   {
     "id": 17,
@@ -475,6 +565,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-13T00:00:00"
+  },
+  {
+    "id": 173,
+    "title": "JBS Dev: On imperfect data and the AI last mile – from model capability to cost sustainability",
+    "url": "https://www.artificialintelligence-news.com/news/jbs-dev-on-imperfect-data-and-the-ai-last-mile-from-model-capability-to-cost-sustainability/",
+    "summary": "<p>Joe Rose, president at strategic technology provider JBS Dev, wants to cut through one of the myths of working with generative and agentic AI systems. “It’s a common misconception that your data has to be perfect before you do any of these types of workloads,” he explains. As a recent article in ",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-05-12T15:37:43"
   },
   {
     "id": 19,
@@ -502,6 +601,15 @@
     "author": "Carolyn Tiernan | MIT Open Learning",
     "source": "MIT News AI",
     "published_at": "2026-05-12T15:00:00"
+  },
+  {
+    "id": 174,
+    "title": "Hugging Face hosted malicious software masquerading as OpenAI release",
+    "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
+    "summary": "<p>A malicious Hugging Face repository that posed as an OpenAI release delivered infostealer malware to Windows machines and recorded about 244,000 downloads before removal, according to research from AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the at",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-05-12T13:52:00"
   },
   {
     "id": 20,
