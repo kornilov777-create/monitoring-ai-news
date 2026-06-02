@@ -1,6 +1,78 @@
 [
   {
     "id": 136,
+    "title": "Uber caps employee AI spending after blowing through budget in four months",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T19:11:48"
+  },
+  {
+    "id": 137,
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "author": "Ram Iyer",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T19:02:21"
+  },
+  {
+    "id": 138,
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+    "author": "Connie Loizos",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T18:16:53"
+  },
+  {
+    "id": 163,
+    "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+    "summary": "<p>Anthropic&#8217;s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles. Taking a fou",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-02T18:04:03"
+  },
+  {
+    "id": 139,
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T18:02:44"
+  },
+  {
+    "id": 140,
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+    "author": "Aisha Malik",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T18:00:00"
+  },
+  {
+    "id": 141,
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+    "author": "Ram Iyer",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T18:00:00"
+  },
+  {
+    "id": 142,
+    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-02T17:47:28"
+  },
+  {
+    "id": 143,
     "title": "Trump signs narrower executive order on AI oversight after industry objections",
     "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
     "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
@@ -9,16 +81,16 @@
     "published_at": "2026-06-02T16:23:08"
   },
   {
-    "id": 137,
+    "id": 144,
     "title": "OpenAI launches new Codex tools for white-collar work",
     "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool&#8217;s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledg",
+    "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approximate",
     "author": "Russell Brandom",
     "source": "TechCrunch AI",
     "published_at": "2026-06-02T16:00:00"
   },
   {
-    "id": 138,
+    "id": 145,
     "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
     "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
     "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
@@ -27,7 +99,7 @@
     "published_at": "2026-06-02T14:44:21"
   },
   {
-    "id": 139,
+    "id": 146,
     "title": "ZeroDrift raises $10M to protect AI models from themselves",
     "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
     "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
@@ -45,7 +117,7 @@
     "published_at": "2026-06-02T12:00:00"
   },
   {
-    "id": 140,
+    "id": 147,
     "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
     "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
     "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
@@ -63,7 +135,7 @@
     "published_at": "2026-06-02T11:23:34"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "GitHub Copilot users see token-based price hikes",
     "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
     "summary": "<p>Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day into the changeover t",
@@ -108,7 +180,7 @@
     "published_at": "2026-06-02T02:00:00"
   },
   {
-    "id": 141,
+    "id": 148,
     "title": "Alphabet plans to raise $80B to pay for AI buildout",
     "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
     "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
@@ -117,7 +189,7 @@
     "published_at": "2026-06-01T22:55:09"
   },
   {
-    "id": 142,
+    "id": 149,
     "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
     "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
     "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
@@ -126,7 +198,7 @@
     "published_at": "2026-06-01T21:35:00"
   },
   {
-    "id": 143,
+    "id": 150,
     "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
     "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
     "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
@@ -135,7 +207,7 @@
     "published_at": "2026-06-01T20:03:40"
   },
   {
-    "id": 144,
+    "id": 151,
     "title": "Water access is now a risk factor in SpaceX’s IPO",
     "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
     "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
@@ -153,7 +225,7 @@
     "published_at": "2026-06-01T17:00:00"
   },
   {
-    "id": 145,
+    "id": 152,
     "title": "Anthropic files to go public",
     "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
     "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
@@ -162,7 +234,7 @@
     "published_at": "2026-06-01T16:36:55"
   },
   {
-    "id": 146,
+    "id": 153,
     "title": "This AI weather startup is out-forecasting government agencies",
     "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
     "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collec",
@@ -171,7 +243,7 @@
     "published_at": "2026-06-01T16:00:00"
   },
   {
-    "id": 147,
+    "id": 154,
     "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
     "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
     "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
@@ -198,7 +270,7 @@
     "published_at": "2026-06-01T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "The future of automated trading with the best forex robot reviews",
     "url": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
     "summary": "<p>Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice. As the tech world improves, more traders are looking for ways to stay involved in the market without the need to sit in front of charts for hours at",
@@ -207,7 +279,7 @@
     "published_at": "2026-06-01T08:51:42"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "AI in video game development: How artificial intelligence is reshaping the industry",
     "url": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
     "summary": "<p>A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment. It is restructuring the pipeline from conc",
@@ -216,7 +288,7 @@
     "published_at": "2026-06-01T08:46:19"
   },
   {
-    "id": 148,
+    "id": 155,
     "title": "Erin Brockovich takes aim at data center secrecy",
     "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "summary": "Environmental activist Erin Brockovich has a new mission.",
@@ -225,70 +297,7 @@
     "published_at": "2026-05-31T21:05:14"
   },
   {
-    "id": 149,
-    "title": "Making sense of the debate over AI psychosis",
-    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-31T15:30:00"
-  },
-  {
-    "id": 150,
-    "title": "SoftBank says it will invest up to €75B to build French data centers",
-    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-30T21:45:00"
-  },
-  {
-    "id": 151,
-    "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-30T16:30:00"
-  },
-  {
-    "id": 152,
-    "title": "Meta is reportedly developing an AI pendant",
-    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "summary": "Meta seems to be making big bets on AI-powered hardware.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-30T15:59:58"
-  },
-  {
-    "id": 153,
-    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-30T15:30:00"
-  },
-  {
-    "id": 154,
-    "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-    "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-    "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
-    "author": "Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-30T14:49:27"
-  },
-  {
-    "id": 155,
-    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-05-30T13:00:00"
-  },
-  {
-    "id": 166,
+    "id": 167,
     "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
     "url": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
     "summary": "<p>OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progressed towards requiring sustainable, commercial-grade architecture. OpenAI has released its Frontie",
@@ -315,7 +324,7 @@
     "published_at": "2026-05-29T12:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Anthropic releases Claude Opus 4.8",
     "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
     "summary": "<p>Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has",
@@ -360,7 +369,7 @@
     "published_at": "2026-05-28T16:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
     "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
     "summary": "<p>Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, positioning Google Pay as a central clearinghouse for purchases executed by autonomous agents rath",
@@ -378,7 +387,7 @@
     "published_at": "2026-05-28T12:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "NBA plans AI system for automatic out-of-bounds calls",
     "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
     "summary": "<p>NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession. Silver compared the approach to Hawk-Eye, the tracking technol",
@@ -414,7 +423,7 @@
     "published_at": "2026-05-28T00:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Google folds Display Ads into AI-first Demand Gen platform",
     "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
     "summary": "<p>Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target ",
@@ -423,7 +432,7 @@
     "published_at": "2026-05-27T13:12:06"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "Exploring the Benefits of AI Bots for Forex Trading in Forex Markets",
     "url": "https://www.artificialintelligence-news.com/news/exploring-the-benefits-of-ai-bots-for-forex-trading-in-forex-markets/",
     "summary": "<p>The foreign exchange market is really moving away from pure intuition and toward a space shaped by speed, data and precision. By using automated systems in your routine, you can approach volatility with a level of discipline that manual trading often struggles to maintain. Every entry and exit ca",
@@ -477,7 +486,7 @@
     "published_at": "2026-05-26T14:54:10"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Autonomous AI systems test governance in physical environments",
     "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-systems-governance-physical-environments/",
     "summary": "<p>Autonomous AI systems are beginning to move beyond software environments and into warehouses, delivery networks, and public spaces. The development is drawing attention to whether current AI rules cover systems that operate in physical environments. Most existing AI governance frameworks have foc",
@@ -522,20 +531,11 @@
     "published_at": "2026-05-22T10:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
     "url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
     "summary": "<p>OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 milli",
     "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-05-22T10:00:00"
-  },
-  {
-    "id": 174,
-    "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
-    "url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-    "summary": "<p>Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country&#8217;s largest grid operator, have risen more than tenfold in two years, with d",
-    "author": "Dashveenjit Kaur",
     "source": "AI News",
     "published_at": "2026-05-22T10:00:00"
   },
