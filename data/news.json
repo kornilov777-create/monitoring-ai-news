@@ -1,5 +1,14 @@
 [
   {
+    "id": 76,
+    "title": "MIT researchers teach AI models to interpret charts",
+    "url": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+    "summary": "The new ChartNet training dataset could improve the accuracy of vision-language models that help analyze business trends or interpret scientific figures.",
+    "author": "Adam Zewe | MIT News",
+    "source": "MIT News AI",
+    "published_at": "2026-06-03T04:00:00"
+  },
+  {
     "id": 136,
     "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
     "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
@@ -306,7 +315,7 @@
     "published_at": "2026-05-29T00:00:00"
   },
   {
-    "id": 76,
+    "id": 77,
     "title": "Media Advisory: MIT to establish regional quantum hub",
     "url": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
     "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox.",
@@ -433,18 +442,18 @@
   },
   {
     "id": 20,
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-22T00:00:00"
   },
   {
     "id": 21,
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-22T00:00:00"
@@ -477,7 +486,7 @@
     "published_at": "2026-05-21T12:00:00"
   },
   {
-    "id": 77,
+    "id": 78,
     "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
     "url": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
     "summary": "A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs.",
@@ -486,7 +495,7 @@
     "published_at": "2026-05-21T04:00:00"
   },
   {
-    "id": 78,
+    "id": 79,
     "title": "Building AI models that understand chemical principles",
     "url": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
     "summary": "Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.",
@@ -522,7 +531,7 @@
     "published_at": "2026-05-20T00:00:00"
   },
   {
-    "id": 79,
+    "id": 80,
     "title": "Justin Solomon appointed associate dean of engineering education",
     "url": "https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519",
     "summary": "MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.",
@@ -577,9 +586,9 @@
   },
   {
     "id": 30,
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
@@ -595,24 +604,15 @@
   },
   {
     "id": 32,
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
   },
   {
     "id": 33,
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
-    "id": 34,
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
     "url": "https://openai.com/index/databricks",
     "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
@@ -621,7 +621,16 @@
     "published_at": "2026-05-15T00:00:00"
   },
   {
-    "id": 80,
+    "id": 34,
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
+    "id": 81,
     "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
     "url": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
     "summary": "The prestigious fellowship funds graduate studies at Stanford University.",
@@ -684,7 +693,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 81,
+    "id": 82,
     "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
     "url": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
     "summary": "Dimitris Bertsimas and Megan Mitchell discuss the motivation behind Universal Learning, and what sets the new MIT Open Learning educational initiative apart.",
@@ -693,7 +702,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 82,
+    "id": 83,
     "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
     "url": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
     "summary": "New AI education program from MIT Open Learning debuts with AI-powered personalization and a free introductory course for learners everywhere.",
@@ -703,6 +712,15 @@
   },
   {
     "id": 41,
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-12T00:00:00"
+  },
+  {
+    "id": 42,
     "title": "How NVIDIA engineers and researchers build with Codex",
     "url": "https://openai.com/index/nvidia",
     "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
@@ -711,19 +729,10 @@
     "published_at": "2026-05-12T00:00:00"
   },
   {
-    "id": 42,
+    "id": 43,
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
     "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-12T00:00:00"
-  },
-  {
-    "id": 43,
-    "title": "What Parameter Golf taught us about AI-assisted research",
-    "url": "https://openai.com/index/what-parameter-golf-taught-us",
-    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-12T00:00:00"
@@ -792,7 +801,7 @@
     "published_at": "2026-05-07T11:00:00"
   },
   {
-    "id": 83,
+    "id": 84,
     "title": "Study: Firms often use automation to control certain workers’ wages",
     "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
     "summary": "MIT economists found US companies tend to target employees earning a “wage premium,” which increases inequality but not necessarily productivity.",
@@ -801,7 +810,7 @@
     "published_at": "2026-05-07T04:00:00"
   },
   {
-    "id": 84,
+    "id": 85,
     "title": "Games people — and machines — play: Untangling strategic reasoning to advance AI",
     "url": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
     "summary": "Assistant Professor Gabriele Farina mines the foundations of decision-making in complex multi-agent scenarios.",
@@ -810,7 +819,7 @@
     "published_at": "2026-05-05T21:00:00"
   },
   {
-    "id": 85,
+    "id": 86,
     "title": "Beacon Biosignals is mapping the brain during sleep",
     "url": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
     "summary": "Founded by Jake Donoghue PhD ’19 and former MIT researcher Jarrett Revels, the company is creating an AI-driven platform to help diagnose and treat disease.",
@@ -819,7 +828,7 @@
     "published_at": "2026-05-01T04:00:00"
   },
   {
-    "id": 86,
+    "id": 87,
     "title": "Improving understanding with language",
     "url": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
     "summary": "MIT senior Olivia Honeycutt investigates how the ways we communicate can shape our views of the world.",
@@ -828,7 +837,7 @@
     "published_at": "2026-05-01T04:00:00"
   },
   {
-    "id": 87,
+    "id": 88,
     "title": "Making the case for curiosity-driven science",
     "url": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
     "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for America’s top research universities becomes increasingly strained.",
@@ -837,7 +846,7 @@
     "published_at": "2026-04-30T04:00:00"
   },
   {
-    "id": 88,
+    "id": 89,
     "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
     "url": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
     "summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches.",
@@ -846,7 +855,7 @@
     "published_at": "2026-04-29T21:40:00"
   },
   {
-    "id": 89,
+    "id": 90,
     "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
     "url": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
     "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing.",
@@ -855,7 +864,7 @@
     "published_at": "2026-04-29T10:00:00"
   },
   {
-    "id": 90,
+    "id": 91,
     "title": "Enabling privacy-preserving AI training on everyday devices",
     "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
     "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in under-resourced settings.",
@@ -864,7 +873,7 @@
     "published_at": "2026-04-29T04:00:00"
   },
   {
-    "id": 91,
+    "id": 92,
     "title": "A faster way to estimate AI power consumption",
     "url": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
     "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources and reduce wasted energy.",
@@ -873,7 +882,7 @@
     "published_at": "2026-04-27T04:00:00"
   },
   {
-    "id": 92,
+    "id": 93,
     "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone",
     "url": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
     "summary": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
@@ -882,7 +891,7 @@
     "published_at": "2026-04-24T17:00:00"
   },
   {
-    "id": 93,
+    "id": 94,
     "title": "Teaching AI models to say “I’m not sure”",
     "url": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
     "summary": "A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hallucination in reasoning models.",
@@ -891,7 +900,7 @@
     "published_at": "2026-04-22T19:15:00"
   },
   {
-    "id": 94,
+    "id": 95,
     "title": "Jacob Andreas and Brett McGuire named Edgerton Award winners",
     "url": "https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417",
     "summary": "The associate professors of EECS and chemistry, respectively, are honored for exceptional contributions to teaching, research, and service at MIT.",
@@ -900,7 +909,7 @@
     "published_at": "2026-04-17T13:40:00"
   },
   {
-    "id": 95,
+    "id": 96,
     "title": "Bringing AI-driven protein-design tools to biologists everywhere",
     "url": "https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417",
     "summary": "Founded by Tristan Bepler PhD ’20 and former MIT professor Tim Lu PhD ’07, OpenProtein.AI offers researchers open-source models and other tools for protein engineering.",
@@ -909,7 +918,7 @@
     "published_at": "2026-04-17T04:00:00"
   },
   {
-    "id": 96,
+    "id": 97,
     "title": "Human-machine teaming dives underwater",
     "url": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
     "summary": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles engaged in maritime missions.",
@@ -918,7 +927,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 97,
+    "id": 98,
     "title": "Q&A: MIT SHASS and the future of education in the age of AI",
     "url": "https://news.mit.edu/2026/qa-mit-shass-and-future-of-education-age-ai-0414",
     "summary": "As the School of Humanities, Arts, and Social Sciences marks 75 years, Dean Agustín Rayo reflects on how AI is reshaping higher education and why SHASS disciplines continue to be central to MIT’s mission.",
@@ -927,7 +936,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 98,
+    "id": 99,
     "title": "A philosophy of work",
     "url": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
     "summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.",
@@ -936,7 +945,7 @@
     "published_at": "2026-04-09T18:00:00"
   },
   {
-    "id": 99,
+    "id": 100,
     "title": "New technique makes AI models leaner and faster while they’re still learning",
     "url": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
     "summary": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance.",
@@ -945,7 +954,7 @@
     "published_at": "2026-04-09T13:00:00"
   },
   {
-    "id": 100,
+    "id": 101,
     "title": "Sixteen new START.nano companies are developing hard-tech solutions with the support of MIT.nano",
     "url": "https://news.mit.edu/2026/sixteen-new-startnano-companies-developing-hard-tech-solutions-with-mitnano-0407",
     "summary": "Startup accelerator program grows to over 30 companies, almost half of them with MIT pedigrees.",
@@ -954,7 +963,7 @@
     "published_at": "2026-04-07T20:40:00"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "Helping data centers deliver higher performance with less hardware",
     "url": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
     "summary": "Researchers developed a system that intelligently balances workloads to improve the efficiency of flash storage hardware in a data center.",
@@ -963,7 +972,7 @@
     "published_at": "2026-04-07T04:00:00"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Working to advance the nuclear renaissance",
     "url": "https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403",
     "summary": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
@@ -972,7 +981,7 @@
     "published_at": "2026-04-03T20:55:00"
   },
   {
-    "id": 103,
+    "id": 104,
     "title": "Evaluating the ethics of autonomous systems",
     "url": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
     "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly.",
@@ -981,7 +990,7 @@
     "published_at": "2026-04-02T04:00:00"
   },
   {
-    "id": 104,
+    "id": 105,
     "title": "Preview tool helps makers visualize 3D-printed objects",
     "url": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
     "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
@@ -990,7 +999,7 @@
     "published_at": "2026-04-01T04:00:00"
   },
   {
-    "id": 105,
+    "id": 106,
     "title": "MIT researchers use AI to uncover atomic defects in materials",
     "url": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
     "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion efficiency.",
@@ -999,7 +1008,7 @@
     "published_at": "2026-03-30T15:00:00"
   },
   {
-    "id": 106,
+    "id": 107,
     "title": "Seeing sounds",
     "url": "https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326",
     "summary": "Mariano Salcedo ’25, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
@@ -1008,7 +1017,7 @@
     "published_at": "2026-03-26T20:45:00"
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "MIT engineers design proteins by their motion, not just their shape",
     "url": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
     "summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
@@ -1017,7 +1026,7 @@
     "published_at": "2026-03-26T20:20:00"
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "AI system learns to keep warehouse robot traffic running smoothly",
     "url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
     "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
@@ -1026,7 +1035,7 @@
     "published_at": "2026-03-26T04:00:00"
   },
   {
-    "id": 109,
+    "id": 110,
     "title": "Augmenting citizen science with computer vision for fish monitoring",
     "url": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
     "summary": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
@@ -1035,7 +1044,7 @@
     "published_at": "2026-03-25T21:00:00"
   },
   {
-    "id": 110,
+    "id": 111,
     "title": "Wristband enables wearers to control a robotic hand with their own movements",
     "url": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
     "summary": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
@@ -1044,7 +1053,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 111,
+    "id": 112,
     "title": "How to create “humble” AI",
     "url": "https://news.mit.edu/2026/creating-humble-ai-0324",
     "summary": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming about uncertainty.",
@@ -1053,7 +1062,7 @@
     "published_at": "2026-03-24T04:00:00"
   },
   {
-    "id": 112,
+    "id": 113,
     "title": "Advancing international trade research and finding community",
     "url": "https://news.mit.edu/2026/sojun-park-advancing-international-trade-research-finding-community-0323",
     "summary": "Sojun Park, a postdoc at the Center for International Studies, has learned much from his research on intellectual property as well as his interactions with students and mentors at MIT.",
@@ -1062,7 +1071,7 @@
     "published_at": "2026-03-23T21:00:00"
   },
   {
-    "id": 113,
+    "id": 114,
     "title": "On algorithms, life, and learning",
     "url": "https://news.mit.edu/2026/algorithms-life-learning-killian-lecture-dimitris-bertsimas-0323",
     "summary": "Operations research expert Dimitris Bertsimas delivered the annual Killian Lecture, providing a look at the past and future of his work.",
@@ -1071,7 +1080,7 @@
     "published_at": "2026-03-23T17:45:00"
   },
   {
-    "id": 114,
+    "id": 115,
     "title": "What’s the right path for AI?",
     "url": "https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320",
     "summary": "Conference speakers discussed the unfolding trajectory of AI and the benefits of shaping technology to meet people’s needs.",
@@ -1080,7 +1089,7 @@
     "published_at": "2026-03-20T13:30:00"
   },
   {
-    "id": 115,
+    "id": 116,
     "title": "MIT and Hasso Plattner Institute establish collaborative hub for AI and creativity",
     "url": "https://news.mit.edu/2026/mit-hasso-plattner-institute-collaborative-hub-for-ai-and-creativity-0320",
     "summary": "Jointly led by the MIT Morningside Academy for Design, MIT Schwarzman College of Computing, and the Hasso Plattner Institute in Potsdam, the hub will foster a dynamic community where computing, creativity, and human-centered innovation meet.",
@@ -1089,7 +1098,7 @@
     "published_at": "2026-03-20T12:45:00"
   },
   {
-    "id": 116,
+    "id": 117,
     "title": "Generative AI improves a wireless vision system that sees through obstructions",
     "url": "https://news.mit.edu/2026/generative-ai-improves-wireless-vision-system-sees-through-obstructions-0319",
     "summary": "With this new technique, a robot could more accurately detect hidden objects or understand an indoor scene using reflected Wi-Fi signals.",
@@ -1098,7 +1107,7 @@
     "published_at": "2026-03-19T04:00:00"
   },
   {
-    "id": 117,
+    "id": 118,
     "title": "A better method for identifying overconfident large language models",
     "url": "https://news.mit.edu/2026/better-method-identifying-overconfident-large-language-models-0319",
     "summary": "This new metric for measuring uncertainty could flag hallucinations and help users know whether to trust an AI model.",
@@ -1107,22 +1116,13 @@
     "published_at": "2026-03-19T04:00:00"
   },
   {
-    "id": 118,
+    "id": 119,
     "title": "Sustaining diplomacy amid competition in US-China relations",
     "url": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
     "summary": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education.",
     "author": "MIT Energy Initiative",
     "source": "MIT News AI",
     "published_at": "2026-03-18T04:00:00"
-  },
-  {
-    "id": 119,
-    "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
-    "url": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
-    "summary": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
-    "author": "Lauren Hinkel | MIT-IBM Watson AI Lab",
-    "source": "MIT News AI",
-    "published_at": "2026-03-17T20:35:44"
   },
   {
     "id": 120,
