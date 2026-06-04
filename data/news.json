@@ -1,5 +1,14 @@
 [
   {
+    "id": 1,
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-04T12:00:00"
+  },
+  {
     "id": 136,
     "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
     "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
@@ -81,7 +90,7 @@
     "published_at": "2026-06-03T13:40:00"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Introducing new capabilities to GPT-Rosalind",
     "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
     "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
@@ -99,22 +108,22 @@
     "published_at": "2026-06-03T13:02:51"
   },
   {
-    "id": 2,
+    "id": 163,
+    "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
+    "url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
+    "summary": "<p>Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions. Maintaining operations across this scope r",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-03T12:29:42"
+  },
+  {
+    "id": 3,
     "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
     "url": "https://openai.com/index/wasmer",
     "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T12:00:00"
-  },
-  {
-    "id": 3,
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-03T10:00:00"
   },
   {
     "id": 4,
@@ -124,6 +133,33 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
+  },
+  {
+    "id": 5,
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-03T10:00:00"
+  },
+  {
+    "id": 164,
+    "title": "Walmart’s AI workflows meet the realities of the balance sheet",
+    "url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
+    "summary": "<p>Walmart has reportedly begun limiting employees&#8217; use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected. Employees of Walmart were encouraged to use Code Puppy without any stricture or stipulations as to the limits of use",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-06-03T09:33:00"
+  },
+  {
+    "id": 165,
+    "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
+    "summary": "<p>Microsoft&#8217;s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-03T09:00:00"
   },
   {
     "id": 78,
@@ -169,6 +205,15 @@
     "author": "Connie Loizos",
     "source": "TechCrunch AI",
     "published_at": "2026-06-02T18:16:53"
+  },
+  {
+    "id": 166,
+    "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+    "summary": "<p>Anthropic&#8217;s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles. Taking a fou",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-02T18:04:03"
   },
   {
     "id": 148,
@@ -243,7 +288,7 @@
     "published_at": "2026-06-02T12:32:59"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
     "url": "https://openai.com/index/travelers",
     "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -261,7 +306,16 @@
     "published_at": "2026-06-02T11:23:34"
   },
   {
-    "id": 6,
+    "id": 167,
+    "title": "GitHub Copilot users see token-based price hikes",
+    "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+    "summary": "<p>Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day into the changeover t",
+    "author": "Joe Green",
+    "source": "AI News",
+    "published_at": "2026-06-02T11:09:00"
+  },
+  {
+    "id": 7,
     "title": "Codex for every role, tool, and workflow",
     "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
     "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
@@ -279,7 +333,7 @@
     "published_at": "2026-06-02T09:00:00"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Advancing youth safety and opportunity through global leadership",
     "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
@@ -288,7 +342,7 @@
     "published_at": "2026-06-02T07:00:00"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Codex is becoming a productivity tool for everyone",
     "url": "https://openai.com/index/codex-for-knowledge-work",
     "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
@@ -297,7 +351,7 @@
     "published_at": "2026-06-02T02:00:00"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Our views on AI policy and political advocacy",
     "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
     "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
@@ -306,7 +360,7 @@
     "published_at": "2026-06-01T17:00:00"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Building the infrastructure for the Intelligence Age in Michigan",
     "url": "https://openai.com/index/stargate-michigan-data-center",
     "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -315,7 +369,7 @@
     "published_at": "2026-06-01T12:00:00"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "OpenAI frontier models and Codex are now available on AWS",
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
@@ -324,7 +378,34 @@
     "published_at": "2026-06-01T10:00:00"
   },
   {
-    "id": 12,
+    "id": 168,
+    "title": "The future of automated trading with the best forex robot reviews",
+    "url": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
+    "summary": "<p>Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice. As the tech world improves, more traders are looking for ways to stay involved in the market without the need to sit in front of charts for hours at",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-01T08:51:42"
+  },
+  {
+    "id": 169,
+    "title": "AI in video game development: How artificial intelligence is reshaping the industry",
+    "url": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
+    "summary": "<p>A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment. It is restructuring the pipeline from conc",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-01T08:46:19"
+  },
+  {
+    "id": 170,
+    "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
+    "url": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
+    "summary": "<p>OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progressed towards requiring sustainable, commercial-grade architecture. OpenAI has released its Frontie",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-05-29T16:24:58"
+  },
+  {
+    "id": 13,
     "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -333,13 +414,22 @@
     "published_at": "2026-05-29T12:00:00"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "How Braintrust turns customer requests into code with Codex",
     "url": "https://openai.com/index/braintrust",
     "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-29T12:00:00"
+  },
+  {
+    "id": 171,
+    "title": "Anthropic releases Claude Opus 4.8",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
+    "summary": "<p>Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-05-29T10:44:00"
   },
   {
     "id": 128,
@@ -351,7 +441,7 @@
     "published_at": "2026-05-29T10:00:00"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Strengthening societal resilience with Rosalind Biodefense",
     "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
@@ -360,7 +450,7 @@
     "published_at": "2026-05-29T03:00:00"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "A shared playbook for trustworthy third party evaluations",
     "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
     "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
@@ -378,13 +468,31 @@
     "published_at": "2026-05-28T16:00:00"
   },
   {
-    "id": 16,
+    "id": 172,
+    "title": "Google Pay preps for AI agents with Universal Commerce Protocol",
+    "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+    "summary": "<p>Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, positioning Google Pay as a central clearinghouse for purchases executed by autonomous agents rath",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-05-28T14:55:43"
+  },
+  {
+    "id": 17,
     "title": "How Endava builds an agentic organization with Codex",
     "url": "https://openai.com/index/endava",
     "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-28T12:00:00"
+  },
+  {
+    "id": 173,
+    "title": "NBA plans AI system for automatic out-of-bounds calls",
+    "url": "https://www.artificialintelligence-news.com/news/nba-ai-out-of-bounds-calls/",
+    "summary": "<p>NBA Commissioner Adam Silver said the league plans to introduce an automated system for certain officiating decisions, including out-of-bounds calls. The system would use AI and cameras placed around the court to determine possession. Silver compared the approach to Hawk-Eye, the tracking technol",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-05-28T10:00:00"
   },
   {
     "id": 129,
@@ -396,7 +504,7 @@
     "published_at": "2026-05-28T09:51:11"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "OpenAI’s Frontier Governance Framework",
     "url": "https://openai.com/index/openai-frontier-governance-framework",
     "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
@@ -405,7 +513,7 @@
     "published_at": "2026-05-28T00:00:00"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "MUFG aims to become AI-native with OpenAI",
     "url": "https://openai.com/index/mufg",
     "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
@@ -414,7 +522,16 @@
     "published_at": "2026-05-28T00:00:00"
   },
   {
-    "id": 19,
+    "id": 174,
+    "title": "Google folds Display Ads into AI-first Demand Gen platform",
+    "url": "https://www.artificialintelligence-news.com/news/google-folds-display-ads-ai-first-demand-gen-platform/",
+    "summary": "<p>Google is folding Display Ads into its AI-powered Demand Gen platform, marking the end of a long-standing digital advertising model. The Google Display Network (GDN) has been a staple of the open internet for almost twenty years. Marketers previously relied on its predictable framework to target ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-05-27T13:12:06"
+  },
+  {
+    "id": 20,
     "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
     "url": "https://openai.com/index/cisco",
     "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
@@ -423,7 +540,7 @@
     "published_at": "2026-05-27T11:00:00"
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "Building self-improving tax agents with Codex",
     "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
     "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
@@ -432,19 +549,19 @@
     "published_at": "2026-05-27T07:00:00"
   },
   {
-    "id": 21,
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
-    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "id": 22,
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-27T00:00:00"
   },
   {
-    "id": 22,
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "id": 23,
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-27T00:00:00"
@@ -477,7 +594,7 @@
     "published_at": "2026-05-26T09:00:00"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
     "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
@@ -495,19 +612,19 @@
     "published_at": "2026-05-22T10:00:00"
   },
   {
-    "id": 24,
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "id": 25,
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-22T00:00:00"
   },
   {
-    "id": 25,
-    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "id": 26,
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-22T00:00:00"
@@ -531,7 +648,7 @@
     "published_at": "2026-05-21T19:16:43"
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "AdventHealth advances whole-person care with OpenAI",
     "url": "https://openai.com/index/adventhealth",
     "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
@@ -558,15 +675,6 @@
     "published_at": "2026-05-20T04:00:00"
   },
   {
-    "id": 27,
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00"
-  },
-  {
     "id": 28,
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -577,6 +685,15 @@
   },
   {
     "id": 29,
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00"
+  },
+  {
+    "id": 30,
     "title": "How Ramp engineers accelerate code review with Codex",
     "url": "https://openai.com/index/ramp",
     "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
@@ -594,7 +711,7 @@
     "published_at": "2026-05-19T21:10:00"
   },
   {
-    "id": 30,
+    "id": 31,
     "title": "Introducing OpenAI for Singapore",
     "url": "https://openai.com/index/introducing-openai-for-singapore",
     "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
@@ -612,7 +729,7 @@
     "published_at": "2026-05-19T17:45:00"
   },
   {
-    "id": 31,
+    "id": 32,
     "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
     "url": "https://openai.com/index/advancing-content-provenance",
     "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
@@ -621,7 +738,7 @@
     "published_at": "2026-05-19T10:45:00"
   },
   {
-    "id": 32,
+    "id": 33,
     "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
     "url": "https://openai.com/index/dell-codex-enterprise-partnership",
     "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
@@ -630,7 +747,7 @@
     "published_at": "2026-05-18T10:00:00"
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
     "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
@@ -639,25 +756,7 @@
     "published_at": "2026-05-16T00:00:00"
   },
   {
-    "id": 34,
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
     "id": 35,
-    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-    "url": "https://openai.com/index/databricks",
-    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-15T00:00:00"
-  },
-  {
-    "id": 36,
     "title": "A new personal finance experience in ChatGPT",
     "url": "https://openai.com/index/personal-finance-chatgpt",
     "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
@@ -666,10 +765,19 @@
     "published_at": "2026-05-15T00:00:00"
   },
   {
+    "id": 36,
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
     "id": 37,
-    "title": "How sales teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "title": "How data science teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
@@ -684,6 +792,15 @@
     "published_at": "2026-05-15T00:00:00"
   },
   {
+    "id": 39,
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-15T00:00:00"
+  },
+  {
     "id": 83,
     "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
     "url": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
@@ -693,7 +810,7 @@
     "published_at": "2026-05-14T20:55:00"
   },
   {
-    "id": 39,
+    "id": 40,
     "title": "Sea's View on the Future of Agentic Software Development with Codex",
     "url": "https://openai.com/index/sea-david-chen",
     "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
@@ -702,7 +819,7 @@
     "published_at": "2026-05-14T20:30:00"
   },
   {
-    "id": 40,
+    "id": 41,
     "title": "Work with Codex from anywhere",
     "url": "https://openai.com/index/work-with-codex-from-anywhere",
     "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
@@ -711,7 +828,7 @@
     "published_at": "2026-05-14T13:00:00"
   },
   {
-    "id": 41,
+    "id": 42,
     "title": "Helping ChatGPT better recognize context in sensitive conversations",
     "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
     "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
@@ -720,7 +837,7 @@
     "published_at": "2026-05-14T00:00:00"
   },
   {
-    "id": 42,
+    "id": 43,
     "title": "Building a safe, effective sandbox to enable Codex on Windows",
     "url": "https://openai.com/index/building-codex-windows-sandbox",
     "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
@@ -729,7 +846,7 @@
     "published_at": "2026-05-13T11:00:00"
   },
   {
-    "id": 43,
+    "id": 44,
     "title": "Our response to the TanStack npm supply chain attack",
     "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
     "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
@@ -738,7 +855,7 @@
     "published_at": "2026-05-13T00:00:00"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "How finance teams use Codex",
     "url": "https://openai.com/academy/how-finance-teams-use-codex",
     "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
@@ -765,7 +882,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 45,
+    "id": 46,
     "title": "What Parameter Golf taught us about AI-assisted research",
     "url": "https://openai.com/index/what-parameter-golf-taught-us",
     "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
@@ -774,7 +891,7 @@
     "published_at": "2026-05-12T00:00:00"
   },
   {
-    "id": 46,
+    "id": 47,
     "title": "AutoScout24 scales engineering with AI-powered workflows",
     "url": "https://openai.com/index/autoscout24",
     "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
@@ -783,7 +900,7 @@
     "published_at": "2026-05-12T00:00:00"
   },
   {
-    "id": 47,
+    "id": 48,
     "title": "How NVIDIA engineers and researchers build with Codex",
     "url": "https://openai.com/index/nvidia",
     "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
@@ -792,7 +909,7 @@
     "published_at": "2026-05-12T00:00:00"
   },
   {
-    "id": 48,
+    "id": 49,
     "title": "How ChatGPT adoption broadened in early 2026",
     "url": "https://openai.com/signals/research/2026q1-update",
     "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
@@ -801,19 +918,10 @@
     "published_at": "2026-05-11T15:00:00"
   },
   {
-    "id": 49,
+    "id": 50,
     "title": "How enterprises are scaling AI",
     "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-11T10:00:00"
-  },
-  {
-    "id": 50,
-    "title": "OpenAI Campus Network: Student club interest form",
-    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-11T10:00:00"
