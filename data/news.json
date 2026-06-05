@@ -1,5 +1,14 @@
 [
   {
+    "id": 126,
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
+    "author": "Grace Huckins",
+    "source": "MIT Technology Review",
+    "published_at": "2026-06-05T09:00:00"
+  },
+  {
     "id": 136,
     "title": "Mira Murati steps back into the spotlight, carefully",
     "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
@@ -63,15 +72,6 @@
     "published_at": "2026-06-04T19:20:58"
   },
   {
-    "id": 163,
-    "title": "Meta Business Agent drives AI-powered conversational commerce",
-    "url": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
-    "summary": "<p>Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention. Deploying this architecture places agentic AI directly ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-04T17:17:40"
-  },
-  {
     "id": 142,
     "title": "Meta rolls out a new AI creator assistant on Facebook",
     "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
@@ -126,31 +126,13 @@
     "published_at": "2026-06-04T12:00:00"
   },
   {
-    "id": 164,
-    "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
-    "url": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
-    "summary": "<p>Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company&#8217;s&#8217; website. Autopilots are described as a new category of agents that can work autonomously on a user&#8217;s behalf. Microsoft says each Auto",
-    "author": "Joe Green",
-    "source": "AI News",
-    "published_at": "2026-06-04T11:41:00"
-  },
-  {
-    "id": 126,
+    "id": 127,
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
     "author": "Michelle Kim",
     "source": "MIT Technology Review",
     "published_at": "2026-06-04T10:50:18"
-  },
-  {
-    "id": 165,
-    "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
-    "url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-    "summary": "<p>Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps. Amazon said each deployment can b",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-04T10:00:00"
   },
   {
     "id": 2,
@@ -270,15 +252,6 @@
     "published_at": "2026-06-03T13:02:51"
   },
   {
-    "id": 166,
-    "title": "How E.ON uses SAP S/4HANA to modernise the grid with AI",
-    "url": "https://www.artificialintelligence-news.com/news/how-e-on-uses-sap-s-4hana-to-modernise-the-grid-with-ai/",
-    "summary": "<p>Standardising grid data through SAP S/4HANA allows E.ON to modernise infrastructure and execute AI deployments. The utility giant manages infrastructure across three distinct domains: energy grids, customer solutions, and energy infrastructure solutions. Maintaining operations across this scope r",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-03T12:29:42"
-  },
-  {
     "id": 5,
     "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
     "url": "https://openai.com/index/wasmer",
@@ -304,24 +277,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
-  },
-  {
-    "id": 167,
-    "title": "Walmart’s AI workflows meet the realities of the balance sheet",
-    "url": "https://www.artificialintelligence-news.com/news/walmart-limits-ai-use-as-workflows-meet-the-realities-of-the-balance-sheet/",
-    "summary": "<p>Walmart has reportedly begun limiting employees&#8217; use of an internal AI assistant called Code Puppy after demands placed on the LLM backing the tool were higher than expected. Employees of Walmart were encouraged to use Code Puppy without any stricture or stipulations as to the limits of use",
-    "author": "Joe Green",
-    "source": "AI News",
-    "published_at": "2026-06-03T09:33:00"
-  },
-  {
-    "id": 168,
-    "title": "Microsoft’s Majorana 2 quantum chip is also a case study for agentic AI in R&D",
-    "url": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
-    "summary": "<p>Microsoft&#8217;s Majorana 2 quantum chiparrived this week, with numbers that are genuinely difficult to contextualise: qubits 1,000 times more reliable than those of the first generation models, a mean qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-03T09:00:00"
   },
   {
     "id": 80,
@@ -351,15 +306,6 @@
     "published_at": "2026-06-02T19:11:48"
   },
   {
-    "id": 169,
-    "title": "Anthropic IPO filing marks AI maturing into enterprise utility",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
-    "summary": "<p>Anthropic&#8217;s IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing cycles. Taking a fou",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-02T18:04:03"
-  },
-  {
     "id": 8,
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
     "url": "https://openai.com/index/travelers",
@@ -369,22 +315,13 @@
     "published_at": "2026-06-02T12:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Rehumanizing global health care with agentic AI",
     "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
     "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-02T11:23:34"
-  },
-  {
-    "id": 170,
-    "title": "GitHub Copilot users see token-based price hikes",
-    "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
-    "summary": "<p>Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day into the changeover t",
-    "author": "Joe Green",
-    "source": "AI News",
-    "published_at": "2026-06-02T11:09:00"
   },
   {
     "id": 9,
@@ -396,7 +333,7 @@
     "published_at": "2026-06-02T09:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "How small businesses can leverage AI",
     "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
     "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
@@ -450,33 +387,6 @@
     "published_at": "2026-06-01T10:00:00"
   },
   {
-    "id": 171,
-    "title": "The future of automated trading with the best forex robot reviews",
-    "url": "https://www.artificialintelligence-news.com/news/the-future-of-automated-trading-with-the-best-forex-robot-reviews/",
-    "summary": "<p>Automation is becoming a bigger part of how financial markets are approached, and forex trading is one area where this is becoming easier to notice. As the tech world improves, more traders are looking for ways to stay involved in the market without the need to sit in front of charts for hours at",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-06-01T08:51:42"
-  },
-  {
-    "id": 172,
-    "title": "AI in video game development: How artificial intelligence is reshaping the industry",
-    "url": "https://www.artificialintelligence-news.com/news/ai-in-video-game-development/",
-    "summary": "<p>A Google Cloud survey found that 90% of developers are already integrating AI into their daily work, and on Steam, 7,818 titles disclosed AI use in 2025 alone, a 681% increase over the previous year. AI in video game development is not a side experiment. It is restructuring the pipeline from conc",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-06-01T08:46:19"
-  },
-  {
-    "id": 173,
-    "title": "Scaling safe enterprise AI with OpenAI governance frameworks",
-    "url": "https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/",
-    "summary": "<p>OpenAI’s latest governance frameworks offer enterprise leaders a structured blueprint for scaling safe and compliant AI deployments globally. The adoption of large language models has steadily progressed towards requiring sustainable, commercial-grade architecture. OpenAI has released its Frontie",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-05-29T16:24:58"
-  },
-  {
     "id": 15,
     "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
@@ -495,16 +405,7 @@
     "published_at": "2026-05-29T12:00:00"
   },
   {
-    "id": 174,
-    "title": "Anthropic releases Claude Opus 4.8",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-releases-claude-opus-4-8-news/",
-    "summary": "<p>Anthropic has released Claude Opus 4.8, an upgrade to Claude Opus 4.7 that the company says brings improved results for coding, agent work, reasoning, and knowledge work. The platform can be used through claude.ai, Claude Code and the Claude API, with the API name claude-opus-4-8. The company has",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-05-29T10:44:00"
-  },
-  {
-    "id": 129,
+    "id": 130,
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
     "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
@@ -549,7 +450,7 @@
     "published_at": "2026-05-28T12:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "The AI Hype Index: AI gets booed in graduation season",
     "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
     "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
@@ -612,7 +513,7 @@
     "published_at": "2026-05-27T00:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Rethinking organizational design in the age of agentic AI",
     "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
     "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They ",
@@ -621,7 +522,7 @@
     "published_at": "2026-05-26T14:54:10"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "A reality check on the AI jobs hysteria",
     "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
     "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
@@ -630,7 +531,7 @@
     "published_at": "2026-05-26T09:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "It’s time to address the looming crisis in entry-level work",
     "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
     "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac",
@@ -648,7 +549,7 @@
     "published_at": "2026-05-25T00:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Google I/O showed how the path for AI-driven science is shifting",
     "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
     "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically t",
@@ -673,15 +574,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-22T00:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Roundtables: Can AI Learn to Understand the World?",
-    "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-    "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor ",
-    "author": "MIT Technology Review",
-    "source": "MIT Technology Review",
-    "published_at": "2026-05-21T20:41:05"
   },
   {
     "id": 29,
