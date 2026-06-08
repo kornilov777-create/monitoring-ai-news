@@ -1,6 +1,24 @@
 [
   {
     "id": 136,
+    "title": "Amazon now lets you design custom merch using AI",
+    "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-08T15:49:12"
+  },
+  {
+    "id": 137,
+    "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-08T15:34:59"
+  },
+  {
+    "id": 138,
     "title": "Is this the dawn of the Tokenpocalypse?",
     "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
     "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
@@ -9,7 +27,7 @@
     "published_at": "2026-06-07T20:26:13"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Notion restores access to Anthropic after service disruption",
     "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
     "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
@@ -18,7 +36,7 @@
     "published_at": "2026-06-07T17:56:22"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "OpenAI is still working on that ‘super app’",
     "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
     "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
@@ -27,7 +45,7 @@
     "published_at": "2026-06-07T16:23:22"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
@@ -36,16 +54,7 @@
     "published_at": "2026-06-06T20:32:24"
   },
   {
-    "id": 140,
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-06T18:13:36"
-  },
-  {
-    "id": 141,
+    "id": 142,
     "title": "Sriram Krishnan is leaving his role as White House AI advisor",
     "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
@@ -54,7 +63,7 @@
     "published_at": "2026-06-06T17:42:15"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "The Trump administration might take an equity stake in OpenAI",
     "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
@@ -72,7 +81,7 @@
     "published_at": "2026-06-05T20:10:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Startup Battlefield 200 applications officially close in 3 days",
     "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
     "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
@@ -81,7 +90,7 @@
     "published_at": "2026-06-05T20:00:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Google will pay SpaceX $920M per month for compute",
     "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
     "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
@@ -90,7 +99,7 @@
     "published_at": "2026-06-05T18:57:20"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "The most interesting startups right now want to get you off your phone",
     "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
     "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck cr",
@@ -99,7 +108,7 @@
     "published_at": "2026-06-05T17:17:06"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
     "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
     "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
@@ -108,7 +117,7 @@
     "published_at": "2026-06-05T14:49:12"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
     "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
     "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck cr",
@@ -117,7 +126,7 @@
     "published_at": "2026-06-05T14:00:00"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
     "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
     "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
@@ -135,7 +144,7 @@
     "published_at": "2026-06-05T09:00:00"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Mira Murati steps back into the spotlight, carefully",
     "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
     "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
@@ -144,7 +153,7 @@
     "published_at": "2026-06-05T05:06:37"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
     "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
     "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
@@ -153,7 +162,7 @@
     "published_at": "2026-06-04T22:43:26"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
     "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
     "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
@@ -162,7 +171,7 @@
     "published_at": "2026-06-04T22:29:50"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
     "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
     "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure ",
@@ -180,7 +189,7 @@
     "published_at": "2026-06-04T19:50:00"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Meta steals a tactic from Tesla and builds data centers in tents",
     "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
     "summary": "Meta may have found one way to slash its massive data center bill: tents.",
@@ -189,22 +198,13 @@
     "published_at": "2026-06-04T19:33:09"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
     "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
     "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-06-04T19:20:58"
-  },
-  {
-    "id": 155,
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-04T16:32:48"
   },
   {
     "id": 78,
