@@ -1,5 +1,23 @@
 [
   {
+    "id": 136,
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "summary": "The decision comes as India emerges as the world’s largest GCC market.",
+    "author": "Jagmeet Singh",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-11T04:02:19"
+  },
+  {
+    "id": 137,
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "summary": "If you doubted his genius, doubt no more.",
+    "author": "Connie Loizos",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-11T03:53:06"
+  },
+  {
     "id": 1,
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
@@ -9,7 +27,7 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 136,
+    "id": 138,
     "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
     "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
@@ -18,7 +36,7 @@
     "published_at": "2026-06-10T22:31:19"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
     "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
     "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
@@ -36,7 +54,7 @@
     "published_at": "2026-06-10T20:00:00"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
     "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
     "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
@@ -45,7 +63,7 @@
     "published_at": "2026-06-10T17:07:35"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "How memory tools can make AI models worse",
     "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
     "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
@@ -54,7 +72,7 @@
     "published_at": "2026-06-10T16:11:08"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
     "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
     "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
@@ -63,7 +81,7 @@
     "published_at": "2026-06-10T15:41:22"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
     "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
     "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
@@ -72,7 +90,7 @@
     "published_at": "2026-06-10T15:00:00"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
     "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
     "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
@@ -81,7 +99,7 @@
     "published_at": "2026-06-10T14:48:01"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Warner Music acquires AI attribution startup Sureel AI",
     "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
     "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
@@ -90,7 +108,7 @@
     "published_at": "2026-06-10T14:31:30"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
     "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
     "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
@@ -99,7 +117,7 @@
     "published_at": "2026-06-10T13:33:09"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
     "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
     "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
@@ -135,7 +153,7 @@
     "published_at": "2026-06-10T10:00:00"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Meta signs first AI data center deal in India with Reliance",
     "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
     "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
@@ -153,7 +171,7 @@
     "published_at": "2026-06-10T04:00:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Google just fired a warning shot in the AI subscription price wars",
     "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
     "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
@@ -171,7 +189,7 @@
     "published_at": "2026-06-10T00:00:00"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
     "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
     "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
@@ -180,7 +198,7 @@
     "published_at": "2026-06-09T23:17:51"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Hey, Siri, here’s what I actually want from AI",
     "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
     "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
@@ -189,7 +207,7 @@
     "published_at": "2026-06-09T20:50:17"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
     "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
     "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
@@ -207,7 +225,7 @@
     "published_at": "2026-06-09T20:30:00"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Can tech companies learn to love cheaper AI models?",
     "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
     "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
@@ -216,7 +234,7 @@
     "published_at": "2026-06-09T18:56:09"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
     "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
     "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
@@ -225,31 +243,13 @@
     "published_at": "2026-06-09T18:04:24"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
     "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
     "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
     "author": "Rebecca Bellan",
     "source": "TechCrunch AI",
     "published_at": "2026-06-09T17:00:00"
-  },
-  {
-    "id": 154,
-    "title": "It’s not FAANG anymore. It’s MANGOS.",
-    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-09T16:09:14"
-  },
-  {
-    "id": 155,
-    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-    "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-    "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-09T13:47:25"
   },
   {
     "id": 5,
