@@ -1,6 +1,33 @@
 [
   {
     "id": 136,
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-12T04:30:00"
+  },
+  {
+    "id": 137,
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
+    "author": "Anna Heim",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-12T01:48:07"
+  },
+  {
+    "id": 138,
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-12T01:04:38"
+  },
+  {
+    "id": 139,
     "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
     "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
     "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
@@ -18,7 +45,7 @@
     "published_at": "2026-06-11T20:20:00"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
     "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
     "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
@@ -45,7 +72,7 @@
     "published_at": "2026-06-11T17:30:00"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
     "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
@@ -54,7 +81,7 @@
     "published_at": "2026-06-11T16:36:20"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Pool’s new app turns your screenshots into something useful",
     "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
     "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
@@ -63,7 +90,7 @@
     "published_at": "2026-06-11T15:30:00"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
     "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
@@ -99,7 +126,7 @@
     "published_at": "2026-06-11T10:42:38"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
     "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "summary": "The decision comes as India emerges as the world’s largest GCC market.",
@@ -108,7 +135,7 @@
     "published_at": "2026-06-11T04:02:19"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Anthropic’s Dario Amodei has just one direct report",
     "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
     "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
@@ -118,24 +145,6 @@
   },
   {
     "id": 1,
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00"
-  },
-  {
-    "id": 2,
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00"
-  },
-  {
-    "id": 3,
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
@@ -144,7 +153,7 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 4,
+    "id": 2,
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "url": "https://openai.com/index/bbva",
     "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
@@ -153,7 +162,25 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 143,
+    "id": 3,
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00"
+  },
+  {
+    "id": 4,
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00"
+  },
+  {
+    "id": 146,
     "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
     "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
@@ -162,7 +189,7 @@
     "published_at": "2026-06-10T22:31:19"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
     "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
     "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
@@ -180,7 +207,7 @@
     "published_at": "2026-06-10T20:00:00"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
     "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
     "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
@@ -189,7 +216,7 @@
     "published_at": "2026-06-10T17:07:35"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "How memory tools can make AI models worse",
     "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
     "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
@@ -198,7 +225,7 @@
     "published_at": "2026-06-10T16:11:08"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
     "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
     "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
@@ -207,7 +234,7 @@
     "published_at": "2026-06-10T15:41:22"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
     "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
     "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
@@ -216,7 +243,7 @@
     "published_at": "2026-06-10T15:00:00"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
     "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
     "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
@@ -225,7 +252,7 @@
     "published_at": "2026-06-10T14:48:01"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "Warner Music acquires AI attribution startup Sureel AI",
     "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
     "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
@@ -234,7 +261,7 @@
     "published_at": "2026-06-10T14:31:30"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
     "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
     "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
@@ -243,7 +270,7 @@
     "published_at": "2026-06-10T13:33:09"
   },
   {
-    "id": 152,
+    "id": 155,
     "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
     "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
     "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
@@ -279,15 +306,6 @@
     "published_at": "2026-06-10T10:00:00"
   },
   {
-    "id": 153,
-    "title": "Meta signs first AI data center deal in India with Reliance",
-    "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-    "author": "Jagmeet Singh",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-10T07:05:26"
-  },
-  {
     "id": 79,
     "title": "Startup’s nuclear-inspired cooling system could make data centers more sustainable",
     "url": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
@@ -297,15 +315,6 @@
     "published_at": "2026-06-10T04:00:00"
   },
   {
-    "id": 154,
-    "title": "Google just fired a warning shot in the AI subscription price wars",
-    "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-    "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier.",
-    "author": "Lucas Ropek, Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-10T00:26:10"
-  },
-  {
     "id": 7,
     "title": "From data to decisions: how LSEG is scaling trusted AI",
     "url": "https://openai.com/index/lseg",
@@ -313,15 +322,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-10T00:00:00"
-  },
-  {
-    "id": 155,
-    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-    "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
-    "author": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-09T23:17:51"
   },
   {
     "id": 80,
@@ -883,6 +883,15 @@
   },
   {
     "id": 43,
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00"
+  },
+  {
+    "id": 44,
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
@@ -891,19 +900,10 @@
     "published_at": "2026-05-20T00:00:00"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "How Ramp engineers accelerate code review with Codex",
     "url": "https://openai.com/index/ramp",
     "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00"
-  },
-  {
-    "id": 45,
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-20T00:00:00"
@@ -964,9 +964,9 @@
   },
   {
     "id": 50,
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-15T00:00:00"
