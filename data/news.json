@@ -1,15 +1,51 @@
 [
   {
     "id": 136,
+    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+    "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch ",
+    "author": "Theresa Loconsolo",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-12T16:23:25"
+  },
+  {
+    "id": 137,
+    "title": "It’s hot IPO summer, and the MANGOS are ripe",
+    "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+    "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half&#160;of that&#160;bunch ",
+    "author": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-12T15:50:52"
+  },
+  {
+    "id": 163,
+    "title": "Coinbase for Agents: Automating portfolio trading with AI",
+    "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "summary": "<p>Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios. Individuals frequently employ these models to evaluat",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-12T15:34:23"
+  },
+  {
+    "id": 138,
+    "title": "SpaceX IPO: Everything you need to know",
+    "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "author": "Kirsten Korosec, Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-12T14:08:54"
+  },
+  {
+    "id": 139,
     "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
     "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+    "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation.",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-06-12T04:30:00"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
     "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
     "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
@@ -18,7 +54,7 @@
     "published_at": "2026-06-12T01:48:07"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
     "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
     "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion.",
@@ -36,7 +72,7 @@
     "published_at": "2026-06-12T00:00:00"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
     "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
     "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
@@ -54,7 +90,7 @@
     "published_at": "2026-06-11T20:20:00"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
     "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
     "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
@@ -81,7 +117,7 @@
     "published_at": "2026-06-11T17:30:00"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
     "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "summary": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
@@ -90,7 +126,7 @@
     "published_at": "2026-06-11T16:36:20"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Pool’s new app turns your screenshots into something useful",
     "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
     "summary": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other things you meant to revisit.",
@@ -99,7 +135,7 @@
     "published_at": "2026-06-11T15:30:00"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
     "summary": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart.",
@@ -108,7 +144,7 @@
     "published_at": "2026-06-11T14:23:43"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Visa ChatGPT integration enables AI agent retail purchasing",
     "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
     "summary": "<p>Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will now process user prompts, evaluate merchant catal",
@@ -126,7 +162,7 @@
     "published_at": "2026-06-11T11:00:45"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Xebia: Why AI agents fail without the right data foundation",
     "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
     "summary": "<p>If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation – and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains. “If you don’t think abo",
@@ -135,7 +171,7 @@
     "published_at": "2026-06-11T10:42:38"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
     "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "summary": "The decision comes as India emerges as the world’s largest GCC market.",
@@ -144,7 +180,7 @@
     "published_at": "2026-06-11T04:02:19"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "Anthropic’s Dario Amodei has just one direct report",
     "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
     "summary": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now.",
@@ -154,6 +190,15 @@
   },
   {
     "id": 2,
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00"
+  },
+  {
+    "id": 3,
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
@@ -162,19 +207,10 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "url": "https://openai.com/index/bbva",
     "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00"
-  },
-  {
-    "id": 4,
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -189,7 +225,7 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
     "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
@@ -198,7 +234,7 @@
     "published_at": "2026-06-10T22:31:19"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
     "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
     "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
@@ -216,7 +252,7 @@
     "published_at": "2026-06-10T20:00:00"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
     "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
     "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
@@ -225,7 +261,7 @@
     "published_at": "2026-06-10T17:07:35"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "How memory tools can make AI models worse",
     "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
     "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
@@ -234,7 +270,7 @@
     "published_at": "2026-06-10T16:11:08"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
     "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
     "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
@@ -243,7 +279,7 @@
     "published_at": "2026-06-10T15:41:22"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
     "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
     "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
@@ -252,40 +288,13 @@
     "published_at": "2026-06-10T15:00:00"
   },
   {
-    "id": 152,
+    "id": 155,
     "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
     "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
     "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
     "author": "Tim Fernholz",
     "source": "TechCrunch AI",
     "published_at": "2026-06-10T14:48:01"
-  },
-  {
-    "id": 153,
-    "title": "Warner Music acquires AI attribution startup Sureel AI",
-    "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-    "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-10T14:31:30"
-  },
-  {
-    "id": 154,
-    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-    "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-    "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-    "author": "Ram Iyer",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-10T13:33:09"
-  },
-  {
-    "id": 155,
-    "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
-    "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-    "summary": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
-    "author": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-10T13:07:56"
   },
   {
     "id": 7,
@@ -297,7 +306,7 @@
     "published_at": "2026-06-10T12:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "Siri AI arrives with Google inside, and much of the world is locked out",
     "url": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
     "summary": "<p>&#8220;We&#8217;ve all had that moment where you search for something you know is there, but it just won&#8217;t show up.&#8221; Apple&#8217;s Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026, but she could have been describing the company&#8217;s AI ",
@@ -306,7 +315,7 @@
     "published_at": "2026-06-10T11:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
     "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
     "summary": "<p>McDonald’s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed “Archy,” was introduced during the company’s Worldwide convention, according to Restaurant Business. It is being tested at five McDonald’s locations in ",
@@ -378,7 +387,7 @@
     "published_at": "2026-06-09T09:16:45"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "How to sign PDFs easily online with a PDF signer",
     "url": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
     "summary": "<p>Signing PDFs has become an important task for businesses and individuals alike. Whether you&#8217;re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential. Fortunately, with the rise of online PDF signers, signing PDFs has never been eas",
@@ -387,7 +396,7 @@
     "published_at": "2026-06-09T09:01:51"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Autonomous AI Data Loss in DevOps: Building Efficient Defenses",
     "url": "https://www.artificialintelligence-news.com/news/autonomous-ai-data-loss-in-devops/",
     "summary": "<p>Autonomous AI agents are altering the speed at which software is shipped. Unfortunately, they are also shrinking the time it takes for a mistake to become a catastrophe, creating a dangerous blind spot in many security strategies. The threat no longer comes just from external ransomware or malici",
@@ -414,7 +423,7 @@
     "published_at": "2026-06-08T14:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Aviva deploys AI to stop £230M in sophisticated insurance fraud",
     "url": "https://www.artificialintelligence-news.com/news/aviva-deploys-ai-stop-230m-sophisticated-insurance-fraud/",
     "summary": "<p>Aviva has uncovered a record £230 million in insurance fraud claims and is using AI tools to counter the growing problem. The battleground has changed, and the culprits are also coming armed with a new generation of tools. We&#8217;re now in an environment where AI is being used not just to defen",
@@ -423,7 +432,7 @@
     "published_at": "2026-06-08T12:19:38"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Weis Markets adds Instacart AI-powered shopping carts to stores",
     "url": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
     "summary": "<p>Weis Markets is adding Instacart’s AI-powered shopping carts, Caper Carts, to select stores in Pennsylvania, bringing digital coupons, loyalty features, and repeat-purchase recommendations into the grocery aisle. The Pennsylvania-based grocery chain is working with Instacart to deploy the smart c",
@@ -459,7 +468,7 @@
     "published_at": "2026-06-05T20:10:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "How C3 AI agents will automate predictive maintenance for Shell",
     "url": "https://www.artificialintelligence-news.com/news/how-c3-ai-agents-will-automate-predictive-maintenance-for-shell/",
     "summary": "<p>Shell will use agents from C3 AI to shift from basic anomaly detection towards fully-automated predictive maintenance. The global energy giant is building on their current use of the C3 AI Reliability Suite, which already keeps tabs on more than 30,000 crucial pieces of equipment across upstream ",
@@ -486,7 +495,7 @@
     "published_at": "2026-06-04T19:50:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Meta Business Agent drives AI-powered conversational commerce",
     "url": "https://www.artificialintelligence-news.com/news/meta-business-agent-ai-powered-conversational-commerce/",
     "summary": "<p>Meta has launched Business Agent to automate conversational commerce workflows directly inside its messaging applications. The software allows global retail brands to execute transactions and field support tickets without human intervention. Deploying this architecture places agentic AI directly ",
@@ -513,7 +522,7 @@
     "published_at": "2026-06-04T12:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Scout from M’Soft is the agentic Autopilot that works across M365",
     "url": "https://www.artificialintelligence-news.com/news/microsofts-autopilot-scout-is-the-agentic-autopilot-that-works-across-m365/",
     "summary": "<p>Microsoft has announced the wider testing of its new Autopilot feature at the Microsoft Build event this week, backed by a post on the company&#8217;s&#8217; website. Autopilots are described as a new category of agents that can work autonomously on a user&#8217;s behalf. Microsoft says each Auto",
@@ -529,15 +538,6 @@
     "author": "Michelle Kim",
     "source": "MIT Technology Review",
     "published_at": "2026-06-04T10:50:18"
-  },
-  {
-    "id": 174,
-    "title": "Amazon brings AI shopping assistant to retailers with Kate Spade",
-    "url": "https://www.artificialintelligence-news.com/news/amazon-ai-shopping-assistant-kate-spade-retailers/",
-    "summary": "<p>Amazon is offering its AI shopping technology to other retailers through a new Agentic Shopping Assistant built on AWS, with Kate Spade among the first brands to use it. The service allows retailers to build AI shopping assistants for their own websites and apps. Amazon said each deployment can b",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-04T10:00:00"
   },
   {
     "id": 16,
@@ -595,18 +595,18 @@
   },
   {
     "id": 20,
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
-    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
   },
   {
     "id": 21,
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
@@ -811,18 +811,18 @@
   },
   {
     "id": 38,
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
-    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-27T00:00:00"
   },
   {
     "id": 39,
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-27T00:00:00"
@@ -901,18 +901,18 @@
   },
   {
     "id": 45,
-    "title": "How Ramp engineers accelerate code review with Codex",
-    "url": "https://openai.com/index/ramp",
-    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-20T00:00:00"
   },
   {
     "id": 46,
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-20T00:00:00"
