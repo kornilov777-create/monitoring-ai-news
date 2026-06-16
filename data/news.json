@@ -1,6 +1,60 @@
 [
   {
     "id": 136,
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-16T13:15:09"
+  },
+  {
+    "id": 137,
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
+    "author": "Sean O'Kane",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-16T11:21:41"
+  },
+  {
+    "id": 163,
+    "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+    "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+    "summary": "<p>The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps f",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-16T10:00:00"
+  },
+  {
+    "id": 126,
+    "title": "Want to get a data center online quickly? Give it some flex.",
+    "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+    "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
+    "author": "Amos Zeeberg",
+    "source": "MIT Technology Review",
+    "published_at": "2026-06-16T09:00:00"
+  },
+  {
+    "id": 164,
+    "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+    "url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+    "summary": "<p>With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offe",
+    "author": "WebFX",
+    "source": "AI News",
+    "published_at": "2026-06-16T08:06:43"
+  },
+  {
+    "id": 165,
+    "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+    "summary": "<p>For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, silo",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-16T07:49:07"
+  },
+  {
+    "id": 138,
     "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
     "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
     "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
@@ -9,7 +63,7 @@
     "published_at": "2026-06-16T06:59:00"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
     "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
     "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
@@ -18,7 +72,7 @@
     "published_at": "2026-06-15T23:51:44"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
     "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
     "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
@@ -27,7 +81,7 @@
     "published_at": "2026-06-15T21:50:21"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Why do South Koreans love AI so much?",
     "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
@@ -36,7 +90,7 @@
     "published_at": "2026-06-15T18:46:08"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
     "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
     "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
@@ -45,7 +99,7 @@
     "published_at": "2026-06-15T18:30:58"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "SpaceX is public: Everything you need to know post-IPO",
     "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
     "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
@@ -54,7 +108,7 @@
     "published_at": "2026-06-15T18:30:34"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
     "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
     "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
@@ -63,7 +117,7 @@
     "published_at": "2026-06-15T15:29:51"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
     "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
@@ -72,7 +126,7 @@
     "published_at": "2026-06-15T14:34:45"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
     "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
     "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
@@ -81,7 +135,7 @@
     "published_at": "2026-06-15T13:46:08"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
     "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
     "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
@@ -90,7 +144,7 @@
     "published_at": "2026-06-15T13:00:00"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "A satellite just learned to find things on its own — here’s what that means",
     "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
     "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
@@ -99,7 +153,34 @@
     "published_at": "2026-06-15T12:00:00"
   },
   {
-    "id": 146,
+    "id": 166,
+    "title": "HarmonyOS 7 steps into the AI gap Apple left open in China",
+    "url": "https://www.artificialintelligence-news.com/news/harmonyos-7-china-ai-apple-gap/",
+    "summary": "<p>Four days after Apple confirmed that Siri AI would not launch in China, Huawei took the stage in Dongguan and declared HarmonyOS 7 the beginning of the agent era. The gap Apple could not fill, Huawei has moved into with an architecture built specifically for it. What HarmonyOS 7 actually changes ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-15T11:00:00"
+  },
+  {
+    "id": 167,
+    "title": "Accenture: Consumers show growing trust in AI shopping agents",
+    "url": "https://www.artificialintelligence-news.com/news/ai-shopping-agents-consumer-trust-accenture-report/",
+    "summary": "<p>Consumers are showing a willingness to let AI agents take on more shopping-related tasks, according to new research from Accenture. The company’s 2026 Consumer Pulse Research, based on a survey of 25,590 consumers across 16 countries, found that 74% of respondents would trust a personal AI agent ",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-15T10:00:00"
+  },
+  {
+    "id": 168,
+    "title": "The AI off switch: How Anthropic’s export controls sparked a global AI sovereignty scramble",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-export-controls-ai-sovereignty/",
+    "summary": "<p>Anthropic export controls turned an abstract policy fear into a live one last week: as of June 13, 2026, one US government directive took the company&#8217;s two most powerful AI models offline for users everywhere, including, briefly, Anthropic&#8217;s own foreign-born employees, and set off ala",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-15T08:00:00"
+  },
+  {
+    "id": 148,
     "title": "The AI layoff wave is becoming a powder keg",
     "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
@@ -117,7 +198,7 @@
     "published_at": "2026-06-14T17:00:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "As AI companies race to go public, who else is along for the ride?",
     "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
     "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
@@ -126,7 +207,7 @@
     "published_at": "2026-06-14T16:38:09"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "As Anthropic suspends access to new models, India debates its AI future",
     "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
@@ -135,7 +216,7 @@
     "published_at": "2026-06-14T03:00:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
     "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
     "summary": "This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds.",
@@ -144,7 +225,7 @@
     "published_at": "2026-06-14T00:03:49"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "summary": "Once again, AI proves to be an unreliable source of information about AI.",
@@ -153,7 +234,7 @@
     "published_at": "2026-06-13T20:42:31"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
     "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
     "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
@@ -162,7 +243,7 @@
     "published_at": "2026-06-13T19:11:41"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "OpenAI faces investigation from state attorneys general",
     "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
     "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
@@ -171,7 +252,7 @@
     "published_at": "2026-06-13T16:47:18"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
     "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
     "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
@@ -180,22 +261,13 @@
     "published_at": "2026-06-13T04:14:19"
   },
   {
-    "id": 154,
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
-    "author": "Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-13T02:26:30"
-  },
-  {
-    "id": 155,
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-    "author": "Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-12T23:00:54"
+    "id": 169,
+    "title": "Coinbase for Agents: Automating portfolio trading with AI",
+    "url": "https://www.artificialintelligence-news.com/news/coinbase-for-agents-automating-portfolio-trading-with-ai/",
+    "summary": "<p>Coinbase for Agents connects AI to financial execution channels to automate trading and payments directly from user portfolios. Large language models process vast quantities of data but lack direct integration with active financial portfolios. Individuals frequently employ these models to evaluat",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-12T15:34:23"
   },
   {
     "id": 2,
@@ -243,7 +315,16 @@
     "published_at": "2026-06-11T17:30:00"
   },
   {
-    "id": 127,
+    "id": 170,
+    "title": "Visa ChatGPT integration enables AI agent retail purchasing",
+    "url": "https://www.artificialintelligence-news.com/news/visa-chatgpt-integration-enables-ai-agent-retail-purchasing/",
+    "summary": "<p>Visa has linked its payment infrastructure to ChatGPT, enabling AI agents to recommend retail products and execute financial transactions. The deployment removes human intervention from the final stages of the retail funnel. Autonomous agents will now process user prompts, evaluate merchant catal",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-11T11:08:17"
+  },
+  {
+    "id": 128,
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
@@ -252,10 +333,19 @@
     "published_at": "2026-06-11T11:00:45"
   },
   {
+    "id": 171,
+    "title": "Xebia: Why AI agents fail without the right data foundation",
+    "url": "https://www.artificialintelligence-news.com/news/xebia-on-building-the-data-foundation-for-ai-agents-and-then-accelerating/",
+    "summary": "<p>If your remit is to help your organisation add AI agents to accelerate its processes, you have to start at the foundation – and that means making your data available for AI consumption. Agentic AI scales on data strength, as Niels Zeilemaker, global CTO at Xebia, explains. “If you don’t think abo",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-06-11T10:42:38"
+  },
+  {
     "id": 4,
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -280,9 +370,9 @@
   },
   {
     "id": 7,
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -304,6 +394,24 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-10T12:00:00"
+  },
+  {
+    "id": 172,
+    "title": "Siri AI arrives with Google inside, and much of the world is locked out",
+    "url": "https://www.artificialintelligence-news.com/news/siri-ai-google-gemini-rollout/",
+    "summary": "<p>&#8220;We&#8217;ve all had that moment where you search for something you know is there, but it just won&#8217;t show up.&#8221; Apple&#8217;s Stacey Ford, vice president of OS Program Management, was talking about Spotlight at WWDC 2026, but she could have been describing the company&#8217;s AI ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-10T11:00:00"
+  },
+  {
+    "id": 173,
+    "title": "McDonald’s tests Google-backed AI drive-thru ordering system",
+    "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
+    "summary": "<p>McDonald’s is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed “Archy,” was introduced during the company’s Worldwide convention, according to Restaurant Business. It is being tested at five McDonald’s locations in ",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-10T10:00:00"
   },
   {
     "id": 79,
@@ -342,7 +450,7 @@
     "published_at": "2026-06-09T12:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinatin",
@@ -360,13 +468,22 @@
     "published_at": "2026-06-09T10:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "Five things you need to know about AI",
     "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
     "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-06-09T09:16:45"
+  },
+  {
+    "id": 174,
+    "title": "How to sign PDFs easily online with a PDF signer",
+    "url": "https://www.artificialintelligence-news.com/news/how-to-sign-pdfs-easily-online-with-a-pdf-signer/",
+    "summary": "<p>Signing PDFs has become an important task for businesses and individuals alike. Whether you&#8217;re handling contracts, legal agreements, or forms, the ability to quickly and securely sign PDFs online is essential. Fortunately, with the rise of online PDF signers, signing PDFs has never been eas",
+    "author": "AI News",
+    "source": "AI News",
+    "published_at": "2026-06-09T09:01:51"
   },
   {
     "id": 13,
@@ -414,7 +531,7 @@
     "published_at": "2026-06-05T20:10:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "The Meta hack shows there’s more to AI security than Mythos",
     "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
     "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama Wh",
@@ -450,7 +567,7 @@
     "published_at": "2026-06-04T12:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mind",
@@ -549,7 +666,7 @@
     "published_at": "2026-06-02T12:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Rehumanizing global health care with agentic AI",
     "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
     "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of st",
@@ -567,7 +684,7 @@
     "published_at": "2026-06-02T09:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "How small businesses can leverage AI",
     "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
     "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a bu",
@@ -639,7 +756,7 @@
     "published_at": "2026-05-29T12:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
     "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
     "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we ente",
@@ -684,28 +801,19 @@
     "published_at": "2026-05-28T12:00:00"
   },
   {
-    "id": 135,
-    "title": "The AI Hype Index: AI gets booed in graduation season",
-    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
-    "author": "Caiwei Chen",
-    "source": "MIT Technology Review",
-    "published_at": "2026-05-28T09:51:11"
-  },
-  {
     "id": 36,
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-28T00:00:00"
   },
   {
     "id": 37,
-    "title": "OpenAI’s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-28T00:00:00"
@@ -802,15 +910,6 @@
   },
   {
     "id": 46,
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00"
-  },
-  {
-    "id": 47,
     "title": "How Ramp engineers accelerate code review with Codex",
     "url": "https://openai.com/index/ramp",
     "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
@@ -819,10 +918,19 @@
     "published_at": "2026-05-20T00:00:00"
   },
   {
-    "id": 48,
+    "id": 47,
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00"
+  },
+  {
+    "id": 48,
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-20T00:00:00"
