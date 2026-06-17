@@ -1,6 +1,51 @@
 [
   {
     "id": 136,
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-17T17:00:01"
+  },
+  {
+    "id": 137,
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-17T16:30:09"
+  },
+  {
+    "id": 138,
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+    "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-17T15:24:41"
+  },
+  {
+    "id": 139,
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-17T15:00:00"
+  },
+  {
+    "id": 140,
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-17T14:15:22"
+  },
+  {
+    "id": 141,
     "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
     "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
     "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
@@ -9,7 +54,7 @@
     "published_at": "2026-06-17T12:38:09"
   },
   {
-    "id": 137,
+    "id": 142,
     "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
     "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
     "summary": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business.",
@@ -18,7 +63,7 @@
     "published_at": "2026-06-17T12:14:44"
   },
   {
-    "id": 138,
+    "id": 143,
     "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
     "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
     "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
@@ -45,7 +90,7 @@
     "published_at": "2026-06-17T04:00:00"
   },
   {
-    "id": 139,
+    "id": 144,
     "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
     "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
     "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
@@ -58,12 +103,12 @@
     "title": "MIT’s Initiative for New Manufacturing builds momentum",
     "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
     "summary": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
-    "author": "Liam McDonnell | Office of Innovation and Strategy",
+    "author": "Julie Diop | Initiative for New Manufacturing",
     "source": "MIT News AI",
     "published_at": "2026-06-16T20:30:00"
   },
   {
-    "id": 140,
+    "id": 145,
     "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
     "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
     "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
@@ -72,7 +117,7 @@
     "published_at": "2026-06-16T20:11:00"
   },
   {
-    "id": 141,
+    "id": 146,
     "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
     "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
     "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
@@ -81,7 +126,7 @@
     "published_at": "2026-06-16T18:00:00"
   },
   {
-    "id": 142,
+    "id": 147,
     "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
     "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
     "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
@@ -99,7 +144,7 @@
     "published_at": "2026-06-16T15:55:02"
   },
   {
-    "id": 143,
+    "id": 148,
     "title": "SpaceX is public: Everything you need to know post-IPO",
     "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
     "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
@@ -108,7 +153,7 @@
     "published_at": "2026-06-16T15:53:12"
   },
   {
-    "id": 144,
+    "id": 149,
     "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
     "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
     "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
@@ -117,7 +162,7 @@
     "published_at": "2026-06-16T15:05:03"
   },
   {
-    "id": 145,
+    "id": 150,
     "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
     "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
     "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
@@ -126,7 +171,7 @@
     "published_at": "2026-06-16T15:00:00"
   },
   {
-    "id": 146,
+    "id": 151,
     "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
     "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
     "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
@@ -135,7 +180,7 @@
     "published_at": "2026-06-16T14:50:09"
   },
   {
-    "id": 147,
+    "id": 152,
     "title": "Probably raises $9M to build a more reliable kind of AI",
     "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
     "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
@@ -144,7 +189,7 @@
     "published_at": "2026-06-16T13:15:09"
   },
   {
-    "id": 148,
+    "id": 153,
     "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
     "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
     "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI.",
@@ -153,7 +198,7 @@
     "published_at": "2026-06-16T11:21:41"
   },
   {
-    "id": 149,
+    "id": 154,
     "title": "ChatGPT’s market share slips below 50% for first time",
     "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
     "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
@@ -198,7 +243,7 @@
     "published_at": "2026-06-16T07:49:07"
   },
   {
-    "id": 150,
+    "id": 155,
     "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
     "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
     "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
@@ -216,24 +261,6 @@
     "published_at": "2026-06-16T00:00:00"
   },
   {
-    "id": 151,
-    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-    "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-15T23:51:44"
-  },
-  {
-    "id": 152,
-    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
-    "author": "Zack Whittaker",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-15T21:50:21"
-  },
-  {
     "id": 127,
     "title": "Why do South Koreans love AI so much?",
     "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
@@ -241,33 +268,6 @@
     "author": "Michelle Kim",
     "source": "MIT Technology Review",
     "published_at": "2026-06-15T18:46:08"
-  },
-  {
-    "id": 153,
-    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-15T18:30:58"
-  },
-  {
-    "id": 154,
-    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-15T15:29:51"
-  },
-  {
-    "id": 155,
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-15T14:34:45"
   },
   {
     "id": 168,
@@ -388,15 +388,6 @@
   },
   {
     "id": 5,
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00"
-  },
-  {
-    "id": 6,
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "url": "https://openai.com/index/bbva",
     "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
@@ -405,19 +396,28 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
+    "id": 6,
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00"
+  },
+  {
     "id": 7,
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
   },
   {
     "id": 8,
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -829,18 +829,18 @@
   },
   {
     "id": 37,
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-28T00:00:00"
   },
   {
     "id": 38,
-    "title": "OpenAI’s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-28T00:00:00"
@@ -865,18 +865,18 @@
   },
   {
     "id": 41,
-    "title": "Election information and safeguards in 2026",
-    "url": "https://openai.com/index/election-safeguards-2026",
-    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-27T00:00:00"
   },
   {
     "id": 42,
-    "title": "Warp’s big bet on building open source with GPT-5.5",
-    "url": "https://openai.com/index/warp",
-    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-27T00:00:00"
@@ -937,15 +937,6 @@
   },
   {
     "id": 47,
-    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-05-20T00:00:00"
-  },
-  {
-    "id": 48,
     "title": "How Ramp engineers accelerate code review with Codex",
     "url": "https://openai.com/index/ramp",
     "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
@@ -954,10 +945,19 @@
     "published_at": "2026-05-20T00:00:00"
   },
   {
-    "id": 49,
+    "id": 48,
     "title": "The next phase of OpenAI’s Education for Countries",
     "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
     "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-05-20T00:00:00"
+  },
+  {
+    "id": 49,
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-05-20T00:00:00"
