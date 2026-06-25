@@ -1,9 +1,18 @@
 [
   {
+    "id": 76,
+    "title": "Improving the speed and energy-efficiency of AI agents",
+    "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
+    "summary": "A new system, known as Murakkab, optimizes the design and deployment of multistep workflows that power AI applications.",
+    "author": "Adam Zewe | MIT News",
+    "source": "MIT News AI",
+    "published_at": "2026-06-25T04:00:00"
+  },
+  {
     "id": 136,
     "title": "Europe is pushing back on Washington’s chip war",
     "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off limits.",
+    "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
     "author": "Connie Loizos",
     "source": "TechCrunch AI",
     "published_at": "2026-06-25T00:08:36"
@@ -117,6 +126,24 @@
     "published_at": "2026-06-24T11:59:54"
   },
   {
+    "id": 162,
+    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+    "summary": "<p>Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX di",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-24T10:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+    "summary": "<p>Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.&#160",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-24T09:00:00"
+  },
+  {
     "id": 1,
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -135,7 +162,7 @@
     "published_at": "2026-06-23T23:30:00"
   },
   {
-    "id": 76,
+    "id": 77,
     "title": "Exploring the societal impacts of AI",
     "url": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
     "summary": "During the AI and Society Forum, leading MIT researchers examined critical questions about AI’s influence on employment and democracy.",
@@ -160,6 +187,15 @@
     "author": "Rebecca Bellan",
     "source": "TechCrunch AI",
     "published_at": "2026-06-23T17:00:00"
+  },
+  {
+    "id": 164,
+    "title": "Omio scales travel product development using OpenAI models",
+    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "summary": "<p>Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addit",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-23T16:32:28"
   },
   {
     "id": 150,
@@ -198,7 +234,16 @@
     "published_at": "2026-06-23T09:00:00"
   },
   {
-    "id": 77,
+    "id": 165,
+    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+    "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+    "summary": "<p>The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Ca",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-23T08:00:00"
+  },
+  {
+    "id": 78,
     "title": "New chip could help tiny robots traverse complex environments",
     "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
     "summary": "Researchers combined an efficient algorithm with dedicated hardware to rapidly generate 3D maps for navigation using minimal memory and power.",
@@ -252,6 +297,15 @@
     "published_at": "2026-06-22T18:00:00"
   },
   {
+    "id": 166,
+    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+    "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+    "summary": "<p>Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentrat",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-22T16:11:21"
+  },
+  {
     "id": 5,
     "title": "Daybreak: Tools for securing every organization in the world",
     "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -267,6 +321,15 @@
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00"
+  },
+  {
+    "id": 167,
+    "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+    "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+    "summary": "<p>L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal cont",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
     "published_at": "2026-06-22T10:00:00"
   },
   {
@@ -288,13 +351,22 @@
     "published_at": "2026-06-21T23:00:00"
   },
   {
-    "id": 78,
+    "id": 79,
     "title": "A better way to model the behavior of metal alloys",
     "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
     "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties.",
     "author": "Zach Winn | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-06-19T18:00:00"
+  },
+  {
+    "id": 168,
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+    "summary": "<p>SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in fiv",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-19T14:02:20"
   },
   {
     "id": 129,
@@ -306,6 +378,15 @@
     "published_at": "2026-06-19T10:40:24"
   },
   {
+    "id": 169,
+    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+    "summary": "<p>Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today an",
+    "author": "Rob Demain",
+    "source": "AI News",
+    "published_at": "2026-06-19T09:57:55"
+  },
+  {
     "id": 9,
     "title": "New usage analytics and updated spend controls for enterprises",
     "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
@@ -313,6 +394,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-18T17:00:00"
+  },
+  {
+    "id": 170,
+    "title": "Computer vision deployments drive retail productivity gains",
+    "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+    "summary": "<p>Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-18T15:57:46"
   },
   {
     "id": 10,
@@ -324,6 +414,24 @@
     "published_at": "2026-06-18T11:00:00"
   },
   {
+    "id": 171,
+    "title": "HSBC expands AI banking partnership with Google Cloud",
+    "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+    "summary": "<p>HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision suppor",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-18T10:00:00"
+  },
+  {
+    "id": 172,
+    "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+    "summary": "<p>Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-18T09:00:00"
+  },
+  {
     "id": 11,
     "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
     "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -333,7 +441,7 @@
     "published_at": "2026-06-18T08:00:00"
   },
   {
-    "id": 79,
+    "id": 80,
     "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
     "url": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
     "summary": "Leaders, faculty across MIT discuss fostering innovation and talent in Greater Boston in special series of articles published alongside the outlet's annual list of 'Tech Power Players'",
@@ -342,13 +450,22 @@
     "published_at": "2026-06-18T04:00:00"
   },
   {
-    "id": 80,
+    "id": 81,
     "title": "In game theory, generalists sometimes win out over specialists",
     "url": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
     "summary": "Researchers show that for certain kinds of games, an overlooked class of algorithms performs much better than expected.",
     "author": "Steve Nadis | MIT Laboratory for Information and Decision Systems",
     "source": "MIT News AI",
     "published_at": "2026-06-17T19:20:00"
+  },
+  {
+    "id": 173,
+    "title": "Google Cloud generative AI automates council planning operations",
+    "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+    "summary": "<p>Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central government established a target to constru",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-17T10:59:42"
   },
   {
     "id": 12,
@@ -360,7 +477,7 @@
     "published_at": "2026-06-17T10:00:00"
   },
   {
-    "id": 81,
+    "id": 82,
     "title": "Could AI tell you where you left your keys?",
     "url": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
     "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment.",
@@ -378,7 +495,7 @@
     "published_at": "2026-06-17T00:00:00"
   },
   {
-    "id": 82,
+    "id": 83,
     "title": "MIT’s Initiative for New Manufacturing builds momentum",
     "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
     "summary": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
@@ -441,7 +558,7 @@
     "published_at": "2026-06-12T00:00:00"
   },
   {
-    "id": 83,
+    "id": 84,
     "title": "Jinhua Zhao named head of the Department of Urban Studies and Planning",
     "url": "https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611",
     "summary": "An expert in behavioral science and transportation, Zhao combines these studies with AI and public policy to address some of the most urgent challenges facing cities.",
@@ -450,7 +567,7 @@
     "published_at": "2026-06-11T20:20:00"
   },
   {
-    "id": 84,
+    "id": 85,
     "title": "When it comes to predicting people’s preferences, it pays to consider “the power of three”",
     "url": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
     "summary": "MIT researchers provide a major upgrade to the nearly century-old idea of random utility models.",
@@ -459,7 +576,7 @@
     "published_at": "2026-06-11T19:10:00"
   },
   {
-    "id": 85,
+    "id": 86,
     "title": "MIT affiliates win 2026 Hertz Foundation Fellowships",
     "url": "https://news.mit.edu/2026/hertz-foundation-fellowships-0611",
     "summary": "The fellowships in applied sciences, engineering, and mathematics recognize doctoral students who are pursuing solutions to the most pressing challenges in science and technology.",
@@ -531,7 +648,7 @@
     "published_at": "2026-06-10T12:00:00"
   },
   {
-    "id": 86,
+    "id": 87,
     "title": "Startup’s nuclear-inspired cooling system could make data centers more sustainable",
     "url": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
     "summary": "Founded by two researchers from MIT, Ferveret reduces the amount of energy and water required to cool the chips that power AI.",
@@ -549,7 +666,7 @@
     "published_at": "2026-06-10T00:00:00"
   },
   {
-    "id": 87,
+    "id": 88,
     "title": "The consequences of relying on AI for accurate news",
     "url": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
     "summary": "A Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news.",
@@ -630,7 +747,7 @@
     "published_at": "2026-06-08T00:00:00"
   },
   {
-    "id": 88,
+    "id": 89,
     "title": "The crucial human component in computing and AI",
     "url": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
     "summary": "The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology.",
@@ -648,7 +765,7 @@
     "published_at": "2026-06-05T09:00:00"
   },
   {
-    "id": 89,
+    "id": 90,
     "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
     "url": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
     "summary": "MIT RAISE and Georgia State University announce an initiative to connect universities, community colleges, industry, and government to expand industry-aligned AI training and career pathways.",
@@ -657,7 +774,7 @@
     "published_at": "2026-06-04T19:50:00"
   },
   {
-    "id": 90,
+    "id": 91,
     "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
     "url": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
     "summary": "IAIFI enters its second phase with increased funding, broader ambitions, and a growing community at the frontier of AI and fundamental physics.",
@@ -693,7 +810,7 @@
     "published_at": "2026-06-04T00:00:00"
   },
   {
-    "id": 91,
+    "id": 92,
     "title": "Teaching AI agents to ask better questions by playing “Battleship”",
     "url": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
     "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.",
@@ -702,7 +819,7 @@
     "published_at": "2026-06-03T21:00:00"
   },
   {
-    "id": 92,
+    "id": 93,
     "title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
     "url": "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
     "summary": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.",
@@ -747,7 +864,7 @@
     "published_at": "2026-06-03T10:00:00"
   },
   {
-    "id": 93,
+    "id": 94,
     "title": "MIT researchers teach AI models to interpret charts",
     "url": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
     "summary": "The new ChartNet training dataset could improve the accuracy of vision-language models that help analyze business trends or interpret scientific figures.",
@@ -855,7 +972,7 @@
     "published_at": "2026-05-29T00:00:00"
   },
   {
-    "id": 94,
+    "id": 95,
     "title": "Media Advisory: MIT to establish regional quantum hub",
     "url": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
     "summary": "With $25 million investment from the Commonwealth of Massachusetts, MIT to build a new shared-use facility to serve as a statewide quantum toolbox.",
@@ -882,7 +999,7 @@
     "published_at": "2026-05-28T00:00:00"
   },
   {
-    "id": 95,
+    "id": 96,
     "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
     "url": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
     "summary": "A new study of the postwar U.S. shows which kinds of workers historically filled new tech-enabled jobs.",
@@ -891,7 +1008,7 @@
     "published_at": "2026-05-21T04:00:00"
   },
   {
-    "id": 96,
+    "id": 97,
     "title": "Building AI models that understand chemical principles",
     "url": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
     "summary": "Connor Coley works at the interface of chemistry and machine learning, to discover and design new drug compounds.",
@@ -900,7 +1017,7 @@
     "published_at": "2026-05-20T04:00:00"
   },
   {
-    "id": 97,
+    "id": 98,
     "title": "Justin Solomon appointed associate dean of engineering education",
     "url": "https://news.mit.edu/2026/justin-solomon-appointed-associate-dean-engineering-education-0519",
     "summary": "MIT faculty member in electrical engineering and computer science to focus on innovation in engineering education and new pedagogical approaches.",
@@ -918,7 +1035,7 @@
     "published_at": "2026-05-19T17:45:00"
   },
   {
-    "id": 98,
+    "id": 99,
     "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
     "url": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
     "summary": "The prestigious fellowship funds graduate studies at Stanford University.",
@@ -927,7 +1044,7 @@
     "published_at": "2026-05-14T20:55:00"
   },
   {
-    "id": 99,
+    "id": 100,
     "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
     "url": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
     "summary": "Dimitris Bertsimas and Megan Mitchell discuss the motivation behind Universal Learning, and what sets the new MIT Open Learning educational initiative apart.",
@@ -936,7 +1053,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 100,
+    "id": 101,
     "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
     "url": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
     "summary": "New AI education program from MIT Open Learning debuts with AI-powered personalization and a free introductory course for learners everywhere.",
@@ -945,7 +1062,7 @@
     "published_at": "2026-05-12T15:00:00"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "Study: Firms often use automation to control certain workers’ wages",
     "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
     "summary": "MIT economists found US companies tend to target employees earning a “wage premium,” which increases inequality but not necessarily productivity.",
@@ -954,7 +1071,7 @@
     "published_at": "2026-05-07T04:00:00"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Games people — and machines — play: Untangling strategic reasoning to advance AI",
     "url": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
     "summary": "Assistant Professor Gabriele Farina mines the foundations of decision-making in complex multi-agent scenarios.",
@@ -963,7 +1080,7 @@
     "published_at": "2026-05-05T21:00:00"
   },
   {
-    "id": 103,
+    "id": 104,
     "title": "Beacon Biosignals is mapping the brain during sleep",
     "url": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
     "summary": "Founded by Jake Donoghue PhD ’19 and former MIT researcher Jarrett Revels, the company is creating an AI-driven platform to help diagnose and treat disease.",
@@ -972,7 +1089,7 @@
     "published_at": "2026-05-01T04:00:00"
   },
   {
-    "id": 104,
+    "id": 105,
     "title": "Improving understanding with language",
     "url": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
     "summary": "MIT senior Olivia Honeycutt investigates how the ways we communicate can shape our views of the world.",
@@ -981,7 +1098,7 @@
     "published_at": "2026-05-01T04:00:00"
   },
   {
-    "id": 105,
+    "id": 106,
     "title": "Making the case for curiosity-driven science",
     "url": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
     "summary": "President Sally Kornbluth spoke in front of a packed crowd about growing challenges to the U.S. research ecosystem as funding for America’s top research universities becomes increasingly strained.",
@@ -990,7 +1107,7 @@
     "published_at": "2026-04-30T04:00:00"
   },
   {
-    "id": 106,
+    "id": 107,
     "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
     "url": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
     "summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches.",
@@ -999,7 +1116,7 @@
     "published_at": "2026-04-29T21:40:00"
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
     "url": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
     "summary": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing.",
@@ -1008,7 +1125,7 @@
     "published_at": "2026-04-29T10:00:00"
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "Enabling privacy-preserving AI training on everyday devices",
     "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
     "summary": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in under-resourced settings.",
@@ -1017,7 +1134,7 @@
     "published_at": "2026-04-29T04:00:00"
   },
   {
-    "id": 109,
+    "id": 110,
     "title": "A faster way to estimate AI power consumption",
     "url": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
     "summary": "The “EnergAIzer” method generates reliable results in seconds, enabling data center operators to efficiently allocate resources and reduce wasted energy.",
@@ -1026,7 +1143,7 @@
     "published_at": "2026-04-27T04:00:00"
   },
   {
-    "id": 110,
+    "id": 111,
     "title": "MIT scientists build the world’s largest collection of Olympiad-level math problems, and open it to everyone",
     "url": "https://news.mit.edu/2026/mit-scientists-build-worlds-largest-collection-olympiad-level-math-problems-open-0424",
     "summary": "New dataset of 30,000-plus competition math problems from 47 countries gives AI researchers a harder test — and students worldwide a better training ground.",
@@ -1035,7 +1152,7 @@
     "published_at": "2026-04-24T17:00:00"
   },
   {
-    "id": 111,
+    "id": 112,
     "title": "Teaching AI models to say “I’m not sure”",
     "url": "https://news.mit.edu/2026/teaching-ai-models-to-say-im-not-sure-0422",
     "summary": "A new training method improves the reliability of AI confidence estimates without sacrificing performance, addressing a root cause of hallucination in reasoning models.",
@@ -1044,7 +1161,7 @@
     "published_at": "2026-04-22T19:15:00"
   },
   {
-    "id": 112,
+    "id": 113,
     "title": "Jacob Andreas and Brett McGuire named Edgerton Award winners",
     "url": "https://news.mit.edu/2026/jacob-andreas-brett-mcguire-edgerton-award-winners-0417",
     "summary": "The associate professors of EECS and chemistry, respectively, are honored for exceptional contributions to teaching, research, and service at MIT.",
@@ -1053,7 +1170,7 @@
     "published_at": "2026-04-17T13:40:00"
   },
   {
-    "id": 113,
+    "id": 114,
     "title": "Bringing AI-driven protein-design tools to biologists everywhere",
     "url": "https://news.mit.edu/2026/bringing-ai-driven-protein-design-tools-everywhere-0417",
     "summary": "Founded by Tristan Bepler PhD ’20 and former MIT professor Tim Lu PhD ’07, OpenProtein.AI offers researchers open-source models and other tools for protein engineering.",
@@ -1062,7 +1179,7 @@
     "published_at": "2026-04-17T04:00:00"
   },
   {
-    "id": 114,
+    "id": 115,
     "title": "Human-machine teaming dives underwater",
     "url": "https://news.mit.edu/2026/human-machine-teaming-dives-underwater-0414",
     "summary": "Researchers are developing hardware and algorithms to improve collaboration between divers and autonomous underwater vehicles engaged in maritime missions.",
@@ -1071,7 +1188,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 115,
+    "id": 116,
     "title": "Q&A: MIT SHASS and the future of education in the age of AI",
     "url": "https://news.mit.edu/2026/qa-mit-shass-and-future-of-education-age-ai-0414",
     "summary": "As the School of Humanities, Arts, and Social Sciences marks 75 years, Dean Agustín Rayo reflects on how AI is reshaping higher education and why SHASS disciplines continue to be central to MIT’s mission.",
@@ -1080,7 +1197,7 @@
     "published_at": "2026-04-14T13:00:00"
   },
   {
-    "id": 116,
+    "id": 117,
     "title": "New technique makes AI models leaner and faster while they’re still learning",
     "url": "https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409",
     "summary": "Researchers use control theory to shed unnecessary complexity from AI models during training, cutting compute costs without sacrificing performance.",
@@ -1089,7 +1206,7 @@
     "published_at": "2026-04-09T13:00:00"
   },
   {
-    "id": 117,
+    "id": 118,
     "title": "Helping data centers deliver higher performance with less hardware",
     "url": "https://news.mit.edu/2026/helping-data-centers-deliver-higher-performance-less-hardware-0407",
     "summary": "Researchers developed a system that intelligently balances workloads to improve the efficiency of flash storage hardware in a data center.",
@@ -1098,7 +1215,7 @@
     "published_at": "2026-04-07T04:00:00"
   },
   {
-    "id": 118,
+    "id": 119,
     "title": "Evaluating the ethics of autonomous systems",
     "url": "https://news.mit.edu/2026/evaluating-autonomous-systems-ethics-0402",
     "summary": "MIT researchers developed a testing framework that pinpoints situations where AI decision-support systems are not treating people and communities fairly.",
@@ -1107,7 +1224,7 @@
     "published_at": "2026-04-02T04:00:00"
   },
   {
-    "id": 119,
+    "id": 120,
     "title": "Preview tool helps makers visualize 3D-printed objects",
     "url": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
     "summary": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
@@ -1116,7 +1233,7 @@
     "published_at": "2026-04-01T04:00:00"
   },
   {
-    "id": 120,
+    "id": 121,
     "title": "MIT researchers use AI to uncover atomic defects in materials",
     "url": "https://news.mit.edu/2026/mit-researchers-use-ai-uncover-atomic-defects-materials-0330",
     "summary": "A new model measures defects that can be leveraged to improve materials’ mechanical strength, heat transfer, and energy-conversion efficiency.",
@@ -1125,7 +1242,7 @@
     "published_at": "2026-03-30T15:00:00"
   },
   {
-    "id": 121,
+    "id": 122,
     "title": "AI system learns to keep warehouse robot traffic running smoothly",
     "url": "https://news.mit.edu/2026/ai-system-keeps-warehouse-robot-traffic-running-smoothly-0326",
     "summary": "This new approach adapts to decide which robots should get the right of way at every moment, avoiding congestion and increasing throughput.",
@@ -1134,7 +1251,7 @@
     "published_at": "2026-03-26T04:00:00"
   },
   {
-    "id": 122,
+    "id": 123,
     "title": "Wristband enables wearers to control a robotic hand with their own movements",
     "url": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
     "summary": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
@@ -1143,7 +1260,7 @@
     "published_at": "2026-03-25T10:00:00"
   },
   {
-    "id": 123,
+    "id": 124,
     "title": "How to create “humble” AI",
     "url": "https://news.mit.edu/2026/creating-humble-ai-0324",
     "summary": "An MIT-led team is designing artificial intelligence systems for medical diagnosis that are more collaborative and forthcoming about uncertainty.",
@@ -1152,22 +1269,13 @@
     "published_at": "2026-03-24T04:00:00"
   },
   {
-    "id": 124,
+    "id": 125,
     "title": "On algorithms, life, and learning",
     "url": "https://news.mit.edu/2026/algorithms-life-learning-killian-lecture-dimitris-bertsimas-0323",
     "summary": "Operations research expert Dimitris Bertsimas delivered the annual Killian Lecture, providing a look at the past and future of his work.",
     "author": "Peter Dizikes | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-03-23T17:45:00"
-  },
-  {
-    "id": 125,
-    "title": "What’s the right path for AI?",
-    "url": "https://news.mit.edu/2026/right-path-for-ai-karen-hao-paola-ricaurte-0320",
-    "summary": "Conference speakers discussed the unfolding trajectory of AI and the benefits of shaping technology to meet people’s needs.",
-    "author": "Peter Dizikes | MIT News",
-    "source": "MIT News AI",
-    "published_at": "2026-03-20T13:30:00"
   },
   {
     "id": 156,
