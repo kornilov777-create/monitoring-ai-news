@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-25T23:34:39"
+  },
+  {
+    "id": 137,
     "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
     "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
@@ -9,7 +18,7 @@
     "published_at": "2026-06-25T20:19:25"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
     "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
@@ -18,7 +27,7 @@
     "published_at": "2026-06-25T17:38:27"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
     "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
     "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
@@ -27,7 +36,7 @@
     "published_at": "2026-06-25T16:55:00"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
     "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
     "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
@@ -45,7 +54,7 @@
     "published_at": "2026-06-25T16:00:00"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
     "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
     "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
@@ -63,7 +72,7 @@
     "published_at": "2026-06-25T14:22:59"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
     "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
     "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
@@ -72,7 +81,7 @@
     "published_at": "2026-06-25T14:00:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
     "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
     "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
@@ -81,22 +90,13 @@
     "published_at": "2026-06-25T13:30:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
     "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
     "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
     "author": "Jagmeet Singh",
     "source": "TechCrunch AI",
     "published_at": "2026-06-25T12:00:38"
-  },
-  {
-    "id": 163,
-    "title": "The math behind the OpenAI Jalapeño chip",
-    "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-    "summary": "<p>OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-25T06:00:00"
   },
   {
     "id": 77,
@@ -117,7 +117,7 @@
     "published_at": "2026-06-25T02:00:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Europe is pushing back on Washington’s chip war",
     "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
     "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
@@ -126,7 +126,7 @@
     "published_at": "2026-06-25T00:08:36"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
     "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
     "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
@@ -135,7 +135,7 @@
     "published_at": "2026-06-24T23:26:52"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
     "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
     "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
@@ -144,7 +144,7 @@
     "published_at": "2026-06-24T22:41:41"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
     "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
     "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
@@ -153,7 +153,7 @@
     "published_at": "2026-06-24T21:56:41"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "AI researchers continue to leave Google for its rivals",
     "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
@@ -162,7 +162,7 @@
     "published_at": "2026-06-24T21:42:07"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "The memory chip crunch is paying off for this US company",
     "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
     "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
@@ -171,7 +171,7 @@
     "published_at": "2026-06-24T21:30:55"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
     "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
     "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
@@ -180,7 +180,7 @@
     "published_at": "2026-06-24T20:09:45"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Facebook rolls out an AI companion app for creators",
     "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
     "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
@@ -189,7 +189,7 @@
     "published_at": "2026-06-24T17:16:24"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
     "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
     "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
@@ -198,7 +198,7 @@
     "published_at": "2026-06-24T16:48:43"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Figma adds code layers, support for animations, more AI features in new update",
     "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
     "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
@@ -207,22 +207,13 @@
     "published_at": "2026-06-24T16:15:00"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
     "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
     "author": "Russell Brandom",
     "source": "TechCrunch AI",
     "published_at": "2026-06-24T14:54:46"
-  },
-  {
-    "id": 155,
-    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-    "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-24T14:00:00"
   },
   {
     "id": 127,
@@ -232,24 +223,6 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-24T11:59:54"
-  },
-  {
-    "id": 164,
-    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
-    "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-    "summary": "<p>Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX di",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-24T10:00:00"
-  },
-  {
-    "id": 165,
-    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-    "summary": "<p>Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.&#160",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-24T09:00:00"
   },
   {
     "id": 2,
@@ -279,15 +252,6 @@
     "published_at": "2026-06-23T17:00:00"
   },
   {
-    "id": 166,
-    "title": "Omio scales travel product development using OpenAI models",
-    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
-    "summary": "<p>Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addit",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-23T16:32:28"
-  },
-  {
     "id": 3,
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -304,15 +268,6 @@
     "author": "Clive Thompson",
     "source": "MIT Technology Review",
     "published_at": "2026-06-23T09:00:00"
-  },
-  {
-    "id": 167,
-    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
-    "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-    "summary": "<p>The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Ca",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-23T08:00:00"
   },
   {
     "id": 79,
@@ -342,15 +297,6 @@
     "published_at": "2026-06-22T18:00:00"
   },
   {
-    "id": 168,
-    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-    "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
-    "summary": "<p>Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentrat",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-22T16:11:21"
-  },
-  {
     "id": 6,
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "url": "https://openai.com/index/patch-the-planet",
@@ -366,15 +312,6 @@
     "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-06-22T10:00:00"
-  },
-  {
-    "id": 169,
-    "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
-    "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
-    "summary": "<p>L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal cont",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
     "published_at": "2026-06-22T10:00:00"
   },
   {
@@ -405,15 +342,6 @@
     "published_at": "2026-06-19T18:00:00"
   },
   {
-    "id": 170,
-    "title": "SAP and Google Cloud deploy agentic commerce architecture",
-    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-    "summary": "<p>SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in fiv",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-19T14:02:20"
-  },
-  {
     "id": 130,
     "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
     "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -421,15 +349,6 @@
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-06-19T10:40:24"
-  },
-  {
-    "id": 171,
-    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
-    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
-    "summary": "<p>Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today an",
-    "author": "Rob Demain",
-    "source": "AI News",
-    "published_at": "2026-06-19T09:57:55"
   },
   {
     "id": 10,
@@ -441,15 +360,6 @@
     "published_at": "2026-06-18T17:00:00"
   },
   {
-    "id": 172,
-    "title": "Computer vision deployments drive retail productivity gains",
-    "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
-    "summary": "<p>Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-18T15:57:46"
-  },
-  {
     "id": 11,
     "title": "Improving health intelligence in ChatGPT",
     "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
@@ -457,24 +367,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-18T11:00:00"
-  },
-  {
-    "id": 173,
-    "title": "HSBC expands AI banking partnership with Google Cloud",
-    "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
-    "summary": "<p>HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision suppor",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-18T10:00:00"
-  },
-  {
-    "id": 174,
-    "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
-    "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
-    "summary": "<p>Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-18T09:00:00"
   },
   {
     "id": 12,
