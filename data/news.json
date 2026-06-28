@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+    "author": "Kirsten Korosec",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-28T15:00:00"
+  },
+  {
+    "id": 137,
     "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
     "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
     "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
@@ -9,7 +18,7 @@
     "published_at": "2026-06-27T20:42:36"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
     "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
@@ -18,7 +27,7 @@
     "published_at": "2026-06-27T16:45:09"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
@@ -27,7 +36,7 @@
     "published_at": "2026-06-27T14:00:00"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
     "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
@@ -36,7 +45,7 @@
     "published_at": "2026-06-27T12:00:00"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
     "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
     "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
@@ -45,7 +54,7 @@
     "published_at": "2026-06-27T01:01:37"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
@@ -54,7 +63,7 @@
     "published_at": "2026-06-26T18:32:14"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
     "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
@@ -63,7 +72,7 @@
     "published_at": "2026-06-26T18:19:36"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
@@ -72,7 +81,7 @@
     "published_at": "2026-06-26T17:43:22"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "It’s not about Anthropic vs. OpenAI anymore",
     "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
     "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
@@ -90,7 +99,7 @@
     "published_at": "2026-06-26T16:00:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
     "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
@@ -108,13 +117,22 @@
     "published_at": "2026-06-26T13:00:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
     "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
     "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
     "author": "TechCrunch Events",
     "source": "TechCrunch AI",
     "published_at": "2026-06-26T13:00:00"
+  },
+  {
+    "id": 163,
+    "title": "SAP aligns commerce data for AI personalisation",
+    "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+    "summary": "<p>SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructu",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-26T12:55:48"
   },
   {
     "id": 1,
@@ -126,7 +144,7 @@
     "published_at": "2026-06-26T10:00:00"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
@@ -135,7 +153,7 @@
     "published_at": "2026-06-25T23:34:39"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
     "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
@@ -144,7 +162,7 @@
     "published_at": "2026-06-25T20:19:25"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
     "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
@@ -153,7 +171,7 @@
     "published_at": "2026-06-25T17:38:27"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
     "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
     "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
@@ -162,7 +180,7 @@
     "published_at": "2026-06-25T16:55:00"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
     "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
     "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
@@ -180,7 +198,7 @@
     "published_at": "2026-06-25T16:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
     "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
     "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
@@ -198,7 +216,7 @@
     "published_at": "2026-06-25T14:22:59"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
     "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
     "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today.",
@@ -207,7 +225,7 @@
     "published_at": "2026-06-25T14:00:00"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
     "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
     "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
@@ -216,13 +234,13 @@
     "published_at": "2026-06-25T13:30:00"
   },
   {
-    "id": 155,
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-    "author": "Jagmeet Singh",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-25T12:00:38"
+    "id": 164,
+    "title": "The math behind the OpenAI Jalapeño chip",
+    "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+    "summary": "<p>OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-25T06:00:00"
   },
   {
     "id": 79,
@@ -252,6 +270,24 @@
     "published_at": "2026-06-24T11:59:54"
   },
   {
+    "id": 165,
+    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+    "summary": "<p>Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX di",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-24T10:00:00"
+  },
+  {
+    "id": 166,
+    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+    "summary": "<p>Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.&#160",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-24T09:00:00"
+  },
+  {
     "id": 3,
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -279,6 +315,15 @@
     "published_at": "2026-06-23T17:00:00"
   },
   {
+    "id": 167,
+    "title": "Omio scales travel product development using OpenAI models",
+    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "summary": "<p>Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addit",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-23T16:32:28"
+  },
+  {
     "id": 4,
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -295,6 +340,15 @@
     "author": "Clive Thompson",
     "source": "MIT Technology Review",
     "published_at": "2026-06-23T09:00:00"
+  },
+  {
+    "id": 168,
+    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+    "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+    "summary": "<p>The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Ca",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-23T08:00:00"
   },
   {
     "id": 81,
@@ -324,6 +378,15 @@
     "published_at": "2026-06-22T18:00:00"
   },
   {
+    "id": 169,
+    "title": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
+    "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
+    "summary": "<p>Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response to these concentrat",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-22T16:11:21"
+  },
+  {
     "id": 7,
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "url": "https://openai.com/index/patch-the-planet",
@@ -339,6 +402,15 @@
     "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-06-22T10:00:00"
+  },
+  {
+    "id": 170,
+    "title": "L’Oréal brings Maybelline virtual try-on to ChatGPT",
+    "url": "https://www.artificialintelligence-news.com/news/loreal-maybelline-virtual-try-on-chatgpt/",
+    "summary": "<p>L’Oréal has announced a collaboration with OpenAI that will bring Maybelline New York’s virtual makeup try-on feature into ChatGPT. The announcement was made at VivaTech 2026. The partnership covers consumer-facing shopping tools, product discovery, advertising pilots, research, and internal cont",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
     "published_at": "2026-06-22T10:00:00"
   },
   {
@@ -369,6 +441,15 @@
     "published_at": "2026-06-19T18:00:00"
   },
   {
+    "id": 171,
+    "title": "SAP and Google Cloud deploy agentic commerce architecture",
+    "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+    "summary": "<p>SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in fiv",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-19T14:02:20"
+  },
+  {
     "id": 130,
     "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
     "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
@@ -376,6 +457,15 @@
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-06-19T10:40:24"
+  },
+  {
+    "id": 172,
+    "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+    "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+    "summary": "<p>Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today an",
+    "author": "Rob Demain",
+    "source": "AI News",
+    "published_at": "2026-06-19T09:57:55"
   },
   {
     "id": 11,
@@ -387,6 +477,15 @@
     "published_at": "2026-06-18T17:00:00"
   },
   {
+    "id": 173,
+    "title": "Computer vision deployments drive retail productivity gains",
+    "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+    "summary": "<p>Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-18T15:57:46"
+  },
+  {
     "id": 12,
     "title": "Improving health intelligence in ChatGPT",
     "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
@@ -394,6 +493,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-18T11:00:00"
+  },
+  {
+    "id": 174,
+    "title": "HSBC expands AI banking partnership with Google Cloud",
+    "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+    "summary": "<p>HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision suppor",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-18T10:00:00"
   },
   {
     "id": 13,
