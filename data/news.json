@@ -1,66 +1,39 @@
 [
   {
     "id": 136,
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-29T16:29:04"
+  },
+  {
+    "id": 126,
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial out",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-06-29T14:44:01"
+  },
+  {
+    "id": 137,
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "author": "Sean O'Kane",
+    "source": "TechCrunch AI",
+    "published_at": "2026-06-29T14:00:08"
+  },
+  {
+    "id": 138,
     "title": "Omen AI’s plan to optimize data centers is all wet",
     "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
     "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
     "author": "Tim Fernholz",
     "source": "TechCrunch AI",
     "published_at": "2026-06-29T13:00:00"
-  },
-  {
-    "id": 163,
-    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
-    "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
-    "summary": "<p>HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersec",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-29T12:22:45"
-  },
-  {
-    "id": 164,
-    "title": "Wimbledon adds IBM AI tools for live match coverage",
-    "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
-    "summary": "<p>The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant an",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-29T10:00:00"
-  },
-  {
-    "id": 165,
-    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
-    "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
-    "summary": "<p>Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain pro",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-06-29T08:59:46"
-  },
-  {
-    "id": 166,
-    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
-    "url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
-    "summary": "<p>Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That&#8217;s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown.",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-06-29T08:54:22"
-  },
-  {
-    "id": 167,
-    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-    "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-    "summary": "<p>xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physica",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-29T08:05:32"
-  },
-  {
-    "id": 168,
-    "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
-    "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
-    "summary": "<p>New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announcements were made at Computex 2026 in Tai",
-    "author": "Scam.ai",
-    "source": "AI News",
-    "published_at": "2026-06-29T07:57:38"
   },
   {
     "id": 1,
@@ -72,7 +45,7 @@
     "published_at": "2026-06-29T07:00:00"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
     "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
@@ -90,7 +63,7 @@
     "published_at": "2026-06-28T17:00:00"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
     "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
     "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
@@ -99,7 +72,7 @@
     "published_at": "2026-06-28T15:00:00"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
     "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
     "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
@@ -108,7 +81,7 @@
     "published_at": "2026-06-27T20:42:36"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
     "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
@@ -117,16 +90,16 @@
     "published_at": "2026-06-27T16:45:09"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
     "author": "Connie Loizos",
     "source": "TechCrunch AI",
     "published_at": "2026-06-27T14:00:00"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
     "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
     "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
@@ -135,8 +108,8 @@
     "published_at": "2026-06-27T12:00:00"
   },
   {
-    "id": 143,
-    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "id": 145,
+    "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
     "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
     "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
     "author": "Julie Bort",
@@ -144,7 +117,7 @@
     "published_at": "2026-06-27T01:01:37"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
@@ -153,7 +126,7 @@
     "published_at": "2026-06-26T18:32:14"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
     "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
@@ -162,7 +135,7 @@
     "published_at": "2026-06-26T18:19:36"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
@@ -171,7 +144,7 @@
     "published_at": "2026-06-26T17:43:22"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "It’s not about Anthropic vs. OpenAI anymore",
     "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
     "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
@@ -189,7 +162,7 @@
     "published_at": "2026-06-26T16:00:00"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
     "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
     "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
@@ -207,22 +180,13 @@
     "published_at": "2026-06-26T13:00:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
     "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
     "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
     "author": "TechCrunch Events",
     "source": "TechCrunch AI",
     "published_at": "2026-06-26T13:00:00"
-  },
-  {
-    "id": 169,
-    "title": "SAP aligns commerce data for AI personalisation",
-    "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
-    "summary": "<p>SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructu",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-26T12:55:48"
   },
   {
     "id": 3,
@@ -234,7 +198,7 @@
     "published_at": "2026-06-26T10:00:00"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
@@ -243,7 +207,7 @@
     "published_at": "2026-06-25T23:34:39"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
     "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
@@ -252,7 +216,7 @@
     "published_at": "2026-06-25T20:19:25"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
     "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
     "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
@@ -261,22 +225,13 @@
     "published_at": "2026-06-25T17:38:27"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
     "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
     "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
     "author": "Rebecca Bellan",
     "source": "TechCrunch AI",
     "published_at": "2026-06-25T16:55:00"
-  },
-  {
-    "id": 154,
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-25T16:48:11"
   },
   {
     "id": 78,
@@ -288,31 +243,13 @@
     "published_at": "2026-06-25T16:00:00"
   },
   {
-    "id": 155,
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "author": "Ram Iyer",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-25T14:55:38"
-  },
-  {
-    "id": 126,
+    "id": 127,
     "title": "Repositioning retail for the AI era",
     "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
     "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-25T14:22:59"
-  },
-  {
-    "id": 170,
-    "title": "The math behind the OpenAI Jalapeño chip",
-    "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-    "summary": "<p>OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-25T06:00:00"
   },
   {
     "id": 79,
@@ -333,31 +270,13 @@
     "published_at": "2026-06-25T02:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "The emergence of the web data infrastructure layer for AI",
     "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
     "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundati",
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-24T11:59:54"
-  },
-  {
-    "id": 171,
-    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
-    "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
-    "summary": "<p>Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX di",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-24T10:00:00"
-  },
-  {
-    "id": 172,
-    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
-    "summary": "<p>Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.&#160",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-24T09:00:00"
   },
   {
     "id": 5,
@@ -387,15 +306,6 @@
     "published_at": "2026-06-23T17:00:00"
   },
   {
-    "id": 173,
-    "title": "Omio scales travel product development using OpenAI models",
-    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
-    "summary": "<p>Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addit",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-23T16:32:28"
-  },
-  {
     "id": 6,
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -405,22 +315,13 @@
     "published_at": "2026-06-23T13:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "The $400 million machine powering the future of chipmaking",
     "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
     "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ",
     "author": "Clive Thompson",
     "source": "MIT Technology Review",
     "published_at": "2026-06-23T09:00:00"
-  },
-  {
-    "id": 174,
-    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
-    "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
-    "summary": "<p>The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Ca",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-06-23T08:00:00"
   },
   {
     "id": 81,
@@ -441,7 +342,7 @@
     "published_at": "2026-06-23T00:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "Three things to watch amid Anthropic’s latest feud with the government",
     "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI mode",
@@ -495,7 +396,7 @@
     "published_at": "2026-06-19T18:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
     "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
     "summary": "The Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has",
@@ -585,7 +486,7 @@
     "published_at": "2026-06-16T20:30:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Want to get a data center online quickly? Give it some flex.",
     "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
     "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
@@ -603,7 +504,7 @@
     "published_at": "2026-06-16T00:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Why do South Koreans love AI so much?",
     "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
@@ -666,7 +567,7 @@
     "published_at": "2026-06-11T17:30:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without",
@@ -765,7 +666,7 @@
     "published_at": "2026-06-09T12:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinatin",
@@ -781,15 +682,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-09T10:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Five things you need to know about AI",
-    "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,&#8230;",
-    "author": "Will Douglas Heaven",
-    "source": "MIT Technology Review",
-    "published_at": "2026-06-09T09:16:45"
   },
   {
     "id": 31,
