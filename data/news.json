@@ -667,6 +667,15 @@
   },
   {
     "id": 21,
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-06-11T00:00:00"
+  },
+  {
+    "id": 22,
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
@@ -675,7 +684,7 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
@@ -684,19 +693,10 @@
     "published_at": "2026-06-11T00:00:00"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-06-11T00:00:00"
-  },
-  {
-    "id": 24,
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -910,18 +910,18 @@
   },
   {
     "id": 39,
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
-    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
   },
   {
     "id": 40,
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
