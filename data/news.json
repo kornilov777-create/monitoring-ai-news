@@ -1,6 +1,33 @@
 [
   {
     "id": 136,
+    "title": "The “Father of the Internet” is finally retiring",
+    "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-01T03:15:37"
+  },
+  {
+    "id": 137,
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-01T02:16:06"
+  },
+  {
+    "id": 138,
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-01T02:04:40"
+  },
+  {
+    "id": 139,
     "title": "OpenClaw is finally available on Android and iOS",
     "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
     "summary": "The free open source agentic program is finally invading your phone.",
@@ -18,7 +45,7 @@
     "published_at": "2026-06-30T21:50:04"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
     "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
     "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
@@ -27,7 +54,7 @@
     "published_at": "2026-06-30T20:33:48"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
     "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
     "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
@@ -36,7 +63,7 @@
     "published_at": "2026-06-30T19:02:38"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
     "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
     "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
@@ -45,7 +72,7 @@
     "published_at": "2026-06-30T18:13:02"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
     "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
@@ -54,7 +81,7 @@
     "published_at": "2026-06-30T18:00:00"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Acti puts AI agents directly into your smartphone keyboard",
     "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
     "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
@@ -63,7 +90,7 @@
     "published_at": "2026-06-30T17:52:46"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
     "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
     "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
@@ -81,7 +108,7 @@
     "published_at": "2026-06-30T15:30:00"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "X now offers an MCP server to make its platform easier for AI tools to use",
     "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
     "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
@@ -90,7 +117,7 @@
     "published_at": "2026-06-30T15:08:42"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "Podcasting platform Riverside enters the newsletter publishing game",
     "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
     "summary": "Users will be able use AI to create newsletters based on their recordings.",
@@ -99,7 +126,7 @@
     "published_at": "2026-06-30T15:00:00"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
     "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
     "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
@@ -108,7 +135,7 @@
     "published_at": "2026-06-30T15:00:00"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
     "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
     "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
@@ -135,7 +162,7 @@
     "published_at": "2026-06-30T09:00:00"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
     "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
     "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
@@ -144,7 +171,7 @@
     "published_at": "2026-06-30T09:00:00"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "The AI jobs debate just got messier",
     "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
@@ -153,7 +180,7 @@
     "published_at": "2026-06-30T04:01:00"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
     "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
     "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
@@ -189,7 +216,7 @@
     "published_at": "2026-06-30T00:00:00"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "Gemini’s personalized AI image generation is now free for US users",
     "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
     "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
@@ -207,7 +234,7 @@
     "published_at": "2026-06-29T19:00:00"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
     "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
     "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
@@ -216,7 +243,7 @@
     "published_at": "2026-06-29T18:10:26"
   },
   {
-    "id": 152,
+    "id": 155,
     "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
     "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
     "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
@@ -243,33 +270,6 @@
     "published_at": "2026-06-29T18:00:00"
   },
   {
-    "id": 153,
-    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-    "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-    "author": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-29T17:39:17"
-  },
-  {
-    "id": 154,
-    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-    "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-29T17:03:50"
-  },
-  {
-    "id": 155,
-    "title": "TIDAL cracks down on AI music by cutting off monetization",
-    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-    "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-06-29T16:29:04"
-  },
-  {
     "id": 129,
     "title": "Agent confidence on the technical frontier",
     "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
@@ -277,6 +277,60 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-29T14:44:01"
+  },
+  {
+    "id": 163,
+    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+    "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+    "summary": "<p>HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersec",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-29T12:22:45"
+  },
+  {
+    "id": 164,
+    "title": "Wimbledon adds IBM AI tools for live match coverage",
+    "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+    "summary": "<p>The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant an",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-29T10:00:00"
+  },
+  {
+    "id": 165,
+    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+    "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+    "summary": "<p>Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain pro",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-29T08:59:46"
+  },
+  {
+    "id": 166,
+    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+    "url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
+    "summary": "<p>Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That&#8217;s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown.",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-29T08:54:22"
+  },
+  {
+    "id": 167,
+    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+    "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+    "summary": "<p>xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physica",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-29T08:05:32"
+  },
+  {
+    "id": 168,
+    "title": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+    "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+    "summary": "<p>New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announcements were made at Computex 2026 in Tai",
+    "author": "Scam.ai",
+    "source": "AI News",
+    "published_at": "2026-06-29T07:57:38"
   },
   {
     "id": 5,
@@ -315,6 +369,15 @@
     "published_at": "2026-06-26T13:00:00"
   },
   {
+    "id": 169,
+    "title": "SAP aligns commerce data for AI personalisation",
+    "url": "https://www.artificialintelligence-news.com/news/sap-aligns-commerce-data-for-ai-personalisation/",
+    "summary": "<p>SAP aligns fragmented commerce data structures to enable operational AI personalisation at the execution layer. Enterprise leadership routinely establishes objectives to anticipate customer requirements and deliver relevant interactions across digital touchpoints. However, the actual infrastructu",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-26T12:55:48"
+  },
+  {
     "id": 7,
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
@@ -340,6 +403,15 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-25T14:22:59"
+  },
+  {
+    "id": 170,
+    "title": "The math behind the OpenAI Jalapeño chip",
+    "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+    "summary": "<p>OpenAI’s financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to mitigate the heavy capital",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-25T06:00:00"
   },
   {
     "id": 82,
@@ -369,6 +441,24 @@
     "published_at": "2026-06-24T11:59:54"
   },
   {
+    "id": 171,
+    "title": "Samsung opens ChatGPT Enterprise and Codex access after AI restrictions",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-chatgpt-enterprise-codex-employee-ai-use/",
+    "summary": "<p>Samsung Electronics is expanding employee access to ChatGPT Enterprise and Codex, giving staff wider use of AI tools for technical and non-technical work. According to OpenAI, the deployment covers all Samsung Electronics employees in Korea and all Device eXperience employees worldwide. The DX di",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-24T10:00:00"
+  },
+  {
+    "id": 172,
+    "title": "Anthropic drops ‘workplace AI agents’ directly inside Slack",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-slack-workplace-ai-agents/",
+    "summary": "<p>Anthropic&#160;launched&#160;a beta version of its Claude Tag feature for Enterprise and Team tiers, shifting its chat model into shared Slack channels. Moving away from traditional isolated chat boxes, users pull the artificial intelligence model into active group threads by typing @Claude.&#160",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-24T09:00:00"
+  },
+  {
     "id": 9,
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -396,6 +486,15 @@
     "published_at": "2026-06-23T17:00:00"
   },
   {
+    "id": 173,
+    "title": "Omio scales travel product development using OpenAI models",
+    "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
+    "summary": "<p>Omio integrates OpenAI models across its engineering operations to accelerate travel product development and launch booking interfaces. The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addit",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-23T16:32:28"
+  },
+  {
     "id": 10,
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
@@ -412,6 +511,15 @@
     "author": "Clive Thompson",
     "source": "MIT Technology Review",
     "published_at": "2026-06-23T09:00:00"
+  },
+  {
+    "id": 174,
+    "title": "Top spy agencies say AI cyber threats will impact you within months. Here’s why",
+    "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
+    "summary": "<p>The global surge in AI cyber threats is no longer a distant problem for corporate data centres, according to an urgent public warning from the&#160;world&#8217;s&#160;most powerful intelligence alliance. On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Ca",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-06-23T08:00:00"
   },
   {
     "id": 84,
