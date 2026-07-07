@@ -99,15 +99,6 @@
     "published_at": "2026-07-06T13:00:00"
   },
   {
-    "id": 163,
-    "title": "China’s AI companion rules: what Beijing is really going after",
-    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-    "summary": "<p>An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-06T11:00:00"
-  },
-  {
     "id": 145,
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
     "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
@@ -171,15 +162,6 @@
     "published_at": "2026-07-03T18:43:00"
   },
   {
-    "id": 164,
-    "title": "Takeda signs $600M AI drug discovery deal with Insilico",
-    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-    "summary": "<p>Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collabora",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-03T10:00:00"
-  },
-  {
     "id": 152,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -225,15 +207,6 @@
     "published_at": "2026-07-02T15:37:08"
   },
   {
-    "id": 165,
-    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-    "summary": "<p>Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital a",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-02T14:38:01"
-  },
-  {
     "id": 128,
     "title": "Teaching AI to run with the turbines",
     "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
@@ -252,15 +225,6 @@
     "published_at": "2026-07-01T20:30:00"
   },
   {
-    "id": 166,
-    "title": "Deploying retail AI to scale personalisation and customer insight",
-    "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
-    "summary": "<p>Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-01T15:58:43"
-  },
-  {
     "id": 129,
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -268,33 +232,6 @@
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-07-01T14:35:16"
-  },
-  {
-    "id": 167,
-    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
-    "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
-    "summary": "<p>Japan&#8217;s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone&#8217;s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roug",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-01T11:00:00"
-  },
-  {
-    "id": 168,
-    "title": "Bank of England reviews AI rules for agentic AI in finance",
-    "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
-    "summary": "<p>The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instr",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-01T10:00:00"
-  },
-  {
-    "id": 169,
-    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
-    "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
-    "summary": "<p>Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the t",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-01T08:47:12"
   },
   {
     "id": 130,
@@ -334,9 +271,9 @@
   },
   {
     "id": 2,
-    "title": "Inside Genebench-Pro",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "summary": "",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-30T00:00:00"
@@ -352,9 +289,9 @@
   },
   {
     "id": 4,
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "summary": "",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-30T00:00:00"
@@ -394,51 +331,6 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-29T14:44:01"
-  },
-  {
-    "id": 170,
-    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
-    "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
-    "summary": "<p>HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersec",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-29T12:22:45"
-  },
-  {
-    "id": 171,
-    "title": "Wimbledon adds IBM AI tools for live match coverage",
-    "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
-    "summary": "<p>The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant an",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-06-29T10:00:00"
-  },
-  {
-    "id": 172,
-    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
-    "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
-    "summary": "<p>Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain pro",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-06-29T08:59:46"
-  },
-  {
-    "id": 173,
-    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
-    "url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
-    "summary": "<p>Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That&#8217;s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown.",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-06-29T08:54:22"
-  },
-  {
-    "id": 174,
-    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-    "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-    "summary": "<p>xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physica",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-06-29T08:05:32"
   },
   {
     "id": 5,
@@ -775,9 +667,9 @@
   },
   {
     "id": 26,
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -793,9 +685,9 @@
   },
   {
     "id": 28,
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-11T00:00:00"
@@ -1000,18 +892,18 @@
   },
   {
     "id": 44,
-    "title": "OpenAI public policy agenda",
-    "url": "https://openai.com/index/public-policy-agenda",
-    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
   },
   {
     "id": 45,
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-06-03T10:00:00"
