@@ -1,5 +1,23 @@
 [
   {
+    "id": 136,
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+    "author": "Connie Loizos",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-06T23:56:14"
+  },
+  {
+    "id": 137,
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-06T23:21:03"
+  },
+  {
     "id": 76,
     "title": "Toward a future that preserves benefits of neurotechnology for all",
     "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
@@ -9,7 +27,7 @@
     "published_at": "2026-07-06T19:50:00"
   },
   {
-    "id": 136,
+    "id": 138,
     "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
     "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
     "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
@@ -18,7 +36,7 @@
     "published_at": "2026-07-06T19:49:10"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
     "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
     "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
@@ -27,7 +45,7 @@
     "published_at": "2026-07-06T19:01:59"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Every major tech layoff in 2026 that has name-checked AI",
     "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -45,16 +63,16 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
     "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-    "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+    "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-07-06T17:04:58"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
     "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
@@ -63,7 +81,7 @@
     "published_at": "2026-07-06T15:32:43"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Reddit is using LLMs to solve a problem LLMs largely created",
     "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
     "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
@@ -72,7 +90,7 @@
     "published_at": "2026-07-06T15:22:08"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
     "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
     "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
@@ -90,7 +108,7 @@
     "published_at": "2026-07-06T11:00:00"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
     "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
     "summary": "These may be the last days of Amazon’s Mechanical Turk.",
@@ -99,7 +117,7 @@
     "published_at": "2026-07-05T17:43:36"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
@@ -108,7 +126,7 @@
     "published_at": "2026-07-04T20:55:25"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
     "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
     "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
@@ -117,7 +135,7 @@
     "published_at": "2026-07-04T18:00:05"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Alibaba reportedly bans employees from using Claude Code",
     "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
     "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
@@ -126,7 +144,7 @@
     "published_at": "2026-07-04T16:32:08"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
@@ -135,7 +153,7 @@
     "published_at": "2026-07-04T15:51:32"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "The only AI glossary you’ll need this year",
     "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -144,7 +162,7 @@
     "published_at": "2026-07-03T21:20:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
     "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -162,7 +180,7 @@
     "published_at": "2026-07-03T10:00:00"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
@@ -171,7 +189,7 @@
     "published_at": "2026-07-02T23:38:10"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
@@ -180,7 +198,7 @@
     "published_at": "2026-07-02T20:11:59"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "Meta quietly launches vibe-coded gaming app Pocket",
     "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
     "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
@@ -189,7 +207,7 @@
     "published_at": "2026-07-02T18:44:02"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Anthropic is discussing a new custom chip with Samsung",
     "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
     "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
@@ -207,15 +225,6 @@
     "published_at": "2026-07-02T15:37:08"
   },
   {
-    "id": 154,
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-02T15:20:51"
-  },
-  {
     "id": 165,
     "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
@@ -223,15 +232,6 @@
     "author": "Ryan Daws",
     "source": "AI News",
     "published_at": "2026-07-02T14:38:01"
-  },
-  {
-    "id": 155,
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-02T13:53:00"
   },
   {
     "id": 128,
