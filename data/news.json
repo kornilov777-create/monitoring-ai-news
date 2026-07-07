@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "summary": "Forterra has deployed more than 100",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-07T09:00:00"
+  },
+  {
+    "id": 137,
     "title": "The ‘first’ AI-run ransomware attack still needed a human",
     "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
@@ -9,7 +18,7 @@
     "published_at": "2026-07-06T23:56:14"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
     "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
     "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
@@ -27,7 +36,7 @@
     "published_at": "2026-07-06T19:50:00"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
     "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
     "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
@@ -36,7 +45,7 @@
     "published_at": "2026-07-06T19:49:10"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
     "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
     "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
@@ -45,7 +54,7 @@
     "published_at": "2026-07-06T19:01:59"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Every major tech layoff in 2026 that has name-checked AI",
     "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
@@ -63,7 +72,7 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
     "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
@@ -72,7 +81,7 @@
     "published_at": "2026-07-06T17:04:58"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
     "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
@@ -81,7 +90,7 @@
     "published_at": "2026-07-06T15:32:43"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Reddit is using LLMs to solve a problem LLMs largely created",
     "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
     "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
@@ -90,7 +99,7 @@
     "published_at": "2026-07-06T15:22:08"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
     "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
     "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
@@ -99,7 +108,16 @@
     "published_at": "2026-07-06T13:00:00"
   },
   {
-    "id": 145,
+    "id": 163,
+    "title": "China’s AI companion rules: what Beijing is really going after",
+    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+    "summary": "<p>An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-06T11:00:00"
+  },
+  {
+    "id": 146,
     "title": "Amazon will stop accepting new customers for Mechanical Turk",
     "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
     "summary": "These may be the last days of Amazon’s Mechanical Turk.",
@@ -108,7 +126,7 @@
     "published_at": "2026-07-05T17:43:36"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
@@ -117,7 +135,7 @@
     "published_at": "2026-07-04T20:55:25"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
     "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
     "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
@@ -126,7 +144,7 @@
     "published_at": "2026-07-04T18:00:05"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Alibaba reportedly bans employees from using Claude Code",
     "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
     "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
@@ -135,7 +153,7 @@
     "published_at": "2026-07-04T16:32:08"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
@@ -144,7 +162,7 @@
     "published_at": "2026-07-04T15:51:32"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "The only AI glossary you’ll need this year",
     "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -153,7 +171,7 @@
     "published_at": "2026-07-03T21:20:00"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
     "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -162,7 +180,16 @@
     "published_at": "2026-07-03T18:43:00"
   },
   {
-    "id": 152,
+    "id": 164,
+    "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "summary": "<p>Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collabora",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-03T10:00:00"
+  },
+  {
+    "id": 153,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
@@ -171,7 +198,7 @@
     "published_at": "2026-07-02T23:38:10"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
@@ -180,22 +207,13 @@
     "published_at": "2026-07-02T20:11:59"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Meta quietly launches vibe-coded gaming app Pocket",
     "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
     "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-07-02T18:44:02"
-  },
-  {
-    "id": 155,
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-02T18:31:09"
   },
   {
     "id": 127,
@@ -205,6 +223,15 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-02T15:37:08"
+  },
+  {
+    "id": 165,
+    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+    "summary": "<p>Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital a",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-02T14:38:01"
   },
   {
     "id": 128,
@@ -225,6 +252,15 @@
     "published_at": "2026-07-01T20:30:00"
   },
   {
+    "id": 166,
+    "title": "Deploying retail AI to scale personalisation and customer insight",
+    "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+    "summary": "<p>Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-01T15:58:43"
+  },
+  {
     "id": 129,
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -232,6 +268,33 @@
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-07-01T14:35:16"
+  },
+  {
+    "id": 167,
+    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+    "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+    "summary": "<p>Japan&#8217;s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone&#8217;s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roug",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-01T11:00:00"
+  },
+  {
+    "id": 168,
+    "title": "Bank of England reviews AI rules for agentic AI in finance",
+    "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+    "summary": "<p>The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instr",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-01T10:00:00"
+  },
+  {
+    "id": 169,
+    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+    "summary": "<p>Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the t",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-01T08:47:12"
   },
   {
     "id": 130,
@@ -331,6 +394,51 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-06-29T14:44:01"
+  },
+  {
+    "id": 170,
+    "title": "HP accelerates enterprise workflows with OpenAI Frontier",
+    "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+    "summary": "<p>HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersec",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-29T12:22:45"
+  },
+  {
+    "id": 171,
+    "title": "Wimbledon adds IBM AI tools for live match coverage",
+    "url": "https://www.artificialintelligence-news.com/news/wimbledon-ibm-ai-tools-live-match-coverage/",
+    "summary": "<p>The All England Lawn Tennis Club is adding new AI-powered features to Wimbledon’s digital platforms through its ongoing work with IBM. The updates will be available through the Wimbledon app and wimbledon.com as first-round matches begin on Monday. They include an upgraded Match Chat assistant an",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-06-29T10:00:00"
+  },
+  {
+    "id": 172,
+    "title": "Advances in Natural Language Processing Are Changing Professional Networking",
+    "url": "https://www.artificialintelligence-news.com/news/advances-in-natural-language-processing-are-changing-professional-networking/",
+    "summary": "<p>Natural language processing is reshaping professional communication on online platforms, enabling more relevant and personalised networking interactions. As AI-driven systems increasingly comprehend and generate human language, these technological advances affect how users pursue and maintain pro",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-29T08:59:46"
+  },
+  {
+    "id": 173,
+    "title": "Best Automated Security Testing Tools for Modern DevSecOps",
+    "url": "https://www.artificialintelligence-news.com/news/best-automated-security-testing-tools-for-modern-devsecops/",
+    "summary": "<p>Modern DevSecOps needs security checks that run before release day. Teams now write code, build services and deploy updates at a pace that manual review cannot match. That&#8217;s why they use automated testing, as it helps catch routine flaws before they reach production. The pressure has grown.",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-06-29T08:54:22"
+  },
+  {
+    "id": 174,
+    "title": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+    "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+    "summary": "<p>xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to account for physica",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-06-29T08:05:32"
   },
   {
     "id": 5,
