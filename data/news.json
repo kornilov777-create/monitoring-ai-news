@@ -45,6 +45,15 @@
     "published_at": "2026-07-10T14:00:00"
   },
   {
+    "id": 163,
+    "title": "How to shrink the token budget without shrinking the team",
+    "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+    "summary": "<p>Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token consumption came in under half their salary, &#",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-10T09:34:27"
+  },
+  {
     "id": 1,
     "title": "How Deutsche Telekom is rewiring telecommunications with AI",
     "url": "https://openai.com/index/deutsche-telekom",
@@ -207,6 +216,15 @@
     "published_at": "2026-07-09T15:50:00"
   },
   {
+    "id": 164,
+    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+    "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+    "summary": "<p>A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering an",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-09T15:43:09"
+  },
+  {
     "id": 2,
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -240,6 +258,15 @@
     "summary": "Details about the OpenAI Bio Bounty program",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00"
+  },
+  {
+    "id": 165,
+    "title": "NHS AI blood test could reduce invasive womb cancer checks",
+    "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+    "summary": "<p>Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing h",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
     "published_at": "2026-07-09T10:00:00"
   },
   {
@@ -297,6 +324,15 @@
     "published_at": "2026-07-07T14:45:00"
   },
   {
+    "id": 166,
+    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+    "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+    "summary": "<p>Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI medicine past early safety evaluations into late",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-07T14:00:06"
+  },
+  {
     "id": 127,
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -304,6 +340,15 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-07T11:10:52"
+  },
+  {
+    "id": 167,
+    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+    "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+    "summary": "<p>L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, te",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-07T10:00:00"
   },
   {
     "id": 10,
@@ -342,6 +387,24 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
+    "id": 168,
+    "title": "China’s AI companion rules: what Beijing is really going after",
+    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+    "summary": "<p>An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-06T11:00:00"
+  },
+  {
+    "id": 169,
+    "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "summary": "<p>Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collabora",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-03T10:00:00"
+  },
+  {
     "id": 129,
     "title": "Achieving operational excellence with AI",
     "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -349,6 +412,15 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-02T15:37:08"
+  },
+  {
+    "id": 170,
+    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+    "summary": "<p>Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital a",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-02T14:38:01"
   },
   {
     "id": 130,
@@ -369,6 +441,15 @@
     "published_at": "2026-07-01T20:30:00"
   },
   {
+    "id": 171,
+    "title": "Deploying retail AI to scale personalisation and customer insight",
+    "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+    "summary": "<p>Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight. Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-01T15:58:43"
+  },
+  {
     "id": 131,
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
@@ -376,6 +457,33 @@
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-07-01T14:35:16"
+  },
+  {
+    "id": 172,
+    "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
+    "url": "https://www.artificialintelligence-news.com/news/japan-ai-robots-2040-national-ai-model/",
+    "summary": "<p>Japan&#8217;s AI robots plan just went from a talking point to a formal national strategy. This week, the government confirmed the numbers everyone&#8217;s been quoting: 10 million AI-powered robots deployed across 18 industries by 2040, backed by public funding of up to one trillion yen, or roug",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-01T11:00:00"
+  },
+  {
+    "id": 173,
+    "title": "Bank of England reviews AI rules for agentic AI in finance",
+    "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+    "summary": "<p>The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act without direct human instr",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-01T10:00:00"
+  },
+  {
+    "id": 174,
+    "title": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+    "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+    "summary": "<p>Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the t",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-01T08:47:12"
   },
   {
     "id": 132,
