@@ -1,5 +1,59 @@
 [
   {
+    "id": 154,
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "summary": "<p>Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none of them use today",
+    "author": "",
+    "source": "VentureBeat AI",
+    "published_at": "2026-07-16T19:16:48"
+  },
+  {
+    "id": 155,
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "summary": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents s",
+    "author": "",
+    "source": "VentureBeat AI",
+    "published_at": "2026-07-16T19:02:38"
+  },
+  {
+    "id": 136,
+    "title": "Google Vids now lets you star in your own AI videos",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-16T18:32:54"
+  },
+  {
+    "id": 137,
+    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-16T18:22:06"
+  },
+  {
+    "id": 156,
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "summary": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define",
+    "author": "",
+    "source": "VentureBeat AI",
+    "published_at": "2026-07-16T17:06:08"
+  },
+  {
+    "id": 157,
+    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "summary": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated",
+    "author": "",
+    "source": "VentureBeat AI",
+    "published_at": "2026-07-16T16:40:48"
+  },
+  {
     "id": 1,
     "title": "Why teens deserve access to safe AI",
     "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
@@ -9,7 +63,7 @@
     "published_at": "2026-07-16T16:00:00"
   },
   {
-    "id": 136,
+    "id": 138,
     "title": "Google’s AI Mode now lets you link and interact with select apps",
     "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
     "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
@@ -18,7 +72,7 @@
     "published_at": "2026-07-16T16:00:00"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Yes, you can now order DoorDash from the command line",
     "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
     "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
@@ -27,7 +81,7 @@
     "published_at": "2026-07-16T15:38:55"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Why is OpenAI selling a ChatGPT basketball?",
     "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
     "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
@@ -36,7 +90,7 @@
     "published_at": "2026-07-16T15:31:09"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
     "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
     "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
@@ -45,7 +99,7 @@
     "published_at": "2026-07-16T15:02:00"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
     "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
     "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
@@ -54,7 +108,7 @@
     "published_at": "2026-07-16T14:40:00"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
     "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
     "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
@@ -63,22 +117,13 @@
     "published_at": "2026-07-16T14:26:29"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
     "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-07-16T13:17:59"
-  },
-  {
-    "id": 161,
-    "title": "Neko Health raises $700 million to expand AI body scans in the US",
-    "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-    "summary": "<p>Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by Lightspeed Venture P",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-16T09:00:00"
   },
   {
     "id": 76,
@@ -90,7 +135,7 @@
     "published_at": "2026-07-16T04:00:00"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
     "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
     "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
@@ -108,7 +153,7 @@
     "published_at": "2026-07-16T00:00:00"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
@@ -117,7 +162,7 @@
     "published_at": "2026-07-15T23:59:44"
   },
   {
-    "id": 154,
+    "id": 158,
     "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
     "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
     "summary": "<p>Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agen",
@@ -135,7 +180,7 @@
     "published_at": "2026-07-15T20:25:00"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
     "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
     "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
@@ -144,7 +189,7 @@
     "published_at": "2026-07-15T19:41:38"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
     "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
     "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
@@ -153,7 +198,7 @@
     "published_at": "2026-07-15T18:06:05"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
     "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
@@ -171,7 +216,7 @@
     "published_at": "2026-07-15T17:09:37"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
     "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
     "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
@@ -180,7 +225,7 @@
     "published_at": "2026-07-15T17:00:34"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
     "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
     "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
@@ -189,7 +234,7 @@
     "published_at": "2026-07-15T17:00:00"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
     "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
     "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
@@ -198,31 +243,13 @@
     "published_at": "2026-07-15T16:20:18"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
     "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
     "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs",
     "author": "Theresa Loconsolo",
     "source": "TechCrunch AI",
     "published_at": "2026-07-15T15:00:00"
-  },
-  {
-    "id": 152,
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "author": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-15T13:10:47"
-  },
-  {
-    "id": 153,
-    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-15T13:00:00"
   },
   {
     "id": 3,
@@ -243,15 +270,6 @@
     "published_at": "2026-07-15T10:00:00"
   },
   {
-    "id": 162,
-    "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
-    "url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
-    "summary": "<p>Nokia&#8217;s AI-RAN platform&#160;arrived&#160;on July 15 with a claim worth examining: that it is the industry&#8217;s first. The vendor says the platform, built on its anyRAN software and NVIDIA&#8217;s Aerial system, will let operators pull far more capacity from the spectrum they already own",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-15T08:30:00"
-  },
-  {
     "id": 78,
     "title": "Helping AI models to meet the real world",
     "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
@@ -268,15 +286,6 @@
     "author": "Department of Aeronautics and Astronautics",
     "source": "MIT News AI",
     "published_at": "2026-07-14T18:00:00"
-  },
-  {
-    "id": 163,
-    "title": "AWS and Bluesight build AI for hospital 340B compliance",
-    "url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
-    "summary": "<p>AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems, according to AWS vendor stateme",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-14T15:54:39"
   },
   {
     "id": 5,
@@ -333,15 +342,6 @@
     "published_at": "2026-07-13T18:00:00"
   },
   {
-    "id": 164,
-    "title": "AI agent crawlers now need permission. Here’s how to get it",
-    "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
-    "summary": "<p>AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the coverage since then has focused on Google. The mo",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-13T11:00:00"
-  },
-  {
     "id": 82,
     "title": "New method aims to keep kids safe from illegal AI-generated content",
     "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
@@ -349,15 +349,6 @@
     "author": "Adam Zewe | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-07-13T04:00:00"
-  },
-  {
-    "id": 165,
-    "title": "How to shrink the token budget without shrinking the team",
-    "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
-    "summary": "<p>Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token consumption came in under half their salary, &#",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-10T09:34:27"
   },
   {
     "id": 8,
@@ -396,15 +387,6 @@
     "published_at": "2026-07-09T15:50:00"
   },
   {
-    "id": 166,
-    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
-    "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
-    "summary": "<p>A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering an",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-09T15:43:09"
-  },
-  {
     "id": 10,
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -438,15 +420,6 @@
     "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00"
-  },
-  {
-    "id": 167,
-    "title": "NHS AI blood test could reduce invasive womb cancer checks",
-    "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-    "summary": "<p>Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing h",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
     "published_at": "2026-07-09T10:00:00"
   },
   {
@@ -504,15 +477,6 @@
     "published_at": "2026-07-07T14:45:00"
   },
   {
-    "id": 168,
-    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
-    "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
-    "summary": "<p>Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI medicine past early safety evaluations into late",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-07T14:00:06"
-  },
-  {
     "id": 129,
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -520,15 +484,6 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-07T11:10:52"
-  },
-  {
-    "id": 169,
-    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
-    "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
-    "summary": "<p>L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, te",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-07T10:00:00"
   },
   {
     "id": 18,
@@ -567,24 +522,6 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
-    "id": 170,
-    "title": "China’s AI companion rules: what Beijing is really going after",
-    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
-    "summary": "<p>An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-06T11:00:00"
-  },
-  {
-    "id": 171,
-    "title": "Takeda signs $600M AI drug discovery deal with Insilico",
-    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
-    "summary": "<p>Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collabora",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-03T10:00:00"
-  },
-  {
     "id": 131,
     "title": "Achieving operational excellence with AI",
     "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -592,15 +529,6 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-02T15:37:08"
-  },
-  {
-    "id": 172,
-    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-    "summary": "<p>Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital a",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-02T14:38:01"
   },
   {
     "id": 132,
@@ -1188,7 +1116,7 @@
     "published_at": "2026-05-19T21:10:00"
   },
   {
-    "id": 155,
+    "id": 159,
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
     "summary": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
@@ -1278,49 +1206,13 @@
     "published_at": "2026-04-22T19:15:00"
   },
   {
-    "id": 156,
+    "id": 160,
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
     "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
     "source": "VentureBeat AI",
     "published_at": "2026-01-22T14:00:00"
-  },
-  {
-    "id": 157,
-    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-    "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-    "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
-    "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-    "source": "VentureBeat AI",
-    "published_at": "2026-01-19T14:00:00"
-  },
-  {
-    "id": 158,
-    "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-    "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-    "summary": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
-    "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-    "source": "VentureBeat AI",
-    "published_at": "2026-01-16T14:01:00"
-  },
-  {
-    "id": 159,
-    "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-    "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
-    "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-    "source": "VentureBeat AI",
-    "published_at": "2026-01-13T13:00:00"
-  },
-  {
-    "id": 160,
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-techni",
-    "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-    "source": "VentureBeat AI",
-    "published_at": "2026-01-12T11:30:00"
   },
   {
     "id": 51,
