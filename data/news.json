@@ -1,5 +1,14 @@
 [
   {
+    "id": 163,
+    "title": "Neko Health raises $700 million to expand AI body scans in the US",
+    "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+    "summary": "<p>Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by Lightspeed Venture P",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-16T09:00:00"
+  },
+  {
     "id": 76,
     "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
     "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
@@ -189,6 +198,15 @@
     "published_at": "2026-07-15T10:00:00"
   },
   {
+    "id": 164,
+    "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
+    "url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
+    "summary": "<p>Nokia&#8217;s AI-RAN platform&#160;arrived&#160;on July 15 with a claim worth examining: that it is the industry&#8217;s first. The vendor says the platform, built on its anyRAN software and NVIDIA&#8217;s Aerial system, will let operators pull far more capacity from the spectrum they already own",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-15T08:30:00"
+  },
+  {
     "id": 151,
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
     "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
@@ -252,6 +270,15 @@
     "published_at": "2026-07-14T18:00:00"
   },
   {
+    "id": 165,
+    "title": "AWS and Bluesight build AI for hospital 340B compliance",
+    "url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
+    "summary": "<p>AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems, according to AWS vendor stateme",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-14T15:54:39"
+  },
+  {
     "id": 3,
     "title": "How to manage AI investments in the agentic era",
     "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
@@ -306,6 +333,15 @@
     "published_at": "2026-07-13T18:00:00"
   },
   {
+    "id": 166,
+    "title": "AI agent crawlers now need permission. Here’s how to get it",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+    "summary": "<p>AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the coverage since then has focused on Google. The mo",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-13T11:00:00"
+  },
+  {
     "id": 82,
     "title": "New method aims to keep kids safe from illegal AI-generated content",
     "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
@@ -313,6 +349,15 @@
     "author": "Adam Zewe | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-07-13T04:00:00"
+  },
+  {
+    "id": 167,
+    "title": "How to shrink the token budget without shrinking the team",
+    "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
+    "summary": "<p>Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token consumption came in under half their salary, &#",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-10T09:34:27"
   },
   {
     "id": 6,
@@ -351,6 +396,15 @@
     "published_at": "2026-07-09T15:50:00"
   },
   {
+    "id": 168,
+    "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
+    "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
+    "summary": "<p>A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering an",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-09T15:43:09"
+  },
+  {
     "id": 8,
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
@@ -384,6 +438,15 @@
     "summary": "Details about the OpenAI Bio Bounty program",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-07-09T10:00:00"
+  },
+  {
+    "id": 169,
+    "title": "NHS AI blood test could reduce invasive womb cancer checks",
+    "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
+    "summary": "<p>Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing h",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
     "published_at": "2026-07-09T10:00:00"
   },
   {
@@ -441,6 +504,15 @@
     "published_at": "2026-07-07T14:45:00"
   },
   {
+    "id": 170,
+    "title": "Insilico Medicine advances AI drug for IPF to Phase III trials",
+    "url": "https://www.artificialintelligence-news.com/news/insilico-medicine-advances-ai-drug-for-ipf-to-phase-iii-trials/",
+    "summary": "<p>Insilico Medicine is advancing to Phase III human trials for testing a drug identified by AI targeting idiopathic pulmonary fibrosis (IPF). This progression supplies the computational drug discovery sector with empirical test cases, advancing an AI medicine past early safety evaluations into late",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-07T14:00:06"
+  },
+  {
     "id": 129,
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
@@ -448,6 +520,15 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-07T11:10:52"
+  },
+  {
+    "id": 171,
+    "title": "L’Oreal, Mondelez, and Nestle use AI to speed product development",
+    "url": "https://www.artificialintelligence-news.com/news/ai-product-development-loreal-mondelez-nestle/",
+    "summary": "<p>L’Oreal is using AI to shorten product development timelines and identify new uses for ingredients already present in its portfolio. The French cosmetics group has applied AI in its laboratories for the past four years, with Fabrice Megarbane, president of L’Oreal’s consumer products division, te",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-07T10:00:00"
   },
   {
     "id": 16,
@@ -486,6 +567,24 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
+    "id": 172,
+    "title": "China’s AI companion rules: what Beijing is really going after",
+    "url": "https://www.artificialintelligence-news.com/news/china-ai-companion-rules/",
+    "summary": "<p>An AI companion sounds dystopian, but it has become a common thread in the wider conversation about the perils of generative AI. What it refers to is essentially a conversational agent built to sustain an ongoing, personal relationship with a user, with the memory and steady persona that keep it ",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-07-06T11:00:00"
+  },
+  {
+    "id": 173,
+    "title": "Takeda signs $600M AI drug discovery deal with Insilico",
+    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "summary": "<p>Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered under the collabora",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-03T10:00:00"
+  },
+  {
     "id": 131,
     "title": "Achieving operational excellence with AI",
     "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -493,6 +592,15 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-02T15:37:08"
+  },
+  {
+    "id": 174,
+    "title": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+    "summary": "<p>Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse directly with digital a",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-07-02T14:38:01"
   },
   {
     "id": 132,
