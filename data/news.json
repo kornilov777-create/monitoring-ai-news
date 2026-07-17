@@ -1,5 +1,23 @@
 [
   {
+    "id": 136,
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-17T12:00:00"
+  },
+  {
+    "id": 126,
+    "title": "The risk of weather data sabotage is rising",
+    "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
+    "author": "Monique Kuglitsch, Jesper Dramsch, Franz G. Kuglitsch, Andrea Toreti",
+    "source": "MIT Technology Review",
+    "published_at": "2026-07-17T08:57:32"
+  },
+  {
     "id": 154,
     "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
     "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
@@ -18,7 +36,7 @@
     "published_at": "2026-07-16T19:02:38"
   },
   {
-    "id": 136,
+    "id": 137,
     "title": "Google Vids now lets you star in your own AI videos",
     "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
@@ -27,7 +45,7 @@
     "published_at": "2026-07-16T18:32:54"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
     "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
@@ -63,7 +81,7 @@
     "published_at": "2026-07-16T16:00:00"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Google’s AI Mode now lets you link and interact with select apps",
     "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
     "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
@@ -72,7 +90,7 @@
     "published_at": "2026-07-16T16:00:00"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Yes, you can now order DoorDash from the command line",
     "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
     "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
@@ -81,7 +99,7 @@
     "published_at": "2026-07-16T15:38:55"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Why is OpenAI selling a ChatGPT basketball?",
     "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
     "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
@@ -90,7 +108,7 @@
     "published_at": "2026-07-16T15:31:09"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
     "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
     "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
@@ -99,7 +117,7 @@
     "published_at": "2026-07-16T15:02:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
     "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
     "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
@@ -108,7 +126,7 @@
     "published_at": "2026-07-16T14:40:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
     "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
     "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
@@ -117,7 +135,7 @@
     "published_at": "2026-07-16T14:26:29"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
     "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
@@ -135,7 +153,7 @@
     "published_at": "2026-07-16T04:00:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
     "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
     "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
@@ -153,7 +171,7 @@
     "published_at": "2026-07-16T00:00:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
@@ -180,7 +198,7 @@
     "published_at": "2026-07-15T20:25:00"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
     "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
     "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
@@ -189,7 +207,7 @@
     "published_at": "2026-07-15T19:41:38"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
     "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
     "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
@@ -198,7 +216,7 @@
     "published_at": "2026-07-15T18:06:05"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
     "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
@@ -207,7 +225,7 @@
     "published_at": "2026-07-15T18:04:06"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
     "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
@@ -216,7 +234,7 @@
     "published_at": "2026-07-15T17:09:37"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
     "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
     "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
@@ -225,7 +243,7 @@
     "published_at": "2026-07-15T17:00:34"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
     "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
     "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
@@ -234,22 +252,13 @@
     "published_at": "2026-07-15T17:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
     "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
     "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
     "author": "Zack Whittaker",
     "source": "TechCrunch AI",
     "published_at": "2026-07-15T16:20:18"
-  },
-  {
-    "id": 153,
-    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-    "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs",
-    "author": "Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-15T15:00:00"
   },
   {
     "id": 3,
@@ -333,7 +342,7 @@
     "published_at": "2026-07-13T18:50:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
@@ -369,7 +378,7 @@
     "published_at": "2026-07-10T00:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
@@ -477,7 +486,7 @@
     "published_at": "2026-07-07T14:45:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
     "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
@@ -513,7 +522,7 @@
     "published_at": "2026-07-06T19:50:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Your family’s $300 stake in OpenAI",
     "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial ",
@@ -522,7 +531,7 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Achieving operational excellence with AI",
     "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
     "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
@@ -531,7 +540,7 @@
     "published_at": "2026-07-02T15:37:08"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Building the foundation for an autonomous enterprise",
     "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
     "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
@@ -549,7 +558,7 @@
     "published_at": "2026-07-01T20:30:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
     "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
@@ -558,7 +567,7 @@
     "published_at": "2026-07-01T14:35:16"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Claude Science is Anthropic’s newest flagship product",
     "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
     "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously c",
@@ -574,15 +583,6 @@
     "author": "Adam Zewe | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-06-30T15:30:00"
-  },
-  {
-    "id": 135,
-    "title": "Agriculture is ready for AI, but its data isn’t",
-    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins ",
-    "author": "Carole Hill, Manish Sood",
-    "source": "MIT Technology Review",
-    "published_at": "2026-06-30T12:00:00"
   },
   {
     "id": 20,
