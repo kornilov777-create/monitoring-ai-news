@@ -1,6 +1,33 @@
 [
   {
+    "id": 126,
+    "title": "Advancing next-gen AI with materials science innovation",
+    "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ",
+    "author": "Christine McGuiness and Devang Khariwala",
+    "source": "MIT Technology Review",
+    "published_at": "2026-07-21T10:37:34"
+  },
+  {
+    "id": 136,
+    "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "summary": "Gritt is coming out of stealth with $34 million and plan to automate the hardest tasks on construction sites.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-21T10:00:00"
+  },
+  {
     "id": 163,
+    "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
+    "url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
+    "summary": "<p>Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations. The pharmaceutical company said it will be the first life sciences group to acquire a DGX SuperPO",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-07-21T10:00:00"
+  },
+  {
+    "id": 164,
     "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
     "url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
     "summary": "<p>Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year. Moonshot AI&#8217;s Kimi K3 arrived on July 16 as the largest open-weight model yet released, and within days it had reop",
@@ -9,7 +36,7 @@
     "published_at": "2026-07-21T08:00:00"
   },
   {
-    "id": 136,
+    "id": 137,
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
@@ -18,7 +45,7 @@
     "published_at": "2026-07-21T00:12:24"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Trump’s latest AI czar has already resigned",
     "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
@@ -27,7 +54,7 @@
     "published_at": "2026-07-20T22:21:04"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Google is working on a new AI chip designed to make Gemini more efficient",
     "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
@@ -36,7 +63,7 @@
     "published_at": "2026-07-20T21:21:15"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "AI’s most important protocol is getting a little bit easier to use",
     "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
@@ -45,7 +72,7 @@
     "published_at": "2026-07-20T20:50:40"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "X relaunches a rebuilt Android app after year-long effort",
     "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
     "summary": "X says the rebuilt version of its Android app is now available globally.",
@@ -54,7 +81,7 @@
     "published_at": "2026-07-20T19:37:39"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "OpenAI is scared of open-weight models. Should the US be?",
     "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
     "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
@@ -63,7 +90,7 @@
     "published_at": "2026-07-20T19:33:25"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
@@ -72,7 +99,7 @@
     "published_at": "2026-07-20T18:00:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Adobe camera app’s new feature will critique your photos using AI",
     "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
     "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
@@ -81,7 +108,7 @@
     "published_at": "2026-07-20T15:45:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "YouTube clarifies policies around AI slop and upsetting videos",
     "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
     "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
@@ -99,7 +126,7 @@
     "published_at": "2026-07-20T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "US public health agencies to test OpenAI and Anthropic AI models",
     "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
     "summary": "<p>Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, o",
@@ -108,7 +135,7 @@
     "published_at": "2026-07-20T10:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
     "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
     "summary": "<p>Moonshot AI&#8217;s Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds ",
@@ -117,7 +144,7 @@
     "published_at": "2026-07-20T09:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "AI is more likely than humans to form biases when hiring",
     "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
     "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi",
@@ -126,7 +153,7 @@
     "published_at": "2026-07-20T08:39:01"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "What to watch for after Jensen Huang’s Japan visit",
     "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
@@ -135,7 +162,7 @@
     "published_at": "2026-07-19T21:16:07"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
     "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
@@ -144,7 +171,7 @@
     "published_at": "2026-07-19T19:24:45"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
     "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
     "summary": "\"Everybody knows the Greeks are inside.\"",
@@ -153,7 +180,7 @@
     "published_at": "2026-07-19T14:52:08"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
     "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
@@ -162,7 +189,7 @@
     "published_at": "2026-07-19T14:00:00"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Kimi: Threat or menace?",
     "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
@@ -171,7 +198,7 @@
     "published_at": "2026-07-18T18:51:07"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Neil Rimer thinks the AI money is coming back out",
     "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
@@ -180,7 +207,7 @@
     "published_at": "2026-07-18T04:47:25"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
     "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
@@ -189,7 +216,7 @@
     "published_at": "2026-07-17T22:55:09"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
     "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
@@ -198,7 +225,7 @@
     "published_at": "2026-07-17T22:12:56"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "The Zoom hack that says, ‘Don’t record me’",
     "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
     "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
@@ -207,7 +234,7 @@
     "published_at": "2026-07-17T21:20:47"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Agility Robotics plants its flag in Tesla’s backyard",
     "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
     "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
@@ -216,22 +243,13 @@
     "published_at": "2026-07-17T20:19:49"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "AI-driven memory crunch jolts India’s smartphone market",
     "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
     "author": "Jagmeet Singh",
     "source": "TechCrunch AI",
     "published_at": "2026-07-17T20:09:27"
-  },
-  {
-    "id": 155,
-    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
-    "author": "Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-17T17:45:46"
   },
   {
     "id": 76,
@@ -243,7 +261,7 @@
     "published_at": "2026-07-17T17:25:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
     "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
     "summary": "<p>Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total doesn&#8217;t answer the ",
@@ -261,7 +279,7 @@
     "published_at": "2026-07-17T10:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "The risk of weather data sabotage is rising",
     "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, wit",
@@ -297,7 +315,7 @@
     "published_at": "2026-07-16T17:06:08"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "Examining Google DeepMind’s AI bioresilience push",
     "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
     "summary": "<p>Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity ",
@@ -324,7 +342,7 @@
     "published_at": "2026-07-16T16:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Neko Health raises $700 million to expand AI body scans in the US",
     "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
     "summary": "<p>Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by Lightspeed Venture P",
@@ -369,7 +387,7 @@
     "published_at": "2026-07-15T20:25:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
     "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m",
@@ -396,7 +414,7 @@
     "published_at": "2026-07-15T10:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
     "url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
     "summary": "<p>Nokia&#8217;s AI-RAN platform&#160;arrived&#160;on July 15 with a claim worth examining: that it is the industry&#8217;s first. The vendor says the platform, built on its anyRAN software and NVIDIA&#8217;s Aerial system, will let operators pull far more capacity from the spectrum they already own",
@@ -423,7 +441,7 @@
     "published_at": "2026-07-14T18:00:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "AWS and Bluesight build AI for hospital 340B compliance",
     "url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
     "summary": "<p>AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems, according to AWS vendor stateme",
@@ -477,7 +495,7 @@
     "published_at": "2026-07-13T18:50:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
     "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s loo",
@@ -486,7 +504,7 @@
     "published_at": "2026-07-13T18:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "AI agent crawlers now need permission. Here’s how to get it",
     "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
     "summary": "<p>AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the coverage since then has focused on Google. The mo",
@@ -504,7 +522,7 @@
     "published_at": "2026-07-13T04:00:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "How to shrink the token budget without shrinking the team",
     "url": "https://www.artificialintelligence-news.com/news/shrink-token-budget-not-team/",
     "summary": "<p>Jensen Huang has a test for whether an engineer is worth keeping, and it comes with a token budget attached. Speaking on the All-In Podcast at the close of GTC 2026, the Nvidia chief executive said that if a $500,000 engineer&#8217;s annual AI token consumption came in under half their salary, &#",
@@ -531,7 +549,7 @@
     "published_at": "2026-07-10T00:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Anthropic found a hidden space where Claude puzzles over concepts",
     "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the ",
@@ -549,7 +567,7 @@
     "published_at": "2026-07-09T15:50:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "AWS GraphRAG deployment cuts drug research cycles by 87%",
     "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
     "summary": "<p>A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically, initial data gathering an",
@@ -591,15 +609,6 @@
     "summary": "Details about the OpenAI Bio Bounty program",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-07-09T10:00:00"
-  },
-  {
-    "id": 174,
-    "title": "NHS AI blood test could reduce invasive womb cancer checks",
-    "url": "https://www.artificialintelligence-news.com/news/nhs-ai-blood-test-womb-cancer-checks/",
-    "summary": "<p>Several NHS hospitals are preparing to use an AI-powered blood test to help assess women referred for possible womb cancer before invasive checks are carried out. According to The Guardian, around 90,000 postmenopausal women in England are referred by GPs each year for checks after experiencing h",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
     "published_at": "2026-07-09T10:00:00"
   },
   {
@@ -657,7 +666,7 @@
     "published_at": "2026-07-07T14:45:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "The foundational elements of AI architecture that IT leaders need to scale",
     "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
     "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the futur",
@@ -693,7 +702,7 @@
     "published_at": "2026-07-06T19:50:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Your family’s $300 stake in OpenAI",
     "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial ",
@@ -702,22 +711,13 @@
     "published_at": "2026-07-06T18:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Achieving operational excellence with AI",
     "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
     "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how wo",
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-07-02T15:37:08"
-  },
-  {
-    "id": 135,
-    "title": "Building the foundation for an autonomous enterprise",
-    "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
-    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is beco",
-    "author": "MIT Technology Review Insights",
-    "source": "MIT Technology Review",
-    "published_at": "2026-07-02T12:51:44"
   },
   {
     "id": 88,
