@@ -1,24 +1,33 @@
 [
   {
     "id": 136,
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+    "author": "Connie Loizos",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-22T03:20:57"
+  },
+  {
+    "id": 137,
     "title": "Meta is testing an AI bedtime story app for people with no imagination",
     "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "summary": "Meta's StoryKit app is only available in certain regions while the company tests how parents react to it.",
+    "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
     "author": "Amanda Silberling",
     "source": "TechCrunch AI",
     "published_at": "2026-07-21T23:55:10"
   },
   {
-    "id": 137,
-    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "id": 138,
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
     "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
     "author": "Russell Brandom",
     "source": "TechCrunch AI",
     "published_at": "2026-07-21T20:56:55"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
     "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
     "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
@@ -27,7 +36,7 @@
     "published_at": "2026-07-21T19:43:41"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "AI and the rise of the universal entertainment app",
     "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
     "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become",
@@ -36,7 +45,7 @@
     "published_at": "2026-07-21T19:39:30"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Data centers expected to use 4x more electricity by 2035",
     "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
     "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
@@ -45,7 +54,7 @@
     "published_at": "2026-07-21T18:06:38"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Google releases three new Gemini models — but no 3.5 Pro",
     "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
     "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
@@ -63,16 +72,7 @@
     "published_at": "2026-07-21T17:00:00"
   },
   {
-    "id": 163,
-    "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs",
-    "url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
-    "summary": "<p>Google has released Gemini 3.6 Flash and 3.5 Flash-Lite as new workhorses designed to cut latency and token costs for enterprise AI agents. The economics of running autonomous software agents inside a production environment come down to a fixed equation few vendors advertise directly. A model nee",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-21T16:06:55"
-  },
-  {
-    "id": 142,
+    "id": 143,
     "title": "US threatens sanctions against Chinese AI models over IP theft",
     "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
     "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
@@ -81,22 +81,13 @@
     "published_at": "2026-07-21T15:37:05"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
     "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
     "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-07-21T13:27:42"
-  },
-  {
-    "id": 164,
-    "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
-    "url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
-    "summary": "<p>You open a generative AI tool expecting a quick boost. Ten minutes later, you&#8217;re still there, refining a prompt for the fourth time. The task you started with has drifted off to the side somewhere. Sound familiar? Knowledge workers in 2026 are running into this more and more. It makes sense",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-07-21T12:50:06"
   },
   {
     "id": 126,
@@ -108,31 +99,13 @@
     "published_at": "2026-07-21T10:37:34"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
     "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
     "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
     "author": "Tim Fernholz",
     "source": "TechCrunch AI",
     "published_at": "2026-07-21T10:00:00"
-  },
-  {
-    "id": 165,
-    "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
-    "url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
-    "summary": "<p>Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations. The pharmaceutical company said it will be the first life sciences group to acquire a DGX SuperPO",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-21T10:00:00"
-  },
-  {
-    "id": 166,
-    "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
-    "url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-    "summary": "<p>Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year. Moonshot AI&#8217;s Kimi K3 arrived on July 16 as the largest open-weight model yet released, and within days it had reop",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-21T08:00:00"
   },
   {
     "id": 2,
@@ -144,7 +117,7 @@
     "published_at": "2026-07-21T07:00:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
@@ -162,7 +135,7 @@
     "published_at": "2026-07-21T00:00:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Trump’s latest AI czar has already resigned",
     "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
@@ -171,7 +144,7 @@
     "published_at": "2026-07-20T22:21:04"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Google is working on a new AI chip designed to make Gemini more efficient",
     "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
@@ -180,7 +153,7 @@
     "published_at": "2026-07-20T21:21:15"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "AI’s most important protocol is getting a little bit easier to use",
     "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "summary": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
@@ -189,7 +162,7 @@
     "published_at": "2026-07-20T20:50:40"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "X relaunches a rebuilt Android app after year-long effort",
     "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
     "summary": "X says the rebuilt version of its Android app is now available globally.",
@@ -198,7 +171,7 @@
     "published_at": "2026-07-20T19:37:39"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "OpenAI is scared of open-weight models. Should the US be?",
     "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
     "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
@@ -216,7 +189,7 @@
     "published_at": "2026-07-20T18:00:00"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Adobe camera app’s new feature will critique your photos using AI",
     "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
     "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
@@ -225,7 +198,7 @@
     "published_at": "2026-07-20T15:45:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "YouTube clarifies policies around AI slop and upsetting videos",
     "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
     "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
@@ -243,24 +216,6 @@
     "published_at": "2026-07-20T10:00:00"
   },
   {
-    "id": 167,
-    "title": "US public health agencies to test OpenAI and Anthropic AI models",
-    "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-    "summary": "<p>Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, o",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-20T10:00:00"
-  },
-  {
-    "id": 168,
-    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-    "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-    "summary": "<p>Moonshot AI&#8217;s Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-20T09:00:00"
-  },
-  {
     "id": 128,
     "title": "AI is more likely than humans to form biases when hiring",
     "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
@@ -270,7 +225,7 @@
     "published_at": "2026-07-20T08:39:01"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "What to watch for after Jensen Huang’s Japan visit",
     "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
@@ -279,22 +234,13 @@
     "published_at": "2026-07-19T21:16:07"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
     "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
     "author": "Anthony Ha",
     "source": "TechCrunch AI",
     "published_at": "2026-07-19T19:24:45"
-  },
-  {
-    "id": 155,
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "summary": "\"Everybody knows the Greeks are inside.\"",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-19T14:52:08"
   },
   {
     "id": 76,
@@ -304,15 +250,6 @@
     "author": "Michaela Jarvis | MIT Laboratory for Information and Decision Systems",
     "source": "MIT News AI",
     "published_at": "2026-07-17T17:25:00"
-  },
-  {
-    "id": 169,
-    "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-    "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-    "summary": "<p>Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total doesn&#8217;t answer the ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-17T16:00:30"
   },
   {
     "id": 5,
@@ -360,15 +297,6 @@
     "published_at": "2026-07-16T17:06:08"
   },
   {
-    "id": 170,
-    "title": "Examining Google DeepMind’s AI bioresilience push",
-    "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-    "summary": "<p>Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-16T16:48:23"
-  },
-  {
     "id": 159,
     "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
     "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
@@ -385,15 +313,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-07-16T16:00:00"
-  },
-  {
-    "id": 171,
-    "title": "Neko Health raises $700 million to expand AI body scans in the US",
-    "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-    "summary": "<p>Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company’s preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by Lightspeed Venture P",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-16T09:00:00"
   },
   {
     "id": 77,
@@ -459,15 +378,6 @@
     "published_at": "2026-07-15T10:00:00"
   },
   {
-    "id": 172,
-    "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
-    "url": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
-    "summary": "<p>Nokia&#8217;s AI-RAN platform&#160;arrived&#160;on July 15 with a claim worth examining: that it is the industry&#8217;s first. The vendor says the platform, built on its anyRAN software and NVIDIA&#8217;s Aerial system, will let operators pull far more capacity from the spectrum they already own",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-15T08:30:00"
-  },
-  {
     "id": 79,
     "title": "Helping AI models to meet the real world",
     "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
@@ -484,15 +394,6 @@
     "author": "Department of Aeronautics and Astronautics",
     "source": "MIT News AI",
     "published_at": "2026-07-14T18:00:00"
-  },
-  {
-    "id": 173,
-    "title": "AWS and Bluesight build AI for hospital 340B compliance",
-    "url": "https://www.artificialintelligence-news.com/news/aws-and-bluesight-build-ai-for-hospital-340b-compliance/",
-    "summary": "<p>AWS (Amazon Web Services) has explained how Bluesight developed Prism, an AI layer that connects hospital pharmacy and compliance data across its product suite. Prism Assistant for ControlCheck has reached general availability and operates across 20 health systems, according to AWS vendor stateme",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-14T15:54:39"
   },
   {
     "id": 10,
@@ -547,15 +448,6 @@
     "author": "James O'Donnell",
     "source": "MIT Technology Review",
     "published_at": "2026-07-13T18:00:00"
-  },
-  {
-    "id": 174,
-    "title": "AI agent crawlers now need permission. Here’s how to get it",
-    "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
-    "summary": "<p>AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare&#160;announced&#160;the change on July 1, and most of the coverage since then has focused on Google. The mo",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-13T11:00:00"
   },
   {
     "id": 83,
