@@ -1,12 +1,39 @@
 [
   {
-    "id": 163,
-    "title": "OpenAI Presence sells enterprise AI agents with engineers attached",
-    "url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
-    "summary": "<p>The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence,&#160;announced&#160;on July 22, is a managed product delivered through a limited general availability programme, and the company states plainly that it is not yet available as a self-s",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-24T08:00:00"
+    "id": 136,
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "author": "Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-24T15:51:49"
+  },
+  {
+    "id": 137,
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-24T15:13:57"
+  },
+  {
+    "id": 138,
+    "title": "Midjourney acquired the astrology app Co-Star",
+    "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+    "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-24T15:09:55"
+  },
+  {
+    "id": 139,
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-07-24T13:36:42"
   },
   {
     "id": 76,
@@ -18,7 +45,7 @@
     "published_at": "2026-07-24T04:00:00"
   },
   {
-    "id": 136,
+    "id": 140,
     "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
     "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
     "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
@@ -27,7 +54,7 @@
     "published_at": "2026-07-24T01:00:00"
   },
   {
-    "id": 137,
+    "id": 141,
     "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
     "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
@@ -36,7 +63,7 @@
     "published_at": "2026-07-23T20:33:02"
   },
   {
-    "id": 138,
+    "id": 142,
     "title": "Anthropic updates Claude voice mode with more capable models",
     "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
@@ -45,7 +72,7 @@
     "published_at": "2026-07-23T19:00:00"
   },
   {
-    "id": 139,
+    "id": 143,
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
     "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
@@ -54,7 +81,7 @@
     "published_at": "2026-07-23T18:38:34"
   },
   {
-    "id": 140,
+    "id": 144,
     "title": "Runway launches AI model router as generative media gets crowded",
     "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
@@ -63,7 +90,7 @@
     "published_at": "2026-07-23T17:07:35"
   },
   {
-    "id": 141,
+    "id": 145,
     "title": "OpenAI makes ChatGPT Health available to all US users",
     "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
     "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
@@ -72,7 +99,7 @@
     "published_at": "2026-07-23T17:00:00"
   },
   {
-    "id": 142,
+    "id": 146,
     "title": "Meta launched a new AI optimism ad set to a song about human extinction",
     "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
     "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
@@ -81,7 +108,7 @@
     "published_at": "2026-07-23T16:28:50"
   },
   {
-    "id": 143,
+    "id": 147,
     "title": "Nvidia is sending GPUs to the moon",
     "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
     "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
@@ -90,7 +117,7 @@
     "published_at": "2026-07-23T15:00:00"
   },
   {
-    "id": 144,
+    "id": 148,
     "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
     "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
     "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
@@ -99,7 +126,7 @@
     "published_at": "2026-07-23T15:00:00"
   },
   {
-    "id": 145,
+    "id": 149,
     "title": "Google’s Gemini nears billion-user milestone",
     "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
     "summary": "Gemini had over 750 million monthly users in February.",
@@ -126,16 +153,7 @@
     "published_at": "2026-07-23T12:00:00"
   },
   {
-    "id": 164,
-    "title": "Nvidia bets physical AI can solve healthcare robotics’ data problem",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-bets-physical-ai-solve-healthcare-robotics-data-problem/",
-    "summary": "<p>Nvidia&#8217;s new Medical Physics Simulation framework treats healthcare robots as physical AI systems that need embodied experience to learn, not just code. Physical AI is the term Nvidia and much of the robotics industry now use to describe machines that have to learn how the world behaves thr",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-23T11:38:55"
-  },
-  {
-    "id": 146,
+    "id": 150,
     "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
     "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
     "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
@@ -144,16 +162,7 @@
     "published_at": "2026-07-23T11:00:00"
   },
   {
-    "id": 165,
-    "title": "AMD to invest up to $5 billion in Anthropic under AI infrastructure deal",
-    "url": "https://www.artificialintelligence-news.com/news/amd-anthropic-ai-infrastructure-deal/",
-    "summary": "<p>AMD has agreed to invest up to $5 billion in Anthropic under an infrastructure agreement covering tens of billions of dollars’ worth of AI systems. Anthropic will deploy up to two gigawatts of capacity using AMD’s Instinct MI450-series accelerators, with deployment of the first gigawatt beginning",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-23T10:00:00"
-  },
-  {
-    "id": 147,
+    "id": 151,
     "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
     "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
     "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
@@ -171,7 +180,7 @@
     "published_at": "2026-07-23T00:00:00"
   },
   {
-    "id": 148,
+    "id": 152,
     "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
     "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
     "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
@@ -180,7 +189,7 @@
     "published_at": "2026-07-22T23:47:54"
   },
   {
-    "id": 149,
+    "id": 153,
     "title": "Google justifies its massive AI spending with a booming cloud business",
     "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
     "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
@@ -189,7 +198,7 @@
     "published_at": "2026-07-22T22:01:52"
   },
   {
-    "id": 150,
+    "id": 154,
     "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
     "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
     "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
@@ -198,40 +207,13 @@
     "published_at": "2026-07-22T20:49:03"
   },
   {
-    "id": 151,
+    "id": 155,
     "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
     "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
     "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
     "author": "Lorenzo Franceschi-Bicchierai",
     "source": "TechCrunch AI",
     "published_at": "2026-07-22T19:11:46"
-  },
-  {
-    "id": 152,
-    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-    "author": "Sean O'Kane",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-22T18:50:44"
-  },
-  {
-    "id": 153,
-    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-    "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-22T18:13:58"
-  },
-  {
-    "id": 154,
-    "title": "Monday.com lays off hundreds to focus on AI",
-    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-    "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
-    "author": "Ram Iyer",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-22T17:54:14"
   },
   {
     "id": 78,
@@ -241,15 +223,6 @@
     "author": "Jane Halpern | Department of Electrical Engineering and Computer Science",
     "source": "MIT News AI",
     "published_at": "2026-07-22T17:00:00"
-  },
-  {
-    "id": 155,
-    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-22T16:24:08"
   },
   {
     "id": 2,
@@ -279,15 +252,6 @@
     "published_at": "2026-07-22T12:00:00"
   },
   {
-    "id": 166,
-    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
-    "url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
-    "summary": "<p>SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China. In a keynote titled ‘Intelligent Transformation and Symbiosis,’ Yang Fan – the company’s co-founder and president of its Large Device Business Group – laid out what SenseT",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-22T11:21:05"
-  },
-  {
     "id": 5,
     "title": "Introducing OpenAI Presence",
     "url": "https://openai.com/index/introducing-openai-presence",
@@ -315,24 +279,6 @@
     "published_at": "2026-07-21T17:00:00"
   },
   {
-    "id": 167,
-    "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs",
-    "url": "https://www.artificialintelligence-news.com/news/googles-gemini-3-6-flash-targets-enterprise-agent-token-costs/",
-    "summary": "<p>Google has released Gemini 3.6 Flash and 3.5 Flash-Lite as new workhorses designed to cut latency and token costs for enterprise AI agents. The economics of running autonomous software agents inside a production environment come down to a fixed equation few vendors advertise directly. A model nee",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-21T16:06:55"
-  },
-  {
-    "id": 168,
-    "title": "The AI Slot Machine Effect: Why Generative Feeds Disrupt Deep Work And How to Reclaim Focus",
-    "url": "https://www.artificialintelligence-news.com/news/the-ai-slot-machine-effect-why-generative-feeds-disrupt-deep-work-and-how-to-reclaim-focus/",
-    "summary": "<p>You open a generative AI tool expecting a quick boost. Ten minutes later, you&#8217;re still there, refining a prompt for the fourth time. The task you started with has drifted off to the side somewhere. Sound familiar? Knowledge workers in 2026 are running into this more and more. It makes sense",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-07-21T12:50:06"
-  },
-  {
     "id": 127,
     "title": "Advancing next-gen AI with materials science innovation",
     "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
@@ -340,24 +286,6 @@
     "author": "Christine McGuiness and Devang Khariwala",
     "source": "MIT Technology Review",
     "published_at": "2026-07-21T10:37:34"
-  },
-  {
-    "id": 169,
-    "title": "Bristol Myers Squibb buys Nvidia AI system for drug discovery",
-    "url": "https://www.artificialintelligence-news.com/news/bristol-myers-squibb-nvidia-ai-system-drug-discovery/",
-    "summary": "<p>Bristol Myers Squibb is purchasing an Nvidia DGX SuperPOD built on the chipmaker’s Vera Rubin architecture to support artificial intelligence use across its drug discovery and development operations. The pharmaceutical company said it will be the first life sciences group to acquire a DGX SuperPO",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-21T10:00:00"
-  },
-  {
-    "id": 170,
-    "title": "Chinese open-weight models are cheap. Washington is deciding what that costs.",
-    "url": "https://www.artificialintelligence-news.com/news/chinese-open-weight-models-policy-risk/",
-    "summary": "<p>Enterprises evaluating Chinese open-weight models this month face a question that has nothing to do with benchmarks: whether using one will still be straightforward in a year. Moonshot AI&#8217;s Kimi K3 arrived on July 16 as the largest open-weight model yet released, and within days it had reop",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-21T08:00:00"
   },
   {
     "id": 8,
@@ -396,24 +324,6 @@
     "published_at": "2026-07-20T10:00:00"
   },
   {
-    "id": 171,
-    "title": "US public health agencies to test OpenAI and Anthropic AI models",
-    "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
-    "summary": "<p>Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture. The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, o",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-07-20T10:00:00"
-  },
-  {
-    "id": 172,
-    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
-    "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
-    "summary": "<p>Moonshot AI&#8217;s Kimi K3 open-weight model has been read almost entirely through its parameter count since it&#160;launchedon July 16. At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-07-20T09:00:00"
-  },
-  {
     "id": 129,
     "title": "AI is more likely than humans to form biases when hiring",
     "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
@@ -432,15 +342,6 @@
     "published_at": "2026-07-17T17:25:00"
   },
   {
-    "id": 173,
-    "title": "Bunkerhill raises $55M to scale agentic AI across health systems",
-    "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-    "summary": "<p>Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company’s Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total doesn&#8217;t answer the ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-17T16:00:30"
-  },
-  {
     "id": 11,
     "title": "A scorecard for the AI age",
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -457,15 +358,6 @@
     "author": "Monique Kuglitsch, Jesper Dramsch, Franz G. Kuglitsch, Andrea Toreti",
     "source": "MIT Technology Review",
     "published_at": "2026-07-17T08:57:32"
-  },
-  {
-    "id": 174,
-    "title": "Examining Google DeepMind’s AI bioresilience push",
-    "url": "https://www.artificialintelligence-news.com/news/examining-google-deepmind-ai-bioresilience-push/",
-    "summary": "<p>Google DeepMind and Isomorphic Labs outlined a bioresilience program to curb AI misuse in biology while aiding outbreak response. The two organisations published an update on a joint initiative that began quietly and has now built out more than 15 partnerships with government bodies, biosecurity ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-16T16:48:23"
   },
   {
     "id": 12,
