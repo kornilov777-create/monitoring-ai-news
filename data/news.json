@@ -1,5 +1,14 @@
 [
   {
+    "id": 126,
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
+    "author": "Grace Huckins",
+    "source": "MIT Technology Review",
+    "published_at": "2026-08-03T08:30:05"
+  },
+  {
     "id": 136,
     "title": "Sam Altman and AI’s decel debate",
     "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -243,7 +252,7 @@
     "published_at": "2026-07-30T19:44:16"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
     "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
@@ -297,7 +306,7 @@
     "published_at": "2026-07-29T10:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "The AI Hype Index: Unsexy AI",
     "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
@@ -324,7 +333,7 @@
     "published_at": "2026-07-28T17:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
     "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
@@ -333,7 +342,7 @@
     "published_at": "2026-07-28T09:18:57"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
     "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
@@ -342,7 +351,7 @@
     "published_at": "2026-07-27T18:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "The path to artificial superintelligence",
     "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
     "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
@@ -351,7 +360,7 @@
     "published_at": "2026-07-27T12:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Closing the data loop in AI-driven drug discovery",
     "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
     "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
@@ -360,7 +369,7 @@
     "published_at": "2026-07-27T11:40:16"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Building the enterprise environment for agentic AI",
     "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
     "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p",
@@ -396,7 +405,7 @@
     "published_at": "2026-07-23T12:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "How AI helps scientists design the next generation of medicines",
     "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
     "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered pro",
@@ -477,7 +486,7 @@
     "published_at": "2026-07-21T17:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Advancing next-gen AI with materials science innovation",
     "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI ",
@@ -502,15 +511,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-07-21T00:00:00"
-  },
-  {
-    "id": 135,
-    "title": "China’s AI models have Trump’s AI world at war with itself",
-    "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sa",
-    "author": "James O'Donnell",
-    "source": "MIT Technology Review",
-    "published_at": "2026-07-20T18:00:00"
   },
   {
     "id": 22,
