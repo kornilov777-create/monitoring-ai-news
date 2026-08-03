@@ -1,6 +1,24 @@
 [
   {
     "id": 136,
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "author": "Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-03T16:40:55"
+  },
+  {
+    "id": 163,
+    "title": "EU AI Act Article 50 transparency rules enter force",
+    "url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
+    "summary": "<p>Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people wh",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-03T16:09:25"
+  },
+  {
+    "id": 137,
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
@@ -9,7 +27,7 @@
     "published_at": "2026-08-03T10:00:00"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Why biological data matters more in AI drug discovery",
     "url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
     "summary": "<p>GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will generate large-scale datasets measuring how human cells respond",
@@ -27,7 +45,7 @@
     "published_at": "2026-08-03T08:30:05"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Sam Altman and AI’s decel debate",
     "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
@@ -36,7 +54,7 @@
     "published_at": "2026-08-02T20:54:22"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
@@ -45,7 +63,7 @@
     "published_at": "2026-08-01T20:26:04"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
     "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
@@ -54,7 +72,7 @@
     "published_at": "2026-08-01T19:45:45"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Sam Altman is still making the case for parenting via ChatGPT",
     "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
     "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
@@ -63,7 +81,7 @@
     "published_at": "2026-08-01T17:07:34"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "This $9 key physically locks your most addictive apps",
     "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
     "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
@@ -81,7 +99,7 @@
     "published_at": "2026-08-01T00:00:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -90,7 +108,7 @@
     "published_at": "2026-07-31T22:47:26"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "India is starting to pay for apps, not just download them",
     "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
     "summary": "India's app market generated a record $345 million in Q2.",
@@ -99,7 +117,7 @@
     "published_at": "2026-07-31T21:07:45"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
     "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
@@ -108,7 +126,7 @@
     "published_at": "2026-07-31T19:47:28"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
@@ -117,7 +135,7 @@
     "published_at": "2026-07-31T17:26:32"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
     "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
     "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
@@ -126,7 +144,7 @@
     "published_at": "2026-07-31T16:49:08"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Siri AI could come with a paywall for power users",
     "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
@@ -135,7 +153,7 @@
     "published_at": "2026-07-31T16:08:18"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
     "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
     "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
@@ -144,7 +162,7 @@
     "published_at": "2026-07-31T15:16:17"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
     "url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
     "summary": "<p>OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s General-Purpose AI (GPAI) Code of Practice and the Code of Practice on Transparency of AI-Generated ",
@@ -171,7 +189,7 @@
     "published_at": "2026-07-31T15:00:00"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
     "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
     "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
@@ -180,7 +198,7 @@
     "published_at": "2026-07-31T14:47:11"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
     "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
     "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
@@ -198,7 +216,7 @@
     "published_at": "2026-07-31T07:00:00"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
@@ -216,7 +234,7 @@
     "published_at": "2026-07-31T00:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
     "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
@@ -225,7 +243,7 @@
     "published_at": "2026-07-30T23:25:58"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
     "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
     "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
@@ -234,7 +252,7 @@
     "published_at": "2026-07-30T23:08:58"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Investors love AI, as long as you’re a cloud host",
     "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
     "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
@@ -261,16 +279,7 @@
     "published_at": "2026-07-30T20:35:00"
   },
   {
-    "id": 155,
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
-    "author": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-30T20:26:38"
-  },
-  {
-    "id": 165,
+    "id": 166,
     "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
     "url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
     "summary": "<p>Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no na",
@@ -279,7 +288,7 @@
     "published_at": "2026-07-30T11:12:11"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "How AI is Changing Linux VPS Security for Businesses",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
     "summary": "<p>Cybersecurity wasn&#8217;t really something small and mid-sized businesses worried about too much a few years back. That&#8217;s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren&#8217;",
@@ -333,7 +342,7 @@
     "published_at": "2026-07-29T14:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "OpenAI report links coding agents to faster science software builds",
     "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
     "summary": "<p>OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic&#8217;s Claude Code in three others. Worth flagging upfront: this i",
@@ -351,7 +360,7 @@
     "published_at": "2026-07-29T10:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Google AI Overviews become more common in search",
     "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
     "summary": "<p>Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results, while AI Mode provides a",
@@ -387,7 +396,7 @@
     "published_at": "2026-07-28T17:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
     "url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
     "summary": "<p>Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims under the Patient-Driven",
@@ -405,7 +414,7 @@
     "published_at": "2026-07-28T09:18:57"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
     "url": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
     "summary": "<p>Armenia is not a big country. It’s not a wealthy country. It’s not a famous country. And yet, it has become not only a consumer of different AI products akin to Clideo subtitles generator for video editing, or giants like OpenAI, but also entered the headlines of global news for several reasons, ",
@@ -450,7 +459,7 @@
     "published_at": "2026-07-27T11:32:58"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "How AI is shortening drug discovery timelines in China",
     "url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
     "summary": "<p>Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov. The Hong Kong-listed company’s fastest programme reached candidate nomination in n",
@@ -459,7 +468,7 @@
     "published_at": "2026-07-27T10:00:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "America’s AI Investment Boom Is Reshaping the Economy",
     "url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
     "summary": "<p>America&#8217;s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infr",
@@ -477,22 +486,13 @@
     "published_at": "2026-07-27T03:30:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
     "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
     "summary": "<p>Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business model: Meta, Microso",
     "author": "Ryan Daws",
     "source": "AI News",
     "published_at": "2026-07-24T16:18:30"
-  },
-  {
-    "id": 174,
-    "title": "OpenAI pushes ChatGPT into patient health records",
-    "url": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
-    "summary": "<p>OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers. Users link Apple Health and, where supported,",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-24T14:58:17"
   },
   {
     "id": 79,
