@@ -1,9 +1,54 @@
 [
   {
     "id": 136,
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-04T15:50:06"
+  },
+  {
+    "id": 137,
+    "title": "Texas halts new data centers as governor calls for audits",
+    "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+    "summary": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed.",
+    "author": "Tim De Chant",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-04T15:42:35"
+  },
+  {
+    "id": 138,
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "author": "Sean O'Kane, Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-04T15:20:06"
+  },
+  {
+    "id": 139,
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-04T14:03:01"
+  },
+  {
+    "id": 140,
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "author": "Dominic-Madori Davis",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-04T13:00:00"
+  },
+  {
+    "id": 141,
     "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
     "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
     "author": "Tim Fernholz",
     "source": "TechCrunch AI",
     "published_at": "2026-08-04T12:00:00"
@@ -18,7 +63,7 @@
     "published_at": "2026-08-04T09:00:00"
   },
   {
-    "id": 137,
+    "id": 142,
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
     "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
@@ -36,7 +81,7 @@
     "published_at": "2026-08-03T22:00:00"
   },
   {
-    "id": 138,
+    "id": 143,
     "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
     "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
     "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
@@ -54,7 +99,7 @@
     "published_at": "2026-08-03T19:50:00"
   },
   {
-    "id": 139,
+    "id": 144,
     "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
     "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
@@ -63,7 +108,7 @@
     "published_at": "2026-08-03T19:28:57"
   },
   {
-    "id": 140,
+    "id": 145,
     "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
     "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
     "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
@@ -72,7 +117,7 @@
     "published_at": "2026-08-03T19:09:56"
   },
   {
-    "id": 141,
+    "id": 146,
     "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
     "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
     "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
@@ -84,13 +129,13 @@
     "id": 126,
     "title": "Trump’s AI protectionism has come for robotics",
     "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s ",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
     "author": "James O'Donnell",
     "source": "MIT Technology Review",
     "published_at": "2026-08-03T18:43:30"
   },
   {
-    "id": 142,
+    "id": 147,
     "title": "Congress’ favorite AI tool? ChatGPT",
     "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
@@ -99,7 +144,7 @@
     "published_at": "2026-08-03T16:40:55"
   },
   {
-    "id": 143,
+    "id": 148,
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
@@ -135,7 +180,7 @@
     "published_at": "2026-08-03T00:00:00"
   },
   {
-    "id": 144,
+    "id": 149,
     "title": "Sam Altman and AI’s decel debate",
     "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
@@ -144,7 +189,7 @@
     "published_at": "2026-08-02T20:54:22"
   },
   {
-    "id": 145,
+    "id": 150,
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
@@ -153,7 +198,7 @@
     "published_at": "2026-08-01T20:26:04"
   },
   {
-    "id": 146,
+    "id": 151,
     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
     "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
@@ -162,7 +207,7 @@
     "published_at": "2026-08-01T19:45:45"
   },
   {
-    "id": 147,
+    "id": 152,
     "title": "Sam Altman is still making the case for parenting via ChatGPT",
     "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
     "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
@@ -171,7 +216,7 @@
     "published_at": "2026-08-01T17:07:34"
   },
   {
-    "id": 148,
+    "id": 153,
     "title": "This $9 key physically locks your most addictive apps",
     "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
     "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
@@ -189,7 +234,7 @@
     "published_at": "2026-08-01T00:00:00"
   },
   {
-    "id": 149,
+    "id": 154,
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -198,58 +243,13 @@
     "published_at": "2026-07-31T22:47:26"
   },
   {
-    "id": 150,
+    "id": 155,
     "title": "India is starting to pay for apps, not just download them",
     "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
     "summary": "India's app market generated a record $345 million in Q2.",
     "author": "Jagmeet Singh",
     "source": "TechCrunch AI",
     "published_at": "2026-07-31T21:07:45"
-  },
-  {
-    "id": 151,
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-31T19:47:28"
-  },
-  {
-    "id": 152,
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
-    "author": "Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-31T17:26:32"
-  },
-  {
-    "id": 153,
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-31T16:49:08"
-  },
-  {
-    "id": 154,
-    "title": "Siri AI could come with a paywall for power users",
-    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-31T16:08:18"
-  },
-  {
-    "id": 155,
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-    "author": "Tim De Chant",
-    "source": "TechCrunch AI",
-    "published_at": "2026-07-31T15:16:17"
   },
   {
     "id": 5,
