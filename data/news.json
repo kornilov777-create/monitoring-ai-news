@@ -1,6 +1,24 @@
 [
   {
     "id": 136,
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-05T12:28:38"
+  },
+  {
+    "id": 137,
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-05T11:00:00"
+  },
+  {
+    "id": 138,
     "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
     "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
     "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
@@ -9,7 +27,7 @@
     "published_at": "2026-08-04T21:07:26"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
     "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
@@ -18,7 +36,7 @@
     "published_at": "2026-08-04T20:05:26"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Anthropic signs $10B deal with AI cloud startup Volta",
     "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
     "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
@@ -27,7 +45,7 @@
     "published_at": "2026-08-04T19:48:40"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
     "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
     "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
@@ -36,7 +54,7 @@
     "published_at": "2026-08-04T19:34:34"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
     "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
     "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
@@ -63,7 +81,7 @@
     "published_at": "2026-08-04T18:50:00"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Spotify expands AI remix and covers project with Merlin partnership",
     "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
     "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring ",
@@ -72,7 +90,7 @@
     "published_at": "2026-08-04T15:50:06"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Texas halts new data centers as governor calls for audits",
     "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
     "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
@@ -81,7 +99,7 @@
     "published_at": "2026-08-04T15:42:35"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
     "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
@@ -90,7 +108,7 @@
     "published_at": "2026-08-04T15:20:06"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
     "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
     "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
@@ -99,7 +117,7 @@
     "published_at": "2026-08-04T14:03:01"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Is the future of data centers portable? Runware builds a pod to find out",
     "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
     "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
@@ -108,7 +126,7 @@
     "published_at": "2026-08-04T13:00:00"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
     "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
     "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
@@ -135,7 +153,7 @@
     "published_at": "2026-08-04T00:00:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
     "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
@@ -153,7 +171,7 @@
     "published_at": "2026-08-03T22:00:00"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
     "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
     "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
@@ -171,7 +189,7 @@
     "published_at": "2026-08-03T19:50:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
     "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
@@ -180,7 +198,7 @@
     "published_at": "2026-08-03T19:28:57"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
     "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
     "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
@@ -189,7 +207,7 @@
     "published_at": "2026-08-03T19:09:56"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
     "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
     "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
@@ -207,7 +225,7 @@
     "published_at": "2026-08-03T18:43:30"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "Congress’ favorite AI tool? ChatGPT",
     "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
@@ -216,7 +234,7 @@
     "published_at": "2026-08-03T16:40:55"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
     "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
     "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
@@ -250,24 +268,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-03T00:00:00"
-  },
-  {
-    "id": 154,
-    "title": "Sam Altman and AI’s decel debate",
-    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-02T20:54:22"
-  },
-  {
-    "id": 155,
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-01T20:26:04"
   },
   {
     "id": 6,
