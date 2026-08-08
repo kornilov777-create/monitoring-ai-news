@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "author": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-08T19:41:13"
+  },
+  {
+    "id": 137,
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
@@ -9,7 +18,7 @@
     "published_at": "2026-08-07T22:48:24"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
@@ -18,7 +27,7 @@
     "published_at": "2026-08-07T21:30:11"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
@@ -54,7 +63,7 @@
     "published_at": "2026-08-07T14:33:59"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
@@ -63,7 +72,7 @@
     "published_at": "2026-08-07T14:22:49"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
     "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
     "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic",
@@ -72,7 +81,7 @@
     "published_at": "2026-08-07T14:00:00"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
     "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
     "summary": "Meta's total fine has racked up to $942 million in this case.",
@@ -99,7 +108,7 @@
     "published_at": "2026-08-07T09:00:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
@@ -108,7 +117,7 @@
     "published_at": "2026-08-06T22:43:53"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "ChatGPT brings unlimited text chats to free users",
     "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
     "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
@@ -117,7 +126,7 @@
     "published_at": "2026-08-06T17:34:42"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
     "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
     "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
@@ -135,7 +144,7 @@
     "published_at": "2026-08-06T15:55:37"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
     "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
     "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
@@ -144,7 +153,7 @@
     "published_at": "2026-08-06T15:53:03"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
     "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
     "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st",
@@ -153,7 +162,7 @@
     "published_at": "2026-08-06T15:10:32"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Amid legal battles, Suno says it will start watermarking songs",
     "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
     "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
@@ -162,7 +171,7 @@
     "published_at": "2026-08-06T13:31:57"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
     "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
     "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
@@ -171,7 +180,7 @@
     "published_at": "2026-08-06T13:00:00"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
     "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
     "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
@@ -180,7 +189,7 @@
     "published_at": "2026-08-06T13:00:00"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
     "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
     "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
@@ -189,7 +198,7 @@
     "published_at": "2026-08-06T12:30:00"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Omilia raises $67M to scale its customer support platform",
     "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
     "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
@@ -225,7 +234,7 @@
     "published_at": "2026-08-06T00:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Meta launches Muse Code, an AI agent for large code bases",
     "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
     "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
@@ -234,7 +243,7 @@
     "published_at": "2026-08-05T21:21:28"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
     "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
     "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
@@ -243,22 +252,13 @@
     "published_at": "2026-08-05T20:05:00"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
     "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
     "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
     "author": "Lucas Ropek",
     "source": "TechCrunch AI",
     "published_at": "2026-08-05T19:30:19"
-  },
-  {
-    "id": 155,
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-05T15:56:14"
   },
   {
     "id": 167,
