@@ -99,15 +99,6 @@
     "published_at": "2026-08-10T12:00:00"
   },
   {
-    "id": 163,
-    "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-    "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-    "summary": "<p>Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, loca",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-10T11:02:38"
-  },
-  {
     "id": 4,
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
@@ -123,15 +114,6 @@
     "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00"
-  },
-  {
-    "id": 164,
-    "title": "The limits of physics AI: where Siemens says the human stays in charge",
-    "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-    "summary": "<p>Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit,",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
     "published_at": "2026-08-10T10:00:00"
   },
   {
@@ -270,24 +252,6 @@
     "published_at": "2026-08-07T15:20:00"
   },
   {
-    "id": 165,
-    "title": "Stanford Evo 2 AI model generates phages against E. coli",
-    "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-    "summary": "<p>Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Br",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-07T15:05:03"
-  },
-  {
-    "id": 166,
-    "title": "How AI Is changing Instagram engagement without replacing the human touch",
-    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
-    "summary": "<p>Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the cont",
-    "author": "SEO DIGITAL PROS",
-    "source": "AI News",
-    "published_at": "2026-08-07T14:33:59"
-  },
-  {
     "id": 151,
     "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
@@ -313,15 +277,6 @@
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-08-07T11:40:37"
-  },
-  {
-    "id": 167,
-    "title": "Alibaba tests new business model for Qwen open-source AI",
-    "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-    "summary": "<p>Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to rea",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-07T10:00:00"
   },
   {
     "id": 10,
@@ -351,15 +306,6 @@
     "published_at": "2026-08-06T17:34:42"
   },
   {
-    "id": 168,
-    "title": "Why health AI interfaces must adapt to user expertise",
-    "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-    "summary": "<p>MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from de",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-06T15:55:37"
-  },
-  {
     "id": 11,
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
@@ -387,24 +333,6 @@
     "published_at": "2026-08-06T00:00:00"
   },
   {
-    "id": 169,
-    "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
-    "url": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-    "summary": "<p>Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide into one representation, then generates text that answers",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-05T15:26:20"
-  },
-  {
-    "id": 170,
-    "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
-    "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
-    "summary": "<p>Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of ",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-05T10:00:00"
-  },
-  {
     "id": 14,
     "title": "Third-party cyber evaluations involving OpenAI models",
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
@@ -421,15 +349,6 @@
     "author": "Steve Nadis | Department of Nuclear Science and Engineering",
     "source": "MIT News AI",
     "published_at": "2026-08-04T18:50:00"
-  },
-  {
-    "id": 171,
-    "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
-    "url": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
-    "summary": "<p>Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the &#8220;fragmented steps, tools, and requirements&#8221; of engineering and ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-04T16:07:15"
   },
   {
     "id": 78,
@@ -477,24 +396,6 @@
     "published_at": "2026-08-03T18:43:30"
   },
   {
-    "id": 172,
-    "title": "EU AI Act Article 50 transparency rules enter force",
-    "url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
-    "summary": "<p>Article 50 of the EU AI Act has entered into force, setting transparency obligations for AI providers and deployers operating across the bloc. Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people wh",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-03T16:09:25"
-  },
-  {
-    "id": 173,
-    "title": "Why biological data matters more in AI drug discovery",
-    "url": "https://www.artificialintelligence-news.com/news/gsk-relation-therapeutics-ai-drug-discovery-biological-data/",
-    "summary": "<p>GSK has entered into a research collaboration with British biotechnology company Relation Therapeutics worth up to $110 million, expanding the companies’ existing work in AI-assisted drug discovery. Under the agreement, Relation will generate large-scale datasets measuring how human cells respond",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-03T10:00:00"
-  },
-  {
     "id": 130,
     "title": "Here’s why AI agents lie and cheat to reach their goals",
     "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
@@ -529,15 +430,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-01T00:00:00"
-  },
-  {
-    "id": 174,
-    "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-    "url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-    "summary": "<p>OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s General-Purpose AI (GPAI) Code of Practice and the Code of Practice on Transparency of AI-Generated ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-07-31T15:04:25"
   },
   {
     "id": 20,
