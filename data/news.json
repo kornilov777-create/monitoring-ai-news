@@ -1,5 +1,23 @@
 [
   {
+    "id": 163,
+    "title": "Okta targets AI agent token costs with MCP scoping",
+    "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+    "summary": "<p>Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens co",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-13T09:22:06"
+  },
+  {
+    "id": 126,
+    "title": "How kids feel about AI, in their own words",
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
+    "author": "Jen Swetzoff, Keeley McNamara",
+    "source": "MIT Technology Review",
+    "published_at": "2026-08-13T09:00:00"
+  },
+  {
     "id": 136,
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
@@ -54,7 +72,7 @@
     "published_at": "2026-08-12T16:57:58"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Scaling AI agents with trustworthy data",
     "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
     "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
@@ -90,7 +108,7 @@
     "published_at": "2026-08-12T15:44:56"
   },
   {
-    "id": 163,
+    "id": 164,
     "title": "Google tests AMIE for clinical video consultations",
     "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
     "summary": "<p>Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonar",
@@ -234,7 +252,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
     "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
     "summary": "<p>Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI par",
@@ -243,7 +261,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 165,
+    "id": 166,
     "title": "How AI is changing the vulnerability response timeline",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
     "summary": "<p>Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, de",
@@ -252,7 +270,7 @@
     "published_at": "2026-08-11T07:05:55"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "AI professors are negotiating the new realities of academic research",
     "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
@@ -297,7 +315,7 @@
     "published_at": "2026-08-10T12:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
     "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
     "summary": "<p>Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, loca",
@@ -324,7 +342,7 @@
     "published_at": "2026-08-10T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "The limits of physics AI: where Siemens says the human stays in charge",
     "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
     "summary": "<p>Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit,",
@@ -333,7 +351,7 @@
     "published_at": "2026-08-10T10:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "AI for science needs reasoning, not just data",
     "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
@@ -342,7 +360,7 @@
     "published_at": "2026-08-10T09:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "These startups are chasing the next big thing in LLMs",
     "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
@@ -352,6 +370,15 @@
   },
   {
     "id": 10,
+    "title": "Premium seats are coming to ChatGPT Business",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00"
+  },
+  {
+    "id": 11,
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
@@ -360,19 +387,10 @@
     "published_at": "2026-08-10T00:00:00"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "url": "https://openai.com/index/zapier",
     "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00"
-  },
-  {
-    "id": 12,
-    "title": "Premium seats are coming to ChatGPT Business",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00"
@@ -387,7 +405,7 @@
     "published_at": "2026-08-07T15:20:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Stanford Evo 2 AI model generates phages against E. coli",
     "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
     "summary": "<p>Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Br",
@@ -396,7 +414,7 @@
     "published_at": "2026-08-07T15:05:03"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "How AI Is changing Instagram engagement without replacing the human touch",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
     "summary": "<p>Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the cont",
@@ -405,7 +423,7 @@
     "published_at": "2026-08-07T14:33:59"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Alibaba tests new business model for Qwen open-source AI",
     "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
     "summary": "<p>Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to rea",
@@ -423,7 +441,7 @@
     "published_at": "2026-08-07T09:00:00"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "Why health AI interfaces must adapt to user expertise",
     "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
     "summary": "<p>MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from de",
@@ -459,7 +477,7 @@
     "published_at": "2026-08-06T00:00:00"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
     "url": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
     "summary": "<p>Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide into one representation, then generates text that answers",
@@ -468,7 +486,7 @@
     "published_at": "2026-08-05T15:26:20"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
     "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
     "summary": "<p>Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of ",
@@ -493,15 +511,6 @@
     "author": "Steve Nadis | Department of Nuclear Science and Engineering",
     "source": "MIT News AI",
     "published_at": "2026-08-04T18:50:00"
-  },
-  {
-    "id": 174,
-    "title": "Red Hat, NVIDIA, IBM back project turning AI policy into code",
-    "url": "https://www.artificialintelligence-news.com/news/red-hat-nvidia-ibm-back-project-turning-ai-policy-into-code/",
-    "summary": "<p>Red Hat has launched asago, an open-source community project that aims to turn AI governance policy into production-ready deployment code. The project describes itself as an automated, auditable workflow that connects the &#8220;fragmented steps, tools, and requirements&#8221; of engineering and ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-04T16:07:15"
   },
   {
     "id": 78,
@@ -540,7 +549,7 @@
     "published_at": "2026-08-03T19:50:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Trump’s AI protectionism has come for robotics",
     "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
@@ -549,7 +558,7 @@
     "published_at": "2026-08-03T18:43:30"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Here’s why AI agents lie and cheat to reach their goals",
     "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
@@ -639,7 +648,7 @@
     "published_at": "2026-07-30T20:35:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
     "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
@@ -693,7 +702,7 @@
     "published_at": "2026-07-29T10:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "The AI Hype Index: Unsexy AI",
     "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
     "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
@@ -720,22 +729,13 @@
     "published_at": "2026-07-28T17:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
     "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
     "author": "Michelle Kim",
     "source": "MIT Technology Review",
     "published_at": "2026-07-28T09:18:57"
-  },
-  {
-    "id": 135,
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company",
-    "author": "Will Douglas Heaven",
-    "source": "MIT Technology Review",
-    "published_at": "2026-07-27T18:00:00"
   },
   {
     "id": 34,
