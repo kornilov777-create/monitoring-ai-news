@@ -1,6 +1,60 @@
 [
   {
+    "id": 136,
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-14T16:13:40"
+  },
+  {
+    "id": 137,
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+    "author": "Theresa Loconsolo",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-14T15:43:28"
+  },
+  {
+    "id": 138,
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "author": "Anna Heim",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-14T14:50:11"
+  },
+  {
+    "id": 139,
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "author": "Tim De Chant",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-14T14:05:00"
+  },
+  {
+    "id": 140,
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+    "author": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-14T14:00:00"
+  },
+  {
     "id": 163,
+    "title": "Samsung health AI models analyse wearable biosignal data",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+    "summary": "<p>Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Healt",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-14T13:30:10"
+  },
+  {
+    "id": 164,
     "title": "Google AI health coach to use Abbott glucose data",
     "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
     "summary": "<p>Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be inte",
@@ -9,7 +63,7 @@
     "published_at": "2026-08-14T10:00:00"
   },
   {
-    "id": 136,
+    "id": 141,
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
@@ -18,7 +72,7 @@
     "published_at": "2026-08-13T21:13:24"
   },
   {
-    "id": 137,
+    "id": 142,
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
@@ -27,7 +81,7 @@
     "published_at": "2026-08-13T20:14:39"
   },
   {
-    "id": 138,
+    "id": 143,
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
@@ -36,7 +90,7 @@
     "published_at": "2026-08-13T19:22:40"
   },
   {
-    "id": 139,
+    "id": 144,
     "title": "IBM partners with OpenAI to bolster enterprise AI push",
     "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
@@ -45,7 +99,7 @@
     "published_at": "2026-08-13T19:19:49"
   },
   {
-    "id": 140,
+    "id": 145,
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
@@ -54,7 +108,7 @@
     "published_at": "2026-08-13T18:28:14"
   },
   {
-    "id": 141,
+    "id": 146,
     "title": "OpenAI hires new CRO as executive shake-up continues",
     "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
@@ -63,7 +117,7 @@
     "published_at": "2026-08-13T17:07:13"
   },
   {
-    "id": 142,
+    "id": 147,
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
@@ -72,7 +126,7 @@
     "published_at": "2026-08-13T15:30:52"
   },
   {
-    "id": 143,
+    "id": 148,
     "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
     "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
     "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
@@ -81,7 +135,7 @@
     "published_at": "2026-08-13T15:08:00"
   },
   {
-    "id": 144,
+    "id": 149,
     "title": "Apple in talks to pay publishers to provide Siri with current news: report",
     "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
     "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
@@ -117,7 +171,7 @@
     "published_at": "2026-08-13T10:00:00"
   },
   {
-    "id": 164,
+    "id": 165,
     "title": "Okta targets AI agent token costs with MCP scoping",
     "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
     "summary": "<p>Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens co",
@@ -144,7 +198,7 @@
     "published_at": "2026-08-13T09:00:00"
   },
   {
-    "id": 145,
+    "id": 150,
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -153,7 +207,7 @@
     "published_at": "2026-08-12T22:26:37"
   },
   {
-    "id": 146,
+    "id": 151,
     "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
     "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
     "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
@@ -162,7 +216,7 @@
     "published_at": "2026-08-12T20:10:40"
   },
   {
-    "id": 147,
+    "id": 152,
     "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
@@ -171,7 +225,7 @@
     "published_at": "2026-08-12T18:19:12"
   },
   {
-    "id": 148,
+    "id": 153,
     "title": "As AI safety concerns mount, three pioneers make the case for staying open",
     "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
     "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
@@ -180,7 +234,7 @@
     "published_at": "2026-08-12T17:51:00"
   },
   {
-    "id": 149,
+    "id": 154,
     "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
     "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
     "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
@@ -189,7 +243,7 @@
     "published_at": "2026-08-12T17:41:29"
   },
   {
-    "id": 150,
+    "id": 155,
     "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
     "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
     "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
@@ -207,58 +261,13 @@
     "published_at": "2026-08-12T16:51:57"
   },
   {
-    "id": 151,
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
-    "author": "Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-12T16:46:02"
-  },
-  {
-    "id": 152,
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-12T16:04:27"
-  },
-  {
-    "id": 153,
-    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-    "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-    "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-12T15:44:56"
-  },
-  {
-    "id": 165,
+    "id": 166,
     "title": "Google tests AMIE for clinical video consultations",
     "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
     "summary": "<p>Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonar",
     "author": "Ryan Daws",
     "source": "AI News",
     "published_at": "2026-08-12T14:56:18"
-  },
-  {
-    "id": 154,
-    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-    "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
-    "author": "Theresa Loconsolo, Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-12T14:22:00"
-  },
-  {
-    "id": 155,
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-12T14:20:33"
   },
   {
     "id": 4,
@@ -297,7 +306,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 166,
+    "id": 167,
     "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
     "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
     "summary": "<p>Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI par",
@@ -306,7 +315,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 167,
+    "id": 168,
     "title": "How AI is changing the vulnerability response timeline",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
     "summary": "<p>Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, de",
@@ -360,7 +369,7 @@
     "published_at": "2026-08-10T12:00:00"
   },
   {
-    "id": 168,
+    "id": 169,
     "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
     "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
     "summary": "<p>Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, loca",
@@ -387,7 +396,7 @@
     "published_at": "2026-08-10T10:00:00"
   },
   {
-    "id": 169,
+    "id": 170,
     "title": "The limits of physics AI: where Siemens says the human stays in charge",
     "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
     "summary": "<p>Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit,",
@@ -450,7 +459,7 @@
     "published_at": "2026-08-07T15:20:00"
   },
   {
-    "id": 170,
+    "id": 171,
     "title": "Stanford Evo 2 AI model generates phages against E. coli",
     "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
     "summary": "<p>Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Br",
@@ -459,7 +468,7 @@
     "published_at": "2026-08-07T15:05:03"
   },
   {
-    "id": 171,
+    "id": 172,
     "title": "How AI Is changing Instagram engagement without replacing the human touch",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
     "summary": "<p>Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the cont",
@@ -468,7 +477,7 @@
     "published_at": "2026-08-07T14:33:59"
   },
   {
-    "id": 172,
+    "id": 173,
     "title": "Alibaba tests new business model for Qwen open-source AI",
     "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
     "summary": "<p>Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to rea",
@@ -486,7 +495,7 @@
     "published_at": "2026-08-07T09:00:00"
   },
   {
-    "id": 173,
+    "id": 174,
     "title": "Why health AI interfaces must adapt to user expertise",
     "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
     "summary": "<p>MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from de",
@@ -520,15 +529,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-06T00:00:00"
-  },
-  {
-    "id": 174,
-    "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
-    "url": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
-    "summary": "<p>Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports. The model aggregates thousands of tile embeddings per slide into one representation, then generates text that answers",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-05T15:26:20"
   },
   {
     "id": 21,
