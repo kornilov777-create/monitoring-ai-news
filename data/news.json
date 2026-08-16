@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "author": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-16T16:53:51"
+  },
+  {
+    "id": 137,
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -9,7 +18,7 @@
     "published_at": "2026-08-15T21:29:19"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
@@ -18,7 +27,7 @@
     "published_at": "2026-08-15T18:58:39"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "SpaceX officially closes its Cursor acquisition",
     "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -27,7 +36,7 @@
     "published_at": "2026-08-15T16:30:00"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
@@ -36,7 +45,7 @@
     "published_at": "2026-08-14T16:13:40"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
@@ -45,7 +54,7 @@
     "published_at": "2026-08-14T15:43:28"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Kog is going deeper to squeeze more inference out of GPUs",
     "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
@@ -54,7 +63,7 @@
     "published_at": "2026-08-14T14:50:11"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
     "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
     "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
@@ -63,7 +72,7 @@
     "published_at": "2026-08-14T14:05:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
     "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
     "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
@@ -72,7 +81,7 @@
     "published_at": "2026-08-14T14:00:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
@@ -81,7 +90,7 @@
     "published_at": "2026-08-13T21:13:24"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
@@ -90,7 +99,7 @@
     "published_at": "2026-08-13T20:14:39"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
@@ -99,7 +108,7 @@
     "published_at": "2026-08-13T19:22:40"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "IBM partners with OpenAI to bolster enterprise AI push",
     "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
@@ -108,7 +117,7 @@
     "published_at": "2026-08-13T19:19:49"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
@@ -117,7 +126,7 @@
     "published_at": "2026-08-13T18:28:14"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "OpenAI hires new CRO as executive shake-up continues",
     "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
@@ -126,7 +135,7 @@
     "published_at": "2026-08-13T17:07:13"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
@@ -135,7 +144,7 @@
     "published_at": "2026-08-13T15:30:52"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
     "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
     "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
@@ -144,7 +153,7 @@
     "published_at": "2026-08-13T15:08:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Apple in talks to pay publishers to provide Siri with current news: report",
     "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
     "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
@@ -198,7 +207,7 @@
     "published_at": "2026-08-13T09:00:00"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
@@ -207,22 +216,13 @@
     "published_at": "2026-08-12T22:26:37"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
     "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
     "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
     "author": "Amanda Silberling",
     "source": "TechCrunch AI",
     "published_at": "2026-08-12T20:10:40"
-  },
-  {
-    "id": 155,
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-12T18:19:12"
   },
   {
     "id": 128,
