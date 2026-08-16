@@ -72,6 +72,24 @@
     "published_at": "2026-08-14T14:00:00"
   },
   {
+    "id": 163,
+    "title": "Samsung health AI models analyse wearable biosignal data",
+    "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+    "summary": "<p>Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Healt",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-14T13:30:10"
+  },
+  {
+    "id": 164,
+    "title": "Google AI health coach to use Abbott glucose data",
+    "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+    "summary": "<p>Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be inte",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-08-14T10:00:00"
+  },
+  {
     "id": 144,
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -180,6 +198,15 @@
     "published_at": "2026-08-13T10:00:00"
   },
   {
+    "id": 165,
+    "title": "Okta targets AI agent token costs with MCP scoping",
+    "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
+    "summary": "<p>Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens co",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-13T09:22:06"
+  },
+  {
     "id": 3,
     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
@@ -234,6 +261,15 @@
     "published_at": "2026-08-12T16:51:57"
   },
   {
+    "id": 166,
+    "title": "Google tests AMIE for clinical video consultations",
+    "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
+    "summary": "<p>Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonar",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-12T14:56:18"
+  },
+  {
     "id": 4,
     "title": "From assistance to execution: How enterprises put AI to work",
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
@@ -268,6 +304,24 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-11T10:00:00"
+  },
+  {
+    "id": 167,
+    "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
+    "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
+    "summary": "<p>Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI par",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-08-11T10:00:00"
+  },
+  {
+    "id": 168,
+    "title": "How AI is changing the vulnerability response timeline",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
+    "summary": "<p>Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, de",
+    "author": "Bazoom",
+    "source": "AI News",
+    "published_at": "2026-08-11T07:05:55"
   },
   {
     "id": 129,
@@ -315,6 +369,15 @@
     "published_at": "2026-08-10T12:00:00"
   },
   {
+    "id": 169,
+    "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+    "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+    "summary": "<p>Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, loca",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-10T11:02:38"
+  },
+  {
     "id": 11,
     "title": "Putting frontier cyber models in more trusted hands",
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -330,6 +393,15 @@
     "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
     "author": "",
     "source": "OpenAI Blog",
+    "published_at": "2026-08-10T10:00:00"
+  },
+  {
+    "id": 170,
+    "title": "The limits of physics AI: where Siemens says the human stays in charge",
+    "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+    "summary": "<p>Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit,",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
     "published_at": "2026-08-10T10:00:00"
   },
   {
@@ -387,6 +459,33 @@
     "published_at": "2026-08-07T15:20:00"
   },
   {
+    "id": 171,
+    "title": "Stanford Evo 2 AI model generates phages against E. coli",
+    "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+    "summary": "<p>Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Br",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-07T15:05:03"
+  },
+  {
+    "id": 172,
+    "title": "How AI Is changing Instagram engagement without replacing the human touch",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+    "summary": "<p>Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the cont",
+    "author": "SEO DIGITAL PROS",
+    "source": "AI News",
+    "published_at": "2026-08-07T14:33:59"
+  },
+  {
+    "id": 173,
+    "title": "Alibaba tests new business model for Qwen open-source AI",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+    "summary": "<p>Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to rea",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-08-07T10:00:00"
+  },
+  {
     "id": 17,
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "url": "https://openai.com/index/hsp-gruppe",
@@ -394,6 +493,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-07T09:00:00"
+  },
+  {
+    "id": 174,
+    "title": "Why health AI interfaces must adapt to user expertise",
+    "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+    "summary": "<p>MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from de",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-08-06T15:55:37"
   },
   {
     "id": 18,
