@@ -1,5 +1,23 @@
 [
   {
+    "id": 136,
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "summary": "The model maker added $18 billion in annualized revenue in two months.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-17T23:56:26"
+  },
+  {
+    "id": 137,
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-17T21:27:05"
+  },
+  {
     "id": 76,
     "title": "Q&A: Rethinking how innovation happens",
     "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
@@ -18,7 +36,7 @@
     "published_at": "2026-08-17T19:16:09"
   },
   {
-    "id": 136,
+    "id": 138,
     "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
     "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
@@ -27,7 +45,7 @@
     "published_at": "2026-08-17T16:38:44"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
     "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
@@ -36,7 +54,7 @@
     "published_at": "2026-08-17T16:15:12"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
@@ -45,10 +63,10 @@
     "published_at": "2026-08-17T15:16:24"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
     "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "summary": "Wispr’s total funding is now over $361 million.",
+    "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-08-17T13:10:05"
@@ -90,7 +108,7 @@
     "published_at": "2026-08-17T03:15:00"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -99,7 +117,7 @@
     "published_at": "2026-08-16T20:57:04"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
     "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
@@ -108,7 +126,7 @@
     "published_at": "2026-08-16T20:32:01"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
@@ -117,7 +135,7 @@
     "published_at": "2026-08-16T16:53:51"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -126,7 +144,7 @@
     "published_at": "2026-08-15T21:29:19"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
@@ -135,7 +153,7 @@
     "published_at": "2026-08-15T18:58:39"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "SpaceX officially closes its Cursor acquisition",
     "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
@@ -144,7 +162,7 @@
     "published_at": "2026-08-15T16:30:00"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "How to tell if your AI platforms’ accounts have been hacked",
     "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
     "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
@@ -153,7 +171,7 @@
     "published_at": "2026-08-15T16:10:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
@@ -162,7 +180,7 @@
     "published_at": "2026-08-14T16:13:40"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
@@ -171,7 +189,7 @@
     "published_at": "2026-08-14T15:43:28"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Kog is going deeper to squeeze more inference out of GPUs",
     "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
     "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
@@ -180,7 +198,7 @@
     "published_at": "2026-08-14T14:50:11"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
     "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
     "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
@@ -189,7 +207,7 @@
     "published_at": "2026-08-14T14:05:00"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
     "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
     "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
@@ -198,7 +216,7 @@
     "published_at": "2026-08-14T14:00:00"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
@@ -207,31 +225,13 @@
     "published_at": "2026-08-13T21:13:24"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
     "author": "Julie Bort",
     "source": "TechCrunch AI",
     "published_at": "2026-08-13T20:14:39"
-  },
-  {
-    "id": 154,
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-13T19:22:40"
-  },
-  {
-    "id": 155,
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-    "author": "Jagmeet Singh",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-13T19:19:49"
   },
   {
     "id": 128,
