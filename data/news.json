@@ -1,5 +1,59 @@
 [
   {
+    "id": 163,
+    "title": "Alvys launches AI agents for freight TMS workflows",
+    "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+    "summary": "<p>Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-08-18T12:00:00"
+  },
+  {
+    "id": 1,
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T11:00:00"
+  },
+  {
+    "id": 2,
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-18T11:00:00"
+  },
+  {
+    "id": 126,
+    "title": "We still don’t know how people are really using AI",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candida",
+    "author": "Eileen Guo",
+    "source": "MIT Technology Review",
+    "published_at": "2026-08-18T10:06:43"
+  },
+  {
+    "id": 164,
+    "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+    "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+    "summary": "<p>Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability &#8220;is growing fastest exactly where we are furthest behind.&#8221; Zhipu, which also trades",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-08-18T10:00:00"
+  },
+  {
+    "id": 127,
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
+    "author": "Michelle Kim",
+    "source": "MIT Technology Review",
+    "published_at": "2026-08-18T09:00:00"
+  },
+  {
     "id": 136,
     "title": "Anthropic’s annualized revenue surges to $65B",
     "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -27,7 +81,7 @@
     "published_at": "2026-08-17T19:50:00"
   },
   {
-    "id": 126,
+    "id": 128,
     "title": "What Flock’s defenders are missing",
     "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thur",
@@ -72,7 +126,7 @@
     "published_at": "2026-08-17T13:10:05"
   },
   {
-    "id": 127,
+    "id": 129,
     "title": "What happens when a kid’s robot best friend dies?",
     "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
     "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other",
@@ -81,7 +135,7 @@
     "published_at": "2026-08-17T09:00:00"
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "The Defender’s Window",
     "url": "https://openai.com/index/the-defenders-window",
     "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
@@ -90,7 +144,7 @@
     "published_at": "2026-08-17T05:30:00"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "OpenAI joins PORTS-Pike project",
     "url": "https://openai.com/index/openai-joins-ports-pike-project",
     "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
@@ -99,7 +153,7 @@
     "published_at": "2026-08-17T05:00:00"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "New policy ideas for the Intelligence Age",
     "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
@@ -216,7 +270,7 @@
     "published_at": "2026-08-14T14:00:00"
   },
   {
-    "id": 163,
+    "id": 165,
     "title": "Samsung health AI models analyse wearable biosignal data",
     "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
     "summary": "<p>Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Healt",
@@ -225,7 +279,7 @@
     "published_at": "2026-08-14T13:30:10"
   },
   {
-    "id": 164,
+    "id": 166,
     "title": "Google AI health coach to use Abbott glucose data",
     "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
     "summary": "<p>Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be inte",
@@ -252,7 +306,7 @@
     "published_at": "2026-08-13T20:14:39"
   },
   {
-    "id": 128,
+    "id": 130,
     "title": "Flock is tightening its rules in response to a growing surveillance backlash",
     "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
     "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly ",
@@ -261,7 +315,7 @@
     "published_at": "2026-08-13T13:41:10"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "The builder’s guide to GPT‑5.6",
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
@@ -270,7 +324,7 @@
     "published_at": "2026-08-13T11:00:00"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
     "url": "https://openai.com/index/previewing-ultrafast",
     "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
@@ -279,7 +333,7 @@
     "published_at": "2026-08-13T10:00:00"
   },
   {
-    "id": 165,
+    "id": 167,
     "title": "Okta targets AI agent token costs with MCP scoping",
     "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
     "summary": "<p>Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens co",
@@ -288,7 +342,7 @@
     "published_at": "2026-08-13T09:22:06"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
     "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
@@ -297,7 +351,7 @@
     "published_at": "2026-08-13T09:00:00"
   },
   {
-    "id": 129,
+    "id": 131,
     "title": "How kids feel about AI, in their own words",
     "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
@@ -306,7 +360,7 @@
     "published_at": "2026-08-13T09:00:00"
   },
   {
-    "id": 130,
+    "id": 132,
     "title": "Scaling AI agents with trustworthy data",
     "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
     "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
@@ -315,7 +369,7 @@
     "published_at": "2026-08-12T16:51:57"
   },
   {
-    "id": 166,
+    "id": 168,
     "title": "Google tests AMIE for clinical video consultations",
     "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
     "summary": "<p>Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonar",
@@ -324,7 +378,7 @@
     "published_at": "2026-08-12T14:56:18"
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "From assistance to execution: How enterprises put AI to work",
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
@@ -333,7 +387,7 @@
     "published_at": "2026-08-12T06:00:00"
   },
   {
-    "id": 8,
+    "id": 10,
     "title": "How RingCentral builds AI-native work from engineering to ops",
     "url": "https://openai.com/index/ringcentral",
     "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
@@ -342,7 +396,7 @@
     "published_at": "2026-08-12T00:00:00"
   },
   {
-    "id": 9,
+    "id": 11,
     "title": "Testing ads in ChatGPT",
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
@@ -351,7 +405,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "Daybreak models are now available on AWS",
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
@@ -360,7 +414,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 167,
+    "id": 169,
     "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
     "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
     "summary": "<p>Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI par",
@@ -369,7 +423,7 @@
     "published_at": "2026-08-11T10:00:00"
   },
   {
-    "id": 168,
+    "id": 170,
     "title": "How AI is changing the vulnerability response timeline",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
     "summary": "<p>Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, de",
@@ -378,7 +432,7 @@
     "published_at": "2026-08-11T07:05:55"
   },
   {
-    "id": 131,
+    "id": 133,
     "title": "AI professors are negotiating the new realities of academic research",
     "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
@@ -396,7 +450,7 @@
     "published_at": "2026-08-10T19:25:00"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "What building an AI-native finance function taught me",
     "url": "https://openai.com/index/building-an-ai-native-finance-function",
     "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
@@ -405,7 +459,7 @@
     "published_at": "2026-08-10T17:00:00"
   },
   {
-    "id": 11,
+    "id": 13,
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
@@ -414,7 +468,7 @@
     "published_at": "2026-08-10T14:00:00"
   },
   {
-    "id": 12,
+    "id": 14,
     "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
     "url": "https://openai.com/index/model-ml",
     "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
@@ -423,7 +477,7 @@
     "published_at": "2026-08-10T12:00:00"
   },
   {
-    "id": 169,
+    "id": 171,
     "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
     "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
     "summary": "<p>Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, loca",
@@ -432,7 +486,7 @@
     "published_at": "2026-08-10T11:02:38"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Putting frontier cyber models in more trusted hands",
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
@@ -441,7 +495,7 @@
     "published_at": "2026-08-10T10:00:00"
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
@@ -450,7 +504,7 @@
     "published_at": "2026-08-10T10:00:00"
   },
   {
-    "id": 170,
+    "id": 172,
     "title": "The limits of physics AI: where Siemens says the human stays in charge",
     "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
     "summary": "<p>Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit,",
@@ -459,7 +513,7 @@
     "published_at": "2026-08-10T10:00:00"
   },
   {
-    "id": 132,
+    "id": 134,
     "title": "AI for science needs reasoning, not just data",
     "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
@@ -468,7 +522,7 @@
     "published_at": "2026-08-10T09:00:00"
   },
   {
-    "id": 133,
+    "id": 135,
     "title": "These startups are chasing the next big thing in LLMs",
     "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
@@ -477,7 +531,7 @@
     "published_at": "2026-08-10T09:00:00"
   },
   {
-    "id": 16,
+    "id": 18,
     "title": "Premium seats are coming to ChatGPT Business",
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
@@ -486,7 +540,7 @@
     "published_at": "2026-08-10T00:00:00"
   },
   {
-    "id": 17,
+    "id": 19,
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
@@ -495,7 +549,7 @@
     "published_at": "2026-08-10T00:00:00"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "url": "https://openai.com/index/zapier",
     "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
@@ -504,7 +558,7 @@
     "published_at": "2026-08-10T00:00:00"
   },
   {
-    "id": 19,
+    "id": 21,
     "title": "Responding to the next frontier of critical cyber capabilities",
     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
@@ -513,7 +567,7 @@
     "published_at": "2026-08-07T15:20:00"
   },
   {
-    "id": 171,
+    "id": 173,
     "title": "Stanford Evo 2 AI model generates phages against E. coli",
     "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
     "summary": "<p>Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Br",
@@ -522,7 +576,7 @@
     "published_at": "2026-08-07T15:05:03"
   },
   {
-    "id": 172,
+    "id": 174,
     "title": "How AI Is changing Instagram engagement without replacing the human touch",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
     "summary": "<p>Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the cont",
@@ -531,16 +585,7 @@
     "published_at": "2026-08-07T14:33:59"
   },
   {
-    "id": 173,
-    "title": "Alibaba tests new business model for Qwen open-source AI",
-    "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
-    "summary": "<p>Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to rea",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-07T10:00:00"
-  },
-  {
-    "id": 20,
+    "id": 22,
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "url": "https://openai.com/index/hsp-gruppe",
     "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
@@ -549,16 +594,7 @@
     "published_at": "2026-08-07T09:00:00"
   },
   {
-    "id": 174,
-    "title": "Why health AI interfaces must adapt to user expertise",
-    "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
-    "summary": "<p>MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from de",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-06T15:55:37"
-  },
-  {
-    "id": 21,
+    "id": 23,
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
@@ -567,7 +603,7 @@
     "published_at": "2026-08-06T10:00:00"
   },
   {
-    "id": 22,
+    "id": 24,
     "title": "Working with the American Psychological Association on youth mental health and AI",
     "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
@@ -576,7 +612,7 @@
     "published_at": "2026-08-06T06:00:00"
   },
   {
-    "id": 23,
+    "id": 25,
     "title": "From asking to doing: How the world is putting ChatGPT to work",
     "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
     "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
@@ -585,7 +621,7 @@
     "published_at": "2026-08-06T00:00:00"
   },
   {
-    "id": 24,
+    "id": 26,
     "title": "Third-party cyber evaluations involving OpenAI models",
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
@@ -612,7 +648,7 @@
     "published_at": "2026-08-04T09:00:00"
   },
   {
-    "id": 25,
+    "id": 27,
     "title": "New ways to learn and teach with ChatGPT Work and Codex",
     "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
@@ -621,7 +657,7 @@
     "published_at": "2026-08-04T00:00:00"
   },
   {
-    "id": 26,
+    "id": 28,
     "title": "Apple is getting this wrong",
     "url": "https://openai.com/index/apple-is-getting-this-wrong",
     "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
@@ -639,25 +675,7 @@
     "published_at": "2026-08-03T19:50:00"
   },
   {
-    "id": 134,
-    "title": "Trump’s AI protectionism has come for robotics",
-    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. ",
-    "author": "James O'Donnell",
-    "source": "MIT Technology Review",
-    "published_at": "2026-08-03T18:43:30"
-  },
-  {
-    "id": 135,
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
-    "author": "Grace Huckins",
-    "source": "MIT Technology Review",
-    "published_at": "2026-08-03T08:30:05"
-  },
-  {
-    "id": 27,
+    "id": 29,
     "title": "How we built a realtime system for responsive voice AI in six months",
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
@@ -666,7 +684,7 @@
     "published_at": "2026-08-03T07:00:00"
   },
   {
-    "id": 28,
+    "id": 30,
     "title": "Circles powers telco personalization with OpenAI technology",
     "url": "https://openai.com/index/circles",
     "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
@@ -675,7 +693,7 @@
     "published_at": "2026-08-03T00:00:00"
   },
   {
-    "id": 29,
+    "id": 31,
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
@@ -684,7 +702,7 @@
     "published_at": "2026-08-01T00:00:00"
   },
   {
-    "id": 30,
+    "id": 32,
     "title": "Advancing responsible AI across Europe",
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
@@ -693,7 +711,7 @@
     "published_at": "2026-07-31T15:00:00"
   },
   {
-    "id": 31,
+    "id": 33,
     "title": "Building abundant intelligence",
     "url": "https://openai.com/index/building-abundant-intelligence",
     "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
@@ -702,7 +720,7 @@
     "published_at": "2026-07-31T15:00:00"
   },
   {
-    "id": 32,
+    "id": 34,
     "title": "Univé builds an AI-ready workforce",
     "url": "https://openai.com/index/unive",
     "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
@@ -711,7 +729,7 @@
     "published_at": "2026-07-31T07:00:00"
   },
   {
-    "id": 33,
+    "id": 35,
     "title": "Disrupting a Criminal Scam Operation",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
@@ -738,7 +756,7 @@
     "published_at": "2026-07-30T20:35:00"
   },
   {
-    "id": 34,
+    "id": 36,
     "title": "Advancing the price-performance frontier with GPT-5.6",
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
@@ -747,7 +765,7 @@
     "published_at": "2026-07-30T10:00:00"
   },
   {
-    "id": 35,
+    "id": 37,
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "url": "https://openai.com/index/avatarin",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
@@ -756,7 +774,7 @@
     "published_at": "2026-07-30T00:00:00"
   },
   {
-    "id": 36,
+    "id": 38,
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
@@ -774,7 +792,7 @@
     "published_at": "2026-07-29T14:00:00"
   },
   {
-    "id": 37,
+    "id": 39,
     "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
     "url": "https://openai.com/index/chatgpt-for-academic-researchers",
     "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
@@ -783,7 +801,7 @@
     "published_at": "2026-07-29T10:00:00"
   },
   {
-    "id": 38,
+    "id": 40,
     "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
     "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
     "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
@@ -792,7 +810,7 @@
     "published_at": "2026-07-29T00:00:00"
   },
   {
-    "id": 39,
+    "id": 41,
     "title": "Scientific computing in the age of agentic AI",
     "url": "https://openai.com/index/scientific-computing-agentic-ai",
     "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
@@ -801,7 +819,7 @@
     "published_at": "2026-07-28T17:00:00"
   },
   {
-    "id": 40,
+    "id": 42,
     "title": "How AI is expanding what people do at work",
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
@@ -828,7 +846,7 @@
     "published_at": "2026-07-23T12:00:00"
   },
   {
-    "id": 41,
+    "id": 43,
     "title": "Launching Health in ChatGPT",
     "url": "https://openai.com/index/health-in-chatgpt",
     "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
@@ -846,7 +864,7 @@
     "published_at": "2026-07-22T17:00:00"
   },
   {
-    "id": 42,
+    "id": 44,
     "title": "Building AI infrastructure with the Effingham County community",
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
@@ -855,7 +873,7 @@
     "published_at": "2026-07-22T13:00:00"
   },
   {
-    "id": 43,
+    "id": 45,
     "title": "How news organizations are using AI to advance their vital missions",
     "url": "https://openai.com/index/how-news-organizations-are-using-ai",
     "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
@@ -864,7 +882,7 @@
     "published_at": "2026-07-22T13:00:00"
   },
   {
-    "id": 44,
+    "id": 46,
     "title": "Advancing the next era of national science",
     "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
@@ -873,7 +891,7 @@
     "published_at": "2026-07-22T12:00:00"
   },
   {
-    "id": 45,
+    "id": 47,
     "title": "Introducing OpenAI Presence",
     "url": "https://openai.com/index/introducing-openai-presence",
     "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
@@ -882,7 +900,7 @@
     "published_at": "2026-07-22T05:30:00"
   },
   {
-    "id": 46,
+    "id": 48,
     "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
     "url": "https://openai.com/index/ntt-data",
     "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
@@ -891,7 +909,7 @@
     "published_at": "2026-07-22T00:00:00"
   },
   {
-    "id": 47,
+    "id": 49,
     "title": "Introducing the ChatGPT for small business program",
     "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
     "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
@@ -900,31 +918,13 @@
     "published_at": "2026-07-21T17:00:00"
   },
   {
-    "id": 48,
+    "id": 50,
     "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-07-21T07:00:00"
-  },
-  {
-    "id": 49,
-    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-21T00:00:00"
-  },
-  {
-    "id": 50,
-    "title": "Safety and alignment in an era of long-horizon models",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-07-20T10:00:00"
   },
   {
     "id": 87,
