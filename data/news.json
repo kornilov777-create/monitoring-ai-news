@@ -1,6 +1,24 @@
 [
   {
     "id": 136,
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "summary": "It's the data, stupid.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-19T12:00:00"
+  },
+  {
+    "id": 137,
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-19T10:00:00"
+  },
+  {
+    "id": 138,
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
@@ -27,7 +45,7 @@
     "published_at": "2026-08-18T19:00:00"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "OpenAI institutes new safeguards after Hugging Face breach",
     "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
     "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
@@ -36,7 +54,7 @@
     "published_at": "2026-08-18T18:00:00"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Etched’s valuation doubles to $21B in a month",
     "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
     "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
@@ -54,7 +72,7 @@
     "published_at": "2026-08-18T16:35:00"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
     "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
     "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
@@ -63,16 +81,7 @@
     "published_at": "2026-08-18T16:19:10"
   },
   {
-    "id": 163,
-    "title": "OpenAI president urges enterprises to hasten AI security defences",
-    "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-    "summary": "<p>OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security p",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-18T14:58:27"
-  },
-  {
-    "id": 140,
+    "id": 142,
     "title": "Warp’s new system is an out-of-the-box software factory for AI development",
     "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
     "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
@@ -81,7 +90,7 @@
     "published_at": "2026-08-18T14:00:00"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
     "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
     "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
@@ -90,22 +99,13 @@
     "published_at": "2026-08-18T13:50:30"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Perplexity’s free AI offer left it with millions more users in India",
     "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
     "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
     "author": "Jagmeet Singh",
     "source": "TechCrunch AI",
     "published_at": "2026-08-18T13:45:40"
-  },
-  {
-    "id": 164,
-    "title": "Alvys launches AI agents for freight TMS workflows",
-    "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-    "summary": "<p>Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-18T12:00:00"
   },
   {
     "id": 3,
@@ -144,15 +144,6 @@
     "published_at": "2026-08-18T10:06:43"
   },
   {
-    "id": 165,
-    "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
-    "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-    "summary": "<p>Zhipu&#8217;s&#160;release note&#160;for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability &#8220;is growing fastest exactly where we are furthest behind.&#8221; Zhipu, which also trades",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-08-18T10:00:00"
-  },
-  {
     "id": 127,
     "title": "AI’s recursive self-improvement might not come so quickly after all",
     "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
@@ -180,7 +171,7 @@
     "published_at": "2026-08-18T00:00:00"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "Anthropic’s annualized revenue surges to $65B",
     "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "summary": "The model maker added $18 billion in annualized revenue in two months.",
@@ -189,7 +180,7 @@
     "published_at": "2026-08-17T23:56:26"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
     "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
@@ -216,7 +207,7 @@
     "published_at": "2026-08-17T19:16:09"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
     "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
@@ -225,7 +216,7 @@
     "published_at": "2026-08-17T16:38:44"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
     "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
@@ -234,7 +225,7 @@
     "published_at": "2026-08-17T16:15:12"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
@@ -243,7 +234,7 @@
     "published_at": "2026-08-17T15:16:24"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
     "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
     "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
@@ -288,7 +279,7 @@
     "published_at": "2026-08-17T03:15:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
@@ -297,7 +288,7 @@
     "published_at": "2026-08-16T20:57:04"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
     "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
@@ -306,7 +297,7 @@
     "published_at": "2026-08-16T20:32:01"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
     "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
     "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
@@ -315,7 +306,7 @@
     "published_at": "2026-08-16T16:53:51"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -324,49 +315,13 @@
     "published_at": "2026-08-15T21:29:19"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
     "author": "Anthony Ha",
     "source": "TechCrunch AI",
     "published_at": "2026-08-15T18:58:39"
-  },
-  {
-    "id": 154,
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-15T16:30:00"
-  },
-  {
-    "id": 155,
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-    "author": "Lorenzo Franceschi-Bicchierai",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-15T16:10:00"
-  },
-  {
-    "id": 166,
-    "title": "Samsung health AI models analyse wearable biosignal data",
-    "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-    "summary": "<p>Samsung Research America’s Digital Health Team has presented two AI foundation models designed to learn from wearable biosignals. The work centres on data captured by smartwatches, including heart activity, sleep, and physical activity. The company discussed its Connected Care vision at the Healt",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-14T13:30:10"
-  },
-  {
-    "id": 167,
-    "title": "Google AI health coach to use Abbott glucose data",
-    "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
-    "summary": "<p>Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be inte",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-14T10:00:00"
   },
   {
     "id": 130,
@@ -396,15 +351,6 @@
     "published_at": "2026-08-13T10:00:00"
   },
   {
-    "id": 168,
-    "title": "Okta targets AI agent token costs with MCP scoping",
-    "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
-    "summary": "<p>Okta says identity-scoped Model Context Protocol (MCP) tool lists can reduce AI agent token costs. Each model call made by an AI agent can include schemas, names, descriptions and parameters for every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens co",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-13T09:22:06"
-  },
-  {
     "id": 13,
     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
@@ -430,15 +376,6 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-08-12T16:51:57"
-  },
-  {
-    "id": 169,
-    "title": "Google tests AMIE for clinical video consultations",
-    "url": "https://www.artificialintelligence-news.com/news/google-tests-amie-for-clinical-video-consultations/",
-    "summary": "<p>Google’s research medical AI system, AMIE (Video), conducted synchronous video consultations with professional patient actors and received clinical evaluator ratings on par with primary care physicians across several core measures. Fifteen trained actors portrayed conditions across cardiopulmonar",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-12T14:56:18"
   },
   {
     "id": 14,
@@ -475,24 +412,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-11T10:00:00"
-  },
-  {
-    "id": 170,
-    "title": "Novo Nordisk and AWS bring agentic AI into drug discovery",
-    "url": "https://www.artificialintelligence-news.com/news/novo-nordisk-ai-drug-discovery-aws/",
-    "summary": "<p>Novo Nordisk is expanding its use of AWS artificial intelligence tools across drug discovery, including AI agents for target identification, therapy design, and research workflows. Under the agreement announced recently, AWS will become Novo Nordisk’s preferred cloud provider and strategic AI par",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-11T10:00:00"
-  },
-  {
-    "id": 171,
-    "title": "How AI is changing the vulnerability response timeline",
-    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
-    "summary": "<p>Artificial intelligence is giving security researchers new ways to examine code, trace unusual behaviour and identify flaws that conventional tools may overlook. The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, de",
-    "author": "Bazoom",
-    "source": "AI News",
-    "published_at": "2026-08-11T07:05:55"
   },
   {
     "id": 133,
@@ -540,15 +459,6 @@
     "published_at": "2026-08-10T12:00:00"
   },
   {
-    "id": 172,
-    "title": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
-    "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
-    "summary": "<p>Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company’s&#160; Superintelligence Labs has released the 30-billion-parameter model’s weights on Hugging Face. Meta says developers can use it for local coding, function calling, loca",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-10T11:02:38"
-  },
-  {
     "id": 21,
     "title": "Putting frontier cyber models in more trusted hands",
     "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
@@ -564,15 +474,6 @@
     "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-08-10T10:00:00"
-  },
-  {
-    "id": 173,
-    "title": "The limits of physics AI: where Siemens says the human stays in charge",
-    "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
-    "summary": "<p>Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit,",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
     "published_at": "2026-08-10T10:00:00"
   },
   {
@@ -628,15 +529,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-07T15:20:00"
-  },
-  {
-    "id": 174,
-    "title": "Stanford Evo 2 AI model generates phages against E. coli",
-    "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
-    "summary": "<p>Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Br",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-07T15:05:03"
   },
   {
     "id": 27,
