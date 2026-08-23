@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "author": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-22T21:46:56"
+  },
+  {
+    "id": 137,
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
@@ -9,7 +18,7 @@
     "published_at": "2026-08-22T19:00:00"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "OpenAI says California should strengthen its AI safety bill",
     "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
@@ -18,7 +27,7 @@
     "published_at": "2026-08-22T16:30:34"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
     "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
     "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
@@ -27,7 +36,7 @@
     "published_at": "2026-08-22T16:00:00"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -36,7 +45,7 @@
     "published_at": "2026-08-21T23:07:25"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Nvidia partners with data center developer Cloverleaf",
     "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
     "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
@@ -45,22 +54,13 @@
     "published_at": "2026-08-21T22:37:38"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
     "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
     "author": "Julie Bort",
     "source": "TechCrunch AI",
     "published_at": "2026-08-21T19:43:39"
-  },
-  {
-    "id": 142,
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "summary": "There's about to be a big fight to secure access to space.",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-21T14:00:00"
   },
   {
     "id": 143,
@@ -73,6 +73,15 @@
   },
   {
     "id": 144,
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "summary": "There's about to be a big fight to secure access to space.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-21T14:00:00"
+  },
+  {
+    "id": 145,
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -81,7 +90,7 @@
     "published_at": "2026-08-21T00:13:44"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
     "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
     "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
@@ -90,7 +99,7 @@
     "published_at": "2026-08-20T22:36:37"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
     "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
     "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
@@ -99,7 +108,7 @@
     "published_at": "2026-08-20T22:09:51"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "OK, can we actually cool data centers with our pee?",
     "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
@@ -108,7 +117,7 @@
     "published_at": "2026-08-20T20:53:13"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Google gives publishers a new way to fight AI-driven traffic losses",
     "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
     "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
@@ -117,7 +126,7 @@
     "published_at": "2026-08-20T19:18:21"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
     "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
     "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
@@ -135,7 +144,7 @@
     "published_at": "2026-08-20T18:45:00"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
     "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
     "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
@@ -144,7 +153,7 @@
     "published_at": "2026-08-20T18:20:35"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Grok keeps sending gibberish responses to users",
     "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
     "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
@@ -153,7 +162,7 @@
     "published_at": "2026-08-20T17:32:16"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
     "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
     "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
@@ -162,7 +171,7 @@
     "published_at": "2026-08-20T17:18:58"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Ramp launches its own AI model router, called Router",
     "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
     "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
@@ -171,22 +180,13 @@
     "published_at": "2026-08-20T16:46:00"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
     "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
     "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-08-20T16:07:26"
-  },
-  {
-    "id": 155,
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-    "author": "Tim De Chant",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-20T16:00:00"
   },
   {
     "id": 126,
