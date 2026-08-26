@@ -1,6 +1,78 @@
 [
   {
     "id": 136,
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T15:47:28"
+  },
+  {
+    "id": 137,
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T15:00:00"
+  },
+  {
+    "id": 138,
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T14:37:01"
+  },
+  {
+    "id": 156,
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
+    "author": "",
+    "source": "VentureBeat AI",
+    "published_at": "2026-08-26T14:30:00"
+  },
+  {
+    "id": 139,
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "author": "Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T14:19:29"
+  },
+  {
+    "id": 140,
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "summary": "Robot bodies are waiting for their AI brains to catch up.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T13:30:00"
+  },
+  {
+    "id": 141,
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T13:00:00"
+  },
+  {
+    "id": 142,
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-26T12:55:28"
+  },
+  {
+    "id": 143,
     "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
     "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
     "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
@@ -9,31 +81,13 @@
     "published_at": "2026-08-26T12:00:00"
   },
   {
-    "id": 137,
+    "id": 144,
     "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
     "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
     "author": "Jagmeet Singh",
     "source": "TechCrunch AI",
     "published_at": "2026-08-26T11:00:00"
-  },
-  {
-    "id": 163,
-    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-    "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-    "summary": "<p>Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Priva",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-26T10:00:00"
-  },
-  {
-    "id": 164,
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-    "summary": "<p>NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-26T09:08:11"
   },
   {
     "id": 76,
@@ -72,7 +126,7 @@
     "published_at": "2026-08-26T07:01:00"
   },
   {
-    "id": 138,
+    "id": 145,
     "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
     "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "summary": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
@@ -81,7 +135,7 @@
     "published_at": "2026-08-26T03:30:00"
   },
   {
-    "id": 139,
+    "id": 146,
     "title": "Robotics startup Generalist reaches $3B valuation, sources say",
     "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
     "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
@@ -90,7 +144,7 @@
     "published_at": "2026-08-26T00:40:59"
   },
   {
-    "id": 140,
+    "id": 147,
     "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
     "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "summary": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\"",
@@ -108,7 +162,7 @@
     "published_at": "2026-08-26T00:00:00"
   },
   {
-    "id": 141,
+    "id": 148,
     "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
     "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "summary": "The company's new fundraising total now stands at $232 million.",
@@ -117,7 +171,7 @@
     "published_at": "2026-08-25T19:03:47"
   },
   {
-    "id": 142,
+    "id": 149,
     "title": "Claude Cowork finally remembers what you told the app in chat",
     "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
     "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
@@ -126,16 +180,7 @@
     "published_at": "2026-08-25T17:50:33"
   },
   {
-    "id": 165,
-    "title": "MIT AI forecasts extreme weather without historical data",
-    "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-    "summary": "<p>MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region&#8217;s historical r",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-25T15:46:06"
-  },
-  {
-    "id": 143,
+    "id": 150,
     "title": "Gamma acquires Accel-backed design startup Lica",
     "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
     "summary": "Lica co-founders are going to work on Gamma's new research team.",
@@ -144,7 +189,7 @@
     "published_at": "2026-08-25T15:00:00"
   },
   {
-    "id": 144,
+    "id": 151,
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
@@ -153,7 +198,7 @@
     "published_at": "2026-08-25T14:22:04"
   },
   {
-    "id": 145,
+    "id": 152,
     "title": "Accel-backed Keenable is indexing the web for AI agents",
     "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
     "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
@@ -162,7 +207,7 @@
     "published_at": "2026-08-25T13:00:00"
   },
   {
-    "id": 146,
+    "id": 153,
     "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
     "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
     "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
@@ -198,7 +243,7 @@
     "published_at": "2026-08-25T07:00:00"
   },
   {
-    "id": 147,
+    "id": 154,
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
@@ -225,31 +270,13 @@
     "published_at": "2026-08-25T00:00:00"
   },
   {
-    "id": 148,
+    "id": 155,
     "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
     "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
     "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
     "author": "Sean O'Kane",
     "source": "TechCrunch AI",
     "published_at": "2026-08-24T21:24:17"
-  },
-  {
-    "id": 149,
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-24T19:54:19"
-  },
-  {
-    "id": 150,
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-24T18:03:55"
   },
   {
     "id": 77,
@@ -261,33 +288,6 @@
     "published_at": "2026-08-24T18:00:00"
   },
   {
-    "id": 166,
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-    "summary": "<p>XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG sa",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-24T15:53:53"
-  },
-  {
-    "id": 151,
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-    "author": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-24T15:24:18"
-  },
-  {
-    "id": 152,
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-24T15:00:00"
-  },
-  {
     "id": 130,
     "title": "How to encourage smarter AI use in the classroom",
     "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -295,15 +295,6 @@
     "author": "Peter Hall",
     "source": "MIT Technology Review",
     "published_at": "2026-08-24T14:20:19"
-  },
-  {
-    "id": 153,
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
-    "author": "Rebecca Bellan",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-24T13:47:26"
   },
   {
     "id": 6,
@@ -324,33 +315,6 @@
     "published_at": "2026-08-24T09:00:00"
   },
   {
-    "id": 154,
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-23T20:01:36"
-  },
-  {
-    "id": 155,
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-23T19:14:08"
-  },
-  {
-    "id": 167,
-    "title": "How AI coding tools are contributing to the popularity of JavaScript",
-    "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-    "summary": "<p>In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the ",
-    "author": "Emma Clarke",
-    "source": "AI News",
-    "published_at": "2026-08-21T08:41:29"
-  },
-  {
     "id": 78,
     "title": "Paving the way for greener ammonia production",
     "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
@@ -369,24 +333,6 @@
     "published_at": "2026-08-20T15:42:39"
   },
   {
-    "id": 168,
-    "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-    "summary": "<p>Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Ama",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-20T14:05:18"
-  },
-  {
-    "id": 169,
-    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-    "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-    "summary": "<p>Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 model",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-20T10:00:00"
-  },
-  {
     "id": 133,
     "title": "Unlocking hidden revenue streams with market models",
     "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
@@ -394,42 +340,6 @@
     "author": "MIT Technology Review Insights",
     "source": "MIT Technology Review",
     "published_at": "2026-08-20T09:47:22"
-  },
-  {
-    "id": 170,
-    "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-    "summary": "<p>The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world&#8217;s first minister of state for artificial intelligen",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-08-20T09:00:00"
-  },
-  {
-    "id": 171,
-    "title": "A third of ChatGPT ads appear in irrelevant conversations",
-    "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-    "summary": "<p>Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pair",
-    "author": "JP Garbaccio, Head of AEO and SEO at Searchable",
-    "source": "AI News",
-    "published_at": "2026-08-20T08:07:40"
-  },
-  {
-    "id": 172,
-    "title": "AI data centre regulation just got a template that needs no new law",
-    "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-    "summary": "<p>AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer&#8217;s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them, and persuade the town that has to live with ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-08-20T08:00:00"
-  },
-  {
-    "id": 173,
-    "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-    "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-    "summary": "<p>Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic&#8217;s AI assistant Claude",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-08-20T07:35:07"
   },
   {
     "id": 7,
@@ -459,7 +369,7 @@
     "published_at": "2026-08-19T19:00:00"
   },
   {
-    "id": 156,
+    "id": 157,
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
     "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built ",
@@ -502,15 +412,6 @@
     "author": "Rachel Gordon | MIT CSAIL",
     "source": "MIT News AI",
     "published_at": "2026-08-18T16:35:00"
-  },
-  {
-    "id": 174,
-    "title": "OpenAI president urges enterprises to hasten AI security defences",
-    "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-    "summary": "<p>OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the “OpenAI-Hugging Face” incident, using it to argue that organisations need to uplevel their security p",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-18T14:58:27"
   },
   {
     "id": 13,
@@ -1287,7 +1188,7 @@
     "published_at": "2026-05-20T04:00:00"
   },
   {
-    "id": 157,
+    "id": 158,
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
     "summary": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
@@ -1296,7 +1197,7 @@
     "published_at": "2026-05-19T17:45:00"
   },
   {
-    "id": 158,
+    "id": 159,
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
@@ -1305,7 +1206,7 @@
     "published_at": "2026-01-22T14:00:00"
   },
   {
-    "id": 159,
+    "id": 160,
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
     "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
@@ -1314,7 +1215,7 @@
     "published_at": "2026-01-19T14:00:00"
   },
   {
-    "id": 160,
+    "id": 161,
     "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
     "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
     "summary": "<p>Alfred Wahlforss was running out of options. His startup, <a href=\"https://listenlabs.ai/\">Listen Labs</a>, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s <a href=\"https://news.bloomberglaw.com/employee-benefits/zuckerbergs-100-million-ai-job-offers-pay-off-parmy-",
@@ -1323,22 +1224,13 @@
     "published_at": "2026-01-16T14:01:00"
   },
   {
-    "id": 161,
+    "id": 162,
     "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
     "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
     "summary": "<p><a href=\"https://www.salesforce.com/\">Salesforce</a> on Tuesday launched an entirely rebuilt version of <a href=\"https://slack.com/help/articles/202026038-An-introduction-to-Slackbot\">Slackbot</a>, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what e",
     "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
     "source": "VentureBeat AI",
     "published_at": "2026-01-13T13:00:00"
-  },
-  {
-    "id": 162,
-    "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
-    "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> released <a href=\"https://claude.com/blog/cowork-research-preview\">Cowork</a> on Monday, a new AI agent capability that extends the power of its wildly successful <a href=\"https://claude.com/product/claude-code\">Claude Code</a> tool to non-techni",
-    "author": "michael.nunez@venturebeat.com (Michael Nuñez)",
-    "source": "VentureBeat AI",
-    "published_at": "2026-01-12T11:30:00"
   },
   {
     "id": 51,
