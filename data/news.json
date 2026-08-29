@@ -1,6 +1,33 @@
 [
   {
     "id": 136,
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "author": "Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-28T20:24:11"
+  },
+  {
+    "id": 137,
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-28T19:30:38"
+  },
+  {
+    "id": 138,
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "summary": "There's a lot of capital pouring into the business of giving models away.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-08-28T18:19:40"
+  },
+  {
+    "id": 139,
     "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
@@ -9,7 +36,7 @@
     "published_at": "2026-08-28T12:46:12"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
     "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
     "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
@@ -27,7 +54,7 @@
     "published_at": "2026-08-28T02:00:00"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
@@ -36,7 +63,7 @@
     "published_at": "2026-08-27T23:16:45"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
     "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
     "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
@@ -54,7 +81,7 @@
     "published_at": "2026-08-27T19:20:00"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
     "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
@@ -63,7 +90,7 @@
     "published_at": "2026-08-27T17:43:24"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
     "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
     "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
@@ -72,7 +99,7 @@
     "published_at": "2026-08-27T16:00:00"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
     "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
     "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
@@ -81,7 +108,7 @@
     "published_at": "2026-08-27T14:56:52"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "AI’s memory crunch is coming for Android apps",
     "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
     "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
@@ -90,7 +117,7 @@
     "published_at": "2026-08-27T14:27:04"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "Here’s all the times AI has gone rogue and hacked other companies",
     "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
     "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
@@ -99,7 +126,7 @@
     "published_at": "2026-08-27T14:01:42"
   },
   {
-    "id": 156,
+    "id": 155,
     "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
     "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
     "summary": "<p><i>Presented by Gravitee </i></p><hr /><p>Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.</p><p>That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agen",
@@ -108,7 +135,7 @@
     "published_at": "2026-08-27T14:01:00"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
     "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
     "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
@@ -117,7 +144,7 @@
     "published_at": "2026-08-27T13:00:00"
   },
   {
-    "id": 157,
+    "id": 156,
     "title": "When agents act on their own, governance has to live in the data layer",
     "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
     "summary": "<p><i>Presented by EDB </i></p><hr /><p>As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was neve",
@@ -126,7 +153,7 @@
     "published_at": "2026-08-27T12:01:00"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
     "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
     "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
@@ -135,7 +162,7 @@
     "published_at": "2026-08-27T11:35:59"
   },
   {
-    "id": 163,
+    "id": 162,
     "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
     "summary": "<p>Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the labs Nvidia backs with its own balance sheet will ",
@@ -153,7 +180,7 @@
     "published_at": "2026-08-27T09:00:00"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "Nvidia closes in on Hugging Face acquisition",
     "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
@@ -171,7 +198,7 @@
     "published_at": "2026-08-27T03:00:00"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
     "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
@@ -180,7 +207,7 @@
     "published_at": "2026-08-27T00:24:57"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
     "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
     "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
@@ -189,7 +216,7 @@
     "published_at": "2026-08-26T23:47:18"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
     "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
     "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
@@ -198,31 +225,13 @@
     "published_at": "2026-08-26T21:37:39"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
     "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
     "summary": "Consumer AI apps need to stop making users learn their product architecture.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-08-26T19:37:34"
-  },
-  {
-    "id": 152,
-    "title": "How do we explain OpenAI’s executive exodus?",
-    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-    "summary": "Was Greg Brockman the right executive all along?",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-26T19:34:04"
-  },
-  {
-    "id": 153,
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-26T19:05:22"
   },
   {
     "id": 126,
@@ -234,25 +243,7 @@
     "published_at": "2026-08-26T19:00:00"
   },
   {
-    "id": 154,
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-26T15:47:28"
-  },
-  {
-    "id": 155,
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-08-26T15:00:00"
-  },
-  {
-    "id": 158,
+    "id": 157,
     "title": "Orchestration is the new challenge for CX in the age of AI agents",
     "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
     "summary": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems nev",
@@ -262,15 +253,6 @@
   },
   {
     "id": 4,
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00"
-  },
-  {
-    "id": 5,
     "title": "Learning never stops: How AI makes learning continuous",
     "url": "https://openai.com/index/learning-never-stops",
     "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
@@ -279,7 +261,16 @@
     "published_at": "2026-08-26T10:00:00"
   },
   {
-    "id": 164,
+    "id": 5,
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00"
+  },
+  {
+    "id": 163,
     "title": "Gatik raises $200M to scale AI-powered autonomous freight",
     "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
     "summary": "<p>Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Priva",
@@ -288,7 +279,7 @@
     "published_at": "2026-08-26T10:00:00"
   },
   {
-    "id": 165,
+    "id": 164,
     "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
     "summary": "<p>NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside",
@@ -351,7 +342,7 @@
     "published_at": "2026-08-26T00:00:00"
   },
   {
-    "id": 166,
+    "id": 165,
     "title": "MIT AI forecasts extreme weather without historical data",
     "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
     "summary": "<p>MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region&#8217;s historical r",
@@ -414,7 +405,7 @@
     "published_at": "2026-08-24T18:00:00"
   },
   {
-    "id": 167,
+    "id": 166,
     "title": "XPENG IRON humanoid robot draws record physical AI funding",
     "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
     "summary": "<p>XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG sa",
@@ -450,7 +441,7 @@
     "published_at": "2026-08-24T09:00:00"
   },
   {
-    "id": 168,
+    "id": 167,
     "title": "How AI coding tools are contributing to the popularity of JavaScript",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
     "summary": "<p>In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the ",
@@ -477,7 +468,7 @@
     "published_at": "2026-08-20T15:42:39"
   },
   {
-    "id": 169,
+    "id": 168,
     "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
     "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
     "summary": "<p>Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Ama",
@@ -486,7 +477,7 @@
     "published_at": "2026-08-20T14:05:18"
   },
   {
-    "id": 170,
+    "id": 169,
     "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
     "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
     "summary": "<p>Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface. The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 model",
@@ -504,7 +495,7 @@
     "published_at": "2026-08-20T09:47:22"
   },
   {
-    "id": 171,
+    "id": 170,
     "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
     "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
     "summary": "<p>The United Arab Emirates (UAE) has been early in adopting artificial intelligence for 9 years. It published a national AI strategy in October 2017 and, days later, created a ministerial post to run it, making Omar Sultan Al Olama the world&#8217;s first minister of state for artificial intelligen",
@@ -513,7 +504,7 @@
     "published_at": "2026-08-20T09:00:00"
   },
   {
-    "id": 172,
+    "id": 171,
     "title": "A third of ChatGPT ads appear in irrelevant conversations",
     "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
     "summary": "<p>Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wants. So far, that hasn’t entirely been the case. Searchable, the AI visibility platform, analysed more than 11,000 ads served inside real ChatGPT conversations between 4 July and 4 August 2026, pair",
@@ -522,7 +513,7 @@
     "published_at": "2026-08-20T08:07:40"
   },
   {
-    "id": 173,
+    "id": 172,
     "title": "AI data centre regulation just got a template that needs no new law",
     "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
     "summary": "<p>AI data centre regulation in Pennsylvania now begins with a signature. Before the state will so much as open a developer&#8217;s permit file, that developer has to sign a contract accepting a fixed set of conditions and the penalties for breaking them, and persuade the town that has to live with ",
@@ -531,7 +522,7 @@
     "published_at": "2026-08-20T08:00:00"
   },
   {
-    "id": 174,
+    "id": 173,
     "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
     "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
     "summary": "<p>Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises. Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic&#8217;s AI assistant Claude",
@@ -576,7 +567,7 @@
     "published_at": "2026-08-19T19:00:00"
   },
   {
-    "id": 159,
+    "id": 158,
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
     "summary": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built ",
@@ -829,15 +820,6 @@
   },
   {
     "id": 40,
-    "title": "Premium seats are coming to ChatGPT Business",
-    "url": "https://openai.com/index/premium-seats-chatgpt-business",
-    "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-10T00:00:00"
-  },
-  {
-    "id": 41,
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
@@ -846,10 +828,19 @@
     "published_at": "2026-08-10T00:00:00"
   },
   {
-    "id": 42,
+    "id": 41,
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "url": "https://openai.com/index/zapier",
     "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-10T00:00:00"
+  },
+  {
+    "id": 42,
+    "title": "Premium seats are coming to ChatGPT Business",
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-10T00:00:00"
@@ -1314,7 +1305,7 @@
     "published_at": "2026-05-20T04:00:00"
   },
   {
-    "id": 160,
+    "id": 159,
     "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
     "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
     "summary": "<p>For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.</p><p>At its annual <a href=\"https://io.google",
@@ -1323,7 +1314,7 @@
     "published_at": "2026-05-19T17:45:00"
   },
   {
-    "id": 161,
+    "id": 160,
     "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
     "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
     "summary": "<p><a href=\"https://railway.com/\">Railway</a>, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applic",
@@ -1332,7 +1323,7 @@
     "published_at": "2026-01-22T14:00:00"
   },
   {
-    "id": 162,
+    "id": 161,
     "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
     "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
     "summary": "<p>The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.</p><p><a href=\"https://claude.com/product/claude-code\">Claude Code</a>, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software dev",
