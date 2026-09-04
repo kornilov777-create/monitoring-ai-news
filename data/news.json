@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-04T04:21:03"
+  },
+  {
+    "id": 137,
     "title": "Crusoe reportedly raises $3B at a $30B valuation",
     "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
@@ -9,7 +18,7 @@
     "published_at": "2026-09-04T00:48:42"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -18,7 +27,7 @@
     "published_at": "2026-09-03T19:36:29"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
@@ -27,7 +36,7 @@
     "published_at": "2026-09-03T18:37:57"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "Meta is paying to peek at how you use their latest AI model",
     "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
@@ -36,7 +45,7 @@
     "published_at": "2026-09-03T18:19:56"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "OpenAI launches Astra, its powerful (and controversial) new model",
     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
@@ -45,7 +54,7 @@
     "published_at": "2026-09-03T18:01:45"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
     "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
     "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
@@ -54,25 +63,7 @@
     "published_at": "2026-09-03T16:09:01"
   },
   {
-    "id": 155,
-    "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-    "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-    "summary": "<p>OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets, couriers, parcel carriers, and other delivery m",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-09-03T16:07:18"
-  },
-  {
-    "id": 156,
-    "title": "NVIDIA to acquire Hugging Face for $12.93B",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
-    "summary": "<p>NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-03T15:50:31"
-  },
-  {
-    "id": 142,
+    "id": 143,
     "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -90,7 +81,7 @@
     "published_at": "2026-09-03T13:15:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
     "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
     "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
@@ -126,7 +117,7 @@
     "published_at": "2026-09-03T00:00:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -135,7 +126,7 @@
     "published_at": "2026-09-02T23:01:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
@@ -144,7 +135,7 @@
     "published_at": "2026-09-02T22:44:56"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
     "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
     "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
@@ -162,7 +153,7 @@
     "published_at": "2026-09-02T20:25:00"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
@@ -171,7 +162,7 @@
     "published_at": "2026-09-02T20:19:14"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
@@ -180,7 +171,7 @@
     "published_at": "2026-09-02T17:18:13"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
     "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
     "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
@@ -189,7 +180,7 @@
     "published_at": "2026-09-02T17:09:57"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
     "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
@@ -198,7 +189,7 @@
     "published_at": "2026-09-02T17:09:06"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
     "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
     "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
@@ -207,7 +198,7 @@
     "published_at": "2026-09-02T16:04:10"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
     "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
     "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
@@ -216,16 +207,7 @@
     "published_at": "2026-09-02T16:01:48"
   },
   {
-    "id": 157,
-    "title": "Motional and MIT AI explains self-driving car decisions",
-    "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-    "summary": "<p>Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes CEO Laura Major, working alongside researchers fro",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-02T15:25:12"
-  },
-  {
-    "id": 153,
+    "id": 154,
     "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
     "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
     "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
@@ -241,15 +223,6 @@
     "author": "Adam Zewe | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-09-02T15:00:00"
-  },
-  {
-    "id": 154,
-    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-02T14:56:34"
   },
   {
     "id": 126,
@@ -288,15 +261,6 @@
     "published_at": "2026-09-01T17:00:00"
   },
   {
-    "id": 158,
-    "title": "ChatGPT Ads passes $1B run rate in 200 days",
-    "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-    "summary": "<p>ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching today in India, Europe, the Middle East, and Nor",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-01T16:05:27"
-  },
-  {
     "id": 7,
     "title": "Path to Astra: critical capabilities and frontier safeguards",
     "url": "https://openai.com/index/path-to-astra",
@@ -313,15 +277,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-01T12:00:00"
-  },
-  {
-    "id": 159,
-    "title": "Why MCP servers are becoming AI’s newest attack surface",
-    "url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-    "summary": "<p>As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed strengthens what AI can do, but makes it very difficult for s",
-    "author": "AI News",
-    "source": "AI News",
-    "published_at": "2026-09-01T07:37:26"
   },
   {
     "id": 79,
@@ -423,15 +378,6 @@
     "published_at": "2026-08-27T19:20:00"
   },
   {
-    "id": 160,
-    "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-    "summary": "<p>Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the labs Nvidia backs with its own balance sheet will ",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-08-27T10:00:00"
-  },
-  {
     "id": 15,
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -475,24 +421,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
-  },
-  {
-    "id": 161,
-    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-    "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-    "summary": "<p>Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Priva",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-08-26T10:00:00"
-  },
-  {
-    "id": 162,
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-    "summary": "<p>NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-26T09:08:11"
   },
   {
     "id": 83,
@@ -549,15 +477,6 @@
     "published_at": "2026-08-26T00:00:00"
   },
   {
-    "id": 163,
-    "title": "MIT AI forecasts extreme weather without historical data",
-    "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-    "summary": "<p>MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a region&#8217;s historical r",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-25T15:46:06"
-  },
-  {
     "id": 132,
     "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
     "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
@@ -612,15 +531,6 @@
     "published_at": "2026-08-24T18:00:00"
   },
   {
-    "id": 164,
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-    "summary": "<p>XPENG&#8217;s physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple investors. XPENG sa",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-24T15:53:53"
-  },
-  {
     "id": 133,
     "title": "How to encourage smarter AI use in the classroom",
     "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
@@ -648,15 +558,6 @@
     "published_at": "2026-08-24T09:00:00"
   },
   {
-    "id": 165,
-    "title": "How AI coding tools are contributing to the popularity of JavaScript",
-    "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-    "summary": "<p>In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub&#8217;s language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the ",
-    "author": "Emma Clarke",
-    "source": "AI News",
-    "published_at": "2026-08-21T08:41:29"
-  },
-  {
     "id": 85,
     "title": "Paving the way for greener ammonia production",
     "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
@@ -673,15 +574,6 @@
     "author": "Rumman Chowdhury",
     "source": "MIT Technology Review",
     "published_at": "2026-08-20T15:42:39"
-  },
-  {
-    "id": 166,
-    "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
-    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-    "summary": "<p>Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026. That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Ama",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-08-20T14:05:18"
   },
   {
     "id": 26,
