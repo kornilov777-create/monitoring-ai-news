@@ -1,6 +1,42 @@
 [
   {
+    "id": 126,
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-09-04T18:39:19"
+  },
+  {
     "id": 136,
+    "title": "What will Apple’s John Ternus era look like?",
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "author": "Theresa Loconsolo",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-04T17:18:00"
+  },
+  {
+    "id": 137,
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-04T16:21:11"
+  },
+  {
+    "id": 138,
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "author": "Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-04T16:04:08"
+  },
+  {
+    "id": 139,
     "title": "Google’s Gemini Spark can now manage your Google Photos library",
     "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
     "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
@@ -9,7 +45,7 @@
     "published_at": "2026-09-04T14:47:11"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
     "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
     "summary": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
@@ -27,7 +63,7 @@
     "published_at": "2026-09-04T10:00:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
     "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
@@ -45,7 +81,7 @@
     "published_at": "2026-09-04T08:25:12"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
@@ -54,7 +90,7 @@
     "published_at": "2026-09-04T04:21:03"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Crusoe reportedly raises $3B at a $30B valuation",
     "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
@@ -63,7 +99,7 @@
     "published_at": "2026-09-04T00:48:42"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -72,7 +108,7 @@
     "published_at": "2026-09-03T19:36:29"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
@@ -81,7 +117,7 @@
     "published_at": "2026-09-03T18:37:57"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Meta is paying to peek at how you use their latest AI model",
     "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
@@ -90,7 +126,7 @@
     "published_at": "2026-09-03T18:19:56"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "OpenAI launches Astra, its powerful (and controversial) new model",
     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
@@ -99,7 +135,7 @@
     "published_at": "2026-09-03T18:01:45"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
     "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
     "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
@@ -126,7 +162,7 @@
     "published_at": "2026-09-03T15:50:31"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -144,7 +180,7 @@
     "published_at": "2026-09-03T13:15:00"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
     "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
     "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
@@ -180,7 +216,7 @@
     "published_at": "2026-09-03T00:00:00"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -189,7 +225,7 @@
     "published_at": "2026-09-02T23:01:00"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
@@ -198,7 +234,7 @@
     "published_at": "2026-09-02T22:44:56"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
     "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
     "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
@@ -216,7 +252,7 @@
     "published_at": "2026-09-02T20:25:00"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
@@ -225,40 +261,13 @@
     "published_at": "2026-09-02T20:19:14"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
     "author": "Theresa Loconsolo",
     "source": "TechCrunch AI",
     "published_at": "2026-09-02T17:18:13"
-  },
-  {
-    "id": 152,
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
-    "author": "Rebecca Bellan, Theresa Loconsolo",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-02T17:09:57"
-  },
-  {
-    "id": 153,
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-02T17:09:06"
-  },
-  {
-    "id": 154,
-    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-    "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
-    "author": "Ram Iyer",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-02T16:04:10"
   },
   {
     "id": 159,
@@ -279,7 +288,7 @@
     "published_at": "2026-09-02T15:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Facilitating AI integration with simplicity at scale",
     "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
     "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
@@ -378,7 +387,7 @@
     "published_at": "2026-08-31T19:30:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
     "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging F",
@@ -477,7 +486,7 @@
     "published_at": "2026-08-27T03:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "The inside story on why OpenAI agents hacked Hugging Face",
     "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
     "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were",
@@ -531,7 +540,7 @@
     "published_at": "2026-08-26T09:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Raised on AI",
     "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; F",
@@ -540,7 +549,7 @@
     "published_at": "2026-08-26T09:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "AI models flub these intelligence tests. Can you fare any better?",
     "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
     "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IB",
@@ -549,7 +558,7 @@
     "published_at": "2026-08-26T09:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
     "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
     "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla ",
@@ -585,7 +594,7 @@
     "published_at": "2026-08-25T15:46:06"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
     "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
     "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are a",
@@ -648,7 +657,7 @@
     "published_at": "2026-08-24T15:53:53"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "How to encourage smarter AI use in the classroom",
     "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
@@ -664,15 +673,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-24T12:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Kids outlearn AI—and we still don’t know why",
-    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-    "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
-    "author": "Elise Cutts",
-    "source": "MIT Technology Review",
-    "published_at": "2026-08-24T09:00:00"
   },
   {
     "id": 85,
