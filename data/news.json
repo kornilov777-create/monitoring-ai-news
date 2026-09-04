@@ -1,6 +1,15 @@
 [
   {
     "id": 136,
+    "title": "Crusoe reportedly raises $3B at a $30B valuation",
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-04T00:48:42"
+  },
+  {
+    "id": 137,
     "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
@@ -9,7 +18,7 @@
     "published_at": "2026-09-03T19:36:29"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
@@ -18,7 +27,7 @@
     "published_at": "2026-09-03T18:37:57"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Meta is paying to peek at how you use their latest AI model",
     "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
     "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
@@ -27,7 +36,7 @@
     "published_at": "2026-09-03T18:19:56"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "OpenAI launches Astra, its powerful (and controversial) new model",
     "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
     "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
@@ -36,7 +45,7 @@
     "published_at": "2026-09-03T18:01:45"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
     "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
     "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
@@ -63,7 +72,7 @@
     "published_at": "2026-09-03T15:50:31"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
@@ -81,7 +90,7 @@
     "published_at": "2026-09-03T13:15:00"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
     "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
     "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
@@ -117,7 +126,7 @@
     "published_at": "2026-09-03T00:00:00"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -126,7 +135,7 @@
     "published_at": "2026-09-02T23:01:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
     "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
     "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
@@ -135,7 +144,7 @@
     "published_at": "2026-09-02T22:44:56"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
     "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
     "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
@@ -153,7 +162,7 @@
     "published_at": "2026-09-02T20:25:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
     "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
@@ -162,7 +171,7 @@
     "published_at": "2026-09-02T20:19:14"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
@@ -171,7 +180,7 @@
     "published_at": "2026-09-02T17:18:13"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
     "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
     "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
@@ -180,7 +189,7 @@
     "published_at": "2026-09-02T17:09:57"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
     "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
     "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
@@ -189,7 +198,7 @@
     "published_at": "2026-09-02T17:09:06"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
     "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
     "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
@@ -198,7 +207,7 @@
     "published_at": "2026-09-02T16:04:10"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
     "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
     "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
@@ -216,7 +225,7 @@
     "published_at": "2026-09-02T15:25:12"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
     "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
     "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
@@ -234,22 +243,13 @@
     "published_at": "2026-09-02T15:00:00"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
     "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
     "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
     "author": "Sarah Perez",
     "source": "TechCrunch AI",
     "published_at": "2026-09-02T14:56:34"
-  },
-  {
-    "id": 154,
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-02T14:03:57"
   },
   {
     "id": 126,
@@ -460,18 +460,18 @@
   },
   {
     "id": 17,
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
   },
   {
     "id": 18,
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
