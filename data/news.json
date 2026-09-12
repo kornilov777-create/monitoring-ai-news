@@ -10,15 +10,24 @@
   },
   {
     "id": 136,
-    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "summary": "What would it actually look like to \"pace the frontier\"?",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
     "author": "Anthony Ha",
     "source": "TechCrunch AI",
-    "published_at": "2026-09-12T15:52:11"
+    "published_at": "2026-09-12T20:19:16"
   },
   {
     "id": 137,
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "author": "Anthony Ha",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-12T19:34:44"
+  },
+  {
+    "id": 138,
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -27,7 +36,7 @@
     "published_at": "2026-09-11T22:58:17"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
@@ -36,7 +45,7 @@
     "published_at": "2026-09-11T20:59:47"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "OpenAI’s feud with mathematicians is only escalating",
     "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
     "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
@@ -45,7 +54,7 @@
     "published_at": "2026-09-11T20:57:36"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
     "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
@@ -54,7 +63,7 @@
     "published_at": "2026-09-11T20:33:18"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
     "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
     "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
@@ -72,7 +81,7 @@
     "published_at": "2026-09-11T20:05:06"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
     "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
     "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
@@ -81,7 +90,7 @@
     "published_at": "2026-09-11T19:35:54"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
     "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
     "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&",
@@ -90,7 +99,7 @@
     "published_at": "2026-09-11T18:41:49"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
@@ -117,15 +126,6 @@
     "published_at": "2026-09-11T13:45:00"
   },
   {
-    "id": 155,
-    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-    "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-    "summary": "<p>NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-11T12:00:18"
-  },
-  {
     "id": 2,
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -135,7 +135,7 @@
     "published_at": "2026-09-11T10:00:00"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
@@ -144,7 +144,7 @@
     "published_at": "2026-09-10T21:51:59"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
     "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
     "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
@@ -153,7 +153,7 @@
     "published_at": "2026-09-10T21:35:00"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
     "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
@@ -162,7 +162,7 @@
     "published_at": "2026-09-10T20:59:51"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
     "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
     "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
@@ -171,7 +171,7 @@
     "published_at": "2026-09-10T20:57:30"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
     "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
     "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
@@ -180,7 +180,7 @@
     "published_at": "2026-09-10T19:50:04"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
     "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
     "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
@@ -189,22 +189,13 @@
     "published_at": "2026-09-10T17:54:44"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
     "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
     "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
     "author": "Jagmeet Singh",
     "source": "TechCrunch AI",
     "published_at": "2026-09-10T17:45:00"
-  },
-  {
-    "id": 156,
-    "title": "Supply chains detect fast, act slow: How AI agents fix it",
-    "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-    "summary": "<p>Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-10T16:34:43"
   },
   {
     "id": 4,
@@ -225,7 +216,7 @@
     "published_at": "2026-09-10T15:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "AI agents are flooding public services with new requests",
     "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
     "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
@@ -234,7 +225,7 @@
     "published_at": "2026-09-10T14:53:50"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Maven Robotics wants to steal your robot deployment deal",
     "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
     "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
@@ -250,15 +241,6 @@
     "author": "Ricardo De Azevedo",
     "source": "MIT Technology Review",
     "published_at": "2026-09-10T11:00:00"
-  },
-  {
-    "id": 157,
-    "title": "JD.com expands physical AI in logistics with 3 million robots",
-    "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-    "summary": "<p>JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. J",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-09-10T10:00:00"
   },
   {
     "id": 6,
@@ -277,15 +259,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-10T07:00:00"
-  },
-  {
-    "id": 154,
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-    "author": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-10T00:00:37"
   },
   {
     "id": 8,
@@ -342,24 +315,6 @@
     "published_at": "2026-09-09T11:00:00"
   },
   {
-    "id": 158,
-    "title": "CloudNC aims to accelerate AI supply chain machining",
-    "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-    "summary": "<p>CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the ventur",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-09T10:34:20"
-  },
-  {
-    "id": 159,
-    "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-    "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-    "summary": "<p>Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite –",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-09T08:52:19"
-  },
-  {
     "id": 128,
     "title": "What OpenAI’s latest controversy tells us about the future of math",
     "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
@@ -385,15 +340,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-08T13:00:00"
-  },
-  {
-    "id": 160,
-    "title": "Arm launches Total Design for Physical AI and robotics framework",
-    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-    "summary": "<p>Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estim",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-08T11:44:10"
   },
   {
     "id": 15,
@@ -423,15 +369,6 @@
     "published_at": "2026-09-08T10:00:00"
   },
   {
-    "id": 161,
-    "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
-    "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
-    "summary": "<p>Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-09-08T10:00:00"
-  },
-  {
     "id": 17,
     "title": "Funding grants for new research into AI and teen development",
     "url": "https://openai.com/index/teen-development-research-grants",
@@ -439,24 +376,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-08T09:00:00"
-  },
-  {
-    "id": 162,
-    "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-    "url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-    "summary": "<p>Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar",
-    "author": "Dashveenjit Kaur",
-    "source": "AI News",
-    "published_at": "2026-09-08T09:00:00"
-  },
-  {
-    "id": 163,
-    "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-    "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-    "summary": "<p>YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected.",
-    "author": "Eduard Mur",
-    "source": "AI News",
-    "published_at": "2026-09-08T08:50:39"
   },
   {
     "id": 18,
@@ -475,15 +394,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-08T00:00:00"
-  },
-  {
-    "id": 164,
-    "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-    "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-    "summary": "<p>MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing algorithms with carrier recommendation systems across int",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-07T13:01:23"
   },
   {
     "id": 20,
@@ -522,15 +432,6 @@
     "published_at": "2026-09-04T18:39:19"
   },
   {
-    "id": 165,
-    "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-    "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-    "summary": "<p>M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs,",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-09-04T10:00:00"
-  },
-  {
     "id": 131,
     "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
     "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
@@ -538,15 +439,6 @@
     "author": "Cory Alpert",
     "source": "MIT Technology Review",
     "published_at": "2026-09-04T09:25:19"
-  },
-  {
-    "id": 166,
-    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-    "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-    "summary": "<p>Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the ",
-    "author": "Ranji Phillip R. Mercado",
-    "source": "AI News",
-    "published_at": "2026-09-04T08:25:12"
   },
   {
     "id": 23,
