@@ -1,6 +1,69 @@
 [
   {
     "id": 136,
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-15T21:47:38"
+  },
+  {
+    "id": 137,
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-15T20:12:53"
+  },
+  {
+    "id": 138,
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-15T19:00:00"
+  },
+  {
+    "id": 139,
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+    "author": "Tim De Chant",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-15T18:29:20"
+  },
+  {
+    "id": 126,
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, ",
+    "author": "MIT Technology Review",
+    "source": "MIT Technology Review",
+    "published_at": "2026-09-15T17:47:51"
+  },
+  {
+    "id": 140,
+    "title": "AI agents now have a place to snitch",
+    "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+    "author": "Aditya Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-15T17:42:59"
+  },
+  {
+    "id": 141,
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-15T17:05:24"
+  },
+  {
+    "id": 142,
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
     "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
@@ -9,7 +72,7 @@
     "published_at": "2026-09-15T15:47:03"
   },
   {
-    "id": 137,
+    "id": 143,
     "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
     "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
     "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
@@ -18,7 +81,7 @@
     "published_at": "2026-09-15T15:22:48"
   },
   {
-    "id": 138,
+    "id": 144,
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
     "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
@@ -27,16 +90,16 @@
     "published_at": "2026-09-15T14:42:37"
   },
   {
-    "id": 139,
+    "id": 145,
     "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics. Register before September 25 to save up to $200 on your pass.",
+    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
     "author": "TechCrunch Events",
     "source": "TechCrunch AI",
     "published_at": "2026-09-15T14:30:00"
   },
   {
-    "id": 140,
+    "id": 146,
     "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
     "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
@@ -45,7 +108,7 @@
     "published_at": "2026-09-15T14:00:00"
   },
   {
-    "id": 141,
+    "id": 147,
     "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
     "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
     "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
@@ -54,7 +117,7 @@
     "published_at": "2026-09-15T13:00:00"
   },
   {
-    "id": 142,
+    "id": 148,
     "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
     "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
     "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
@@ -72,7 +135,7 @@
     "published_at": "2026-09-15T11:15:57"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "What’s at stake in AI’s trillion-dollar gamble",
     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
     "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
@@ -90,7 +153,7 @@
     "published_at": "2026-09-15T07:14:47"
   },
   {
-    "id": 143,
+    "id": 149,
     "title": "Jensen Huang took a call from Trump, and showed off something else, too",
     "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
     "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
@@ -99,7 +162,7 @@
     "published_at": "2026-09-15T01:50:48"
   },
   {
-    "id": 144,
+    "id": 150,
     "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
@@ -108,7 +171,7 @@
     "published_at": "2026-09-14T21:51:02"
   },
   {
-    "id": 145,
+    "id": 151,
     "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
     "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
@@ -117,7 +180,7 @@
     "published_at": "2026-09-14T20:44:14"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "The AI industry has taken a doomer turn. What now?",
     "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
     "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the ",
@@ -126,7 +189,7 @@
     "published_at": "2026-09-14T17:54:22"
   },
   {
-    "id": 146,
+    "id": 152,
     "title": "With iOS 27, I’m actually using Siri again",
     "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
     "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
@@ -135,7 +198,7 @@
     "published_at": "2026-09-14T17:10:30"
   },
   {
-    "id": 147,
+    "id": 153,
     "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
     "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
     "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
@@ -144,7 +207,7 @@
     "published_at": "2026-09-14T17:00:00"
   },
   {
-    "id": 148,
+    "id": 154,
     "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
     "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
     "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
@@ -153,7 +216,7 @@
     "published_at": "2026-09-14T16:27:53"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "AI agents blew the whistle on their cheating colleagues",
     "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
     "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
@@ -171,49 +234,13 @@
     "published_at": "2026-09-14T15:30:41"
   },
   {
-    "id": 149,
+    "id": 155,
     "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
     "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
     "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
     "author": "TechCrunch Events",
     "source": "TechCrunch AI",
     "published_at": "2026-09-14T15:00:00"
-  },
-  {
-    "id": 150,
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T14:45:44"
-  },
-  {
-    "id": 151,
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-    "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T14:30:00"
-  },
-  {
-    "id": 152,
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-    "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T14:00:00"
-  },
-  {
-    "id": 153,
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-    "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T13:55:00"
   },
   {
     "id": 1,
@@ -277,33 +304,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-14T00:00:00"
-  },
-  {
-    "id": 154,
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-13T19:40:15"
-  },
-  {
-    "id": 155,
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-13T16:30:00"
-  },
-  {
-    "id": 129,
-    "title": "Roundtables: Could AI really kill us all?",
-    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-    "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
-    "author": "MIT Technology Review",
-    "source": "MIT Technology Review",
-    "published_at": "2026-09-11T20:05:06"
   },
   {
     "id": 4,
@@ -838,18 +838,18 @@
   },
   {
     "id": 41,
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
   },
   {
     "id": 42,
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
