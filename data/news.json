@@ -1,6 +1,105 @@
 [
   {
+    "id": 1,
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T16:00:00"
+  },
+  {
     "id": 76,
+    "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+    "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "summary": "This patient-specific method, called xvr, helps doctors use X-rays for surgical navigation in fields such as orthopedics and neurosurgery.",
+    "author": "Adam Zewe | MIT News",
+    "source": "MIT News AI",
+    "published_at": "2026-09-16T15:00:00"
+  },
+  {
+    "id": 136,
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T15:00:00"
+  },
+  {
+    "id": 137,
+    "title": "Threads’ new features let podcasters promote shows and reach listeners",
+    "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+    "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T14:24:58"
+  },
+  {
+    "id": 138,
+    "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+    "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+    "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T14:15:00"
+  },
+  {
+    "id": 139,
+    "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T14:00:00"
+  },
+  {
+    "id": 140,
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+    "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+    "author": "Kate Park",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T13:23:02"
+  },
+  {
+    "id": 2,
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-16T13:00:00"
+  },
+  {
+    "id": 141,
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+    "author": "Jagmeet Singh",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T13:00:00"
+  },
+  {
+    "id": 126,
+    "title": "Building the materials foundation for AI",
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
+    "author": "MIT Technology Review Insights",
+    "source": "MIT Technology Review",
+    "published_at": "2026-09-16T12:47:34"
+  },
+  {
+    "id": 142,
+    "title": "Amazon launches Alexa+ in India with Hindi support",
+    "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+    "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-16T10:34:47"
+  },
+  {
+    "id": 77,
     "title": "Measure by measure, studying society accurately",
     "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
     "summary": "Naoki Egami has become a standout in political methodology, helping refine tools that give scholars durable results.",
@@ -9,7 +108,7 @@
     "published_at": "2026-09-16T04:00:00"
   },
   {
-    "id": 136,
+    "id": 143,
     "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
     "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
     "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
@@ -18,7 +117,7 @@
     "published_at": "2026-09-16T00:20:39"
   },
   {
-    "id": 137,
+    "id": 144,
     "title": "The AI data center boom is colliding with cities scarred by big industry",
     "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
@@ -27,7 +126,7 @@
     "published_at": "2026-09-15T21:47:38"
   },
   {
-    "id": 138,
+    "id": 145,
     "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
     "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
     "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
@@ -36,7 +135,7 @@
     "published_at": "2026-09-15T20:12:53"
   },
   {
-    "id": 139,
+    "id": 146,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -45,7 +144,7 @@
     "published_at": "2026-09-15T19:00:00"
   },
   {
-    "id": 140,
+    "id": 147,
     "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
     "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
@@ -54,7 +153,7 @@
     "published_at": "2026-09-15T18:29:20"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Roundtables: Could AI really kill us all?",
     "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
     "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, ",
@@ -63,7 +162,7 @@
     "published_at": "2026-09-15T17:47:51"
   },
   {
-    "id": 141,
+    "id": 148,
     "title": "AI agents now have a place to snitch",
     "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
     "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
@@ -72,7 +171,7 @@
     "published_at": "2026-09-15T17:42:59"
   },
   {
-    "id": 142,
+    "id": 149,
     "title": "Meta expands subscription push with new AI-focused plans",
     "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
     "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
@@ -81,7 +180,7 @@
     "published_at": "2026-09-15T17:05:24"
   },
   {
-    "id": 143,
+    "id": 150,
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
     "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
@@ -90,7 +189,7 @@
     "published_at": "2026-09-15T15:47:03"
   },
   {
-    "id": 144,
+    "id": 151,
     "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
     "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
     "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
@@ -99,7 +198,7 @@
     "published_at": "2026-09-15T15:22:48"
   },
   {
-    "id": 145,
+    "id": 152,
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
     "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
@@ -108,7 +207,7 @@
     "published_at": "2026-09-15T14:42:37"
   },
   {
-    "id": 146,
+    "id": 153,
     "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
     "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
@@ -117,7 +216,7 @@
     "published_at": "2026-09-15T14:30:00"
   },
   {
-    "id": 147,
+    "id": 154,
     "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
     "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
@@ -126,7 +225,7 @@
     "published_at": "2026-09-15T14:00:00"
   },
   {
-    "id": 148,
+    "id": 155,
     "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
     "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
     "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
@@ -135,25 +234,7 @@
     "published_at": "2026-09-15T13:00:00"
   },
   {
-    "id": 149,
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-15T12:00:00"
-  },
-  {
-    "id": 156,
-    "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-    "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-    "summary": "<p>Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-15T11:15:57"
-  },
-  {
-    "id": 127,
+    "id": 128,
     "title": "What’s at stake in AI’s trillion-dollar gamble",
     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
     "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
@@ -162,43 +243,7 @@
     "published_at": "2026-09-15T10:00:00"
   },
   {
-    "id": 157,
-    "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-    "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-    "summary": "<p>A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer ",
-    "author": "Sunny Sandhu",
-    "source": "AI News",
-    "published_at": "2026-09-15T07:14:47"
-  },
-  {
-    "id": 150,
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
-    "author": "Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-15T01:50:48"
-  },
-  {
-    "id": 151,
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T21:51:02"
-  },
-  {
-    "id": 152,
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T20:44:14"
-  },
-  {
-    "id": 128,
+    "id": 129,
     "title": "The AI industry has taken a doomer turn. What now?",
     "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
     "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the ",
@@ -207,34 +252,7 @@
     "published_at": "2026-09-14T17:54:22"
   },
   {
-    "id": 153,
-    "title": "With iOS 27, I’m actually using Siri again",
-    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T17:10:30"
-  },
-  {
-    "id": 154,
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T17:00:00"
-  },
-  {
-    "id": 155,
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-14T16:27:53"
-  },
-  {
-    "id": 129,
+    "id": 130,
     "title": "AI agents blew the whistle on their cheating colleagues",
     "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
     "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep ",
@@ -243,16 +261,7 @@
     "published_at": "2026-09-14T16:00:00"
   },
   {
-    "id": 158,
-    "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-    "summary": "<p>Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontie",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-14T15:30:41"
-  },
-  {
-    "id": 1,
+    "id": 3,
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
     "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
@@ -261,34 +270,7 @@
     "published_at": "2026-09-14T12:00:00"
   },
   {
-    "id": 159,
-    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-    "summary": "<p>Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly univer",
-    "author": "SEO DIGITAL PROS",
-    "source": "AI News",
-    "published_at": "2026-09-14T08:04:35"
-  },
-  {
-    "id": 160,
-    "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-    "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-    "summary": "<p>A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to",
-    "author": "SEO DIGITAL PROS",
-    "source": "AI News",
-    "published_at": "2026-09-14T07:56:45"
-  },
-  {
-    "id": 161,
-    "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-    "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-    "summary": "<p>Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuild",
-    "author": "Elio Epifani",
-    "source": "AI News",
-    "published_at": "2026-09-14T07:39:28"
-  },
-  {
-    "id": 77,
+    "id": 78,
     "title": "New method enables AI for safety-critical situations",
     "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
     "summary": "The “HardFlow” algorithm could help generative AI models produce high-quality outputs that obey strict requirements when “pretty close” doesn’t cut it.",
@@ -297,7 +279,7 @@
     "published_at": "2026-09-14T04:00:00"
   },
   {
-    "id": 78,
+    "id": 79,
     "title": "MIT spinout turns plastic waste into resilient building materials",
     "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
     "summary": "Atlas Building Composites is commercializing MIT research to turn plastic waste into parts for buildings and other infrastructure.",
@@ -306,7 +288,7 @@
     "published_at": "2026-09-14T04:00:00"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -315,7 +297,7 @@
     "published_at": "2026-09-14T00:00:00"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
     "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -324,7 +306,7 @@
     "published_at": "2026-09-11T16:00:00"
   },
   {
-    "id": 79,
+    "id": 80,
     "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
     "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
     "summary": "The handheld catheterization device AI-GUIDE, created by Lincoln Laboratory and Massachusetts General Hospital, promises improved health outcomes for injured service members and civilians.",
@@ -333,16 +315,7 @@
     "published_at": "2026-09-11T13:45:00"
   },
   {
-    "id": 162,
-    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-    "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-    "summary": "<p>NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data ",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-11T12:00:18"
-  },
-  {
-    "id": 3,
+    "id": 5,
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -351,16 +324,7 @@
     "published_at": "2026-09-11T10:00:00"
   },
   {
-    "id": 163,
-    "title": "Supply chains detect fast, act slow: How AI agents fix it",
-    "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-    "summary": "<p>Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-10T16:34:43"
-  },
-  {
-    "id": 5,
+    "id": 7,
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
@@ -369,7 +333,7 @@
     "published_at": "2026-09-10T16:00:00"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Now everyone can put data to work",
     "url": "https://openai.com/index/put-data-to-work",
     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
@@ -378,7 +342,7 @@
     "published_at": "2026-09-10T15:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Powering AI is an architecture problem",
     "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
@@ -387,16 +351,7 @@
     "published_at": "2026-09-10T11:00:00"
   },
   {
-    "id": 164,
-    "title": "JD.com expands physical AI in logistics with 3 million robots",
-    "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-    "summary": "<p>JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. J",
-    "author": "Muhammad Zulhusni",
-    "source": "AI News",
-    "published_at": "2026-09-10T10:00:00"
-  },
-  {
-    "id": 7,
+    "id": 9,
     "title": "Introducing ChatGPT for Financial Services",
     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
     "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
@@ -405,7 +360,7 @@
     "published_at": "2026-09-10T07:00:00"
   },
   {
-    "id": 8,
+    "id": 10,
     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
     "url": "https://openai.com/index/expanding-ai-access-us-government",
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
@@ -414,16 +369,7 @@
     "published_at": "2026-09-10T07:00:00"
   },
   {
-    "id": 9,
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-10T00:00:00"
-  },
-  {
-    "id": 10,
+    "id": 11,
     "title": "Introducing the Agents API",
     "url": "https://openai.com/index/introducing-the-agents-api",
     "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
@@ -432,7 +378,16 @@
     "published_at": "2026-09-10T00:00:00"
   },
   {
-    "id": 80,
+    "id": 12,
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-10T00:00:00"
+  },
+  {
+    "id": 81,
     "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
     "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
     "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
@@ -441,7 +396,7 @@
     "published_at": "2026-09-09T20:40:00"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "Paul Christiano joins OpenAI Foundation Board",
     "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
@@ -450,7 +405,7 @@
     "published_at": "2026-09-09T17:00:00"
   },
   {
-    "id": 11,
+    "id": 13,
     "title": "The AI policy window is open. We need to act.",
     "url": "https://openai.com/index/ai-policy-window",
     "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
@@ -459,7 +414,7 @@
     "published_at": "2026-09-09T13:00:00"
   },
   {
-    "id": 12,
+    "id": 14,
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
     "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
@@ -468,25 +423,7 @@
     "published_at": "2026-09-09T11:00:00"
   },
   {
-    "id": 165,
-    "title": "CloudNC aims to accelerate AI supply chain machining",
-    "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-    "summary": "<p>CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the ventur",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-09T10:34:20"
-  },
-  {
-    "id": 166,
-    "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-    "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-    "summary": "<p>Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite –",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-09T08:52:19"
-  },
-  {
-    "id": 131,
+    "id": 132,
     "title": "What OpenAI’s latest controversy tells us about the future of math",
     "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
     "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in",
@@ -495,7 +432,7 @@
     "published_at": "2026-09-09T03:10:08"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
     "url": "https://openai.com/index/codex-quantum-computing-experiments",
     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
@@ -504,7 +441,7 @@
     "published_at": "2026-09-08T17:00:00"
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "The Work Now Within Reach",
     "url": "https://openai.com/index/the-work-now-within-reach",
     "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
@@ -513,16 +450,7 @@
     "published_at": "2026-09-08T13:00:00"
   },
   {
-    "id": 167,
-    "title": "Arm launches Total Design for Physical AI and robotics framework",
-    "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-    "summary": "<p>Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estim",
-    "author": "Ryan Daws",
-    "source": "AI News",
-    "published_at": "2026-09-08T11:44:10"
-  },
-  {
-    "id": 16,
+    "id": 18,
     "title": "Introducing ChatGPT Images 2.5",
     "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
     "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
@@ -531,7 +459,7 @@
     "published_at": "2026-09-08T11:30:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
     "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
     "summary": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visited, earlier this year, there’s only one other person there, and little in the way of furniture. But what it lacks i",
@@ -540,7 +468,7 @@
     "published_at": "2026-09-08T10:34:00"
   },
   {
-    "id": 17,
+    "id": 19,
     "title": "On the Navier–Stokes Millennium Prize Problem",
     "url": "https://openai.com/index/navier-stokes-solution",
     "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
@@ -549,7 +477,7 @@
     "published_at": "2026-09-08T10:00:00"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "Funding grants for new research into AI and teen development",
     "url": "https://openai.com/index/teen-development-research-grants",
     "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
@@ -558,7 +486,7 @@
     "published_at": "2026-09-08T09:00:00"
   },
   {
-    "id": 19,
+    "id": 21,
     "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
     "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
     "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
@@ -567,7 +495,7 @@
     "published_at": "2026-09-08T00:00:00"
   },
   {
-    "id": 20,
+    "id": 22,
     "title": "1Password increases engineering productivity 21% with Codex",
     "url": "https://openai.com/index/1password",
     "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
@@ -576,7 +504,7 @@
     "published_at": "2026-09-08T00:00:00"
   },
   {
-    "id": 21,
+    "id": 23,
     "title": "Supporting independent journalism in Ukraine",
     "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
@@ -585,7 +513,7 @@
     "published_at": "2026-09-07T00:00:00"
   },
   {
-    "id": 22,
+    "id": 24,
     "title": "An Alien Mind",
     "url": "https://openai.com/index/an-alien-mind",
     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
@@ -594,7 +522,7 @@
     "published_at": "2026-09-06T09:00:00"
   },
   {
-    "id": 23,
+    "id": 25,
     "title": "Research acceleration: The view inside OpenAI",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
     "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
@@ -603,7 +531,7 @@
     "published_at": "2026-09-06T08:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Architecting memory and storage in the AI era",
     "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
@@ -612,7 +540,7 @@
     "published_at": "2026-09-04T18:39:19"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
     "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
@@ -621,7 +549,7 @@
     "published_at": "2026-09-04T09:25:19"
   },
   {
-    "id": 24,
+    "id": 26,
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "url": "https://openai.com/index/daybreak-for-frontline-defenders",
     "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
@@ -630,16 +558,7 @@
     "published_at": "2026-09-03T13:15:00"
   },
   {
-    "id": 25,
-    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-03T12:00:00"
-  },
-  {
-    "id": 26,
+    "id": 27,
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
@@ -648,7 +567,16 @@
     "published_at": "2026-09-03T12:00:00"
   },
   {
-    "id": 27,
+    "id": 28,
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-03T12:00:00"
+  },
+  {
+    "id": 29,
     "title": "GPT-6 Astra: A new generation of intelligence",
     "url": "https://openai.com/index/gpt-6-astra",
     "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
@@ -657,7 +585,7 @@
     "published_at": "2026-09-03T11:00:00"
   },
   {
-    "id": 28,
+    "id": 30,
     "title": "Safety overview: GPT-6 Astra",
     "url": "https://openai.com/index/safety-overview-gpt-6-astra",
     "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
@@ -666,7 +594,7 @@
     "published_at": "2026-09-03T00:00:00"
   },
   {
-    "id": 81,
+    "id": 82,
     "title": "From MIT to IBM, expediting AI and quantum deployment",
     "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
     "summary": "MIT affiliates engage with the MIT-IBM Computing Research Lab to bring rigorous theory to production systems.",
@@ -675,7 +603,7 @@
     "published_at": "2026-09-02T20:25:00"
   },
   {
-    "id": 82,
+    "id": 83,
     "title": "System helps humans predict when self-driving cars will make mistakes",
     "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
     "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
@@ -684,16 +612,7 @@
     "published_at": "2026-09-02T15:00:00"
   },
   {
-    "id": 135,
-    "title": "Facilitating AI integration with simplicity at scale",
-    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-    "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
-    "author": "MIT Technology Review Insights",
-    "source": "MIT Technology Review",
-    "published_at": "2026-09-02T14:00:00"
-  },
-  {
-    "id": 29,
+    "id": 31,
     "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
     "url": "https://openai.com/index/atv-big-air-tour",
     "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
@@ -702,7 +621,7 @@
     "published_at": "2026-09-02T12:00:00"
   },
   {
-    "id": 83,
+    "id": 84,
     "title": "Walter Torous named executive director of MIT Center for Real Estate",
     "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
     "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
@@ -711,7 +630,7 @@
     "published_at": "2026-09-01T21:25:00"
   },
   {
-    "id": 30,
+    "id": 32,
     "title": "How AI-native companies turn workflows into operating capability",
     "url": "https://openai.com/index/ai-native-company-workflows",
     "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
@@ -720,7 +639,7 @@
     "published_at": "2026-09-01T17:00:00"
   },
   {
-    "id": 31,
+    "id": 33,
     "title": "Path to Astra: critical capabilities and frontier safeguards",
     "url": "https://openai.com/index/path-to-astra",
     "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
@@ -729,7 +648,7 @@
     "published_at": "2026-09-01T13:00:00"
   },
   {
-    "id": 32,
+    "id": 34,
     "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
     "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
@@ -738,7 +657,7 @@
     "published_at": "2026-09-01T12:00:00"
   },
   {
-    "id": 84,
+    "id": 85,
     "title": "Ila Kumar: Innovating with communities",
     "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
     "summary": "The PhD student works to give young people an active role in shaping digital technologies that can support their own well-being.",
@@ -747,7 +666,7 @@
     "published_at": "2026-09-01T04:00:00"
   },
   {
-    "id": 33,
+    "id": 35,
     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
     "url": "https://openai.com/index/gilbert-tobin",
     "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
@@ -756,7 +675,7 @@
     "published_at": "2026-09-01T01:00:00"
   },
   {
-    "id": 85,
+    "id": 86,
     "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
     "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
     "summary": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
@@ -765,7 +684,7 @@
     "published_at": "2026-08-31T19:30:00"
   },
   {
-    "id": 34,
+    "id": 36,
     "title": "OpenAI supports California’s bill to advance youth AI safety",
     "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
@@ -774,7 +693,7 @@
     "published_at": "2026-08-31T07:00:00"
   },
   {
-    "id": 35,
+    "id": 37,
     "title": "Polimill builds Japan's next-generation public AI infrastructure",
     "url": "https://openai.com/index/polimill",
     "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
@@ -783,7 +702,7 @@
     "published_at": "2026-08-31T07:00:00"
   },
   {
-    "id": 36,
+    "id": 38,
     "title": "A milestone in expanding access to AI",
     "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
@@ -792,7 +711,7 @@
     "published_at": "2026-08-31T04:00:00"
   },
   {
-    "id": 86,
+    "id": 87,
     "title": "How an MIT research project became a global programming language",
     "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
     "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
@@ -801,7 +720,7 @@
     "published_at": "2026-08-31T04:00:00"
   },
   {
-    "id": 37,
+    "id": 39,
     "title": "Our decision on Cursor following its acquisition by SpaceX",
     "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
@@ -810,7 +729,7 @@
     "published_at": "2026-08-28T06:00:00"
   },
   {
-    "id": 38,
+    "id": 40,
     "title": "Supporting Thailand’s next generation of AI startups",
     "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
@@ -819,7 +738,7 @@
     "published_at": "2026-08-28T02:00:00"
   },
   {
-    "id": 87,
+    "id": 88,
     "title": "Looking beyond natural sequences",
     "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
     "summary": "A new machine-learning framework aims to improve the success rate of computational protein design while moving away from results that reproduce sequences found in nature.",
@@ -828,7 +747,7 @@
     "published_at": "2026-08-27T19:20:00"
   },
   {
-    "id": 39,
+    "id": 41,
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
@@ -837,7 +756,7 @@
     "published_at": "2026-08-27T09:00:00"
   },
   {
-    "id": 40,
+    "id": 42,
     "title": "Expanding OpenAI’s presence in Brazil",
     "url": "https://openai.com/index/expanding-our-presence-in-brazil",
     "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
@@ -846,16 +765,7 @@
     "published_at": "2026-08-27T03:00:00"
   },
   {
-    "id": 41,
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-26T10:00:00"
-  },
-  {
-    "id": 42,
+    "id": 43,
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
@@ -864,7 +774,16 @@
     "published_at": "2026-08-26T10:00:00"
   },
   {
-    "id": 88,
+    "id": 44,
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-08-26T10:00:00"
+  },
+  {
+    "id": 89,
     "title": "AI helps design new materials that work in the real world",
     "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
     "summary": "The “CrysVCD” tool developed at MIT could cut the huge amounts of time and money spent on screening out chemically unstable designs.",
@@ -873,7 +792,7 @@
     "published_at": "2026-08-26T09:00:00"
   },
   {
-    "id": 43,
+    "id": 45,
     "title": "The Hugging Face incident and the road ahead",
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
@@ -882,7 +801,7 @@
     "published_at": "2026-08-26T00:00:00"
   },
   {
-    "id": 44,
+    "id": 46,
     "title": "How loveholidays is making everyone a builder with Codex",
     "url": "https://openai.com/index/loveholidays",
     "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
@@ -891,7 +810,7 @@
     "published_at": "2026-08-26T00:00:00"
   },
   {
-    "id": 45,
+    "id": 47,
     "title": "The full stack behind abundant intelligence",
     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
@@ -900,7 +819,7 @@
     "published_at": "2026-08-25T07:05:00"
   },
   {
-    "id": 46,
+    "id": 48,
     "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
     "url": "https://openai.com/index/jalapeno-first-results",
     "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
@@ -909,7 +828,7 @@
     "published_at": "2026-08-25T07:00:00"
   },
   {
-    "id": 47,
+    "id": 49,
     "title": "Disrupting a new covert influence campaign from Russia",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
@@ -918,7 +837,7 @@
     "published_at": "2026-08-25T00:00:00"
   },
   {
-    "id": 48,
+    "id": 50,
     "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
     "url": "https://openai.com/index/introducing-admin-plugin",
     "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
@@ -927,7 +846,7 @@
     "published_at": "2026-08-25T00:00:00"
   },
   {
-    "id": 89,
+    "id": 90,
     "title": "Generating scenarios for extreme events, without extreme data",
     "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
     "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
@@ -936,16 +855,7 @@
     "published_at": "2026-08-24T18:00:00"
   },
   {
-    "id": 49,
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-24T12:00:00"
-  },
-  {
-    "id": 90,
+    "id": 91,
     "title": "Paving the way for greener ammonia production",
     "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
     "summary": "New MIT research could lead to better materials for a fossil-fuel-free process for making the chemical that's essential to fertilizer and other products.",
@@ -954,16 +864,7 @@
     "published_at": "2026-08-20T18:45:00"
   },
   {
-    "id": 50,
-    "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-intelligence-age",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-08-20T07:00:00"
-  },
-  {
-    "id": 91,
+    "id": 92,
     "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
     "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
     "summary": "A new method for surgically removing training examples from a model reveals that as datasets grow, the link between what a model learns and what it produces dissolves.",
@@ -972,7 +873,7 @@
     "published_at": "2026-08-18T16:35:00"
   },
   {
-    "id": 92,
+    "id": 93,
     "title": "Q&A: Rethinking how innovation happens",
     "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
     "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
@@ -981,7 +882,7 @@
     "published_at": "2026-08-17T19:50:00"
   },
   {
-    "id": 93,
+    "id": 94,
     "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
     "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
     "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
@@ -990,7 +891,7 @@
     "published_at": "2026-08-10T19:25:00"
   },
   {
-    "id": 94,
+    "id": 95,
     "title": "Solving the solvent problem",
     "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
     "summary": "By focusing on electrolytes, MIT scientists are making sodium-metal batteries a more practical energy storage option.",
@@ -999,7 +900,7 @@
     "published_at": "2026-08-04T18:50:00"
   },
   {
-    "id": 95,
+    "id": 96,
     "title": "The benefits of medical AI assistance vary based on user expertise",
     "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
     "summary": "Study finds non-experts deferred to LLM-based diagnostic assistance, even when it was wrong, while clinicians caught AI errors.",
@@ -1008,7 +909,7 @@
     "published_at": "2026-08-04T09:00:00"
   },
   {
-    "id": 96,
+    "id": 97,
     "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
     "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
     "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
@@ -1017,7 +918,7 @@
     "published_at": "2026-08-03T19:50:00"
   },
   {
-    "id": 97,
+    "id": 98,
     "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
     "url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
     "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
@@ -1026,7 +927,7 @@
     "published_at": "2026-07-30T21:00:00"
   },
   {
-    "id": 98,
+    "id": 99,
     "title": "Connecting research to policy on Capitol Hill",
     "url": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
     "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days.",
@@ -1035,7 +936,7 @@
     "published_at": "2026-07-30T20:35:00"
   },
   {
-    "id": 99,
+    "id": 100,
     "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
     "url": "https://news.mit.edu/2026/how-an-mit-database-evolved-into-global-standard-data-sharing-0729",
     "summary": "The visionary PhysioNet platform launched 25 years ago, based on a system developed at MIT in the 1970s. It has become one of the most comprehensive biomedical and clinical data repositories in existence.",
@@ -1044,7 +945,7 @@
     "published_at": "2026-07-29T14:00:00"
   },
   {
-    "id": 100,
+    "id": 101,
     "title": "MIT projects selected for funding under US Department of Energy’s Genesis Mission",
     "url": "https://news.mit.edu/2026/mit-projects-selected-funding-under-doe-genesis-mission-0723",
     "summary": "Initial research projects advance national priorities across natural resources, manufacturing, nuclear physics, and more.",
@@ -1053,7 +954,7 @@
     "published_at": "2026-07-23T12:00:00"
   },
   {
-    "id": 101,
+    "id": 102,
     "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
     "url": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
     "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
@@ -1062,7 +963,7 @@
     "published_at": "2026-07-22T17:00:00"
   },
   {
-    "id": 102,
+    "id": 103,
     "title": "Following the questions where they lead",
     "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
     "summary": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
@@ -1071,7 +972,7 @@
     "published_at": "2026-07-17T17:25:00"
   },
   {
-    "id": 103,
+    "id": 104,
     "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
     "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
     "summary": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
@@ -1080,7 +981,7 @@
     "published_at": "2026-07-16T04:00:00"
   },
   {
-    "id": 104,
+    "id": 105,
     "title": "3 Questions: Neural transparency and the future of AI design",
     "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
     "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
@@ -1089,7 +990,7 @@
     "published_at": "2026-07-15T20:25:00"
   },
   {
-    "id": 105,
+    "id": 106,
     "title": "Helping AI models to meet the real world",
     "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
     "summary": "Through research and entrepreneurship, Professor Devavrat Shah is helping to design methods that can handle constant decision-making using limited computational resources.",
@@ -1098,7 +999,7 @@
     "published_at": "2026-07-14T20:25:00"
   },
   {
-    "id": 106,
+    "id": 107,
     "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
     "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
     "summary": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
@@ -1107,7 +1008,7 @@
     "published_at": "2026-07-14T18:00:00"
   },
   {
-    "id": 107,
+    "id": 108,
     "title": "How MIT students are helping to prevent cyberattacks",
     "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
     "summary": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
@@ -1116,7 +1017,7 @@
     "published_at": "2026-07-13T19:10:00"
   },
   {
-    "id": 108,
+    "id": 109,
     "title": "AI agents create virtual playgrounds to help robots get crucial training data",
     "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
     "summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores.",
@@ -1125,7 +1026,7 @@
     "published_at": "2026-07-13T18:50:00"
   },
   {
-    "id": 109,
+    "id": 110,
     "title": "New method aims to keep kids safe from illegal AI-generated content",
     "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
     "summary": "Researchers developed an auditing technique to test generative AI models for malicious capabilities, without prompting them for illegal outputs.",
@@ -1134,7 +1035,7 @@
     "published_at": "2026-07-13T04:00:00"
   },
   {
-    "id": 110,
+    "id": 111,
     "title": "Tiny robot boats build floating structures",
     "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
     "summary": "MIT researchers developed FloatForm, a swarm of small aquatic robots that snap together like ants forming a raft, assembling into reconfigurable structures on the water.",
@@ -1143,7 +1044,7 @@
     "published_at": "2026-07-09T15:50:00"
   },
   {
-    "id": 111,
+    "id": 112,
     "title": "How novice coders can develop AI programs for military applications",
     "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
     "summary": "A USAF cadet and a Lincoln Laboratory researcher found AI chatbots can help nontechnical service members produce viable software applications for their unique problems.",
@@ -1152,22 +1053,13 @@
     "published_at": "2026-07-07T17:25:00"
   },
   {
-    "id": 112,
+    "id": 113,
     "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
     "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
     "summary": "The professor of physics and inaugural director of the NSF AI Institute for Artificial Intelligence and Fundamental Interactions will lead LNS and continue his research in particle physics.",
     "author": "Julia C. Keller | School of Science",
     "source": "MIT News AI",
     "published_at": "2026-07-07T14:45:00"
-  },
-  {
-    "id": 113,
-    "title": "Toward a future that preserves benefits of neurotechnology for all",
-    "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
-    "summary": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
-    "author": "Amanda Diehl | MIT Schwarzman College of Computing",
-    "source": "MIT News AI",
-    "published_at": "2026-07-06T19:50:00"
   },
   {
     "id": 114,
