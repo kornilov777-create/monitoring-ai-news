@@ -1,15 +1,69 @@
 [
   {
     "id": 136,
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+    "author": "Kate Park",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-17T14:06:14"
+  },
+  {
+    "id": 137,
+    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "summary": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-17T14:00:00"
+  },
+  {
+    "id": 138,
+    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+    "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "summary": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-17T13:46:16"
+  },
+  {
+    "id": 139,
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+    "author": "Tim De Chant",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-17T13:38:33"
+  },
+  {
+    "id": 156,
+    "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+    "url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+    "summary": "<p>The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries following a pilot in the UK and France, the staffing group&#160;announced&#160;on September 15. The group said the rollout brings agentic AI into the daily workflows of 27,000 employees. Agentforc",
+    "author": "Dashveenjit Kaur",
+    "source": "AI News",
+    "published_at": "2026-09-17T11:00:00"
+  },
+  {
+    "id": 157,
+    "title": "Lidl deploys driverless truck for store deliveries in Germany",
+    "url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+    "summary": "<p>Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany, assigning it a daily replenishment route between its Edermünde distribution centre and a nearby store. The truck, supplied by Swedish freight technology company Einride, operates at SAE Level 4 un",
+    "author": "Muhammad Zulhusni",
+    "source": "AI News",
+    "published_at": "2026-09-17T10:00:00"
+  },
+  {
+    "id": 140,
     "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
     "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "summary": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-09-17T05:00:00"
   },
   {
-    "id": 137,
+    "id": 141,
     "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
     "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
@@ -18,7 +72,7 @@
     "published_at": "2026-09-17T03:30:00"
   },
   {
-    "id": 138,
+    "id": 142,
     "title": "Snap tries to make the case again for its $2,200 smart glasses",
     "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
     "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
@@ -27,7 +81,7 @@
     "published_at": "2026-09-17T00:58:49"
   },
   {
-    "id": 139,
+    "id": 143,
     "title": "Al Gore says the real AI risk isn’t data centers",
     "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
     "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
@@ -36,7 +90,7 @@
     "published_at": "2026-09-16T23:43:09"
   },
   {
-    "id": 140,
+    "id": 144,
     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
     "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
     "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
@@ -45,7 +99,7 @@
     "published_at": "2026-09-16T21:07:24"
   },
   {
-    "id": 141,
+    "id": 145,
     "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
     "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
     "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
@@ -54,7 +108,7 @@
     "published_at": "2026-09-16T20:12:00"
   },
   {
-    "id": 142,
+    "id": 146,
     "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
     "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
     "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
@@ -72,7 +126,7 @@
     "published_at": "2026-09-16T17:00:00"
   },
   {
-    "id": 143,
+    "id": 147,
     "title": "Your AI agents can now control your Google Home devices",
     "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
     "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
@@ -81,7 +135,7 @@
     "published_at": "2026-09-16T17:00:00"
   },
   {
-    "id": 144,
+    "id": 148,
     "title": "Anthropic merges Claude chat and Cowork in one interface",
     "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
     "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
@@ -108,7 +162,7 @@
     "published_at": "2026-09-16T15:00:00"
   },
   {
-    "id": 145,
+    "id": 149,
     "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
     "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
@@ -117,7 +171,16 @@
     "published_at": "2026-09-16T15:00:00"
   },
   {
-    "id": 146,
+    "id": 158,
+    "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+    "summary": "<p>Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic&#8217;s January 2026 constitution, a primary training document designed to govern the model&#8217;s va",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-09-16T14:47:32"
+  },
+  {
+    "id": 150,
     "title": "Threads’ new features let podcasters promote shows and reach listeners",
     "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
     "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
@@ -126,7 +189,7 @@
     "published_at": "2026-09-16T14:24:58"
   },
   {
-    "id": 147,
+    "id": 151,
     "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
     "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
     "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
@@ -135,7 +198,7 @@
     "published_at": "2026-09-16T14:15:00"
   },
   {
-    "id": 148,
+    "id": 152,
     "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
     "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
@@ -144,7 +207,7 @@
     "published_at": "2026-09-16T14:00:00"
   },
   {
-    "id": 149,
+    "id": 153,
     "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
     "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
     "summary": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
@@ -162,7 +225,7 @@
     "published_at": "2026-09-16T13:00:00"
   },
   {
-    "id": 150,
+    "id": 154,
     "title": "Former Infosys chief’s AI startup nabs another $53M",
     "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
     "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
@@ -189,13 +252,22 @@
     "published_at": "2026-09-16T12:00:00"
   },
   {
-    "id": 151,
+    "id": 155,
     "title": "Amazon launches Alexa+ in India with Hindi support",
     "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
     "summary": "Amazon is letting all customers use Alexa+ assistant in early access period.",
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-09-16T10:34:47"
+  },
+  {
+    "id": 159,
+    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+    "summary": "<p>TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following TypeSafe AI&#8217;s ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-09-16T10:31:09"
   },
   {
     "id": 5,
@@ -216,42 +288,6 @@
     "published_at": "2026-09-16T04:00:00"
   },
   {
-    "id": 152,
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-    "author": "Julie Bort",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-16T00:20:39"
-  },
-  {
-    "id": 153,
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-15T21:47:38"
-  },
-  {
-    "id": 154,
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-15T20:12:53"
-  },
-  {
-    "id": 155,
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-    "author": "Lauren Forristal",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-15T19:00:00"
-  },
-  {
     "id": 127,
     "title": "Roundtables: Could AI really kill us all?",
     "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
@@ -261,6 +297,15 @@
     "published_at": "2026-09-15T17:47:51"
   },
   {
+    "id": 160,
+    "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+    "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+    "summary": "<p>Pony.ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Vehicle for freight supply chains. Unveiled at IAA Transportation 2026, this Level 4 (L4) heavy rig marks the fourth-generation (Gen-4) iteration of Pony.ai’s Robotruck platform. It builds on GAC",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-09-15T11:15:57"
+  },
+  {
     "id": 128,
     "title": "What’s at stake in AI’s trillion-dollar gamble",
     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -268,6 +313,15 @@
     "author": "David Rotman",
     "source": "MIT Technology Review",
     "published_at": "2026-09-15T10:00:00"
+  },
+  {
+    "id": 161,
+    "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+    "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+    "summary": "<p>A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it reaches back to sponsored engineers already here. For AI employers, it is quietly becoming a retention problem. By Sunny Sandhu, Senior Immigration Associate, AY&#38;J Solicitors For years, the offer ",
+    "author": "Sunny Sandhu",
+    "source": "AI News",
+    "published_at": "2026-09-15T07:14:47"
   },
   {
     "id": 129,
@@ -288,6 +342,15 @@
     "published_at": "2026-09-14T16:00:00"
   },
   {
+    "id": 162,
+    "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+    "summary": "<p>Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultation on operational constraints for model training and deployment. The draft serves as a technical manual defining system behaviour, operational boundaries, and oversight protocols across MAI frontie",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-09-14T15:30:41"
+  },
+  {
     "id": 6,
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
@@ -295,6 +358,33 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-14T12:00:00"
+  },
+  {
+    "id": 163,
+    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+    "summary": "<p>Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI agents at 89%. A Teradata survey adds the shape of that gap: 78% of enterprises have at least one agent pilot running, but only 14% have scaled one to organisation-wide use. Adoption is nearly univer",
+    "author": "SEO DIGITAL PROS",
+    "source": "AI News",
+    "published_at": "2026-09-14T08:04:35"
+  },
+  {
+    "id": 164,
+    "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+    "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+    "summary": "<p>A video looks simple when you press play. There is a picture, some dialogue, perhaps music in the background, and a few minutes later it is over. However, with the right use of AI, things can become a lot more interesting. To an artificial intelligence system, that same video can become speech to",
+    "author": "SEO DIGITAL PROS",
+    "source": "AI News",
+    "published_at": "2026-09-14T07:56:45"
+  },
+  {
+    "id": 165,
+    "title": "How Vox Group’s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+    "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+    "summary": "<p>Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speaking to a mixed-language group, with no way to be understood by everyone at once. Vox Group, a 25-year-old guiding technology company operating in over 150 countries, has spent the past year rebuild",
+    "author": "Elio Epifani",
+    "source": "AI News",
+    "published_at": "2026-09-14T07:39:28"
   },
   {
     "id": 78,
@@ -342,6 +432,15 @@
     "published_at": "2026-09-11T13:45:00"
   },
   {
+    "id": 166,
+    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+    "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+    "summary": "<p>NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data ",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-09-11T12:00:18"
+  },
+  {
     "id": 8,
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
@@ -349,6 +448,15 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-11T10:00:00"
+  },
+  {
+    "id": 167,
+    "title": "Supply chains detect fast, act slow: How AI agents fix it",
+    "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+    "summary": "<p>Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification",
+    "author": "Ryan Daws",
+    "source": "AI News",
+    "published_at": "2026-09-10T16:34:43"
   },
   {
     "id": 10,
@@ -793,18 +901,18 @@
   },
   {
     "id": 46,
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
   },
   {
     "id": 47,
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-08-26T10:00:00"
