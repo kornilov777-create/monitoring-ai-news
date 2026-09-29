@@ -1,6 +1,114 @@
 [
   {
     "id": 136,
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T17:20:00"
+  },
+  {
+    "id": 137,
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "author": "Lucas Ropek",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T17:17:15"
+  },
+  {
+    "id": 138,
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T17:15:00"
+  },
+  {
+    "id": 139,
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "author": "Aisha Malik",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T17:15:00"
+  },
+  {
+    "id": 140,
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T17:15:00"
+  },
+  {
+    "id": 141,
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "author": "Amanda Silberling",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T16:55:56"
+  },
+  {
+    "id": 142,
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T15:12:07"
+  },
+  {
+    "id": 143,
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T13:53:01"
+  },
+  {
+    "id": 144,
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+    "author": "Aisha Malik",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T13:47:30"
+  },
+  {
+    "id": 145,
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "author": "Kate Park",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T12:45:05"
+  },
+  {
+    "id": 146,
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "author": "Ram Iyer",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-29T12:30:00"
+  },
+  {
+    "id": 126,
+    "title": "Making AI an asset, not an expense",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to",
+    "author": "Cheri Williams",
+    "source": "MIT Technology Review",
+    "published_at": "2026-09-29T10:43:45"
+  },
+  {
+    "id": 147,
     "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
     "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
     "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
@@ -27,7 +135,7 @@
     "published_at": "2026-09-29T04:00:00"
   },
   {
-    "id": 137,
+    "id": 148,
     "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
     "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
     "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
@@ -36,7 +144,7 @@
     "published_at": "2026-09-29T00:30:00"
   },
   {
-    "id": 138,
+    "id": 149,
     "title": "OpenAI reportedly ditches model over safety concerns",
     "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
     "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
@@ -45,7 +153,7 @@
     "published_at": "2026-09-28T23:39:20"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
     "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review ",
@@ -54,7 +162,7 @@
     "published_at": "2026-09-28T22:17:07"
   },
   {
-    "id": 139,
+    "id": 150,
     "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
     "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
     "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
@@ -63,7 +171,7 @@
     "published_at": "2026-09-28T21:29:18"
   },
   {
-    "id": 140,
+    "id": 151,
     "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
     "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
     "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
@@ -72,7 +180,7 @@
     "published_at": "2026-09-28T20:39:33"
   },
   {
-    "id": 141,
+    "id": 152,
     "title": "Shopify opens checkout to browser-based AI agents",
     "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
     "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
@@ -81,7 +189,7 @@
     "published_at": "2026-09-28T19:33:57"
   },
   {
-    "id": 142,
+    "id": 153,
     "title": "The AI boom took over Climate Week and not everyone is happy about it",
     "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
     "summary": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
@@ -108,7 +216,7 @@
     "published_at": "2026-09-28T19:00:00"
   },
   {
-    "id": 143,
+    "id": 154,
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
     "summary": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
@@ -117,7 +225,7 @@
     "published_at": "2026-09-28T18:31:23"
   },
   {
-    "id": 144,
+    "id": 155,
     "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
     "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
     "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
@@ -126,103 +234,13 @@
     "published_at": "2026-09-28T18:00:00"
   },
   {
-    "id": 145,
-    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-    "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T17:29:50"
-  },
-  {
-    "id": 146,
-    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-    "author": "Russell Brandom",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T17:09:02"
-  },
-  {
-    "id": 127,
+    "id": 128,
     "title": "When can we say AI made a scientific discovery?",
     "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
     "author": "James O'Donnell",
     "source": "MIT Technology Review",
     "published_at": "2026-09-28T17:03:16"
-  },
-  {
-    "id": 147,
-    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-    "summary": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T16:52:38"
-  },
-  {
-    "id": 148,
-    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-    "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T15:30:00"
-  },
-  {
-    "id": 149,
-    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-    "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
-    "author": "Connie Loizos",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T15:00:00"
-  },
-  {
-    "id": 150,
-    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-    "summary": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T14:30:00"
-  },
-  {
-    "id": 151,
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T14:05:00"
-  },
-  {
-    "id": 152,
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-    "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leaders at San Francisco's Moscone West on October 13-15.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T14:00:00"
-  },
-  {
-    "id": 153,
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-    "author": "Marina Temkin",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T14:00:00"
-  },
-  {
-    "id": 154,
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-28T13:38:48"
   },
   {
     "id": 78,
@@ -234,7 +252,7 @@
     "published_at": "2026-09-28T09:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Who’s liable when AI agents go rogue?",
     "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ",
@@ -270,15 +288,6 @@
     "published_at": "2026-09-28T00:00:00"
   },
   {
-    "id": 155,
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-27T20:34:28"
-  },
-  {
     "id": 79,
     "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
     "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
@@ -297,7 +306,7 @@
     "published_at": "2026-09-25T19:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
     "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning a",
@@ -396,7 +405,7 @@
     "published_at": "2026-09-23T10:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "The AI Hype Index: AI loves cheating",
     "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into othe",
@@ -468,7 +477,7 @@
     "published_at": "2026-09-22T12:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Don’t be fooled by this summer of AI hype",
     "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
     "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
@@ -504,7 +513,7 @@
     "published_at": "2026-09-21T12:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
     "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of&#160;Dying on Camera, a collaboration between&#160;MIT Technolo",
@@ -513,7 +522,7 @@
     "published_at": "2026-09-21T12:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
     "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
@@ -522,20 +531,11 @@
     "published_at": "2026-09-21T12:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
     "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
     "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three",
     "author": "James O'Donnell, Eileen Guo",
-    "source": "MIT Technology Review",
-    "published_at": "2026-09-21T12:00:00"
-  },
-  {
-    "id": 135,
-    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&",
-    "author": "Lillian Perlmutter",
     "source": "MIT Technology Review",
     "published_at": "2026-09-21T12:00:00"
   },
