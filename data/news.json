@@ -1,6 +1,51 @@
 [
   {
     "id": 136,
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "author": "Julie Bort",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-30T21:07:40"
+  },
+  {
+    "id": 137,
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-30T19:00:57"
+  },
+  {
+    "id": 138,
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "author": "Marina Temkin",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-30T18:23:57"
+  },
+  {
+    "id": 139,
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-30T17:45:00"
+  },
+  {
+    "id": 140,
+    "title": "The ugly economics of consumer AI",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+    "author": "Russell Brandom",
+    "source": "TechCrunch AI",
+    "published_at": "2026-09-30T17:24:45"
+  },
+  {
+    "id": 141,
     "title": "Meta disputes claim that Muse read a user’s private messages without permission",
     "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
     "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
@@ -9,7 +54,7 @@
     "published_at": "2026-09-30T16:24:23"
   },
   {
-    "id": 137,
+    "id": 142,
     "title": "DoorDash launches an AI agent you can text to order food",
     "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
     "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
@@ -18,7 +63,7 @@
     "published_at": "2026-09-30T16:00:24"
   },
   {
-    "id": 138,
+    "id": 143,
     "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
     "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
     "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
@@ -27,7 +72,7 @@
     "published_at": "2026-09-30T16:00:00"
   },
   {
-    "id": 139,
+    "id": 144,
     "title": "Instinct’s new product recommendations are giving some users the ick",
     "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
     "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
@@ -54,7 +99,7 @@
     "published_at": "2026-09-30T15:00:00"
   },
   {
-    "id": 140,
+    "id": 145,
     "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
     "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
@@ -63,7 +108,7 @@
     "published_at": "2026-09-30T14:30:00"
   },
   {
-    "id": 141,
+    "id": 146,
     "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
     "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
     "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
@@ -72,7 +117,7 @@
     "published_at": "2026-09-30T14:27:11"
   },
   {
-    "id": 142,
+    "id": 147,
     "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
     "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
@@ -81,7 +126,7 @@
     "published_at": "2026-09-30T14:15:00"
   },
   {
-    "id": 143,
+    "id": 148,
     "title": "Airbnb adds AI search, more social features",
     "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
     "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
@@ -100,6 +145,15 @@
   },
   {
     "id": 1,
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-30T10:30:00"
+  },
+  {
+    "id": 2,
     "title": "Helping small businesses put AI to work",
     "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
@@ -108,7 +162,7 @@
     "published_at": "2026-09-30T10:00:00"
   },
   {
-    "id": 144,
+    "id": 149,
     "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
     "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
     "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
@@ -117,7 +171,7 @@
     "published_at": "2026-09-29T23:30:55"
   },
   {
-    "id": 145,
+    "id": 150,
     "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
     "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
     "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
@@ -126,7 +180,7 @@
     "published_at": "2026-09-29T22:20:59"
   },
   {
-    "id": 146,
+    "id": 151,
     "title": "OpenAI’s latest features take direct aim at the app store model",
     "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
     "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
@@ -135,7 +189,7 @@
     "published_at": "2026-09-29T20:15:47"
   },
   {
-    "id": 147,
+    "id": 152,
     "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
     "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
     "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
@@ -144,7 +198,7 @@
     "published_at": "2026-09-29T19:52:37"
   },
   {
-    "id": 148,
+    "id": 153,
     "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
     "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
@@ -153,67 +207,13 @@
     "published_at": "2026-09-29T18:35:00"
   },
   {
-    "id": 149,
+    "id": 154,
     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
     "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
     "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
     "author": "Lucas Ropek",
     "source": "TechCrunch AI",
     "published_at": "2026-09-29T17:45:51"
-  },
-  {
-    "id": 150,
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-29T17:20:00"
-  },
-  {
-    "id": 151,
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-29T17:17:15"
-  },
-  {
-    "id": 152,
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-29T17:15:00"
-  },
-  {
-    "id": 153,
-    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-29T17:15:00"
-  },
-  {
-    "id": 154,
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-    "author": "Aisha Malik",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-29T17:15:00"
-  },
-  {
-    "id": 155,
-    "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-    "author": "Amanda Silberling",
-    "source": "TechCrunch AI",
-    "published_at": "2026-09-29T16:55:56"
   },
   {
     "id": 127,
@@ -225,19 +225,19 @@
     "published_at": "2026-09-29T10:43:45"
   },
   {
-    "id": 2,
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "id": 3,
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-29T10:00:00"
   },
   {
-    "id": 3,
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "id": 4,
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-29T10:00:00"
@@ -261,7 +261,7 @@
     "published_at": "2026-09-29T04:00:00"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Introducing dots",
     "url": "https://openai.com/index/introducing-dots",
     "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
@@ -279,19 +279,19 @@
     "published_at": "2026-09-28T22:17:07"
   },
   {
-    "id": 5,
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "id": 6,
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-28T19:00:00"
   },
   {
-    "id": 6,
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "id": 7,
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-28T19:00:00"
@@ -324,7 +324,7 @@
     "published_at": "2026-09-28T08:06:22"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
     "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
     "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
@@ -333,19 +333,19 @@
     "published_at": "2026-09-28T07:00:00"
   },
   {
-    "id": 8,
-    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "id": 9,
+    "title": "Are you a Codex Original?",
+    "url": "https://openai.com/form/codex-originals",
+    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-28T00:00:00"
   },
   {
-    "id": 9,
-    "title": "Are you a Codex Original?",
-    "url": "https://openai.com/form/codex-originals",
-    "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+    "id": 10,
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-28T00:00:00"
@@ -360,7 +360,7 @@
     "published_at": "2026-09-25T20:15:00"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "url": "https://openai.com/index/proaction",
     "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
@@ -396,7 +396,7 @@
     "published_at": "2026-09-24T04:00:00"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "Two years of OpenAI Academy",
     "url": "https://openai.com/index/two-years-of-openai-academy",
     "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
@@ -414,7 +414,7 @@
     "published_at": "2026-09-23T15:30:00"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "OpenAI extends cyber access to Ukraine for civilian defense",
     "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
@@ -423,34 +423,7 @@
     "published_at": "2026-09-23T13:00:00"
   },
   {
-    "id": 13,
-    "title": "Sam Altman’s remarks at the United Nations Security Council",
-    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00"
-  },
-  {
     "id": 14,
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00"
-  },
-  {
-    "id": 15,
-    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-23T12:00:00"
-  },
-  {
-    "id": 16,
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
@@ -459,7 +432,34 @@
     "published_at": "2026-09-23T12:00:00"
   },
   {
+    "id": 15,
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00"
+  },
+  {
+    "id": 16,
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00"
+  },
+  {
     "id": 17,
+    "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-09-23T12:00:00"
+  },
+  {
+    "id": 18,
     "title": "Introducing MentalHealthBench",
     "url": "https://openai.com/index/introducing-mentalhealthbench",
     "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
@@ -477,7 +477,7 @@
     "published_at": "2026-09-23T09:00:00"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
     "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
     "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
@@ -486,7 +486,7 @@
     "published_at": "2026-09-23T02:00:00"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
     "url": "https://openai.com/index/airbnb-gpt-6-astra",
     "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
@@ -495,7 +495,7 @@
     "published_at": "2026-09-23T01:00:00"
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
     "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
     "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
@@ -504,7 +504,7 @@
     "published_at": "2026-09-23T00:00:00"
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Better prompt caching for GPT-6",
     "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
@@ -522,7 +522,7 @@
     "published_at": "2026-09-22T19:00:00"
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "Introducing GPT-6 Sol and Luna",
     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
@@ -531,7 +531,7 @@
     "published_at": "2026-09-22T18:00:00"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
     "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
     "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
@@ -549,7 +549,7 @@
     "published_at": "2026-09-22T11:04:51"
   },
   {
-    "id": 24,
+    "id": 25,
     "title": "Priorities and principles for effective third party assessments",
     "url": "https://openai.com/index/priorities-principles-third-party-assessments",
     "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
@@ -558,19 +558,19 @@
     "published_at": "2026-09-22T00:00:00"
   },
   {
-    "id": 25,
-    "title": "Advisory Group on Mathematics and Artificial Intelligence",
-    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "id": 26,
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-21T12:00:00"
   },
   {
-    "id": 26,
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "id": 27,
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-21T12:00:00"
@@ -594,7 +594,7 @@
     "published_at": "2026-09-21T12:00:00"
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "Building standards for the next phase of AI",
     "url": "https://openai.com/index/building-standards-next-phase-ai",
     "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
@@ -603,7 +603,7 @@
     "published_at": "2026-09-21T10:00:00"
   },
   {
-    "id": 28,
+    "id": 29,
     "title": "Expanding OpenAI Academy with new learning paths",
     "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
     "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
@@ -612,7 +612,7 @@
     "published_at": "2026-09-21T07:00:00"
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
     "url": "https://openai.com/index/v7",
     "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
@@ -630,7 +630,7 @@
     "published_at": "2026-09-18T16:30:00"
   },
   {
-    "id": 30,
+    "id": 31,
     "title": "Introducing the Australian Youth Safety Blueprint",
     "url": "https://openai.com/index/australian-youth-safety-blueprint",
     "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
@@ -639,7 +639,7 @@
     "published_at": "2026-09-18T12:00:00"
   },
   {
-    "id": 31,
+    "id": 32,
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "url": "https://openai.com/index/cooley-gopublic",
     "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
@@ -648,7 +648,7 @@
     "published_at": "2026-09-17T12:00:00"
   },
   {
-    "id": 32,
+    "id": 33,
     "title": "Introducing Astra for Law",
     "url": "https://openai.com/index/astra-for-law",
     "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
@@ -657,7 +657,7 @@
     "published_at": "2026-09-17T00:00:00"
   },
   {
-    "id": 37,
+    "id": 38,
     "title": "Our framework for reporting model misalignment",
     "url": "https://openai.com/index/model-misalignment-reporting-framework",
     "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
@@ -666,7 +666,7 @@
     "published_at": "2026-09-16T17:00:00"
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "Helping older adults use AI in everyday life",
     "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
@@ -684,7 +684,7 @@
     "published_at": "2026-09-16T15:00:00"
   },
   {
-    "id": 34,
+    "id": 35,
     "title": "Reimagining advertising with AI",
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
     "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
@@ -693,7 +693,7 @@
     "published_at": "2026-09-16T13:00:00"
   },
   {
-    "id": 35,
+    "id": 36,
     "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
     "url": "https://openai.com/index/hex-gpt-6-astra",
     "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
@@ -702,7 +702,7 @@
     "published_at": "2026-09-16T12:00:00"
   },
   {
-    "id": 36,
+    "id": 37,
     "title": "How to connect AI usage to business value",
     "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
@@ -711,7 +711,7 @@
     "published_at": "2026-09-16T12:00:00"
   },
   {
-    "id": 38,
+    "id": 39,
     "title": "How workers are unlocking new ways of working",
     "url": "https://openai.com/index/unlocking-new-ways-of-working",
     "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
@@ -729,7 +729,7 @@
     "published_at": "2026-09-16T04:00:00"
   },
   {
-    "id": 39,
+    "id": 40,
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
     "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
@@ -756,7 +756,7 @@
     "published_at": "2026-09-14T04:00:00"
   },
   {
-    "id": 40,
+    "id": 41,
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
@@ -765,7 +765,7 @@
     "published_at": "2026-09-14T00:00:00"
   },
   {
-    "id": 42,
+    "id": 43,
     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
     "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
@@ -783,7 +783,7 @@
     "published_at": "2026-09-11T13:45:00"
   },
   {
-    "id": 41,
+    "id": 42,
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
@@ -792,7 +792,7 @@
     "published_at": "2026-09-11T10:00:00"
   },
   {
-    "id": 43,
+    "id": 44,
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
@@ -801,7 +801,7 @@
     "published_at": "2026-09-10T16:00:00"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "Now everyone can put data to work",
     "url": "https://openai.com/index/put-data-to-work",
     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
@@ -810,7 +810,7 @@
     "published_at": "2026-09-10T15:00:00"
   },
   {
-    "id": 45,
+    "id": 46,
     "title": "Introducing ChatGPT for Financial Services",
     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
     "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
@@ -819,7 +819,7 @@
     "published_at": "2026-09-10T07:00:00"
   },
   {
-    "id": 46,
+    "id": 47,
     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
     "url": "https://openai.com/index/expanding-ai-access-us-government",
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
@@ -828,19 +828,19 @@
     "published_at": "2026-09-10T07:00:00"
   },
   {
-    "id": 47,
-    "title": "Introducing the Agents API",
-    "url": "https://openai.com/index/introducing-the-agents-api",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "id": 48,
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-10T00:00:00"
   },
   {
-    "id": 48,
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "id": 49,
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-10T00:00:00"
@@ -855,22 +855,13 @@
     "published_at": "2026-09-09T20:40:00"
   },
   {
-    "id": 49,
+    "id": 50,
     "title": "The AI policy window is open. We need to act.",
     "url": "https://openai.com/index/ai-policy-window",
     "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-09T13:00:00"
-  },
-  {
-    "id": 50,
-    "title": "GPT-6 Astra: The next generation in intelligence for work",
-    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-09-09T11:00:00"
   },
   {
     "id": 93,
