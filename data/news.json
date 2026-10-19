@@ -1,5 +1,14 @@
 [
   {
+    "id": 126,
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+    "author": "Amit Katwala",
+    "source": "MIT Technology Review",
+    "published_at": "2026-10-19T09:08:05"
+  },
+  {
     "id": 136,
     "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
@@ -63,7 +72,7 @@
     "published_at": "2026-10-16T19:00:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
@@ -369,7 +378,7 @@
     "published_at": "2026-10-13T12:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Open models have real benefits. Do they outweigh the risks?",
     "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. T",
@@ -378,7 +387,7 @@
     "published_at": "2026-10-13T10:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "AI labs are buying data from dead startups to train their models",
     "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
     "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pendi",
@@ -396,7 +405,7 @@
     "published_at": "2026-10-13T04:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "We’re putting too much faith in AI’s ability to say no",
     "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
     "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
@@ -459,7 +468,7 @@
     "published_at": "2026-10-08T12:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "AI breakthroughs in robotics won’t change your life any time soon",
     "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
     "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
@@ -468,7 +477,7 @@
     "published_at": "2026-10-08T09:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Building a safer path to autonomous industrial AI",
     "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
     "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the ",
@@ -594,7 +603,7 @@
     "published_at": "2026-10-06T10:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Connecting AI agents to enterprise knowledge",
     "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
     "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
@@ -612,7 +621,7 @@
     "published_at": "2026-10-05T15:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Bringing predictive analytics to the agentic AI era",
     "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
     "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
@@ -630,22 +639,13 @@
     "published_at": "2026-10-05T10:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "People really hate AI, so why can’t they get enough?",
     "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
     "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
     "author": "Will Douglas Heaven",
     "source": "MIT Technology Review",
     "published_at": "2026-10-05T08:00:00"
-  },
-  {
-    "id": 135,
-    "title": "EmTech Future 2026: When AI Meets Everything",
-    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-    "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
-    "author": "MIT Technology Review",
-    "source": "MIT Technology Review",
-    "published_at": "2026-10-05T04:00:00"
   },
   {
     "id": 91,
@@ -766,18 +766,18 @@
   },
   {
     "id": 35,
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-29T10:00:00"
   },
   {
     "id": 36,
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-29T10:00:00"
@@ -811,18 +811,18 @@
   },
   {
     "id": 38,
-    "title": "How we will do better for Australia",
-    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+    "title": "Towards safety cases for frontier AI training",
+    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-28T19:00:00"
   },
   {
     "id": 39,
-    "title": "Towards safety cases for frontier AI training",
-    "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+    "title": "How we will do better for Australia",
+    "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-28T19:00:00"
@@ -946,9 +946,9 @@
   },
   {
     "id": 48,
-    "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00"
@@ -964,9 +964,9 @@
   },
   {
     "id": 50,
-    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "url": "https://openai.com/index/ringg",
-    "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+    "title": "Sam Altman’s remarks at the United Nations Security Council",
+    "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-09-23T12:00:00"
