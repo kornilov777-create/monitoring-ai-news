@@ -1,6 +1,33 @@
 [
   {
     "id": 136,
+    "title": "Block’s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "author": "Ivan Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-24T16:00:00"
+  },
+  {
+    "id": 137,
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "author": "Rebecca Bellan",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-24T15:00:00"
+  },
+  {
+    "id": 138,
+    "title": "Here are the top AI agents that can live in your text messages",
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "author": "Lauren Forristal",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-24T14:00:00"
+  },
+  {
+    "id": 139,
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
@@ -9,7 +36,7 @@
     "published_at": "2026-10-23T23:05:49"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
     "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
     "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
@@ -36,7 +63,7 @@
     "published_at": "2026-10-23T19:35:00"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
@@ -72,7 +99,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -81,7 +108,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "Left alone with nothing to do, AI agents started playing",
     "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
@@ -99,7 +126,7 @@
     "published_at": "2026-10-23T00:00:00"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
@@ -126,7 +153,7 @@
     "published_at": "2026-10-22T20:45:00"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
@@ -144,7 +171,7 @@
     "published_at": "2026-10-22T19:00:00"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
     "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
@@ -153,7 +180,7 @@
     "published_at": "2026-10-22T19:00:00"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "Canva releases its first image generation model",
     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
@@ -171,7 +198,7 @@
     "published_at": "2026-10-22T18:48:04"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
     "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
     "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
@@ -180,7 +207,7 @@
     "published_at": "2026-10-22T18:43:53"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
     "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
     "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
@@ -189,7 +216,7 @@
     "published_at": "2026-10-22T16:47:17"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "Uber puts all 30,000 employees on ChatGPT Work",
     "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
     "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
@@ -198,7 +225,7 @@
     "published_at": "2026-10-22T16:00:00"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "Spotify’s current AI bet is about being the music service that agents choose",
     "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
     "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
@@ -207,7 +234,7 @@
     "published_at": "2026-10-22T15:03:58"
   },
   {
-    "id": 149,
+    "id": 152,
     "title": "Claude Duet app is Anthropic’s bet on agents",
     "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
     "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
@@ -216,7 +243,7 @@
     "published_at": "2026-10-22T13:53:26"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "Nirva raises $33M for a pendant that only listens to you",
     "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
     "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
@@ -225,7 +252,7 @@
     "published_at": "2026-10-22T13:26:52"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "DeepSeek reportedly raises $15B days after US restrictions",
     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
     "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
@@ -270,40 +297,13 @@
     "published_at": "2026-10-22T00:00:00"
   },
   {
-    "id": 152,
+    "id": 155,
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
     "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
     "author": "Marina Temkin",
     "source": "TechCrunch AI",
     "published_at": "2026-10-21T22:51:22"
-  },
-  {
-    "id": 153,
-    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-21T22:45:34"
-  },
-  {
-    "id": 154,
-    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-    "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-21T21:16:20"
-  },
-  {
-    "id": 155,
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-    "author": "Sarah Perez",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-21T21:14:19"
   },
   {
     "id": 8,
