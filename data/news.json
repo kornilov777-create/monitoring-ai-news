@@ -1,5 +1,14 @@
 [
   {
+    "id": 126,
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
+    "author": "Sam Hiner, Emma Leiken",
+    "source": "MIT Technology Review",
+    "published_at": "2026-10-26T09:01:00"
+  },
+  {
     "id": 136,
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
@@ -171,7 +180,7 @@
     "published_at": "2026-10-22T22:08:24"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Designing an AI serving harness built to last",
     "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
@@ -208,15 +217,6 @@
   },
   {
     "id": 150,
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-22T19:00:00"
-  },
-  {
-    "id": 151,
     "title": "Canva releases its first image generation model",
     "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
@@ -225,7 +225,16 @@
     "published_at": "2026-10-22T19:00:00"
   },
   {
-    "id": 127,
+    "id": 151,
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-22T19:00:00"
+  },
+  {
+    "id": 128,
     "title": "The Foundations of Scalable AI",
     "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
@@ -270,7 +279,7 @@
     "published_at": "2026-10-22T15:03:58"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Making the case for context-aware AI",
     "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
     "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
@@ -279,7 +288,7 @@
     "published_at": "2026-10-22T10:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "AI’s hidden storage bill: What inference leaves behind",
     "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
     "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
@@ -387,7 +396,7 @@
     "published_at": "2026-10-21T00:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "The new economics of enterprise AI",
     "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
     "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#",
@@ -396,7 +405,7 @@
     "published_at": "2026-10-20T15:20:25"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "AI adoption by industry shows what other sectors can learn",
     "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
     "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre",
@@ -414,7 +423,7 @@
     "published_at": "2026-10-20T10:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "A visit to Samsung’s massive new semiconductor hub",
     "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
     "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
@@ -441,7 +450,7 @@
     "published_at": "2026-10-20T00:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Making the internet better for AI agents might make it worse for everyone else",
     "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
@@ -459,7 +468,7 @@
     "published_at": "2026-10-19T18:20:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
     "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
     "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
@@ -475,15 +484,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-19T12:00:00"
-  },
-  {
-    "id": 135,
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
-    "author": "Amit Katwala",
-    "source": "MIT Technology Review",
-    "published_at": "2026-10-19T09:08:05"
   },
   {
     "id": 81,
