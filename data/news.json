@@ -1,6 +1,24 @@
 [
   {
+    "id": 126,
+    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w",
+    "author": "Michael MacKenzie",
+    "source": "MIT Technology Review",
+    "published_at": "2026-10-27T11:19:18"
+  },
+  {
     "id": 136,
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "author": "Jagmeet Singh",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-27T11:00:00"
+  },
+  {
+    "id": 137,
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
@@ -9,7 +27,7 @@
     "published_at": "2026-10-27T02:00:00"
   },
   {
-    "id": 137,
+    "id": 138,
     "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
     "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
     "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
@@ -36,7 +54,7 @@
     "published_at": "2026-10-26T19:00:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Will the real Anthropic please stand up",
     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
@@ -45,7 +63,7 @@
     "published_at": "2026-10-26T17:45:43"
   },
   {
-    "id": 138,
+    "id": 139,
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
@@ -54,7 +72,7 @@
     "published_at": "2026-10-26T16:49:42"
   },
   {
-    "id": 139,
+    "id": 140,
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
@@ -63,7 +81,7 @@
     "published_at": "2026-10-26T16:46:36"
   },
   {
-    "id": 140,
+    "id": 141,
     "title": "Anthropic officially files for its public debut",
     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
@@ -99,7 +117,7 @@
     "published_at": "2026-10-26T10:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "The focus on AI safety disasters ignores everyday harms",
     "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
@@ -135,7 +153,7 @@
     "published_at": "2026-10-26T00:00:00"
   },
   {
-    "id": 141,
+    "id": 142,
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
     "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -144,7 +162,7 @@
     "published_at": "2026-10-25T21:31:16"
   },
   {
-    "id": 142,
+    "id": 143,
     "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
     "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
@@ -153,7 +171,7 @@
     "published_at": "2026-10-25T16:57:32"
   },
   {
-    "id": 143,
+    "id": 144,
     "title": "The hottest AI wearables and gadgets you should know about",
     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
     "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
@@ -162,7 +180,7 @@
     "published_at": "2026-10-25T14:10:00"
   },
   {
-    "id": 144,
+    "id": 145,
     "title": "Will AI expose the rickety infrastructure of the internet?",
     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
@@ -171,7 +189,7 @@
     "published_at": "2026-10-24T20:15:33"
   },
   {
-    "id": 145,
+    "id": 146,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -180,7 +198,7 @@
     "published_at": "2026-10-24T19:00:00"
   },
   {
-    "id": 146,
+    "id": 147,
     "title": "Block’s new voice model sounds eerily human",
     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
@@ -189,7 +207,7 @@
     "published_at": "2026-10-24T16:00:00"
   },
   {
-    "id": 147,
+    "id": 148,
     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -198,7 +216,7 @@
     "published_at": "2026-10-24T15:00:00"
   },
   {
-    "id": 148,
+    "id": 149,
     "title": "Here are the top AI agents that can live in your text messages",
     "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -207,7 +225,7 @@
     "published_at": "2026-10-24T14:00:00"
   },
   {
-    "id": 149,
+    "id": 150,
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
@@ -216,7 +234,7 @@
     "published_at": "2026-10-23T23:05:49"
   },
   {
-    "id": 150,
+    "id": 151,
     "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
     "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
     "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
@@ -243,7 +261,7 @@
     "published_at": "2026-10-23T19:35:00"
   },
   {
-    "id": 151,
+    "id": 152,
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
@@ -279,7 +297,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 152,
+    "id": 153,
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -288,7 +306,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 153,
+    "id": 154,
     "title": "Left alone with nothing to do, AI agents started playing",
     "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
@@ -306,7 +324,7 @@
     "published_at": "2026-10-23T00:00:00"
   },
   {
-    "id": 154,
+    "id": 155,
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
@@ -315,7 +333,7 @@
     "published_at": "2026-10-22T22:08:24"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Designing an AI serving harness built to last",
     "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
@@ -333,15 +351,6 @@
     "published_at": "2026-10-22T20:45:00"
   },
   {
-    "id": 155,
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "author": "Lucas Ropek",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-22T19:07:09"
-  },
-  {
     "id": 11,
     "title": "Build more responsive apps with the Decisions API",
     "url": "https://openai.com/index/decisions-api",
@@ -351,7 +360,7 @@
     "published_at": "2026-10-22T19:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "The Foundations of Scalable AI",
     "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment a",
@@ -360,7 +369,7 @@
     "published_at": "2026-10-22T18:48:04"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Making the case for context-aware AI",
     "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
     "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies",
@@ -369,7 +378,7 @@
     "published_at": "2026-10-22T10:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "AI’s hidden storage bill: What inference leaves behind",
     "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
     "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from ",
@@ -477,7 +486,7 @@
     "published_at": "2026-10-21T00:00:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "The new economics of enterprise AI",
     "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
     "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#",
@@ -486,7 +495,7 @@
     "published_at": "2026-10-20T15:20:25"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "AI adoption by industry shows what other sectors can learn",
     "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
     "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre",
@@ -504,7 +513,7 @@
     "published_at": "2026-10-20T10:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "A visit to Samsung’s massive new semiconductor hub",
     "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
     "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
@@ -529,15 +538,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-20T00:00:00"
-  },
-  {
-    "id": 135,
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
-    "author": "James O'Donnell",
-    "source": "MIT Technology Review",
-    "published_at": "2026-10-19T18:22:47"
   },
   {
     "id": 81,
@@ -586,18 +586,18 @@
   },
   {
     "id": 28,
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00"
   },
   {
     "id": 29,
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00"
