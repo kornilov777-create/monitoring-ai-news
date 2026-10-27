@@ -1,5 +1,23 @@
 [
   {
+    "id": 136,
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "author": "Tim Fernholz",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-27T02:00:00"
+  },
+  {
+    "id": 137,
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "author": "Aditya Mehta",
+    "source": "TechCrunch AI",
+    "published_at": "2026-10-27T01:12:21"
+  },
+  {
     "id": 1,
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -27,7 +45,7 @@
     "published_at": "2026-10-26T17:45:43"
   },
   {
-    "id": 136,
+    "id": 138,
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
@@ -36,7 +54,7 @@
     "published_at": "2026-10-26T16:49:42"
   },
   {
-    "id": 137,
+    "id": 139,
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
@@ -45,7 +63,7 @@
     "published_at": "2026-10-26T16:46:36"
   },
   {
-    "id": 138,
+    "id": 140,
     "title": "Anthropic officially files for its public debut",
     "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
@@ -117,7 +135,7 @@
     "published_at": "2026-10-26T00:00:00"
   },
   {
-    "id": 139,
+    "id": 141,
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
     "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -126,7 +144,7 @@
     "published_at": "2026-10-25T21:31:16"
   },
   {
-    "id": 140,
+    "id": 142,
     "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
     "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
     "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
@@ -135,7 +153,7 @@
     "published_at": "2026-10-25T16:57:32"
   },
   {
-    "id": 141,
+    "id": 143,
     "title": "The hottest AI wearables and gadgets you should know about",
     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
     "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
@@ -144,7 +162,7 @@
     "published_at": "2026-10-25T14:10:00"
   },
   {
-    "id": 142,
+    "id": 144,
     "title": "Will AI expose the rickety infrastructure of the internet?",
     "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
     "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
@@ -153,7 +171,7 @@
     "published_at": "2026-10-24T20:15:33"
   },
   {
-    "id": 143,
+    "id": 145,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -162,7 +180,7 @@
     "published_at": "2026-10-24T19:00:00"
   },
   {
-    "id": 144,
+    "id": 146,
     "title": "Block’s new voice model sounds eerily human",
     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
@@ -171,7 +189,7 @@
     "published_at": "2026-10-24T16:00:00"
   },
   {
-    "id": 145,
+    "id": 147,
     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -180,7 +198,7 @@
     "published_at": "2026-10-24T15:00:00"
   },
   {
-    "id": 146,
+    "id": 148,
     "title": "Here are the top AI agents that can live in your text messages",
     "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -189,7 +207,7 @@
     "published_at": "2026-10-24T14:00:00"
   },
   {
-    "id": 147,
+    "id": 149,
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
@@ -198,7 +216,7 @@
     "published_at": "2026-10-23T23:05:49"
   },
   {
-    "id": 148,
+    "id": 150,
     "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
     "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
     "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
@@ -225,7 +243,7 @@
     "published_at": "2026-10-23T19:35:00"
   },
   {
-    "id": 149,
+    "id": 151,
     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
     "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs",
@@ -261,7 +279,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 150,
+    "id": 152,
     "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
@@ -270,7 +288,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 151,
+    "id": 153,
     "title": "Left alone with nothing to do, AI agents started playing",
     "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
@@ -288,7 +306,7 @@
     "published_at": "2026-10-23T00:00:00"
   },
   {
-    "id": 152,
+    "id": 154,
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
@@ -315,7 +333,7 @@
     "published_at": "2026-10-22T20:45:00"
   },
   {
-    "id": 153,
+    "id": 155,
     "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
     "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
     "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
@@ -330,24 +348,6 @@
     "summary": "Fast, focused, low-cost decisions for any application.",
     "author": "",
     "source": "OpenAI Blog",
-    "published_at": "2026-10-22T19:00:00"
-  },
-  {
-    "id": 154,
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "author": "Tim Fernholz",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-22T19:00:00"
-  },
-  {
-    "id": 155,
-    "title": "Canva releases its first image generation model",
-    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-    "author": "Ivan Mehta",
-    "source": "TechCrunch AI",
     "published_at": "2026-10-22T19:00:00"
   },
   {
