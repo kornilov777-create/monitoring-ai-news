@@ -757,15 +757,6 @@
   },
   {
     "id": 42,
-    "title": "How Localiza reorganized work around generative AI",
-    "url": "https://openai.com/index/localiza-generative-ai",
-    "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00"
-  },
-  {
-    "id": 43,
     "title": "How Grupo Boticário uses AI to strengthen human connections",
     "url": "https://openai.com/index/grupo-boticario",
     "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
@@ -774,19 +765,28 @@
     "published_at": "2026-10-16T00:00:00"
   },
   {
+    "id": 43,
+    "title": "How Localiza reorganized work around generative AI",
+    "url": "https://openai.com/index/localiza-generative-ai",
+    "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-10-16T00:00:00"
+  },
+  {
     "id": 44,
-    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00"
   },
   {
     "id": 45,
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-16T00:00:00"
