@@ -1,5 +1,23 @@
 [
   {
+    "id": 126,
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, tha",
+    "author": "Amit Katwala",
+    "source": "MIT Technology Review",
+    "published_at": "2026-11-03T10:43:41"
+  },
+  {
+    "id": 1,
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-03T08:00:00"
+  },
+  {
     "id": 136,
     "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
     "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
@@ -9,7 +27,7 @@
     "published_at": "2026-11-03T07:20:00"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
@@ -90,7 +108,7 @@
     "published_at": "2026-11-02T19:19:17"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Rewarding defenders with bigger bug bounties",
     "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
@@ -99,7 +117,7 @@
     "published_at": "2026-11-02T18:00:00"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Preparing our next security sprint to harden OpenAI",
     "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
@@ -108,7 +126,7 @@
     "published_at": "2026-11-02T18:00:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Raising the quality of insights in agentic analytics",
     "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
     "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
@@ -135,7 +153,7 @@
     "published_at": "2026-11-02T16:23:21"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Scaling Git at OpenAI",
     "url": "https://openai.com/index/scaling-git-at-openai",
     "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
@@ -144,7 +162,7 @@
     "published_at": "2026-11-02T15:30:00"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Introducing the Grid Protectors Program",
     "url": "https://openai.com/index/grid-protectors-program",
     "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
@@ -180,7 +198,7 @@
     "published_at": "2026-11-02T13:57:53"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "Stop counting tokens, start counting what ships",
     "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
     "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
@@ -189,7 +207,7 @@
     "published_at": "2026-11-02T13:10:32"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "The agentic web is here",
     "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
     "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
@@ -198,7 +216,7 @@
     "published_at": "2026-11-02T09:35:19"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "LifeVal",
     "url": "https://openai.com/index/lifeval",
     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
@@ -216,7 +234,7 @@
     "published_at": "2026-11-02T05:35:00"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "Qodo builds context into AI code review with Codex",
     "url": "https://openai.com/index/qodo-codex-plugin",
     "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
@@ -225,7 +243,7 @@
     "published_at": "2026-11-02T00:00:00"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
@@ -315,7 +333,7 @@
     "published_at": "2026-10-30T19:00:00"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Making it easier for websites to express AI training preferences",
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
@@ -324,7 +342,7 @@
     "published_at": "2026-10-30T09:30:00"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "Community safety report and new protections for teens",
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
@@ -333,7 +351,7 @@
     "published_at": "2026-10-30T09:00:00"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "Fair use benefits everyone",
     "url": "https://openai.com/index/fair-use-benefits-everyone",
     "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
@@ -342,7 +360,7 @@
     "published_at": "2026-10-30T00:00:00"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "An updated Model Spec for more capable and beneficial AI",
     "url": "https://openai.com/index/updated-model-spec",
     "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
@@ -351,7 +369,7 @@
     "published_at": "2026-10-29T17:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "We urgently need to monitor AI agents’ actions in real time",
     "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
@@ -360,7 +378,7 @@
     "published_at": "2026-10-29T10:11:12"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "How we detect frontier model misalignment",
     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
@@ -369,7 +387,7 @@
     "published_at": "2026-10-29T09:00:00"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "How Ropes & Gray is developing AI for transactional diligence",
     "url": "https://openai.com/index/ropes-gray-ai-diligence",
     "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
@@ -378,7 +396,7 @@
     "published_at": "2026-10-29T07:00:00"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
     "url": "https://openai.com/index/credit-saison",
     "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
@@ -387,7 +405,7 @@
     "published_at": "2026-10-29T00:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Creating AI value with enterprise context",
     "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
     "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
@@ -405,7 +423,7 @@
     "published_at": "2026-10-28T16:00:00"
   },
   {
-    "id": 15,
+    "id": 16,
     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
@@ -414,7 +432,7 @@
     "published_at": "2026-10-28T13:15:00"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "Pairing industrial AI autonomy and human control",
     "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
     "summary": "",
@@ -423,7 +441,7 @@
     "published_at": "2026-10-28T12:00:00"
   },
   {
-    "id": 16,
+    "id": 17,
     "title": "The future of the firm",
     "url": "https://openai.com/index/the-future-of-the-firm",
     "summary": "How AI might enter the org chart—beneath, beside, and between us.",
@@ -432,7 +450,7 @@
     "published_at": "2026-10-28T10:00:00"
   },
   {
-    "id": 17,
+    "id": 18,
     "title": "Legora is building the agentic operating system for legal work",
     "url": "https://openai.com/index/legora",
     "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -459,7 +477,7 @@
     "published_at": "2026-10-27T20:55:00"
   },
   {
-    "id": 18,
+    "id": 19,
     "title": "Retell uses OpenAI models to help power 100M monthly calls",
     "url": "https://openai.com/index/retell-ai",
     "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
@@ -468,7 +486,7 @@
     "published_at": "2026-10-27T15:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
     "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
     "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, w",
@@ -477,7 +495,7 @@
     "published_at": "2026-10-27T11:19:18"
   },
   {
-    "id": 19,
+    "id": 20,
     "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
@@ -486,7 +504,7 @@
     "published_at": "2026-10-27T07:00:00"
   },
   {
-    "id": 20,
+    "id": 21,
     "title": "How Check Point accelerates vulnerability research with Daybreak",
     "url": "https://openai.com/index/check-point-daybreak",
     "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
@@ -495,7 +513,7 @@
     "published_at": "2026-10-27T00:00:00"
   },
   {
-    "id": 21,
+    "id": 22,
     "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
     "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
@@ -513,7 +531,7 @@
     "published_at": "2026-10-26T19:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Will the real Anthropic please stand up",
     "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan",
@@ -522,7 +540,7 @@
     "published_at": "2026-10-26T17:45:43"
   },
   {
-    "id": 22,
+    "id": 23,
     "title": "Working with academic communities to build scientific understanding",
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
@@ -531,7 +549,7 @@
     "published_at": "2026-10-26T14:30:00"
   },
   {
-    "id": 23,
+    "id": 24,
     "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
     "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
@@ -540,7 +558,7 @@
     "published_at": "2026-10-26T13:45:00"
   },
   {
-    "id": 24,
+    "id": 25,
     "title": "ChatGPT’s expanding world of work",
     "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
     "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
@@ -549,16 +567,7 @@
     "published_at": "2026-10-26T10:00:00"
   },
   {
-    "id": 135,
-    "title": "The focus on AI safety disasters ignores everyday harms",
-    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
-    "author": "Sam Hiner, Emma Leiken",
-    "source": "MIT Technology Review",
-    "published_at": "2026-10-26T09:01:00"
-  },
-  {
-    "id": 25,
+    "id": 26,
     "title": "How Fanatics and OpenAI streamline the fan experience",
     "url": "https://openai.com/index/fanatics-streamline-fan-experience",
     "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
@@ -567,7 +576,7 @@
     "published_at": "2026-10-26T07:00:00"
   },
   {
-    "id": 26,
+    "id": 27,
     "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
     "url": "https://openai.com/index/openai-cut-incident-investigation",
     "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
@@ -576,7 +585,7 @@
     "published_at": "2026-10-26T07:00:00"
   },
   {
-    "id": 27,
+    "id": 28,
     "title": "Introducing GPT-6.1 Terra",
     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
     "summary": "Bringing fast and capable computer use to everyone",
@@ -603,7 +612,7 @@
     "published_at": "2026-10-23T19:35:00"
   },
   {
-    "id": 28,
+    "id": 29,
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
@@ -612,7 +621,7 @@
     "published_at": "2026-10-23T17:00:00"
   },
   {
-    "id": 29,
+    "id": 30,
     "title": "Securing our frontier model training environment",
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
@@ -630,7 +639,7 @@
     "published_at": "2026-10-23T04:00:00"
   },
   {
-    "id": 30,
+    "id": 31,
     "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
     "url": "https://openai.com/index/anima",
     "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
@@ -639,7 +648,7 @@
     "published_at": "2026-10-23T00:00:00"
   },
   {
-    "id": 31,
+    "id": 32,
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
@@ -657,7 +666,7 @@
     "published_at": "2026-10-22T20:45:00"
   },
   {
-    "id": 32,
+    "id": 33,
     "title": "Build more responsive apps with the Decisions API",
     "url": "https://openai.com/index/decisions-api",
     "summary": "Fast, focused, low-cost decisions for any application.",
@@ -666,7 +675,7 @@
     "published_at": "2026-10-22T19:00:00"
   },
   {
-    "id": 33,
+    "id": 34,
     "title": "What FDE means at OpenAI",
     "url": "https://openai.com/index/forward-deployed-engineering-means",
     "summary": "What forward deployed engineering means at OpenAI",
@@ -675,7 +684,7 @@
     "published_at": "2026-10-22T06:00:00"
   },
   {
-    "id": 34,
+    "id": 35,
     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
@@ -684,7 +693,7 @@
     "published_at": "2026-10-22T00:00:00"
   },
   {
-    "id": 36,
+    "id": 37,
     "title": "Broad access through consistent standards",
     "url": "https://openai.com/index/broad-access-through-consistent-standards",
     "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
@@ -693,7 +702,7 @@
     "published_at": "2026-10-21T21:00:00"
   },
   {
-    "id": 35,
+    "id": 36,
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "url": "https://openai.com/index/att-legal",
     "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
@@ -702,7 +711,7 @@
     "published_at": "2026-10-21T17:00:00"
   },
   {
-    "id": 39,
+    "id": 40,
     "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
     "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
@@ -711,7 +720,7 @@
     "published_at": "2026-10-21T13:00:00"
   },
   {
-    "id": 37,
+    "id": 38,
     "title": "OpenAI models are coming to Google Cloud",
     "url": "https://openai.com/index/openai-models-google-cloud",
     "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
@@ -720,7 +729,7 @@
     "published_at": "2026-10-21T12:00:00"
   },
   {
-    "id": 38,
+    "id": 39,
     "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
@@ -729,7 +738,7 @@
     "published_at": "2026-10-21T07:00:00"
   },
   {
-    "id": 42,
+    "id": 43,
     "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
     "url": "https://openai.com/index/building-chatgpt-ad-stack",
     "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
@@ -738,7 +747,7 @@
     "published_at": "2026-10-21T07:00:00"
   },
   {
-    "id": 40,
+    "id": 41,
     "title": "Using thousands of AI agents to uncover new leads in biological data",
     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
     "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
@@ -747,7 +756,7 @@
     "published_at": "2026-10-21T04:50:00"
   },
   {
-    "id": 41,
+    "id": 42,
     "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
     "url": "https://openai.com/index/cloudflare-cyber",
     "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
@@ -756,7 +765,7 @@
     "published_at": "2026-10-21T00:00:00"
   },
   {
-    "id": 43,
+    "id": 44,
     "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
     "url": "https://openai.com/index/empowering-cyber-defenders",
     "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
@@ -765,7 +774,7 @@
     "published_at": "2026-10-21T00:00:00"
   },
   {
-    "id": 44,
+    "id": 45,
     "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
     "url": "https://openai.com/index/ted-taylor-restaurant",
     "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
@@ -774,7 +783,7 @@
     "published_at": "2026-10-20T10:00:00"
   },
   {
-    "id": 45,
+    "id": 46,
     "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
     "url": "https://openai.com/index/terminal-x",
     "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
@@ -783,7 +792,7 @@
     "published_at": "2026-10-20T07:00:00"
   },
   {
-    "id": 46,
+    "id": 47,
     "title": "OpenAI acquires Orchestra Bio",
     "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance new treatments.",
@@ -801,7 +810,7 @@
     "published_at": "2026-10-19T18:20:00"
   },
   {
-    "id": 47,
+    "id": 48,
     "title": "Advancing coding in low‑resource programming languages",
     "url": "https://openai.com/index/low-resource-programming-languages",
     "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
@@ -819,7 +828,7 @@
     "published_at": "2026-10-18T04:00:00"
   },
   {
-    "id": 48,
+    "id": 49,
     "title": "How Itaú is building generative AI for its entire customer base",
     "url": "https://openai.com/index/itau-generative-ai",
     "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
@@ -835,15 +844,6 @@
     "author": "Zach Winn | MIT News",
     "source": "MIT News AI",
     "published_at": "2026-10-16T16:00:00"
-  },
-  {
-    "id": 49,
-    "title": "How Grupo Boticário uses AI to strengthen human connections",
-    "url": "https://openai.com/index/grupo-boticario",
-    "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-16T00:00:00"
   },
   {
     "id": 50,
