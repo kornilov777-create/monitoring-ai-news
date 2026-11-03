@@ -1,9 +1,36 @@
 [
   {
+    "id": 136,
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+    "author": "Sarah Perez",
+    "source": "TechCrunch AI",
+    "published_at": "2026-11-03T15:38:27"
+  },
+  {
+    "id": 137,
+    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-11-03T14:30:00"
+  },
+  {
+    "id": 138,
+    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+    "author": "TechCrunch Events",
+    "source": "TechCrunch AI",
+    "published_at": "2026-11-03T14:00:00"
+  },
+  {
     "id": 126,
     "title": "How “reverse game theory” could keep AI agents in check",
     "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-    "summary": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, tha",
+    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
     "author": "Amit Katwala",
     "source": "MIT Technology Review",
     "published_at": "2026-11-03T10:43:41"
@@ -18,7 +45,7 @@
     "published_at": "2026-11-03T08:00:00"
   },
   {
-    "id": 136,
+    "id": 139,
     "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
     "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
     "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
@@ -36,7 +63,7 @@
     "published_at": "2026-11-03T04:18:47"
   },
   {
-    "id": 137,
+    "id": 140,
     "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
     "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
     "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
@@ -45,7 +72,7 @@
     "published_at": "2026-11-03T03:30:00"
   },
   {
-    "id": 138,
+    "id": 141,
     "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
     "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
     "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
@@ -54,7 +81,7 @@
     "published_at": "2026-11-03T01:49:52"
   },
   {
-    "id": 139,
+    "id": 142,
     "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
     "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
@@ -63,7 +90,7 @@
     "published_at": "2026-11-03T00:35:52"
   },
   {
-    "id": 140,
+    "id": 143,
     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
     "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
     "summary": "The one-year-old startup is now valued at $300 million.",
@@ -72,7 +99,7 @@
     "published_at": "2026-11-02T23:13:53"
   },
   {
-    "id": 141,
+    "id": 144,
     "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
     "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
@@ -90,7 +117,7 @@
     "published_at": "2026-11-02T19:55:00"
   },
   {
-    "id": 142,
+    "id": 145,
     "title": "Web host Squarespace lays off 19% of its employees",
     "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
     "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
@@ -99,7 +126,7 @@
     "published_at": "2026-11-02T19:25:59"
   },
   {
-    "id": 143,
+    "id": 146,
     "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
     "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
     "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
@@ -109,18 +136,18 @@
   },
   {
     "id": 4,
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-11-02T18:00:00"
   },
   {
     "id": 5,
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-11-02T18:00:00"
@@ -135,7 +162,7 @@
     "published_at": "2026-11-02T17:00:00"
   },
   {
-    "id": 144,
+    "id": 147,
     "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
     "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
     "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
@@ -144,7 +171,7 @@
     "published_at": "2026-11-02T16:30:00"
   },
   {
-    "id": 145,
+    "id": 148,
     "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
     "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
     "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
@@ -171,7 +198,7 @@
     "published_at": "2026-11-02T15:00:00"
   },
   {
-    "id": 146,
+    "id": 149,
     "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
     "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
     "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
@@ -180,7 +207,7 @@
     "published_at": "2026-11-02T15:00:00"
   },
   {
-    "id": 147,
+    "id": 150,
     "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
     "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
     "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
@@ -189,7 +216,7 @@
     "published_at": "2026-11-02T14:00:00"
   },
   {
-    "id": 148,
+    "id": 151,
     "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
     "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
     "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
@@ -235,15 +262,6 @@
   },
   {
     "id": 7,
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-11-02T00:00:00"
-  },
-  {
-    "id": 8,
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
@@ -252,7 +270,16 @@
     "published_at": "2026-11-02T00:00:00"
   },
   {
-    "id": 149,
+    "id": 8,
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-02T00:00:00"
+  },
+  {
+    "id": 152,
     "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
     "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
     "summary": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -261,7 +288,7 @@
     "published_at": "2026-11-01T21:55:23"
   },
   {
-    "id": 150,
+    "id": 153,
     "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
     "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
     "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
@@ -270,7 +297,7 @@
     "published_at": "2026-11-01T20:57:58"
   },
   {
-    "id": 151,
+    "id": 154,
     "title": "Data centers are now a midterm issue, even in Brooklyn",
     "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
     "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
@@ -279,40 +306,13 @@
     "published_at": "2026-11-01T02:22:10"
   },
   {
-    "id": 152,
+    "id": 155,
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
     "author": "Anthony Ha",
     "source": "TechCrunch AI",
     "published_at": "2026-10-31T21:41:00"
-  },
-  {
-    "id": 153,
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-    "author": "TechCrunch Events",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-31T21:36:07"
-  },
-  {
-    "id": 154,
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-31T21:17:03"
-  },
-  {
-    "id": 155,
-    "title": "OpenAI reportedly lowers funding target for new round",
-    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-    "author": "Anthony Ha",
-    "source": "TechCrunch AI",
-    "published_at": "2026-10-31T16:12:55"
   },
   {
     "id": 78,
