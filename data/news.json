@@ -1,5 +1,14 @@
 [
   {
+    "id": 126,
+    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+    "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+    "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed&#8230;",
+    "author": "Grace Huckins",
+    "source": "MIT Technology Review",
+    "published_at": "2026-11-06T10:00:00"
+  },
+  {
     "id": 136,
     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -252,7 +261,7 @@
     "published_at": "2026-11-04T21:10:56"
   },
   {
-    "id": 126,
+    "id": 127,
     "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
     "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
     "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
@@ -270,7 +279,7 @@
     "published_at": "2026-11-04T14:30:00"
   },
   {
-    "id": 127,
+    "id": 128,
     "title": "Securing the agentic enterprise with data lineage",
     "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
     "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
@@ -333,7 +342,7 @@
     "published_at": "2026-11-03T12:00:00"
   },
   {
-    "id": 128,
+    "id": 129,
     "title": "How “reverse game theory” could keep AI agents in check",
     "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
     "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
@@ -360,7 +369,7 @@
     "published_at": "2026-11-03T08:00:00"
   },
   {
-    "id": 129,
+    "id": 130,
     "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
     "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
@@ -405,7 +414,7 @@
     "published_at": "2026-11-02T18:00:00"
   },
   {
-    "id": 130,
+    "id": 131,
     "title": "Raising the quality of insights in agentic analytics",
     "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
     "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
@@ -432,7 +441,7 @@
     "published_at": "2026-11-02T15:00:00"
   },
   {
-    "id": 131,
+    "id": 132,
     "title": "Stop counting tokens, start counting what ships",
     "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
     "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
@@ -441,7 +450,7 @@
     "published_at": "2026-11-02T13:10:32"
   },
   {
-    "id": 132,
+    "id": 133,
     "title": "The agentic web is here",
     "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
     "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
@@ -540,7 +549,7 @@
     "published_at": "2026-10-29T17:00:00"
   },
   {
-    "id": 133,
+    "id": 134,
     "title": "We urgently need to monitor AI agents’ actions in real time",
     "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
     "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
@@ -576,7 +585,7 @@
     "published_at": "2026-10-29T00:00:00"
   },
   {
-    "id": 134,
+    "id": 135,
     "title": "Creating AI value with enterprise context",
     "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
     "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
@@ -610,15 +619,6 @@
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-28T13:15:00"
-  },
-  {
-    "id": 135,
-    "title": "Pairing industrial AI autonomy and human control",
-    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "summary": "",
-    "author": "MIT Technology Review Insights",
-    "source": "MIT Technology Review",
-    "published_at": "2026-10-28T12:00:00"
   },
   {
     "id": 33,
