@@ -1,5 +1,14 @@
 [
   {
+    "id": 1,
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T09:00:00"
+  },
+  {
     "id": 136,
     "title": "Apple launches new app to study how people use AI for health",
     "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
@@ -7,6 +16,15 @@
     "author": "Ivan Mehta",
     "source": "TechCrunch AI",
     "published_at": "2026-11-16T01:30:00"
+  },
+  {
+    "id": 2,
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "author": "",
+    "source": "OpenAI Blog",
+    "published_at": "2026-11-16T00:00:00"
   },
   {
     "id": 137,
@@ -18,7 +36,7 @@
     "published_at": "2026-11-15T23:30:00"
   },
   {
-    "id": 1,
+    "id": 3,
     "title": "A step toward defining the Standard Model on a lattice",
     "url": "https://openai.com/index/step-toward-defining-the-standard-model",
     "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
@@ -27,7 +45,7 @@
     "published_at": "2026-11-15T22:00:01"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Our new blog for science",
     "url": "https://openai.com/index/our-new-blog-for-science",
     "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
@@ -135,7 +153,7 @@
     "published_at": "2026-11-13T15:58:00"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Introducing ChatGPT Wallet",
     "url": "https://openai.com/index/introducing-chatgpt-wallet",
     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
@@ -171,7 +189,7 @@
     "published_at": "2026-11-13T12:28:23"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Shield helps technicians hand off legacy portal work with OpenAI",
     "url": "https://openai.com/business/customer-stories/shield",
     "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
@@ -252,7 +270,7 @@
     "published_at": "2026-11-12T20:16:24"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "url": "https://openai.com/business/customer-stories/amplitude",
     "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
@@ -261,7 +279,7 @@
     "published_at": "2026-11-12T20:00:00"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Gondola doubles revenue as its team builds more with Codex",
     "url": "https://openai.com/business/customer-stories/gondola",
     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
@@ -270,7 +288,7 @@
     "published_at": "2026-11-12T12:00:00"
   },
   {
-    "id": 7,
+    "id": 9,
     "title": "Holiday Extras is rethinking what it can build with Codex",
     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
     "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
@@ -288,7 +306,7 @@
     "published_at": "2026-11-12T05:00:00"
   },
   {
-    "id": 8,
+    "id": 10,
     "title": "Supporting research on AI and children’s safety",
     "url": "https://openai.com/index/children-first-declaration",
     "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
@@ -297,7 +315,7 @@
     "published_at": "2026-11-12T00:00:00"
   },
   {
-    "id": 9,
+    "id": 11,
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
@@ -306,7 +324,7 @@
     "published_at": "2026-11-12T00:00:00"
   },
   {
-    "id": 10,
+    "id": 12,
     "title": "ChatGPT Plus for veterans and servicemembers",
     "url": "https://openai.com/index/chatgpt-plus-for-veterans",
     "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
@@ -315,7 +333,7 @@
     "published_at": "2026-11-11T08:00:00"
   },
   {
-    "id": 11,
+    "id": 13,
     "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
     "url": "https://openai.com/index/jiostar-vijay-seshadri",
     "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
@@ -324,7 +342,7 @@
     "published_at": "2026-11-11T00:00:00"
   },
   {
-    "id": 12,
+    "id": 14,
     "title": "Helping caregivers use AI in everyday life",
     "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
@@ -333,7 +351,7 @@
     "published_at": "2026-11-10T12:00:00"
   },
   {
-    "id": 13,
+    "id": 15,
     "title": "Introducing Businesses in ChatGPT",
     "url": "https://openai.com/index/introducing-businesses-chatgpt",
     "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
@@ -342,7 +360,7 @@
     "published_at": "2026-11-10T10:00:00"
   },
   {
-    "id": 14,
+    "id": 16,
     "title": "Closing the AI guidance gap in education",
     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
@@ -351,7 +369,7 @@
     "published_at": "2026-11-10T09:00:00"
   },
   {
-    "id": 15,
+    "id": 17,
     "title": "Singapore Airlines elevates travel & work with OpenAI technology",
     "url": "https://openai.com/index/singapore-airlines-travel-work",
     "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
@@ -360,7 +378,7 @@
     "published_at": "2026-11-10T08:00:00"
   },
   {
-    "id": 16,
+    "id": 18,
     "title": "Work at the Frontier: AI’s effect on freelance work",
     "url": "https://openai.com/index/ai-effect-on-freelance-work",
     "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
@@ -378,7 +396,7 @@
     "published_at": "2026-11-10T05:00:00"
   },
   {
-    "id": 17,
+    "id": 19,
     "title": "Cogent and OpenAI build cyber defense factories for enterprises",
     "url": "https://openai.com/index/cogent-security",
     "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
@@ -396,7 +414,7 @@
     "published_at": "2026-11-09T19:35:33"
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "ChatGPT Enterprise now available in AWS Marketplace",
     "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
     "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
@@ -414,7 +432,7 @@
     "published_at": "2026-11-09T17:05:43"
   },
   {
-    "id": 19,
+    "id": 21,
     "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
     "url": "https://openai.com/index/control-room",
     "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
@@ -432,7 +450,7 @@
     "published_at": "2026-11-09T13:00:00"
   },
   {
-    "id": 20,
+    "id": 22,
     "title": "CodeRabbit scales agentic software development and ships 20x more",
     "url": "https://openai.com/index/coderabbit-codex-daybreak",
     "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
@@ -441,7 +459,7 @@
     "published_at": "2026-11-09T08:00:00"
   },
   {
-    "id": 21,
+    "id": 23,
     "title": "Kuken Industries searches 70 years of drawings in minutes",
     "url": "https://openai.com/index/kuken",
     "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
@@ -486,7 +504,7 @@
     "published_at": "2026-11-06T10:00:00"
   },
   {
-    "id": 22,
+    "id": 24,
     "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
     "url": "https://openai.com/index/partnering-with-hacktron",
     "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -495,7 +513,7 @@
     "published_at": "2026-11-06T08:00:00"
   },
   {
-    "id": 23,
+    "id": 25,
     "title": "Measuring how AI agents handle everyday wet-lab science",
     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
@@ -504,7 +522,7 @@
     "published_at": "2026-11-06T00:00:00"
   },
   {
-    "id": 25,
+    "id": 27,
     "title": "Cult.fit builds operational muscle with Codex",
     "url": "https://openai.com/index/cultfit-builds-with-codex",
     "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
@@ -513,7 +531,7 @@
     "published_at": "2026-11-05T20:00:00"
   },
   {
-    "id": 24,
+    "id": 26,
     "title": "Australian universities are creating AI-native graduates",
     "url": "https://openai.com/index/australian-universities-ai-native-graduates",
     "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -522,7 +540,7 @@
     "published_at": "2026-11-05T17:00:00"
   },
   {
-    "id": 26,
+    "id": 28,
     "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
     "url": "https://openai.com/index/introducing-gpt-6-cyber",
     "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
@@ -531,7 +549,7 @@
     "published_at": "2026-11-05T09:00:00"
   },
   {
-    "id": 27,
+    "id": 29,
     "title": "Merge builds product and business tools with OpenAI technology",
     "url": "https://openai.com/index/merge-builds-with-openai",
     "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
@@ -549,7 +567,7 @@
     "published_at": "2026-11-05T05:00:00"
   },
   {
-    "id": 28,
+    "id": 30,
     "title": "Setting a new standard for responsible AI infrastructure",
     "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
@@ -558,7 +576,7 @@
     "published_at": "2026-11-05T02:00:00"
   },
   {
-    "id": 29,
+    "id": 31,
     "title": "Flipsnack grows product signups with conversion optimization",
     "url": "https://openai.com/ads/customers/flipsnack",
     "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
@@ -567,7 +585,7 @@
     "published_at": "2026-11-05T00:45:15"
   },
   {
-    "id": 30,
+    "id": 32,
     "title": "Franklin Templeton uses OpenAI to support investment research",
     "url": "https://openai.com/index/franklin-templeton",
     "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
@@ -585,7 +603,7 @@
     "published_at": "2026-11-04T18:50:55"
   },
   {
-    "id": 31,
+    "id": 33,
     "title": "OpenAI to acquire Pierre Computer Company, Inc.",
     "url": "https://openai.com/index/openai-to-acquire-pierre",
     "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
@@ -603,7 +621,7 @@
     "published_at": "2026-11-04T13:00:00"
   },
   {
-    "id": 33,
+    "id": 35,
     "title": "A thousand fewer paths to root",
     "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
@@ -612,7 +630,7 @@
     "published_at": "2026-11-04T08:00:00"
   },
   {
-    "id": 32,
+    "id": 34,
     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
     "url": "https://openai.com/index/daybreak-red-aws-govcloud",
     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -621,7 +639,7 @@
     "published_at": "2026-11-04T07:00:00"
   },
   {
-    "id": 34,
+    "id": 36,
     "title": "Introducing Images 2.6",
     "url": "https://openai.com/index/introducing-images-2-6",
     "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
@@ -630,7 +648,7 @@
     "published_at": "2026-11-04T00:00:00"
   },
   {
-    "id": 35,
+    "id": 37,
     "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
     "url": "https://openai.com/index/devrev-enterprise-self-service",
     "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
@@ -648,7 +666,7 @@
     "published_at": "2026-11-03T19:30:00"
   },
   {
-    "id": 36,
+    "id": 38,
     "title": "Accelerating engineering for the physical world",
     "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
     "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
@@ -666,7 +684,7 @@
     "published_at": "2026-11-03T10:43:41"
   },
   {
-    "id": 37,
+    "id": 39,
     "title": "How Cisco defends at machine speed with OpenAI",
     "url": "https://openai.com/index/cisco-cyber",
     "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
@@ -675,7 +693,7 @@
     "published_at": "2026-11-03T08:00:00"
   },
   {
-    "id": 38,
+    "id": 40,
     "title": "Heimstaden is changing residential real estate management with AI",
     "url": "https://openai.com/index/heimstaden",
     "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
@@ -693,7 +711,7 @@
     "published_at": "2026-11-03T04:18:47"
   },
   {
-    "id": 39,
+    "id": 41,
     "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
     "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
     "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
@@ -711,19 +729,19 @@
     "published_at": "2026-11-02T19:55:00"
   },
   {
-    "id": 42,
-    "title": "Rewarding defenders with bigger bug bounties",
-    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "id": 44,
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-11-02T18:00:00"
   },
   {
-    "id": 43,
-    "title": "Preparing our next security sprint to harden OpenAI",
-    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "id": 45,
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-11-02T18:00:00"
@@ -738,7 +756,7 @@
     "published_at": "2026-11-02T17:00:00"
   },
   {
-    "id": 40,
+    "id": 42,
     "title": "Scaling Git at OpenAI",
     "url": "https://openai.com/index/scaling-git-at-openai",
     "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
@@ -747,7 +765,7 @@
     "published_at": "2026-11-02T15:30:00"
   },
   {
-    "id": 41,
+    "id": 43,
     "title": "Introducing the Grid Protectors Program",
     "url": "https://openai.com/index/grid-protectors-program",
     "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
@@ -756,7 +774,7 @@
     "published_at": "2026-11-02T15:00:00"
   },
   {
-    "id": 44,
+    "id": 46,
     "title": "LifeVal",
     "url": "https://openai.com/index/lifeval",
     "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
@@ -774,7 +792,7 @@
     "published_at": "2026-11-02T05:35:00"
   },
   {
-    "id": 45,
+    "id": 47,
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
@@ -783,7 +801,7 @@
     "published_at": "2026-11-02T00:00:00"
   },
   {
-    "id": 46,
+    "id": 48,
     "title": "Qodo builds context into AI code review with Codex",
     "url": "https://openai.com/index/qodo-codex-plugin",
     "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
@@ -810,7 +828,7 @@
     "published_at": "2026-10-30T19:00:00"
   },
   {
-    "id": 47,
+    "id": 49,
     "title": "Making it easier for websites to express AI training preferences",
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
@@ -819,31 +837,13 @@
     "published_at": "2026-10-30T09:30:00"
   },
   {
-    "id": 48,
+    "id": 50,
     "title": "Community safety report and new protections for teens",
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
     "author": "",
     "source": "OpenAI Blog",
     "published_at": "2026-10-30T09:00:00"
-  },
-  {
-    "id": 49,
-    "title": "Fair use benefits everyone",
-    "url": "https://openai.com/index/fair-use-benefits-everyone",
-    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-30T00:00:00"
-  },
-  {
-    "id": 50,
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "url": "https://openai.com/index/updated-model-spec",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-    "author": "",
-    "source": "OpenAI Blog",
-    "published_at": "2026-10-29T17:00:00"
   },
   {
     "id": 90,
